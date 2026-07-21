@@ -1,89 +1,57 @@
-# Global Media and Culture Knowledge Base
+# Global Media and Culture Review
 
-This repository is designed as an exam-focused knowledge base, not a normal note folder.
+An exam-focused knowledge base for learning definitions, connecting concepts, applying evidence and practising answers.
 
-The goal is to turn every lecture, tutorial, textbook chapter and reading into reusable exam material:
+## Start Here
 
-- single concept cards
-- relationship cards
-- case studies
-- reading evidence
-- lecture and tutorial notes
-- possible exam questions
-- flashcards for memorisation
+Open the [Unit 1 Review Guide](study-guides/unit-01-review.md). It contains the learning targets, priority concepts, core relationships, reusable evidence and mastery checklist.
 
-## How To Use This Knowledge Base
+## Revision Workflow
 
-For each unit, update the same knowledge network instead of creating isolated weekly summaries.
+Use the repository in three passes:
 
-Use this workflow:
+1. **Recall:** learn definitions and keywords with [flashcards](flashcards/unit-01-flashcards.md).
+2. **Connect:** explain how two concepts interact using the relationship cards.
+3. **Produce:** write a timed response from the [question bank](exam-questions/unit-01-question-bank.md), supported by a case study.
 
-1. Extract concepts from textbook chapters.
-2. Add lecture emphasis to existing concept cards.
-3. Use readings as evidence and case studies.
-4. Convert tutorial questions into exam-style questions.
-5. Review flashcards for definitions, keywords and examples.
+Reading files from beginning to end is not the goal. The goal is to answer without notes.
 
-## Main Folders
+## Repository Map
 
-| Folder | Purpose |
+| Folder | Use it for |
 |---|---|
-| `concepts/` | Single concept cards with definition, keywords, features, importance, relationships, examples and exam questions |
-| `relationships/` | A and B relationship cards for analysis questions |
-| `case-studies/` | Reusable examples that can support multiple concepts |
-| `readings/` | Structured reading notes focused on argument, concepts and evidence |
-| `lectures/` | Lecture focus, teacher emphasis and likely exam angles |
-| `tutorials/` | Tutorial discussion questions and answer directions |
-| `exam-questions/` | Definition, compare, relationship, discuss and evaluate questions |
-| `flashcards/` | Short memorisation cards |
+| [`study-guides/`](study-guides/) | Unit priorities, revision sequence and mastery checks |
+| [`concepts/`](concepts/) | Definitions, keywords, features, importance and common exam questions |
+| [`relationships/`](relationships/) | Explaining how A and B affect one another |
+| [`case-studies/`](case-studies/) | Evidence that can be reused across several questions |
+| [`readings/`](readings/) | Source arguments and evidence maps |
+| [`exam-questions/`](exam-questions/) | Definition, compare, relationship, discuss and evaluate practice |
+| [`flashcards/`](flashcards/) | Fast active recall |
 
-## Unit 1 Focus
-
-Unit 1 introduces the question of what global media is. Based on Week 1 lecture, Week 1 tutorial and the Canada screen industry reading, the main focus is:
-
-- global media
-- globalisation
-- local and global
-- culture
-- cultural identity
-- national identity
-- representation
-- local content
-- media industry
-- streaming platforms
-- media regulation
-- platform power
-- Western media
-
-## Core Exam Logic
-
-Most answers should use this structure:
+## Exam Answer Pattern
 
 ```text
-Definition
-↓
-Keywords
-↓
-Features or importance
-↓
-Relationship to another concept
-↓
-Case study
-↓
-Short evaluation
+Define the concept
+-> answer the question directly
+-> explain the relationship or mechanism
+-> apply case-study evidence
+-> add a limitation or counterargument
+-> make a concluding judgement
 ```
 
-## Priority Concepts
+## Maintenance Rules
 
-Start with these files:
+When new course material arrives:
 
-- [Globalisation](concepts/globalisation.md)
-- [Global Media](concepts/global-media.md)
-- [Local Content](concepts/local-content.md)
-- [Cultural Identity](concepts/cultural-identity.md)
-- [Representation](concepts/representation.md)
-- [Streaming Platforms](concepts/streaming-platforms.md)
-- [Media Regulation](concepts/media-regulation.md)
-- [Platform Power](concepts/platform-power.md)
-- [Western Media](concepts/western-media.md)
+- update an existing concept before creating a similar one
+- add a relationship card only when the connection could become an exam question
+- keep a case study only when it supports at least two concepts
+- keep readings as evidence maps, not full summaries
+- convert tutorial questions into the question bank
+- create one review guide per unit instead of separate thin lecture and tutorial summaries
 
+## Current Coverage
+
+Unit 1 is based on the Week 1 lecture, Week 1 tutorial and Canada's screen-industry reading. It currently covers ten concept cards, four relationship cards, four reusable cases, one reading map, one question bank and one flashcard set.
+
+> Accuracy note: these files are structured study notes. Check exact definitions, quotations, statistics and policy details against the original course materials before using them in assessed work.
