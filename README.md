@@ -4,15 +4,18 @@ An exam-focused knowledge base for learning definitions, connecting concepts, ap
 
 ## Start Here
 
-Open the [Unit 1 Review Guide](study-guides/unit-01-review.md). It contains the learning targets, priority concepts, core relationships, reusable evidence and mastery checklist.
+Choose the unit you are revising:
+
+- [Unit 1 Review Guide](study-guides/unit-01-review.md): global media, local content and Canadian screen industries
+- [Unit 2 Review Guide](study-guides/unit-02-review.md): identity, difference and platform imperialism
 
 ## Revision Workflow
 
 Use the repository in three passes:
 
-1. **Recall:** learn definitions and keywords with [flashcards](flashcards/unit-01-flashcards.md).
+1. **Recall:** learn definitions and keywords with the unit flashcards.
 2. **Connect:** explain how two concepts interact using the relationship cards.
-3. **Produce:** write a timed response from the [question bank](exam-questions/unit-01-question-bank.md), supported by a case study.
+3. **Produce:** write a timed response from the unit question bank, supported by a case study.
 
 Reading files from beginning to end is not the goal. The goal is to answer without notes.
 
@@ -52,6 +55,9 @@ When new course material arrives:
 
 ## Current Coverage
 
-Unit 1 is based on the Week 1 lecture, Week 1 tutorial and Canada's screen-industry reading. It currently covers ten concept cards, four relationship cards, four reusable cases, one reading map, one question bank and one flashcard set.
+- **Unit 1:** Week 1 lecture, tutorial and Canada's screen-industry reading.
+- **Unit 2:** Dal Yong Jin's chapter on Facebook's platform imperialism and Kath Woodward's Chapter 1, "Questions of Identity."
+
+The original copyrighted PDFs are not stored in this public repository. Reading maps identify the arguments and evidence that should be checked against the supplied texts.
 
 > Accuracy note: these files are structured study notes. Check exact definitions, quotations, statistics and policy details against the original course materials before using them in assessed work.
