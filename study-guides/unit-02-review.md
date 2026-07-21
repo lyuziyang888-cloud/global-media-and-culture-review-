@@ -63,7 +63,7 @@ Both readings are about classification and power. Woodward asks who can define a
 
 ## Revision Sequence
 
-1. Use the [Unit 2 Flashcards](../flashcards/unit-02-flashcards.md) until definitions can be recalled without notes.
+1. Open each priority concept card and recall its definition and keywords without notes.
 2. Explain each relationship aloud using one mechanism and one example.
 3. Answer one question from the [Unit 2 Question Bank](../exam-questions/unit-02-question-bank.md).
 4. Check claims and page references in the two [reading maps](../readings/).

@@ -56,7 +56,7 @@ Be ready to answer these questions without notes:
 
 ### Pass 1: Recall
 
-Use the [flashcards](../flashcards/unit-01-flashcards.md). Give the definition and keywords aloud before checking the answer.
+Open each priority concept card. Give the definition and keywords aloud before checking the answer.
 
 ### Pass 2: Connect
 
