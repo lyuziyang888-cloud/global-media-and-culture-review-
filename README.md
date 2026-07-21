@@ -13,7 +13,7 @@ Choose the unit you are revising:
 
 Use the repository in three passes:
 
-1. **Recall:** learn definitions and keywords with the unit flashcards.
+1. **Recall:** open a concept card and give its definition and keywords without looking.
 2. **Connect:** explain how two concepts interact using the relationship cards.
 3. **Produce:** write a timed response from the unit question bank, supported by a case study.
 
@@ -29,7 +29,6 @@ Reading files from beginning to end is not the goal. The goal is to answer witho
 | [`case-studies/`](case-studies/) | Evidence that can be reused across several questions |
 | [`readings/`](readings/) | Source arguments and evidence maps |
 | [`exam-questions/`](exam-questions/) | Definition, compare, relationship, discuss and evaluate practice |
-| [`flashcards/`](flashcards/) | Fast active recall |
 
 ## Exam Answer Pattern
 
