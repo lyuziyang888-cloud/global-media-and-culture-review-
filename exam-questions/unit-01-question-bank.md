@@ -40,3 +40,22 @@
 2. Evaluate the usefulness of "Western media" as a category.
 3. Evaluate whether media regulation is necessary in a global platform economy.
 
+## Tutorial Questions Converted For The Exam
+
+1. Discuss how production, ownership, story, location and distribution can construct the national identity of a media text.
+2. Evaluate whether `Heated Rivalry` should be understood as Canadian, Western or global media.
+3. Evaluate the usefulness and limits of classifying media as "Western".
+4. Discuss why the classification of media cultures is shaped by power.
+
+## Practice Rule
+
+Do not practise these as lists of facts. Every extended answer should include:
+
+```text
+Concept definition
+-> direct answer
+-> relationship or mechanism
+-> case-study evidence
+-> limitation or counterargument
+-> concluding judgement
+```
