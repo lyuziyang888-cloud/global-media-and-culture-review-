@@ -1,4 +1,4 @@
-# Lecture Index
+# Lectures
 
 | Week | Unit focus | Lecture map |
 |---|---|---|

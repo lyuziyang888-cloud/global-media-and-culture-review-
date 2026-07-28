@@ -2,66 +2,47 @@
 
 ## Central Purpose
 
-The lecture presents media imperialism as a paradigm for explaining unequal global media power, then updates it for transnational corporations and digital platforms before examining its limitations.
+The lecture presents media imperialism as a paradigm for explaining unequal global media power, updates it for transnational corporations and digital platforms, and evaluates its limitations.
 
 ## Lecture Structure
 
-1. distinguish media imperialism from broader cultural imperialism
+1. distinguish media imperialism from cultural imperialism
 2. trace the paradigm to post-WWII and postcolonial inequality
 3. introduce dependency and world-systems theory
-4. examine unequal information infrastructure and the UNESCO debate
-5. define media imperialism and identify its concerns
-6. update the paradigm through TNCs and platform imperialism
+4. examine unequal infrastructure and the UNESCO debate
+5. identify media imperialism's concerns and examples
+6. update the paradigm through TNCs and platforms
 7. evaluate audience, national-diversity and non-US-media limitations
 
-## Definitions Emphasised
+## Key Concepts and Definitions
 
-### Media Imperialism
+- **Media imperialism:** media from a powerful nation or culture dominates others through unequal and largely one-way flows.
+- **Cultural imperialism:** a broader concept concerning domination through culture in general.
+- **Dependency theory:** postcolonial capitalist development can reproduce unequal dependence on powerful countries.
+- **World-systems theory:** global power is structured through core, semi-periphery and periphery positions.
+- **Platform imperialism:** platforms renew unequal power through infrastructure, data, technology and capital flows.
 
-Media from one nation or culture dominates others through largely one-way flows. The approach focuses specifically on the role and power of media in everyday life and culture.
+## Main Arguments
 
-### Cultural Imperialism
+- Postcolonial political independence did not automatically create equal communication power.
+- Western news agencies, spectrum control and satellite allocation historically produced unequal flows.
+- Dominant foreign media can crowd out local production, impose standards and circulate consumer or political values.
+- National media systems have developed into a concentrated global system of TNCs.
+- Platform power renews rather than simply replaces older imperial relationships.
+- Structural concentration does not guarantee uniform audience effects.
 
-A broader concept concerning domination through culture in general, such as language, retail systems and consumer practices.
+## Cases and Evidence
 
-## Historical Background
+- **UNESCO and NWICO:** conflict between balanced communication and the Western-backed free-flow doctrine.
+- **Hollywood and the Pentagon:** entertainment can support military and foreign-policy ideology.
+- **Disney and Donald Duck:** media can promote dependency and an American image of the good life.
+- **Facebook:** overseas revenue, centralised technological power, lobbying and pressure for open markets.
 
-- Newly independent countries did not automatically gain equal economic or communication power after World War II.
-- Dependency theory argues that capitalist modernisation can reproduce unequal relationships with Anglo-European centres.
-- World-systems theory describes core, semi-periphery and periphery positions.
-- Western news agencies, spectrum control and satellite allocation illustrated unequal communication infrastructure.
+## Assessment and Exam Signals
 
-## UNESCO Debate
+A strong response must combine structural analysis with evaluation. Explain where ownership, infrastructure and flow are concentrated, then test whether audience agency, national diversity or successful non-US industries limit the claim.
 
-The MacBride debate identified concentrated and one-way international media flows. NWICO called for more balanced information and communication between developed and developing countries, while Western countries supported a free flow of information with fewer barriers.
-
-## Main Concerns
-
-- US dominance over global information flows
-- imported programs crowding out local production
-- foreign production, technical and professional standards becoming dominant
-- capitalist consumer values and US political ideology travelling through media
-- cultural homogenisation and reduced diversity
-- links between media power and political or economic imperialism
-
-## Updates
-
-- National media systems have developed into a global oligopoly of transnational corporations.
-- First-tier TNCs operate globally; second-tier firms remain powerful nationally or regionally.
-- Platform imperialism renews media imperialism through unequal technology, data and capital flows.
-- Facebook illustrates overseas revenue extraction, centralised US technological power, lobbying and pressure for open markets.
-
-## Limitations
-
-- Audiences are not passive cultural dupes.
-- Family, education, religion and language shape media use.
-- National labels can hide diversity within countries.
-- US media is not always most popular overseas.
-- The paradigm cannot fully explain successful non-US media industries and content.
-
-## Exam Signal
-
-The lecture expects both **structural analysis** and **evaluation**. A strong answer explains where media power is concentrated, but does not assume that ownership or circulation automatically produces identical audience effects.
+The lecture previews cultural globalisation as the next paradigm and signals that Workbook 1 will compare it with media imperialism.
 
 ## Slide Anchors
 
