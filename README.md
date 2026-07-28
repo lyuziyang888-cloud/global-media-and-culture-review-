@@ -24,11 +24,14 @@ Reading files from beginning to end is not the goal. The goal is to answer witho
 | Folder | Use it for |
 |---|---|
 | [`study-guides/`](study-guides/) | Unit priorities, revision sequence and mastery checks |
+| [`lectures/`](lectures/) | Teacher definitions, argument sequence and slide anchors |
+| [`tutorials/`](tutorials/) | Applied cases, discussion questions and assessment signals |
 | [`concepts/`](concepts/) | Definitions, keywords, features, importance and common exam questions |
 | [`relationships/`](relationships/) | Explaining how A and B affect one another |
 | [`case-studies/`](case-studies/) | Evidence that can be reused across several questions |
 | [`readings/`](readings/) | Source arguments and evidence maps |
 | [`exam-questions/`](exam-questions/) | Definition, compare, relationship, discuss and evaluate practice |
+| [`assignments/`](assignments/) | Task requirements, assessment criteria and planning frameworks |
 
 ## Exam Answer Pattern
 
@@ -55,7 +58,7 @@ When new course material arrives:
 ## Current Coverage
 
 - **Unit 1:** Week 1 lecture, tutorial and Canada's screen-industry reading.
-- **Unit 2:** Dal Yong Jin's chapter on Facebook's platform imperialism and Kath Woodward's Chapter 1, "Questions of Identity."
+- **Unit 2:** Week 2 lecture and tutorial on media imperialism, Dal Yong Jin's chapter on Facebook's platform imperialism, and Kath Woodward's supplementary Chapter 1, "Questions of Identity."
 
 The original copyrighted PDFs are not stored in this public repository. Reading maps identify the arguments and evidence that should be checked against the supplied texts.
 
