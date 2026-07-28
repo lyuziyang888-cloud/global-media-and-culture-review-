@@ -1,4 +1,4 @@
-# Tutorial Index
+# Tutorials
 
 | Week | Unit focus | Tutorial map |
 |---|---|---|

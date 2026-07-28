@@ -4,13 +4,13 @@
 
 The tutorial applies media and platform imperialism to contemporary cases and asks students to judge whether the paradigm remains relevant.
 
-## Key Clarifications
+## Key Concepts and Clarifications
 
 - Media imperialism focuses on media power; cultural imperialism is broader.
 - Contemporary media imperialism is not always simply nation-based because TNCs and platforms operate across borders.
 - The paradigm emphasises broad structures rather than isolated content.
 
-## Contemporary Cases Raised
+## Cases Discussed
 
 - Marvel Cinematic Universe and the US Pentagon
 - *America's Army*
@@ -20,7 +20,7 @@ The tutorial applies media and platform imperialism to contemporary cases and as
 
 These are tutorial prompts, not automatically proven examples. For each one, identify ownership, infrastructure, revenue, regulation, ideology and local consequences before applying the paradigm.
 
-## Discussion Questions
+## Discussion Questions and Suggested Answers
 
 ### 1. Does the US exercise ideological influence in the global media industry?
 
@@ -58,7 +58,7 @@ These are tutorial prompts, not automatically proven examples. For each one, ide
 
 **Judgement:** Government intervention is necessary for correcting structural inequality, but it is most effective when regulation, funding and competition policy operate together rather than as isolated measures.
 
-## How To Answer
+## Answer Structure
 
 ```text
 state a judgement
@@ -69,7 +69,7 @@ state a judgement
 -> refine the judgement
 ```
 
-## Workbook Signal
+## Assessment Signal
 
 Workbook 1 requires comparison between media imperialism and cultural globalisation. The tutorial prioritises paradigm application, understanding the report's data and a persuasive judgement, not a descriptive report summary.
 
