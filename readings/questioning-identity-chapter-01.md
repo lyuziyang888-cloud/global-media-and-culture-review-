@@ -1,5 +1,9 @@
 # Questions of Identity
 
+## Placement Status
+
+This reading was initially supplied as Unit 2 material, but the Week 1 lecture lists Mirrlees Chapter 1 and Jin Chapter 13 as the official Week 2 readings. Keep this map as unassigned supplementary material until the teaching team confirms where it belongs. It is not linked from the Unit 2 review guide.
+
 ## Bibliographic Details
 
 Kath Woodward, "Questions of Identity," Chapter 1 in *Questioning Identity: Gender, Class, Ethnicity*, pp. 5-41.
