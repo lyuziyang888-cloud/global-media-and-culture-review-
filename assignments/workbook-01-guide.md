@@ -14,6 +14,24 @@ The response must:
 6. use no outside readings
 7. argue which paradigm better explains the report
 
+## Selected Insight Report
+
+- **Report:** Ashlyn Kupczyk, "Global streamers' shift to investing in non-US scripted content looks permanent"
+- **Publisher:** Ampere Analysis
+- **Published:** 9 April 2025
+- **Link:** [Open the Ampere Analysis report](https://www.ampereanalysis.com/insight/global-streamers-shift-to-investing-in-non-us-scripted-content-looks-permanent)
+
+The report examines how Netflix, Amazon Prime Video, Disney+, Apple TV+, Paramount+ and Max have shifted scripted commissioning away from North America and towards other regions.
+
+Useful evidence includes:
+
+- North America's share of first-run and renewed scripted series orders fell from 45.9% in the first half of 2023 to 37% in the second half of 2024.
+- Western Europe's share rose from 22.5% in early 2022 to a peak of 31.9% in early 2024 before declining to 27.9% in late 2024.
+- Asia Pacific's share rose from 17.4% in early 2022 to a peak of 26.2% in early 2024, supported by investment in Japan, India and Thailand.
+- Central and South America, Central and Eastern Europe and Sub-Saharan Africa retained stable but comparatively modest shares.
+
+This evidence can support cultural-globalisation arguments about multidirectional flows and greater visibility for non-US production. It can also support media-imperialism arguments because commissioning and distribution remain controlled by a small group of powerful global streaming corporations.
+
 ## Assessment Criteria
 
 - effective understanding and application of both paradigms
@@ -36,9 +54,9 @@ Complete this before drafting:
 
 | Requirement | Evidence to insert |
 |---|---|
-| report trend | |
-| report statistic or pattern 1 | |
-| report statistic or pattern 2 | |
+| report trend | Global streamers are commissioning a larger share of scripted content outside North America. |
+| report statistic or pattern 1 | North America declined from 45.9% in H1 2023 to 37% in H2 2024. |
+| report statistic or pattern 2 | Western Europe peaked at 31.9%, while Asia Pacific peaked at 26.2% in early 2024. |
 | media imperialism idea 1 | |
 | media imperialism idea 2 | |
 | cultural globalisation idea 1 | |
@@ -51,12 +69,12 @@ Description tells the reader what the report says. Analysis explains why the pat
 
 ## Do Not Draft Yet If Missing
 
-- the selected Insight Report
 - the complete assigned Mirrlees Chapter 1
-- the formal Canvas rubric, if it contains more detail than the tutorial slide
+- exact Mirrlees page numbers for the selected concepts
 
-Without those materials, the repository can prepare the framework but cannot safely supply report evidence, cultural-globalisation ideas or final citations.
+The Insight Report and official assessment requirements are now available. The remaining source task is to verify the paradigm definitions and citation pages against the assigned Mirrlees chapter.
 
 ## Source Anchor
 
-Week 2 tutorial, slide 7.
+- Week 2 tutorial, slide 7
+- [Ampere Analysis Insight Report](https://www.ampereanalysis.com/insight/global-streamers-shift-to-investing-in-non-us-scripted-content-looks-permanent)
