@@ -1,80 +1,91 @@
-# Unit 2 Review Guide
+# Unit 2 Review Guide: Media Imperialism
 
-## Reading Boundary
+## Official Unit Focus
 
-- Dal Yong Jin, "Facebook's Platform Imperialism," Chapter 13, pp. 187-198.
-- Kath Woodward, "Questions of Identity," Chapter 1, pp. 5-41 only.
+Week 2 treats **media imperialism as the main paradigm** and **platform imperialism as its contemporary update**. The lecture supplies the history, definition, concerns, examples and limitations; the tutorial tests whether the paradigm remains useful today.
 
-The Woodward PDF contains later chapters on gender, class and ethnicity. They are outside this guide unless the teaching team assigns them separately.
+## Source Map
+
+- [Week 2 Lecture](../lectures/week-02-media-imperialism.md)
+- [Week 2 Tutorial](../tutorials/week-02-media-imperialism.md)
+- [Jin: Facebook's Platform Imperialism](../readings/facebook-platform-imperialism.md)
+- [Workbook 1 Guide](../assignments/workbook-01-guide.md)
+
+Kath Woodward's [Questions of Identity](../readings/questioning-identity-chapter-01.md) is retained as a supplementary Unit 2 reading line. It is useful for identity and representation questions, but it is not the organising framework of these Week 2 slides.
 
 ## Learning Targets
 
 By the end of this unit, you should be able to:
 
-1. define identity as both personal and social
-2. explain identity through difference, representation, structure and agency
-3. distinguish platform power, platform capitalism and platform imperialism
-4. explain how data and network effects create economic power
-5. evaluate the relationship between global platforms and nation-states
-6. use each reading as evidence rather than merely describe it
+1. define media imperialism and distinguish it from broader cultural imperialism
+2. explain its roots in postcolonial dependency and world-systems theory
+3. explain one-way media flows and the UNESCO/NWICO debate
+4. analyse effects on local production, standards, values and cultural diversity
+5. explain how TNCs and platforms update the original nation-based model
+6. evaluate the paradigm using its major limitations
+7. apply media imperialism to a current media trend and defend a judgement
 
-## Track A: Questioning Identity
+## Core Concepts
 
-Start with [Identity](../concepts/identity.md), then connect it to:
+Learn these first:
 
-- [Difference](../concepts/difference.md)
-- [Representation](../concepts/representation.md)
-- [Structure and Agency](../concepts/structure-and-agency.md)
-- [Identity and Difference](../relationships/identity-and-difference.md)
-- [Structure and Agency in Identity](../relationships/structure-and-agency-in-identity.md)
+- [Media Imperialism](../concepts/media-imperialism.md)
+- [Dependency Theory](../concepts/dependency-theory.md)
+- [World-Systems Theory](../concepts/world-systems-theory.md)
+- [One-Way Media Flow](../concepts/one-way-media-flow.md)
+- [Transnational Media Corporations](../concepts/transnational-media-corporations.md)
+- [Platform Imperialism](../concepts/platform-imperialism.md)
 
-Reusable evidence: [Passport and Institutional Identity](../case-studies/passport-and-institutional-identity.md).
+Supporting concepts: [Cultural Homogenisation](../concepts/cultural-homogenisation.md), [Platform Capitalism](../concepts/platform-capitalism.md), [Data Commodification](../concepts/data-commodification.md), and [Platform Power](../concepts/platform-power.md).
+
+## Main Argument Chain
 
 ```text
-Social categories and representations
--> provide identities and mark differences
--> people identify with, negotiate or resist them
--> identity remains multiple, relational and changeable
+Colonial and postcolonial inequality
+-> concentration of media ownership and infrastructure
+-> one-way flows from powerful centres
+-> pressure on local production, standards and cultural diversity
+-> TNC and platform concentration renews the unequal relationship
 ```
 
-## Track B: Platform Imperialism
+## Core Relationships
 
-Start with [Platform Power](../concepts/platform-power.md), then distinguish:
-
-- [Platform Capitalism](../concepts/platform-capitalism.md): the business model
-- [Data Commodification](../concepts/data-commodification.md): a key mechanism
-- [Platform Imperialism](../concepts/platform-imperialism.md): unequal global expansion
-- [Media Imperialism](../concepts/media-imperialism.md): the wider historical framework
+- [Media Imperialism and Local Production](../relationships/media-imperialism-and-local-production.md)
+- [Media Imperialism and Cultural Homogenisation](../relationships/media-imperialism-and-cultural-homogenisation.md)
+- [Media Imperialism and Platform Imperialism](../relationships/media-imperialism-and-platform-imperialism.md)
 - [Platform Imperialism and the Nation-State](../relationships/platform-imperialism-and-nation-state.md)
 
-Reusable evidence: [Facebook's Platform Imperialism](../case-studies/facebook-platform-imperialism.md).
+## Reusable Evidence
 
-```text
-Free user activity and data
--> targeted advertising and network effects
--> platform concentration
--> expansion into non-US markets
--> unequal economic, political and cultural power
-```
+- [UNESCO, the MacBride Report and NWICO](../case-studies/unesco-macbride-nwico.md): unequal global communication infrastructure and the dispute between balanced flows and the Western-backed free flow doctrine
+- [Hollywood, the Pentagon and Militainment](../case-studies/hollywood-pentagon-militainment.md): media, ideology, political power and US foreign policy
+- [Facebook's Platform Imperialism](../case-studies/facebook-platform-imperialism.md): revenue, data, lobbying, infrastructure and geopolitical power
 
-## The Bridge Between Both Readings
+## Limitations You Must Use
 
-Both readings are about classification and power. Woodward asks who can define an identity; Jin asks who controls the infrastructure, data and rules through which communication occurs. Platforms can therefore shape the representations and categories available for constructing identity, although this connection should be presented as an analytical link rather than as Jin's explicit central claim.
+- Audiences are not passive cultural dupes.
+- Family, education, religion and language shape consumption and interpretation.
+- The theory can overlook diversity within nations.
+- It can give too much power to US content and cannot fully explain successful non-US industries.
+- Local industries, states and audiences can negotiate, regulate or resist dominant flows.
+
+These limitations do not automatically disprove media imperialism. A strong answer judges which parts of the paradigm still explain structural power and which parts oversimplify cultural outcomes.
 
 ## Revision Sequence
 
-1. Open each priority concept card and recall its definition and keywords without notes.
-2. Explain each relationship aloud using one mechanism and one example.
-3. Answer one question from the [Unit 2 Question Bank](../exam-questions/unit-02-question-bank.md).
-4. Check claims and page references in the two [reading maps](../readings/).
+1. Recall the definition and keywords of each core concept without notes.
+2. Explain the main argument chain aloud.
+3. Apply one case study to one concern and one limitation.
+4. Answer a tutorial question from the [Unit 2 Question Bank](../exam-questions/unit-02-question-bank.md).
+5. Use the Workbook guide only after the Insight Report and remaining Mirrlees reading are available.
 
 ## Mastery Check
 
-- [ ] I can distinguish identity from personality.
-- [ ] I can explain why difference is relational and sometimes unequal.
-- [ ] I can make a balanced structure-and-agency argument.
-- [ ] I can distinguish platform capitalism from platform imperialism.
-- [ ] I can explain why user data has economic value.
-- [ ] I can explain why platform power does not make the nation-state irrelevant.
-- [ ] I can use the passport and Facebook cases analytically.
-- [ ] I can identify that Jin's statistics describe the chapter's publication period, not the current market.
+- [ ] I can distinguish media imperialism from cultural imperialism.
+- [ ] I can explain dependency theory and the core/periphery model.
+- [ ] I can explain the one-way flow argument and NWICO response.
+- [ ] I can identify at least four concerns about media imperialism.
+- [ ] I can explain why TNCs complicate a purely nation-based account.
+- [ ] I can explain how platform imperialism renews the paradigm.
+- [ ] I can use two limitations without merely dismissing the theory.
+- [ ] I can make a judgement about whether media imperialism remains relevant.
