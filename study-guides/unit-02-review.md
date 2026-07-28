@@ -1,6 +1,6 @@
-# Unit 2 Review Guide: Media Imperialism
+# Unit 2 Review: Media Imperialism
 
-## Official Unit Focus
+## Unit Focus
 
 Week 2 treats **media imperialism as the main paradigm** and **platform imperialism as its contemporary update**. The lecture supplies the history, definition, concerns, examples and limitations; the tutorial tests whether the paradigm remains useful today.
 
@@ -61,7 +61,18 @@ Colonial and postcolonial inequality
 - [Hollywood, the Pentagon and Militainment](../case-studies/hollywood-pentagon-militainment.md): media, ideology, political power and US foreign policy
 - [Facebook's Platform Imperialism](../case-studies/facebook-platform-imperialism.md): revenue, data, lobbying, infrastructure and geopolitical power
 
-## Limitations You Must Use
+## Tutorial Questions
+
+1. Does the US exercise ideological influence in the global media industry?
+2. Can local industries counter US media power?
+3. Is media imperialism still relevant today?
+4. Is media imperialism limited to Western or US powers?
+5. Can non-US and local platforms survive?
+6. Can regulation, policy and subsidies protect local industries?
+
+Suggested answers are in the [Week 2 Tutorial Map](../tutorials/week-02-media-imperialism.md).
+
+## Limitations and Counterarguments
 
 - Audiences are not passive cultural dupes.
 - Family, education, religion and language shape consumption and interpretation.

@@ -1,6 +1,8 @@
 # Unit 1 Review: What Is Global Media?
 
-Use this page as the starting point for Unit 1. It combines the Week 1 lecture focus, tutorial questions and the most useful revision links.
+## Unit Focus
+
+Unit 1 introduces global media as a field of critical inquiry. It questions simple labels such as global, local, national and Western by examining how ownership, production, story, location, distribution and cultural identity interact.
 
 ## Source Map
 
@@ -19,7 +21,7 @@ By the end of this unit, you should be able to:
 - evaluate the opportunities and power imbalances created by streaming platforms
 - question Western-centred ways of classifying global media
 
-## Must-Know Concepts
+## Core Concepts
 
 1. [Global Media](../concepts/global-media.md)
 2. [Globalisation](../concepts/globalisation.md)
@@ -32,6 +34,15 @@ By the end of this unit, you should be able to:
 9. [Media Regulation](../concepts/media-regulation.md)
 10. [Western Media](../concepts/western-media.md)
 
+## Main Argument Chain
+
+```text
+globalisation increases cross-border media connections
+-> media texts combine several national and cultural dimensions
+-> global and local cannot be treated as simple opposites
+-> classification depends on selected criteria and unequal power
+```
+
 ## Core Relationships
 
 - [Global vs Local](../relationships/global-vs-local.md)
@@ -39,7 +50,7 @@ By the end of this unit, you should be able to:
 - [Streaming Platforms and Local Content](../relationships/streaming-platforms-and-local-content.md)
 - [Representation and Identity](../relationships/representation-and-identity.md)
 
-## Evidence To Reuse
+## Reusable Evidence
 
 - [Canada Screen Industry](../case-studies/canada-screen-industry.md): global reach, local culture and regulation
 - [Heated Rivalry](../case-studies/heated-rivalry.md): how production details construct media nationality
@@ -58,19 +69,20 @@ Be ready to answer these questions without notes:
 5. What counts as Western media, who is excluded, and why?
 6. Why does the way we classify media matter?
 
-## Three-Pass Revision
+## Limitations and Counterarguments
 
-### Pass 1: Recall
+- Geographical territory alone cannot determine media identity.
+- Global distribution does not erase national institutions or local culture.
+- A media text can be culturally hybrid rather than purely global or national.
+- Platform access can expand local visibility while creating economic dependency.
+- "Western media" can conceal differences within the West and exclude other regions through unequal classification.
 
-Open each priority concept card. Give the definition and keywords aloud before checking the answer.
+## Revision Sequence
 
-### Pass 2: Connect
-
-Choose one relationship card. Explain both directions of the relationship and attach one case study.
-
-### Pass 3: Produce
-
-Choose one question from the [question bank](../exam-questions/unit-01-question-bank.md). Write a timed answer using:
+1. Recall each core concept's definition and keywords without notes.
+2. Explain one relationship in both directions and attach one case.
+3. Answer a tutorial question aloud using several classification criteria.
+4. Write one timed answer from the [Unit 1 Question Bank](../exam-questions/unit-01-question-bank.md).
 
 ```text
 Definition -> relationship -> evidence -> evaluation -> answer to the question
@@ -78,10 +90,9 @@ Definition -> relationship -> evidence -> evaluation -> answer to the question
 
 ## Mastery Check
 
-Unit 1 is ready for the exam when you can:
-
-- define all ten concepts without reading
-- explain all four relationship cards in both directions
-- use each case study to support at least two concepts
-- answer one definition, one relationship and one evaluation question under time pressure
-- identify one limitation or counterargument in every extended answer
+- [ ] I can define all ten core concepts without notes.
+- [ ] I can explain all four relationship cards in both directions.
+- [ ] I can classify a media text using more than one criterion.
+- [ ] I can use every case study to support at least two concepts.
+- [ ] I can identify one limitation or counterargument in every extended answer.
+- [ ] I can complete one timed definition, relationship and evaluation response.
