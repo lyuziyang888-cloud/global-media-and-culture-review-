@@ -45,4 +45,4 @@ Jin argues that Facebook's global market reach, advertising model, lobbying and 
 
 ## Source Anchor
 
-Jin, "Facebook's Platform Imperialism," pp. 189-198.
+Week 2 lecture, slides 23-25; Week 2 tutorial, slide 6; Jin, "Facebook's Platform Imperialism," pp. 189-198.
