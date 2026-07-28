@@ -20,6 +20,17 @@ unit review guide
 -> cases and question bank
 ```
 
+## Naming and Content Standard
+
+Use the same title pattern and section order for every unit:
+
+| File type | Title pattern | Fixed content order |
+|---|---|---|
+| Unit review | `Unit X Review: Topic` | focus, sources, targets, concepts, argument chain, relationships, evidence, tutorial questions, limitations, revision, mastery |
+| Lecture map | `Week X Lecture: Topic` | purpose, structure, definitions, arguments, evidence, assessment signals, slide anchors |
+| Tutorial map | `Week X Tutorial: Topic` | purpose, clarifications, cases, suggested answers, answer structure, assessment signal, slide anchors |
+| Question bank | `Unit X Question Bank: Topic` | recall, relationships, compare, cases, discuss/evaluate, tutorial questions, answer pattern |
+
 ## Revision Workflow
 
 Use the repository in three passes:
