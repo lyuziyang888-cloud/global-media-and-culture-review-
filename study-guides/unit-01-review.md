@@ -2,6 +2,12 @@
 
 Use this page as the starting point for Unit 1. It combines the Week 1 lecture focus, tutorial questions and the most useful revision links.
 
+## Source Map
+
+- [Week 1 Lecture](../lectures/week-01-course-overview.md)
+- [Week 1 Tutorial](../tutorials/week-01-what-is-global-media.md)
+- [Canada's Showbiz Reading](../readings/canadas-showbiz-steps-out-of-hollywoods-shadow.md)
+
 ## Learning Targets
 
 By the end of this unit, you should be able to:
@@ -41,7 +47,7 @@ By the end of this unit, you should be able to:
 - [KPop Demon Hunters](../case-studies/kpop-demon-hunters.md): hybrid identity and contested national classification
 - [Canada's Showbiz Reading](../readings/canadas-showbiz-steps-out-of-hollywoods-shadow.md): source overview and evidence map
 
-## Teacher And Tutorial Focus
+## Tutorial Questions
 
 Be ready to answer these questions without notes:
 

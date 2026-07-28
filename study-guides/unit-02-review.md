@@ -11,7 +11,7 @@ Week 2 treats **media imperialism as the main paradigm** and **platform imperial
 - [Jin: Facebook's Platform Imperialism](../readings/facebook-platform-imperialism.md)
 - [Workbook 1 Guide](../assignments/workbook-01-guide.md)
 
-Kath Woodward's [Questions of Identity](../readings/questioning-identity-chapter-01.md) is retained as a supplementary Unit 2 reading line. It is useful for identity and representation questions, but it is not the organising framework of these Week 2 slides.
+The Week 1 lecture identifies Mirrlees Chapter 1 (assigned pages 19-36) and Jin Chapter 13 as the Week 2 readings. The Mirrlees chapter is still missing from this repository, so its ideas must not be reconstructed from memory.
 
 ## Learning Targets
 
