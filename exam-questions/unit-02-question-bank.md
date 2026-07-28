@@ -20,16 +20,14 @@
 5. How does platform imperialism renew media imperialism?
 6. What is the relationship between platform corporations and nation-states?
 
-## Tutorial Discussion Questions
+## Compare
 
-1. Does the US exercise ideological influence in the global media industry?
-2. Can local industries counter US media power?
-3. Is media imperialism still relevant today?
-4. Is media imperialism limited to Western or US powers?
-5. Can non-US platforms challenge US dominance and can local platforms survive?
-6. Can regulation, subsidies and policy protect local media industries?
+1. Compare media imperialism and cultural imperialism.
+2. Compare classical media imperialism and platform imperialism.
+3. Compare nation-state power and transnational corporate power.
+4. Compare one-way flow arguments with multidirectional global media circulation.
 
-## Apply To Contemporary Cases
+## Apply to Cases
 
 1. Analyse Marvel/Pentagon cooperation using media imperialism.
 2. Does Facebook blocking Australian news demonstrate platform imperialism?
@@ -37,13 +35,22 @@
 4. What does exclusion from YouTube monetisation reveal about platform power?
 5. Does Facebook reproduce one-way flows in a new form?
 
-## Evaluate
+## Discuss and Evaluate
 
 1. "Audiences are not cultural dupes." How far does this weaken media imperialism?
 2. Does successful non-US media disprove the paradigm?
 3. Does the shift from nations to TNCs make media imperialism more or less useful?
 4. Does global circulation necessarily produce cultural homogenisation?
 5. Which explains contemporary platform markets better: continuity or change?
+
+## Tutorial Questions
+
+1. Does the US exercise ideological influence in the global media industry?
+2. Can local industries counter US media power?
+3. Is media imperialism still relevant today?
+4. Is media imperialism limited to Western or US powers?
+5. Can non-US platforms challenge US dominance and can local platforms survive?
+6. Can regulation, subsidies and policy protect local media industries?
 
 ## Answer Pattern
 
