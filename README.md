@@ -7,7 +7,18 @@ An exam-focused knowledge base for learning definitions, connecting concepts, ap
 Choose the unit you are revising:
 
 - [Unit 1 Review Guide](study-guides/unit-01-review.md): global media, local content and Canadian screen industries
-- [Unit 2 Review Guide](study-guides/unit-02-review.md): identity, difference and platform imperialism
+- [Unit 2 Review Guide](study-guides/unit-02-review.md): media imperialism and platform imperialism
+
+Every unit uses the same structure:
+
+```text
+unit review guide
+-> lecture map
+-> tutorial map
+-> required reading maps
+-> concepts and relationships
+-> cases and question bank
+```
 
 ## Revision Workflow
 
@@ -53,12 +64,15 @@ When new course material arrives:
 - keep a case study only when it supports at least two concepts
 - keep readings as evidence maps, not full summaries
 - convert tutorial questions into the question bank
-- create one review guide per unit instead of separate thin lecture and tutorial summaries
+- keep one review guide as the unit entry point
+- keep one lecture map and one tutorial map for each teaching week
+- mark uncertain reading placement instead of forcing it into a unit
 
 ## Current Coverage
 
 - **Unit 1:** Week 1 lecture, tutorial and Canada's screen-industry reading.
-- **Unit 2:** Week 2 lecture and tutorial on media imperialism, Dal Yong Jin's chapter on Facebook's platform imperialism, and Kath Woodward's supplementary Chapter 1, "Questions of Identity."
+- **Unit 2:** Week 2 lecture and tutorial on media imperialism and Dal Yong Jin's chapter on Facebook's platform imperialism. The assigned Mirrlees Chapter 1 is not yet available in the repository.
+- **Unassigned:** Kath Woodward's Chapter 1, "Questions of Identity," pending confirmation of its teaching week.
 
 The original copyrighted PDFs are not stored in this public repository. Reading maps identify the arguments and evidence that should be checked against the supplied texts.
 
