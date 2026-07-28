@@ -1,6 +1,6 @@
-# Workbook 1 Guide
+# Assessment Task 1 Guide: Industry Insight Analysis
 
-## Task Requirements From Tutorial 2
+## Task Requirements
 
 Choose one supplied Insight Report about a recent global-media trend or change. Submit a response of no more than 500 words, excluding the title and references, before attending the tutorial.
 
@@ -13,6 +13,17 @@ The response must:
 5. use Chapter 1 of the Mirrlees reading
 6. use no outside readings
 7. argue which paradigm better explains the report
+
+## Submission Requirements
+
+- submit online through Canvas as a Word document or PDF
+- use no more than 500 words, excluding the title and references
+- do not use subheadings in the submitted response
+- do not cite readings other than the required Mirrlees chapter
+- include the comparative argument within the 500-word response
+- be ready to discuss the same argument in the tutorial
+
+**Due:** Friday, 7 August 2026, 11:59 pm.
 
 ## Selected Insight Report
 
@@ -48,6 +59,8 @@ This evidence can support cultural-globalisation arguments about multidirectiona
 | Comparative judgement | 100-120 | weigh explanatory strengths and limitations |
 | Conclusion | 30-40 | answer the question directly |
 
+These labels are for planning only. Remove all section headings from the submitted response.
+
 ## Evidence Matrix
 
 Complete this before drafting:
@@ -76,5 +89,6 @@ The Insight Report and official assessment requirements are now available. The r
 
 ## Source Anchor
 
+- official Assessment Task 1 instructions
 - Week 2 tutorial, slide 7
 - [Ampere Analysis Insight Report](https://www.ampereanalysis.com/insight/global-streamers-shift-to-investing-in-non-us-scripted-content-looks-permanent)
