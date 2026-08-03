@@ -12,4 +12,4 @@ Cultural globalisation therefore explains the geographical diversification of pr
 
 Kupczyk, A. (2025, April 9). *Global streamers' shift to investing in non-US scripted content looks permanent*. Ampere Analysis. https://www.ampereanalysis.com/insight/global-streamers-shift-to-investing-in-non-us-scripted-content-looks-permanent
 
-Mirrlees, T. (2013). Paradigms of global entertainment media. In *Global entertainment media: Between cultural imperialism and cultural globalization* (pp. 19-50). Routledge.
+Mirrlees, T. (2013). *Global entertainment media: Between cultural imperialism and cultural globalization* (1st ed.). Routledge. https://doi.org/10.4324/9780203122747
