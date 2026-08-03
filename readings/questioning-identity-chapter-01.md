@@ -1,8 +1,8 @@
 # Questions of Identity
 
-## Placement Status
+## Unit Placement
 
-This reading was initially supplied as Unit 2 material, but the Week 1 lecture lists Mirrlees Chapter 1 and Jin Chapter 13 as the official Week 2 readings. Keep this map as unassigned supplementary material until the teaching team confirms where it belongs. It is not linked from the Unit 2 review guide.
+**Unit 3 required reading.** The teaching material supplied on 3 August 2026 confirms that Woodward's Chapter 1 belongs to Unit 3.
 
 ## Bibliographic Details
 
@@ -10,7 +10,7 @@ Kath Woodward, "Questions of Identity," Chapter 1 in *Questioning Identity: Gend
 
 ## Scope Note
 
-The supplied PDF contains the full 171-page book. This reading map covers Chapter 1 only. Chapters 2-4 should not be treated as Unit 2 material unless the course specifies them.
+The supplied PDF contains the full 171-page book. This reading map covers Chapter 1 only. Chapters 2-4 should not be treated as Unit 3 material unless the course specifies them.
 
 ## Central Argument
 
@@ -22,11 +22,23 @@ Identity links the personal and the social. It is formed through identification,
 2. How much control do people have in shaping their identities?
 3. Why can social change produce both uncertainty and new identity possibilities?
 
-## Key Concepts
+## Core Concepts
 
 - [Identity](../concepts/identity.md)
+- [Identification](../concepts/identification.md)
 - [Difference](../concepts/difference.md)
 - [Structure and Agency](../concepts/structure-and-agency.md)
+- [Identity Performance](../concepts/identity-performance.md)
+- [Interpellation](../concepts/interpellation.md)
+
+## Supporting Concepts
+
+- [Multiple Identities](../concepts/multiple-identities.md)
+- [The Unconscious and Identity](../concepts/unconscious-and-identity.md)
+- [Stereotyping](../concepts/stereotyping.md)
+- [Identity Crisis](../concepts/identity-crisis.md)
+- [Collective Identity](../concepts/collective-identity.md)
+- [Body Projects](../concepts/body-projects.md)
 - [Representation](../concepts/representation.md)
 - [National Identity](../concepts/national-identity.md)
 
