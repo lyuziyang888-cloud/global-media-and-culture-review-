@@ -1,5 +1,9 @@
 # Difference
 
+## Unit Role
+
+**Unit 3 core concept.** Difference explains how identity is constructed relationally through belonging and exclusion.
+
 ## 30-Second Definition
 
 Difference is the relational process through which identities are distinguished by defining who is included as "us" and who is excluded as "them."

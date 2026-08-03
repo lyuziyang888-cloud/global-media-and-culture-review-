@@ -1,5 +1,9 @@
 # Identity
 
+## Unit Role
+
+**Unit 3 core concept.** This is the central concept that connects all other ideas in Woodward's chapter.
+
 ## 30-Second Definition
 
 Identity is the socially shaped understanding of who an individual or group is, formed through self-identification, recognition by others, similarity, difference and representation.

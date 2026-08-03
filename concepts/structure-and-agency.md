@@ -1,5 +1,9 @@
 # Structure and Agency
 
+## Unit Role
+
+**Unit 3 core concept.** This framework explains how social constraints interact with people's capacity to shape identity.
+
 ## 30-Second Definition
 
 Structure and agency describe the tension between social forces that shape or restrict identity and the capacity of individuals or groups to act, interpret roles and reconstruct identities.
