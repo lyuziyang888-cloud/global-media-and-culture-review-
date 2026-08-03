@@ -152,6 +152,39 @@ non-US regions increasingly contribute to global production, although
 the platforms organising these flows remain predominantly US-based.
 ```
 
+## Critical Analysis of the Report
+
+Do not treat a change in production location as automatic evidence that global media power has been redistributed. The report measures the geographical distribution of scripted commissions, but it does not directly measure:
+
+- ownership of the commissioned content
+- intellectual-property rights
+- revenue distribution
+- the decision-making power of local producers
+- the size or location of actual audiences
+- whether the commissioned programmes circulate successfully across borders
+
+This distinction strengthens the final comparison. The data clearly demonstrate the **geographical decentralisation of production**, but they provide less evidence of the **redistribution of ownership and decision-making power**. They also support a multidirectional-flow interpretation only indirectly because commissioning location is not the same as completed content circulation.
+
+**Useful critical sentence:**
+
+```text
+However, the report measures the geographical distribution of
+commissions rather than ownership, intellectual-property rights,
+revenue or local decision-making power. It therefore demonstrates the
+decentralisation of production more clearly than the redistribution of
+media power.
+```
+
+Use this limitation to connect the report evidence to the final judgement:
+
+```text
+more non-US commissions
+-> greater geographical production diversity
+-> insufficient evidence of redistributed ownership or control
+-> cultural globalisation explains the change
+-> media imperialism better explains the continuing power structure
+```
+
 ## Recommended Final Judgement
 
 Use a qualified judgement rather than claiming that cultural globalisation has no explanatory value:
