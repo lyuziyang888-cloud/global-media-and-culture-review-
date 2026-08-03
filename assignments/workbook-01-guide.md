@@ -43,6 +43,14 @@ Useful evidence includes:
 
 This evidence can support cultural-globalisation arguments about multidirectional flows and greater visibility for non-US production. It can also support media-imperialism arguments because commissioning and distribution remain controlled by a small group of powerful global streaming corporations.
 
+## Required Mirrlees Reading
+
+- **Chapter:** Tanner Mirrlees, "Paradigms of Global Entertainment Media"
+- **Book:** *Global Entertainment Media: Between Cultural Imperialism and Cultural Globalization* (Routledge, 2013), pp. 19-50
+- **Most useful pages for this task:** pp. 23-25, 38, 42 and 49-50
+
+Mirrlees distinguishes a **strong cultural-globalisation** position, which treats older centre-periphery models as obsolete, from a **weak cultural-globalisation** position, which recognises new complexity while retaining continuities in corporate and geopolitical power (p. 38). His conclusion rejects a simple either/or choice: cultural globalisation explains change, while cultural imperialism remains useful for analysing enduring ownership, production and distribution inequalities (pp. 49-50).
+
 ## Assessment Criteria
 
 - effective understanding and application of both paradigms
@@ -70,15 +78,15 @@ Complete this before drafting:
 | report trend | Global streamers are commissioning a larger share of scripted content outside North America. |
 | report statistic or pattern 1 | North America declined from 45.9% in H1 2023 to 37% in H2 2024. |
 | report statistic or pattern 2 | Western Europe peaked at 31.9%, while Asia Pacific peaked at 26.2% in early 2024. |
-| media imperialism idea 1 | **Concentrated corporate ownership and control:** a small group of mainly US-based transnational streaming corporations controls commissioning capital and global distribution, even when production occurs outside the US. |
-| media imperialism idea 2 | **Unequal core-periphery relations and dependency:** local producers may gain investment and visibility while remaining dependent on foreign platforms for finance, market access and distribution. The modest shares held by several regions also show that opportunities remain uneven. |
-| cultural globalisation idea 1 | **Multidirectional media flows:** the growth of Western European and Asia-Pacific commissioning challenges a simple one-way model in which media moves only from the US to the rest of the world. |
-| cultural globalisation idea 2 | **Global-local interaction and cultural diversity:** streamers commission local originals for culturally specific audiences, while some productions travel internationally and bring non-US stories into global circulation. |
-| reason for final judgement | **Media imperialism explains the report more convincingly:** cultural globalisation explains the diversification of production locations, but media imperialism better explains who controls the investment and the commercial reasons for the shift. Production is becoming less US-centred while commissioning power remains concentrated. |
+| media imperialism idea 1 | **Foreign corporate control:** media imperialism concerns foreign pressure or control over media ownership, structure, distribution or content without proportionate reciprocal influence (Mirrlees, 2013, p. 23). US-based streamers still control commissioning capital and global distribution even when production occurs elsewhere. |
+| media imperialism idea 2 | **Dominant centre, weaker peripheries and dependency:** the paradigm describes a powerful US media centre and weaker non-US peripheries linked through unequal, often one-way flows (Mirrlees, 2013, pp. 24-25). Local producers may gain investment while remaining dependent on foreign platforms for finance and market access. |
+| cultural globalisation idea 1 | **Rise of non-US regional media capitals:** Mirrlees notes the stronger production capabilities of non-US media centres, although the US remains the largest centre (2013, p. 42). Growth in European and Asia-Pacific commissioning supports this claim. |
+| cultural globalisation idea 2 | **Multidirectional and contra-flows:** media increasingly moves among many countries rather than only from the US to the rest of the world (Mirrlees, 2013, p. 42). Mirrlees cautions that these flows do not prove US dominance has disappeared. |
+| reason for final judgement | **Media imperialism provides the stronger main explanation, qualified by weak cultural globalisation:** cultural globalisation explains the diversification of production locations and flows, but media imperialism better explains who controls investment and distribution. This follows Mirrlees's continuity-and-change approach (2013, pp. 49-50). |
 
 ## Paradigm Application Map
 
-### Media Imperialism Idea 1: Concentrated Corporate Control
+### Media Imperialism Idea 1: Foreign Corporate Control
 
 **Claim:** The location of production has diversified, but ownership and decision-making power have not diversified to the same extent.
 
@@ -95,7 +103,7 @@ because predominantly US-based streaming corporations still control
 investment and distribution.
 ```
 
-### Media Imperialism Idea 2: Dependency and Unequal Development
+### Media Imperialism Idea 2: Dominant Centre and Peripheral Dependency
 
 **Claim:** Participation in global production can remain unequal when local producers rely on foreign platforms.
 
@@ -112,36 +120,36 @@ while others remain marginal and local producers depend on global
 platforms for access to finance and audiences.
 ```
 
-### Cultural Globalisation Idea 1: Multidirectional Flows
+### Cultural Globalisation Idea 1: Rise of Regional Media Capitals
 
-**Claim:** Contemporary media does not flow only from the US to passive foreign markets.
+**Claim:** Non-US media centres have developed stronger production capabilities, even though the US remains the dominant media centre.
 
 **Report connection:** Western Europe's share reached 31.9% in early 2024, and Asia Pacific rose from 17.4% in early 2022 to 26.2% in early 2024.
 
-**Analysis:** These changes demonstrate that production is becoming more geographically dispersed and that non-US regions increasingly contribute content to global streaming systems.
+**Analysis:** These changes support Mirrlees's account of rising regional media capitals. They show greater production capacity outside the US without proving that corporate power has become equal.
 
 **Useful sentence:**
 
 ```text
 A cultural-globalisation scholar would interpret the growth of
-European and Asia-Pacific commissions as evidence of increasingly
-multidirectional media flows rather than simple one-way US expansion.
+European and Asia-Pacific commissions as evidence that non-US regional
+media centres have developed greater production capacity.
 ```
 
-### Cultural Globalisation Idea 2: Global-Local Interaction
+### Cultural Globalisation Idea 2: Multidirectional and Contra-Flows
 
-**Claim:** Globalisation can increase cultural diversity by connecting global distribution systems with locally produced stories.
+**Claim:** Entertainment media can move among multiple countries and from former peripheries towards established centres, not only from the US outwards.
 
-**Report connection:** Streamers prioritise local originals to attract regional subscribers, and the report notes that some Asia-Pacific productions are becoming popular in other markets.
+**Report connection:** The growing commissioning shares of Western Europe and Asia Pacific challenge a purely one-way account of global media production.
 
-**Analysis:** Local content is not simply replaced by a uniform global culture. It can be created for local demand and then circulated transnationally.
+**Analysis:** The pattern is consistent with multidirectional and contra-flows, but Mirrlees warns that their existence does not erase the continuing centrality of US media corporations.
 
 **Useful sentence:**
 
 ```text
-The investment strategy illustrates global-local interaction because
-platforms respond to culturally specific audience demand while making
-some local productions available to audiences in other markets.
+The investment shift supports a multidirectional-flow argument because
+non-US regions increasingly contribute to global production, although
+the platforms organising these flows remain predominantly US-based.
 ```
 
 ## Recommended Final Judgement
@@ -149,30 +157,26 @@ some local productions available to audiences in other markets.
 Use a qualified judgement rather than claiming that cultural globalisation has no explanatory value:
 
 ```text
-Cultural globalisation explains the greater geographical diversity and
-multidirectional circulation of scripted content. However, media
+Cultural globalisation explains the rise of non-US production centres
+and increasingly multidirectional media flows. However, media
 imperialism offers the stronger overall explanation because the shift
-is organised by a concentrated group of global streaming corporations
-responding to production costs, subscriber growth and commercial
-opportunities. Content production is becoming less US-centred, but
-control over commissioning and distribution remains unequal.
+is organised by a concentrated group of US-based streaming corporations.
+This qualified conclusion follows Mirrlees's weak cultural-globalisation
+approach: production is changing, while unequal control over commissioning
+and distribution continues.
 ```
-
-Verify the exact terminology and add page references from Mirrlees Chapter 1 before using these ideas in the submitted assignment.
 
 ## High-Value Distinction
 
 Description tells the reader what the report says. Analysis explains why the pattern exists, what a paradigm makes visible, what it overlooks and why one interpretation is more convincing.
 
-## Do Not Draft Yet If Missing
+## Source Status
 
-- the complete assigned Mirrlees Chapter 1
-- exact Mirrlees page numbers for the selected concepts
-
-The Insight Report and official assessment requirements are now available. The remaining source task is to verify the paradigm definitions and citation pages against the assigned Mirrlees chapter.
+Both required sources are available and the concepts above have been checked against Mirrlees Chapter 1. Before submission, confirm the required QUT reference style, keep the body at 500 words or fewer and export the final response as Word or PDF.
 
 ## Source Anchor
 
 - official Assessment Task 1 instructions
 - Week 2 tutorial, slide 7
 - [Ampere Analysis Insight Report](https://www.ampereanalysis.com/insight/global-streamers-shift-to-investing-in-non-us-scripted-content-looks-permanent)
+- Mirrlees, T. (2013). "Paradigms of Global Entertainment Media." In *Global Entertainment Media: Between Cultural Imperialism and Cultural Globalization* (pp. 19-50). Routledge.
