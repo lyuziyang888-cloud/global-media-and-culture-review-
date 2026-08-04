@@ -63,16 +63,43 @@ Colonial and postcolonial inequality
 
 ## Tutorial Exam Signals
 
-1. Does the US exercise ideological influence in the global media industry?
-2. Can local industries counter US media power?
-3. Is media imperialism still relevant today?
-4. Is media imperialism limited to Western or US powers?
-5. Can non-US and local platforms survive?
-6. Can regulation, policy and subsidies protect local industries?
+The PPT treats examples as evidence to test, not automatic proof of imperialism. State a judgement, identify the structure and mechanism of power, apply a case, test a limitation and refine the judgement.
 
-Suggested answers are in the [Week 2 Tutorial Map](../tutorials/week-02-media-imperialism.md).
+### 1. Does the US exercise ideological influence in global media?
 
-The tutorial treats examples as evidence to test, not automatic proof of imperialism. An exam answer must identify who controls ownership, infrastructure, revenue or regulation and explain the consequence for a less powerful actor.
+**Answer:** Yes, but its influence is powerful rather than absolute. US corporations possess major advantages in production, distribution, technology and marketing, while Hollywood-Pentagon cooperation shows how entertainment can normalise US military power and political values. However, audiences interpret media through local identities, and successful non-US industries limit these effects.
+
+**Judgement:** The US has disproportionate agenda-setting power, but it cannot completely determine audience meaning or erase competing cultures.
+
+### 2. Can local industries counter US media power?
+
+**Answer:** Yes, through local languages, culturally specific genres, public funding, content requirements, regional distribution and strong domestic audiences. Yet internationally successful producers may still depend on US-controlled platforms for visibility, data and revenue.
+
+**Judgement:** Local industries can resist cultural domination more easily than they can overcome structural dependency.
+
+### 3. Is media imperialism still relevant today?
+
+**Answer:** Yes, although its original nation-to-nation and one-way-flow model is incomplete. Non-US industries and active audiences complicate the theory, but a small number of platforms still control infrastructure, algorithms, advertising and data.
+
+**Judgement:** Platform imperialism updates media imperialism; the paradigm remains useful for structural power when combined with audience agency and local culture.
+
+### 4. Is media imperialism limited to Western or US powers?
+
+**Answer:** No in principle. Imperialism describes an unequal relationship, so a non-Western state or corporation could exercise imperial power through control of capital, infrastructure, distribution and visibility. The historical and current advantages of US firms must still be evaluated rather than ignored.
+
+**Judgement:** The framework can analyse multiple centres of power, but claims require comparative evidence of actual control and dependency.
+
+### 5. Can non-US platforms challenge US dominance and can local platforms survive?
+
+**Answer:** They can, especially through language, cultural knowledge, specialised services, state support or a large domestic market. However, dominant platforms benefit from network effects, data, capital, advertising systems and global scale, making international expansion difficult for smaller rivals.
+
+**Judgement:** Local platforms can survive and become regional competitors, but challenging global dominance requires scale, policy support and durable differentiation.
+
+### 6. Can regulation, policy and subsidies protect local industries?
+
+**Answer:** Yes. Governments can fund domestic production, impose local-investment requirements, support public broadcasters and regulate data and competition. However, Facebook's 2021 Australian news block demonstrates that platforms can lobby, withdraw services and pressure governments.
+
+**Judgement:** Intervention is necessary but works best when funding, regulation and competition policy operate together.
 
 ## Exam Questions
 
