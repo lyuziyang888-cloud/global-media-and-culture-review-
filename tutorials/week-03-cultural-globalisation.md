@@ -11,7 +11,7 @@ The tutorial converts cultural globalisation into exam-ready concepts, applies b
 - Media imperialism and cultural globalisation each have strengths and limitations.
 - A middle-ground approach examines both unequal structures and cultural agency.
 
-## Exam Preparation Questions and Suggested Answers
+## How Should You Study?
 
 ### 1. What is cultural globalisation?
 
