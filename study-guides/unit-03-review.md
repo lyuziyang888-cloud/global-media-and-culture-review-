@@ -56,9 +56,9 @@ media imperialism cannot fully explain audiences and non-US success
 - Brazilian and Latin American audience cases in the lecture map
 - national Top 10 streaming charts, when time period and ranking method are recorded
 
-## Tutorial Exam Preparation Questions and Answers
+## How Should You Study?
 
-These three questions are explicitly labelled as exam preparation in the Week 3 PPT.
+The Week 3 PPT uses these three questions to guide how you should study the unit.
 
 ### 1. What is cultural globalisation?
 
