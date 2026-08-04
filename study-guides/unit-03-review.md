@@ -56,9 +56,9 @@ media imperialism cannot fully explain audiences and non-US success
 - Brazilian and Latin American audience cases in the lecture map
 - national Top 10 streaming charts, when time period and ranking method are recorded
 
-## Tutorial Exam Signals
+## Tutorial Exam Preparation Questions and Answers
 
-The PPT requires precise evidence and comparison with media imperialism. State a judgement, define the concept, apply evidence, explain the cultural mechanism, identify structural power and test a limitation.
+These three questions are explicitly labelled as exam preparation in the Week 3 PPT.
 
 ### 1. What is cultural globalisation?
 
@@ -77,6 +77,10 @@ The PPT requires precise evidence and comparison with media imperialism. State a
 **Answer:** *Jane the Virgin* adapted the Venezuelan telenovela *Juana la virgen* across the US, Europe, Asia and Latin America. Its non-US origin demonstrates contra-flow, its movement across regions shows multidirectional circulation, and its remakes show adaptation for culturally specific audiences.
 
 **Judgement:** The case demonstrates that globalisation circulates and transforms formats rather than simply exporting unchanged US content.
+
+## Tutorial Applied Discussion Questions and Answers
+
+The following four questions are discussion activities in the PPT. They require precise evidence and comparison with media imperialism. State a judgement, define the concept, apply evidence, explain the cultural mechanism, identify structural power and test a limitation.
 
 ### 4. How do Chinese microdramas complicate media imperialism?
 
@@ -102,7 +106,9 @@ The PPT requires precise evidence and comparison with media imperialism. State a
 
 **Judgement:** Chart presence demonstrates circulation or popularity more clearly than equal ownership, revenue or global power.
 
-## Exam Questions
+## Additional Exam Practice
+
+These questions are generated from the lecture and tutorial content for revision. They are separate from the three official exam-preparation questions above.
 
 ### Must Know
 
@@ -146,7 +152,7 @@ define both paradigms
 2. Explain one cultural-globalisation concept using one precise case.
 3. Add one media-imperialism limitation or structural counterargument.
 4. Compare the paradigms using the core relationship card.
-5. Answer one question from the Exam Questions section above.
+5. Answer one question from Additional Exam Practice above.
 6. Apply the Workbook 1 template to the selected Insight Report.
 
 ## Mastery Check
