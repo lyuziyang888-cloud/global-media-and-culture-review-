@@ -60,16 +60,43 @@ globalisation increases cross-border media connections
 
 ## Tutorial Exam Signals
 
-Be ready to answer these questions without notes:
+The PPT requires classification through several criteria rather than one country label. Use this pattern: define the category, apply several dimensions, identify ambiguity and make a judgement.
 
-1. What makes media global?
-2. What makes media local?
-3. What makes a media text Canadian?
-4. Does the nation still matter in global media?
-5. What counts as Western media, who is excluded, and why?
-6. Why does the way we classify media matter?
+### 1. What makes a media text Canadian?
 
-The tutorial expects classification through several criteria rather than one country label. In an exam answer, distinguish ownership, production, creators, story, location, distribution and audience before reaching a judgement.
+**Answer:** Canadian identity can come from creators, cast, crew, source material, funding, ownership, locations, cultural symbols and intended audiences. No single criterion is decisive. *Heated Rivalry* has Canadian industrial and cultural roots, although international distribution also makes it transnational.
+
+**Judgement:** It is best understood as Canadian-rooted media with global circulation.
+
+### 2. How should local content be defined?
+
+**Answer:** Local content is substantially connected to a place through creative control, production, language, cultural references, funding or audiences. Filming location alone is insufficient because a foreign company may use a location without giving local creators meaningful control.
+
+**Judgement:** Creative and industrial participation provide a stronger test than geography alone.
+
+### 3. What makes content Australian?
+
+**Answer:** Australian content may involve Australian creators, stories, institutions, funding, locations, accents and cultural concerns. Foreign finance or distribution does not automatically remove this identity when local creative and industrial participation remains substantial.
+
+**Judgement:** Australian identity is multidimensional and can coexist with transnational ownership or circulation.
+
+### 4. Is *Heated Rivalry* Western media?
+
+**Answer:** It can be classified as Western because it comes from Canadian and North American institutions and circulates through Western platforms. However, that broad label hides its specifically Canadian production and cultural identity.
+
+**Judgement:** "Western" is possible but less analytically precise than Canadian-rooted and transnational media.
+
+### 5. Who is counted as the West and who is excluded?
+
+**Answer:** The West usually centres North America, Western Europe and related settler societies, but its boundaries are shaped by history, politics, race, economics and cultural power. The label can make dominant countries appear normal while positioning other regions as peripheral.
+
+**Judgement:** The category must be defined and questioned rather than treated as a neutral geographical fact.
+
+### 6. Can geographical territory alone explain global and local media?
+
+**Answer:** No. Media can be filmed in one country, financed in another, produced by a transnational team and distributed globally. Geography matters, but ownership, labour, story, regulation, platform control and audiences must also be considered.
+
+**Judgement:** Global and local are interacting relationships, not fixed territorial opposites.
 
 ## Exam Questions
 
