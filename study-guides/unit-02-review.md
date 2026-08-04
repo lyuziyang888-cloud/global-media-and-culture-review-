@@ -61,7 +61,7 @@ Colonial and postcolonial inequality
 - [Hollywood, the Pentagon and Militainment](../case-studies/hollywood-pentagon-militainment.md): media, ideology, political power and US foreign policy
 - [Facebook's Platform Imperialism](../case-studies/facebook-platform-imperialism.md): revenue, data, lobbying, infrastructure and geopolitical power
 
-## Tutorial Questions
+## Tutorial Exam Signals
 
 1. Does the US exercise ideological influence in the global media industry?
 2. Can local industries counter US media power?
@@ -71,6 +71,37 @@ Colonial and postcolonial inequality
 6. Can regulation, policy and subsidies protect local industries?
 
 Suggested answers are in the [Week 2 Tutorial Map](../tutorials/week-02-media-imperialism.md).
+
+The tutorial treats examples as evidence to test, not automatic proof of imperialism. An exam answer must identify who controls ownership, infrastructure, revenue or regulation and explain the consequence for a less powerful actor.
+
+## Exam Questions
+
+### Must Know
+
+1. Define media imperialism and distinguish it from cultural imperialism.
+2. Explain how dependency theory and the core-periphery model support media imperialism.
+3. What is a one-way media flow, and what problem did NWICO attempt to address?
+4. Explain how platform imperialism updates classical media imperialism.
+
+### Apply and Evaluate
+
+5. Use Facebook to explain how a platform can exercise power over users, markets and nation-states.
+6. Can regulation, policy and subsidies protect local media industries from dominant global firms?
+7. Does successful non-US media disprove media imperialism?
+8. Is media imperialism still useful for explaining contemporary global media?
+
+### High-Value Answer Plan
+
+For Question 8:
+
+```text
+define media imperialism
+-> explain concentrated ownership, infrastructure and unequal flows
+-> apply Facebook or another precise case
+-> test audience agency and successful non-US production as limitations
+-> show how platform imperialism renews structural concerns
+-> conclude that usefulness depends on separating structural power from cultural effects
+```
 
 ## Limitations and Counterarguments
 
@@ -87,7 +118,7 @@ These limitations do not automatically disprove media imperialism. A strong answ
 1. Recall the definition and keywords of each core concept without notes.
 2. Explain the main argument chain aloud.
 3. Apply one case study to one concern and one limitation.
-4. Answer a tutorial question from the [Unit 2 Question Bank](../exam-questions/unit-02-question-bank.md).
+4. Answer one question from the Exam Questions section above.
 5. Use the Workbook guide only after the Insight Report and remaining Mirrlees reading are available.
 
 ## Mastery Check
