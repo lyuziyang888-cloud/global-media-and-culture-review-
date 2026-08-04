@@ -61,9 +61,9 @@ Colonial and postcolonial inequality
 - [Hollywood, the Pentagon and Militainment](../case-studies/hollywood-pentagon-militainment.md): media, ideology, political power and US foreign policy
 - [Facebook's Platform Imperialism](../case-studies/facebook-platform-imperialism.md): revenue, data, lobbying, infrastructure and geopolitical power
 
-## Tutorial Exam Signals
+## Tutorial Discussion Questions and Answers
 
-The PPT treats examples as evidence to test, not automatic proof of imperialism. State a judgement, identify the structure and mechanism of power, apply a case, test a limitation and refine the judgement.
+These are the Week 2 PPT discussion questions, not a separate exam-preparation set. The PPT treats examples as evidence to test, not automatic proof of imperialism. State a judgement, identify the structure and mechanism of power, apply a case, test a limitation and refine the judgement.
 
 ### 1. Does the US exercise ideological influence in global media?
 
@@ -101,7 +101,9 @@ The PPT treats examples as evidence to test, not automatic proof of imperialism.
 
 **Judgement:** Intervention is necessary but works best when funding, regulation and competition policy operate together.
 
-## Exam Questions
+## Additional Exam Practice
+
+These questions are generated from the lecture and tutorial content for revision. They are not labelled as exam-preparation questions in the Week 2 PPT.
 
 ### Must Know
 
@@ -145,7 +147,7 @@ These limitations do not automatically disprove media imperialism. A strong answ
 1. Recall the definition and keywords of each core concept without notes.
 2. Explain the main argument chain aloud.
 3. Apply one case study to one concern and one limitation.
-4. Answer one question from the Exam Questions section above.
+4. Answer one question from Additional Exam Practice above.
 5. Use the Workbook guide only after the Insight Report and remaining Mirrlees reading are available.
 
 ## Mastery Check
