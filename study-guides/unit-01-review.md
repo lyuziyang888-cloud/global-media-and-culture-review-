@@ -58,9 +58,9 @@ globalisation increases cross-border media connections
 - [KPop Demon Hunters](../case-studies/kpop-demon-hunters.md): hybrid identity and contested national classification
 - [Canada's Showbiz Reading](../readings/canadas-showbiz-steps-out-of-hollywoods-shadow.md): source overview and evidence map
 
-## Tutorial Exam Signals
+## Tutorial Discussion Questions and Answers
 
-The PPT requires classification through several criteria rather than one country label. Use this pattern: define the category, apply several dimensions, identify ambiguity and make a judgement.
+These are the Week 1 PPT discussion questions, not a separate exam-preparation set. The tutorial requires classification through several criteria rather than one country label. Use this pattern: define the category, apply several dimensions, identify ambiguity and make a judgement.
 
 ### 1. What makes a media text Canadian?
 
@@ -98,7 +98,9 @@ The PPT requires classification through several criteria rather than one country
 
 **Judgement:** Global and local are interacting relationships, not fixed territorial opposites.
 
-## Exam Questions
+## Additional Exam Practice
+
+These questions are generated from the lecture and tutorial content for revision. They are not labelled as exam-preparation questions in the Week 1 PPT.
 
 ### Must Know
 
@@ -140,7 +142,7 @@ define global, local and national media identity
 1. Recall each core concept's definition and keywords without notes.
 2. Explain one relationship in both directions and attach one case.
 3. Answer a tutorial question aloud using several classification criteria.
-4. Write one timed answer from the Exam Questions section above.
+4. Write one timed answer from Additional Exam Practice above.
 
 ```text
 Definition -> relationship -> evidence -> evaluation -> answer to the question
