@@ -56,7 +56,7 @@ media imperialism cannot fully explain audiences and non-US success
 - Brazilian and Latin American audience cases in the lecture map
 - national Top 10 streaming charts, when time period and ranking method are recorded
 
-## Tutorial Questions
+## Tutorial Exam Signals
 
 1. What is cultural globalisation?
 2. Why is the paradigm important?
@@ -66,6 +66,37 @@ media imperialism cannot fully explain audiences and non-US success
 6. How should a national Top 10 list be interpreted?
 
 Suggested answers are in the [Week 3 Tutorial Map](../tutorials/week-03-cultural-globalisation.md).
+
+The tutorial requires precise evidence and comparison with media imperialism. Content origin or chart presence alone does not establish equal ownership, distribution power or revenue.
+
+## Exam Questions
+
+### Must Know
+
+1. Define cultural globalisation and explain why it is a paradigm rather than one theory.
+2. Name and define Appadurai's five scapes.
+3. Explain cultural proximity, contra-flow, media capital and asymmetrical interdependence.
+4. Explain how cultural globalisation responds to the limitations of media imperialism.
+
+### Apply and Evaluate
+
+5. Use *Jane the Virgin* to explain contra-flow, adaptation and cultural proximity.
+6. How do Chinese microdramas both challenge and support media-imperialism arguments?
+7. Does a non-US title in a national streaming Top 10 prove multidirectional and equal media flow?
+8. Which paradigm better explains contemporary streaming: media imperialism or cultural globalisation?
+
+### High-Value Answer Plan
+
+For Question 8:
+
+```text
+define both paradigms
+-> use cultural globalisation to explain audiences, adaptation and multidirectional flow
+-> use media imperialism to examine ownership, distribution, data and revenue
+-> apply one precise streaming example
+-> identify what the available evidence cannot prove
+-> make a case-specific judgement rather than declaring a universal winner
+```
 
 ## Limitations and Counterarguments
 
@@ -82,7 +113,7 @@ Suggested answers are in the [Week 3 Tutorial Map](../tutorials/week-03-cultural
 2. Explain one cultural-globalisation concept using one precise case.
 3. Add one media-imperialism limitation or structural counterargument.
 4. Compare the paradigms using the core relationship card.
-5. Answer one question from the [Unit 3 Question Bank](../exam-questions/unit-03-question-bank.md).
+5. Answer one question from the Exam Questions section above.
 6. Apply the Workbook 1 template to the selected Insight Report.
 
 ## Mastery Check
