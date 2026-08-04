@@ -1,9 +1,7 @@
 # Exam Questions
 
-| Unit | Focus | Question bank |
-|---|---|---|
-| 1 | Global media, local content and identity | [Unit 1 Question Bank](unit-01-question-bank.md) |
-| 2 | Media and platform imperialism | [Unit 2 Question Bank](unit-02-question-bank.md) |
-| 3 | Cultural globalisation and media flows | [Unit 3 Question Bank](unit-03-question-bank.md) |
+Use one consolidated bank for Units 1-3:
 
-Practise without notes first. Then compare your answer with the relevant concept, relationship and case-study pages, adding any missing definition, mechanism, evidence or judgement.
+- **[Units 1-3 Exam Question Bank](units-01-03-exam-question-bank.md)**
+
+Questions are organised by priority rather than week. Complete Priority A first, then applied questions and mock sets. After each answer, repair only the missing definition, mechanism, evidence, limitation or judgement.
