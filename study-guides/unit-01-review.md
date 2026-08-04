@@ -58,7 +58,7 @@ globalisation increases cross-border media connections
 - [KPop Demon Hunters](../case-studies/kpop-demon-hunters.md): hybrid identity and contested national classification
 - [Canada's Showbiz Reading](../readings/canadas-showbiz-steps-out-of-hollywoods-shadow.md): source overview and evidence map
 
-## Tutorial Questions
+## Tutorial Exam Signals
 
 Be ready to answer these questions without notes:
 
@@ -68,6 +68,37 @@ Be ready to answer these questions without notes:
 4. Does the nation still matter in global media?
 5. What counts as Western media, who is excluded, and why?
 6. Why does the way we classify media matter?
+
+The tutorial expects classification through several criteria rather than one country label. In an exam answer, distinguish ownership, production, creators, story, location, distribution and audience before reaching a judgement.
+
+## Exam Questions
+
+### Must Know
+
+1. Define global media and explain why global and local are not simple opposites.
+2. What is local content, and why does it remain important in global media?
+3. Explain how ownership, production, story, location and distribution shape the identity of a media text.
+4. Explain the relationship between globalisation and cultural identity.
+
+### Apply and Evaluate
+
+5. Use *Heated Rivalry* to evaluate whether a media text can be Canadian, Western and global at the same time.
+6. Explain how streaming platforms can both support and constrain local production.
+7. Does national identity still matter in global media?
+8. How useful is "Western media" as a category?
+
+### High-Value Answer Plan
+
+For Question 5:
+
+```text
+define global, local and national media identity
+-> establish that classification uses multiple criteria
+-> apply Canadian production, creators, subject matter and locations
+-> consider global distribution and platform involvement
+-> explain why the labels can overlap
+-> judge which label is most useful for the question being asked
+```
 
 ## Limitations and Counterarguments
 
@@ -82,7 +113,7 @@ Be ready to answer these questions without notes:
 1. Recall each core concept's definition and keywords without notes.
 2. Explain one relationship in both directions and attach one case.
 3. Answer a tutorial question aloud using several classification criteria.
-4. Write one timed answer from the [Unit 1 Question Bank](../exam-questions/unit-01-question-bank.md).
+4. Write one timed answer from the Exam Questions section above.
 
 ```text
 Definition -> relationship -> evidence -> evaluation -> answer to the question
