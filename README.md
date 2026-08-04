@@ -4,12 +4,7 @@ An exam-focused knowledge base for learning definitions, connecting concepts, ap
 
 ## Start Here
 
-Start with the combined exam guide:
-
-- **[Units 1-3 Exam Prep](study-guides/units-01-03-exam-prep.md)**
-- **[Units 1-3 Exam Question Bank](exam-questions/units-01-03-exam-question-bank.md)**
-
-Open an individual unit only when you need more detail:
+Choose the unit you are revising. Each review guide includes its lecture and tutorial priorities, exam questions and answer structure:
 
 - [Unit 1 Review Guide](study-guides/unit-01-review.md): global media, local content and Canadian screen industries
 - [Unit 2 Review Guide](study-guides/unit-02-review.md): media imperialism and platform imperialism
@@ -23,7 +18,7 @@ unit review guide
 -> tutorial map
 -> required reading maps
 -> concepts and relationships
--> cases and question bank
+-> cases and exam questions
 ```
 
 ## Naming and Content Standard
@@ -32,10 +27,9 @@ Use the same title pattern and section order for every unit:
 
 | File type | Title pattern | Fixed content order |
 |---|---|---|
-| Unit review | `Unit X Review: Topic` | focus, sources, targets, concepts, argument chain, relationships, evidence, tutorial questions, limitations, revision, mastery |
+| Unit review | `Unit X Review: Topic` | focus, sources, concepts, relationships, evidence, tutorial signals, exam questions, limitations, revision, mastery |
 | Lecture map | `Week X Lecture: Topic` | purpose, structure, definitions, arguments, evidence, assessment signals, slide anchors |
 | Tutorial map | `Week X Tutorial: Topic` | purpose, clarifications, cases, suggested answers, answer structure, assessment signal, slide anchors |
-| Question bank | `Unit X Question Bank: Topic` | recall, relationships, compare, cases, discuss/evaluate, tutorial questions, answer pattern |
 
 ## Revision Workflow
 
@@ -43,7 +37,7 @@ Use the repository in three passes:
 
 1. **Recall:** open a concept card and give its definition and keywords without looking.
 2. **Connect:** explain how two concepts interact using the relationship cards.
-3. **Produce:** write a timed response from the unit question bank, supported by a case study.
+3. **Produce:** write a timed response from the unit review, supported by a case study.
 
 Reading files from beginning to end is not the goal. The goal is to answer without notes.
 
@@ -58,7 +52,6 @@ Reading files from beginning to end is not the goal. The goal is to answer witho
 | [`relationships/`](relationships/) | Explaining how A and B affect one another |
 | [`case-studies/`](case-studies/) | Evidence that can be reused across several questions |
 | [`readings/`](readings/) | Source arguments and evidence maps |
-| [`exam-questions/`](exam-questions/) | Prioritised questions and timed mock sets |
 | [`assignments/`](assignments/) | Task requirements, assessment criteria and planning frameworks |
 
 ## Exam Answer Pattern
@@ -80,7 +73,7 @@ When new course material arrives:
 - add a relationship card only when the connection could become an exam question
 - keep a case study only when it supports at least two concepts
 - keep readings as evidence maps, not full summaries
-- convert tutorial questions into the question bank
+- convert tutorial questions into the relevant unit review
 - keep one review guide as the unit entry point
 - keep one lecture map and one tutorial map for each teaching week
 - mark uncertain reading placement instead of forcing it into a unit
