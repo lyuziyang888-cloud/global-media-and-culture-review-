@@ -58,16 +58,49 @@ media imperialism cannot fully explain audiences and non-US success
 
 ## Tutorial Exam Signals
 
-1. What is cultural globalisation?
-2. Why is the paradigm important?
-3. What is a precise example?
-4. How do Chinese microdramas complicate and support media imperialism?
-5. What role do streaming services play?
-6. How should a national Top 10 list be interpreted?
+The PPT requires precise evidence and comparison with media imperialism. State a judgement, define the concept, apply evidence, explain the cultural mechanism, identify structural power and test a limitation.
 
-Suggested answers are in the [Week 3 Tutorial Map](../tutorials/week-03-cultural-globalisation.md).
+### 1. What is cultural globalisation?
 
-The tutorial requires precise evidence and comparison with media imperialism. Content origin or chart presence alone does not establish equal ownership, distribution power or revenue.
+**Answer:** Cultural globalisation is a group of theories explaining cross-border interaction among media, people, technologies, capital, ideas and cultures. It emphasises multidirectional processes, active audiences, local meaning-making and non-US media capacity without assuming that global power is equal.
+
+**Keywords:** multidirectional, contextual, audiences, meaning-making, cultural proximity and media capitals.
+
+### 2. Why is cultural globalisation important to global media studies?
+
+**Answer:** It corrects media imperialism's tendency to treat audiences as passive, nations as culturally uniform and flows as exclusively US-led. It explains culturally proximate preferences, non-US media capitals and contra-flows, but may understate unequal ownership, finance and distribution.
+
+**Judgement:** It is essential for explaining cultural change and agency, but is strongest when combined with political-economic analysis.
+
+### 3. What is a precise example of cultural globalisation?
+
+**Answer:** *Jane the Virgin* adapted the Venezuelan telenovela *Juana la virgen* across the US, Europe, Asia and Latin America. Its non-US origin demonstrates contra-flow, its movement across regions shows multidirectional circulation, and its remakes show adaptation for culturally specific audiences.
+
+**Judgement:** The case demonstrates that globalisation circulates and transforms formats rather than simply exporting unchanged US content.
+
+### 4. How do Chinese microdramas complicate media imperialism?
+
+**Answer:** They challenge a simple one-way model because a Chinese-origin production system and format can attract audiences beyond China. They demonstrate non-US creative capacity, contra-flow and the possible emergence of another media centre.
+
+**Judgement:** Cultural globalisation better explains their movement and adaptation than a purely US-centred account.
+
+### 5. How can Chinese microdramas still support media imperialism?
+
+**Answer:** Their circulation may depend on concentrated platforms, app stores, advertising systems, payment infrastructure and commercially controlled algorithms. Non-US content origin therefore does not prove equal revenue, rights ownership or distribution power.
+
+**Judgement:** The flow challenges classical media imperialism, while its platform conditions preserve the paradigm's structural concerns.
+
+### 6. What role do streaming services play, and is there hope for local industries?
+
+**Answer:** Streaming services reduce distribution barriers, finance local content and connect producers to international audiences. At the same time, they control commissioning, recommendations, audience data and monetisation. Local industries therefore also need production capacity, rights ownership, policy support and alternative distribution.
+
+**Judgement:** Streaming creates genuine opportunities but does not automatically create independence.
+
+### 7. How should a national Top 10 streaming list be analysed?
+
+**Answer:** Identify each title's origin, language and platform. Look for cultural proximity, contra-flow and continuing US platform or content dominance. Because one chart is only a snapshot, record the period, ranking method and catalogue availability before generalising.
+
+**Judgement:** Chart presence demonstrates circulation or popularity more clearly than equal ownership, revenue or global power.
 
 ## Exam Questions
 
