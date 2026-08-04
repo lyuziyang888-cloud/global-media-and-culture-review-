@@ -4,7 +4,12 @@ An exam-focused knowledge base for learning definitions, connecting concepts, ap
 
 ## Start Here
 
-Choose the unit you are revising:
+Start with the combined exam guide:
+
+- **[Units 1-3 Exam Prep](study-guides/units-01-03-exam-prep.md)**
+- **[Units 1-3 Exam Question Bank](exam-questions/units-01-03-exam-question-bank.md)**
+
+Open an individual unit only when you need more detail:
 
 - [Unit 1 Review Guide](study-guides/unit-01-review.md): global media, local content and Canadian screen industries
 - [Unit 2 Review Guide](study-guides/unit-02-review.md): media imperialism and platform imperialism
@@ -53,7 +58,7 @@ Reading files from beginning to end is not the goal. The goal is to answer witho
 | [`relationships/`](relationships/) | Explaining how A and B affect one another |
 | [`case-studies/`](case-studies/) | Evidence that can be reused across several questions |
 | [`readings/`](readings/) | Source arguments and evidence maps |
-| [`exam-questions/`](exam-questions/) | Definition, compare, relationship, discuss and evaluate practice |
+| [`exam-questions/`](exam-questions/) | Prioritised questions and timed mock sets |
 | [`assignments/`](assignments/) | Task requirements, assessment criteria and planning frameworks |
 
 ## Exam Answer Pattern
