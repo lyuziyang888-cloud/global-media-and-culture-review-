@@ -27,4 +27,3 @@ A format program is a licensed package of program information and production kno
 - What is a format program, and how does it differ from a canned program?
 - What benefits do format programs offer producers and broadcasters?
 - How do format programs combine standardisation and localisation?
-- How do formats fit media imperialism and cultural globalisation?

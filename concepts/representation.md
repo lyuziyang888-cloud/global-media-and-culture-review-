@@ -1,10 +1,10 @@
 # Representation
 
-## 30-Second Definition
+## Definition
 
 Representation refers to how people, places, cultures, identities and social groups are portrayed in media.
 
-## Keywords To Memorise
+## Keywords
 
 - portrayal
 - meaning
@@ -14,34 +14,16 @@ Representation refers to how people, places, cultures, identities and social gro
 - stereotypes
 - voice
 
-## Key Features
+## Core Understanding
 
 - Representation can make a group visible or invisible.
 - It can challenge or reinforce stereotypes.
 - It is connected to who controls production and storytelling.
 - It shapes how audiences understand culture and identity.
+- Representation matters because media does not simply show reality. It selects, frames and gives meaning to people, places and cultures.
 
-## Why It Matters
-
-Representation matters because media does not simply show reality. It selects, frames and gives meaning to people, places and cultures.
-
-## Relationships
-
-- Representation shapes [Cultural Identity](cultural-identity.md).
-- Representation provides symbols through which people perform and recognise [Identity](identity.md).
-- Representation marks similarity and [Difference](difference.md).
-- Representation is linked to platform and industry power.
-- Indigenous representation raises questions about voice, authorship and control.
-
-## Example
-
-`North of North` is useful because it shows Indigenous-led production and representation reaching global audiences through Netflix.
-
-In Woodward's identity chapter, passports, bodies and everyday performances show that representation is also part of how identity is communicated and classified.
-
-## Possible Exam Questions
+## Possible Questions
 
 - What is representation?
 - Why does representation matter in global media?
 - Explain the relationship between representation and cultural identity.
-- How does media ownership affect representation?
