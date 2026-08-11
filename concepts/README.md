@@ -55,4 +55,4 @@
 - [Unconscious and Identity](unconscious-and-identity.md)
 - [Body Projects](body-projects.md)
 
-Each concept card contains material for definition recall and analytical use. Revise the definition and keywords first, then connect the concept to relationships, cases and possible questions.
+Concept cards are designed for rapid recall. Each uses four short sections: definition, keywords, core understanding and possible questions. Use the unit reviews, relationship cards and cases for deeper analysis.
