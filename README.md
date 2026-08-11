@@ -9,6 +9,7 @@ Choose the unit you are revising. Each review guide includes its lecture and tut
 - [Unit 1 Review Guide](study-guides/unit-01-review.md): global media, local content and Canadian screen industries
 - [Unit 2 Review Guide](study-guides/unit-02-review.md): media imperialism and platform imperialism
 - [Unit 3 Review Guide](study-guides/unit-03-review.md): cultural globalisation, proximity, contra-flows and media capitals
+- [Unit 4 Review Guide](study-guides/unit-04-review.md): format programs, adaptation and transnational television
 
 Every unit uses the same structure:
 
@@ -83,6 +84,7 @@ When new course material arrives:
 - **Unit 1:** Week 1 lecture, tutorial and Canada's screen-industry reading.
 - **Unit 2:** Week 2 lecture and tutorial on media imperialism and Dal Yong Jin's chapter on Facebook's platform imperialism. The assigned Mirrlees Chapter 1 is not yet available in the repository.
 - **Unit 3:** Week 3 lecture and tutorial on cultural globalisation, including scapes, cultural proximity, contra-flows, media capitals, Chinese microdramas and streaming-chart analysis.
+- **Unit 4:** Week 4 lecture and tutorial on format programs, scripted and non-scripted adaptation, transnational production and *The Traitors*.
 - **Unassigned:** Kath Woodward's Chapter 1, "Questions of Identity," pending confirmation of its teaching week.
 
 The original copyrighted PDFs are not stored in this public repository. Reading maps identify the arguments and evidence that should be checked against the supplied texts.
