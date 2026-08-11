@@ -8,7 +8,9 @@ Choose the official website of one media content company that:
 - produces media content, such as film, animation or television
 - provides enough evidence to evaluate its global media capacity
 
-Write no more than 500 words, excluding the title and references. The response must:
+The company may come from the suggested list or be independently selected. Tutor confirmation is not required. Begin with the company's official website, but use additional relevant research where needed.
+
+Write no more than 500 words. The title and reference list are excluded from the word count. The response must:
 
 1. briefly introduce the company
 2. apply at least two of Keane's five categories of media capacity
@@ -18,7 +20,19 @@ Write no more than 500 words, excluding the title and references. The response m
 6. evaluate how far the company has entered the global media economy on its own terms
 7. use the official website and other relevant sources
 
-Do not use subheadings or include a separate table of contents in the submitted response.
+Submit one Word document or PDF through Canvas. Do not use subheadings or include a separate table of contents in the submitted response.
+
+## Prompt-to-Rubric Map
+
+| Required prompt | Main rubric criterion | What the marker needs to see |
+|---|---|---|
+| Briefly overview the company | Analysis | a concise identification of the company, cultural context, content sector and relevant activities rather than a long corporate history |
+| Apply at least two of Keane's five categories | Application | accurate definitions from the prescribed reading, relevant category selection and specific company evidence interpreted through the framework |
+| Examine business activities critically | Analysis | concrete official and independent evidence, explanation of what it demonstrates and attention to regional and global industry conditions |
+| Decide whether the company remains peripheral | Evaluation | a clear position supported by the selected Keane categories and company examples |
+| Evaluate entry on its own terms | Evaluation | evidence about autonomy, ownership, intellectual property, strategy, partnerships and continuing dependencies |
+
+All prompts must be answered within one continuous piece of writing. The absence of subheadings does not remove the need for a clear paragraph structure.
 
 ## Assessment Criteria
 
@@ -208,6 +222,7 @@ in some categories while remaining dependent in others.
 
 - [ ] The company is not based in Australia, the US or the UK.
 - [ ] The company produces media content rather than only distributing it.
+- [ ] The overview is brief and identifies the company's cultural context and content sector.
 - [ ] The introduction gives a direct overall judgement.
 - [ ] At least two Keane categories are accurately defined and applied.
 - [ ] Every selected category includes a specific company example.
@@ -216,7 +231,9 @@ in some categories while remaining dependent in others.
 - [ ] The response evaluates both peripheral status and autonomy.
 - [ ] The conclusion answers the task directly.
 - [ ] The submission has no subheadings or table of contents.
+- [ ] The submission file is a Word document or PDF.
 - [ ] The body is 500 words or fewer.
+- [ ] The title and references are excluded from the word count.
 - [ ] All factual claims and borrowed ideas are referenced.
 
 ## Do Not Draft Yet If Missing
@@ -228,4 +245,4 @@ in some categories while remaining dependent in others.
 
 ## Due Date
 
-21 August, 11:59 pm. Confirm the year and exact Canvas deadline before submission.
+Friday, 21 August 2026, 11:59 pm. Submit through Canvas.
