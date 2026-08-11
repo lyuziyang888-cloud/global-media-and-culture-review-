@@ -94,6 +94,65 @@ To what extent does it globalise on its own terms?
 
 Avoid treating "global" and "peripheral" as simple opposites. A company may achieve global distribution while remaining dependent on foreign platforms, finance, technology or intellectual property.
 
+## Selected Company: Yash Raj Films
+
+**Official website:** [Yash Raj Films](https://www.yashrajfilms.com/)
+
+**Cultural context:** India
+
+**Content sector:** film and screen-content production, studio services, visual effects, music, talent management, licensing and domestic and international distribution
+
+### Brief Company Overview
+
+Yash Raj Films (YRF) was founded by Yash Chopra in 1970. Its official company profile describes it as a privately held, vertically integrated Indian studio that has produced more than 80 films and controls much of its value chain in-house. Its operations include production, post-production, domestic and international distribution, music, home entertainment, marketing, digital media, licensing, merchandising, talent management, brand partnerships, sound facilities, film studios and visual effects.
+
+Keep this overview brief in the final response. The assignment is evaluating capacity, not retelling the company's history.
+
+### Official Website Evidence Bank
+
+| Evidence | What it may demonstrate | Official source |
+|---|---|---|
+| YRF describes itself as India's only privately held and fully integrated studio. | organisational scale, vertical integration and potential autonomy over the production chain | [The Company](https://www.yashrajfilms.com/about-us/the-company) |
+| It claims to control production, post-production, domestic and international distribution, music, marketing, digital, licensing, merchandising, talent and studio facilities in-house. | capacity across several stages rather than production alone; reduced dependence on external suppliers | [The Company](https://www.yashrajfilms.com/about-us/the-company) |
+| YRF has produced more than 80 films over more than 50 years. | sustained production experience and a substantial content catalogue | [The Company](https://www.yashrajfilms.com/about-us/the-company) |
+| Its stated mission is to create stories from India for the world. | explicit global ambition grounded in Indian content production | [YRF Home](https://www.yashrajfilms.com/) |
+| YRF operates its own distribution companies in India and distributes both its own and other producers' films. | domestic market access, distribution expertise and bargaining power | [Distribution India](https://www.yashrajfilms.com/divisions/yrf-distribution-india) |
+| Its official distribution catalogue records international and worldwide releases such as *Jawan*, *Dunki*, *Laapataa Ladies* and *Chhaava*. | international circulation and the ability to distribute content beyond its own productions | [Other Films Distributed](https://www.yashrajfilms.com/divisions/other-films-distributed-by-yrf-distribution) |
+| YRF Studios contains three sound stages and advanced sound-recording and post-production facilities built to international standards. | physical infrastructure and technical production capacity | [YRF Studios](https://www.yashrajfilms.com/divisions/yrf-studios) |
+| yFX provides 3D asset creation, animation, matte painting, compositing and visual effects using an in-house technical pipeline. | specialised technical labour, post-production capability and movement into high-value production services | [YRF Studios and yFX](https://www.yashrajfilms.com/divisions/yrf-studios) |
+| Its divisions include production, international distribution, studios, VFX, entertainment, music, digital media, talent, licensing and merchandising. | diversification and vertical integration across the media value chain | [YRF Divisions](https://www.yashrajfilms.com/divisions) |
+
+### Strong Evidence Pair
+
+Do not choose Keane categories until their exact names and definitions have been confirmed from the Week 6 reading. Based on the company evidence, the strongest eventual pairing will probably be:
+
+1. the category dealing with **production infrastructure, technology or industrial capacity**, supported by YRF Studios and yFX
+2. the category dealing with **creative content, intellectual property, markets or distribution**, supported by its film catalogue, integrated divisions and international distribution
+
+Replace these descriptive labels with Keane's exact terminology before drafting.
+
+### Provisional Argument
+
+```text
+YRF is no longer adequately described as a wholly peripheral producer
+because it owns substantial production infrastructure, controls several
+stages of the value chain and distributes Indian content internationally.
+However, operating "on its own terms" must be evaluated rather than assumed:
+global reach does not by itself prove equal access to finance, platforms,
+screens, revenue or bargaining power in the wider media economy.
+```
+
+### Critical Questions for External Research
+
+- Does YRF own the intellectual property of the specific films used as examples?
+- In how many countries or territories does it directly distribute, and where does it rely on partners?
+- Who controls streaming distribution for major YRF titles?
+- Does international box-office reach translate into control over revenue and release conditions?
+- Are the company's claims of being fully integrated supported by independent industry evidence?
+- How does YRF compare with major Indian and global studios in production scale and market power?
+
+The official website is evidence of what YRF does and how it represents itself. It is not independent proof that YRF possesses equal global power.
+
 ## Keane Framework
 
 Complete this section from the assigned Week 6 reading before drafting.
@@ -141,18 +200,18 @@ Complete this before writing:
 
 | Requirement | Evidence to insert |
 |---|---|
-| company, country and content sector | |
-| key production or media property | |
+| company, country and content sector | Yash Raj Films; India; film and screen-content production, studios, VFX, music and distribution |
+| key production or media property | select one or two precise examples after checking ownership and relevance; possible cases include YRF productions or its international distribution catalogue |
 | selected Keane category 1 | |
 | exact definition of category 1 | |
 | company example for category 1 | |
 | selected Keane category 2 | |
 | exact definition of category 2 | |
 | company example for category 2 | |
-| evidence of global media capacity | |
-| evidence of continuing dependence or limitation | |
-| reason the company is or is not peripheral | |
-| evidence about operating on its own terms | |
+| evidence of global media capacity | vertically integrated operations, in-house studios and VFX, substantial catalogue, domestic network and international distribution |
+| evidence of continuing dependence or limitation | investigate streaming platforms, overseas partners, finance, exhibition access and revenue control |
+| reason the company is or is not peripheral | provisional position: not wholly peripheral because it controls important production and distribution capacities |
+| evidence about operating on its own terms | in-house value-chain control supports autonomy, but international dependencies must be tested with external evidence |
 
 ## Recommended 500-Word Structure
 
