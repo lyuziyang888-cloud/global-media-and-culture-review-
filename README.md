@@ -49,7 +49,7 @@ Reading files from beginning to end is not the goal. The goal is to answer witho
 | [`study-guides/`](study-guides/) | Unit priorities, revision sequence and mastery checks |
 | [`lectures/`](lectures/) | Teacher definitions, argument sequence and slide anchors |
 | [`tutorials/`](tutorials/) | Applied cases, discussion questions and assessment signals |
-| [`concepts/`](concepts/) | Definitions, keywords, features, importance and common exam questions |
+| [`concepts/`](concepts/) | Short definitions, keywords, core understanding and common questions |
 | [`relationships/`](relationships/) | Explaining how A and B affect one another |
 | [`case-studies/`](case-studies/) | Evidence that can be reused across several questions |
 | [`readings/`](readings/) | Source arguments and evidence maps |
@@ -71,6 +71,7 @@ Define the concept
 When new course material arrives:
 
 - update an existing concept before creating a similar one
+- keep concept cards short; move detailed cases, limitations and relationships to their own files
 - add a relationship card only when the connection could become an exam question
 - keep a case study only when it supports at least two concepts
 - keep readings as evidence maps, not full summaries
