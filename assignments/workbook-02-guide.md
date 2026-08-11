@@ -22,10 +22,50 @@ Do not use subheadings or include a separate table of contents in the submitted 
 
 ## Assessment Criteria
 
-- accurate understanding and application of Keane's framework
-- selection of an appropriate media content company
-- critical analysis supported by the official website and relevant research
-- persuasive evaluation of the company's global media capacity
+The task is marked out of 15 across three equally weighted criteria.
+
+| Criterion | Exceeds: 3.9-5 | Satisfactory: 2-3.9 | Unsatisfactory: 0-2 |
+|---|---|---|---|
+| **Application /5** | Insightfully applies Keane's framework, integrating, synthesising and selecting relevant ideas from the prescribed reading. | Shows basic understanding and uses relevant ideas, but application may be descriptive, uneven or only partly developed. | Misunderstands the framework or uses limited, irrelevant or unsupported material from the reading. |
+| **Analysis /5** | Provides critical, well-developed analysis of the company's regional and global activities using concrete evidence. | Provides generally relevant discussion of media capacity, but relies too heavily on description or includes weak or irrelevant evidence. | Provides limited, unclear or inaccurate discussion and uses company or external evidence ineffectively. |
+| **Evaluation /5** | Makes a clear and persuasive judgement about peripheral status and entry into the global media economy on the company's own terms, supported by examples and critical reasoning. | Makes a reasonable judgement with some evidence, but justification or development is limited. | Gives little evaluation or presents an unsupported, unclear judgement. |
+
+### How to Reach Exceeds
+
+#### Application: Target 4-5/5
+
+- define the selected Keane categories accurately rather than using only their names
+- explain why those categories are the most relevant to this company
+- connect ideas from different parts of Keane's argument instead of discussing each concept in isolation
+- apply the framework to evidence; do not use Keane as background decoration
+- show discernment by excluding Keane ideas that do not help answer this particular case
+
+#### Analysis: Target 4-5/5
+
+- use precise examples of productions, ownership, intellectual property, facilities, partnerships or distribution
+- explain what each example proves about media capacity
+- locate the company within both its regional industry and the wider global media economy
+- test promotional claims from the official website against relevant independent evidence
+- identify tensions, such as global reach combined with dependence on foreign finance or platforms
+
+#### Evaluation: Target 4-5/5
+
+- state a clear overall position in the introduction
+- evaluate both questions: whether the company remains peripheral and how far it operates on its own terms
+- weigh evidence for autonomy against evidence for dependency
+- use Keane's categories to justify the final judgement
+- reach a qualified but decisive conclusion rather than ending with "it depends"
+
+### Rubric-Based Self-Score
+
+Score the draft before submission. For each criterion, write one sentence explaining the score and identify the weakest missing element.
+
+| Criterion | Score | Evidence that justifies the score | Next improvement |
+|---|---:|---|---|
+| Application | /5 | | |
+| Analysis | /5 | | |
+| Evaluation | /5 | | |
+| **Total** | **/15** | | |
 
 ## Central Question
 
@@ -189,4 +229,3 @@ in some categories while remaining dependent in others.
 ## Due Date
 
 21 August, 11:59 pm. Confirm the year and exact Canvas deadline before submission.
-
