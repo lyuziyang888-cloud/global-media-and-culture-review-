@@ -1,10 +1,10 @@
 # Scripted and Non-Scripted Formats
 
-## 30-Second Definition
+## Definition
 
 Non-scripted formats reproduce an adaptable program structure such as a quiz or reality competition, while scripted formats adapt a drama's narrative world, characters and scripts for another market.
 
-## Keywords To Memorise
+## Keywords
 
 - non-scripted
 - scripted
@@ -13,28 +13,15 @@ Non-scripted formats reproduce an adaptable program structure such as a quiz or 
 - creative authorship
 - risk management
 
-## Key Differences
+## Core Understanding
 
-- non-scripted formats usually have repeatable rules, sets and competition structures
-- scripted formats depend more heavily on culturally sensitive narrative, dialogue and characterisation
-- non-scripted formats historically offered clearer cost and risk advantages
-- scripted adaptation raises stronger concerns about authorship and creative freedom
-- finished scripted exports historically reduced studios' incentive to license remakes
+- non-scripted formats have repeatable rules and structures that are easier to reproduce
+- scripted formats require more cultural adaptation of story, dialogue and characters
+- non-scripted trade grew earlier because its cost and risk advantages were clearer
+- scripted adaptation raises stronger questions about authorship and creative freedom
 
-## Why It Matters
-
-The distinction explains why format trade developed earlier and more extensively in non-scripted television, while scripted formats rose later.
-
-## Limitation
-
-The boundary is not absolute: both forms can involve significant standardisation and local creative change.
-
-## Possible Exam Questions
+## Possible Questions
 
 - Why did non-scripted formats dominate format trade earlier than scripted formats?
 - Compare the adaptation of *1 vs 100* and *The Bridge*.
 - How does cultural sensitivity affect scripted-format adaptation?
-
-## Source Anchor
-
-Week 4 lecture, slides 14-23.
