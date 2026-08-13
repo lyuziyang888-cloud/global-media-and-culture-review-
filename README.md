@@ -51,8 +51,7 @@ Reading files from beginning to end is not the goal. The goal is to answer witho
 | [`tutorials/`](tutorials/) | Applied cases, discussion questions and assessment signals |
 | [`concepts/`](concepts/) | Short definitions, keywords, core understanding and common questions |
 | [`relationships/`](relationships/) | Explaining how A and B affect one another |
-| [`case-studies/`](case-studies/) | Evidence that can be reused across several questions |
-| [`readings/`](readings/) | Source arguments and evidence maps |
+| [`exam-evidence/`](exam-evidence/) | Reading arguments and examples ready for exam use |
 | [`assignments/`](assignments/) | Task requirements, assessment criteria and planning frameworks |
 
 ## Exam Answer Pattern
