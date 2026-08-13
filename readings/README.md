@@ -1,12 +1,10 @@
 # Readings
 
-## Unit 1
+Open the relevant unit, then use its reading map to locate the author's argument, evidence and page numbers.
 
-- [Canada's Showbiz Steps Out of Hollywood's Shadow](canadas-showbiz-steps-out-of-hollywoods-shadow.md)
+- [Unit 1: Canada's Showbiz](unit-01/canada-showbiz.md)
+- [Unit 2: Facebook's Platform Imperialism](unit-02/facebook-platform-imperialism.md)
+- [Unit 3: Mirrlees - Paradigms of Global Entertainment Media](unit-03/mirrlees-paradigms.md)
+- [Unit 4: Esser - TV Formats](unit-04/esser-tv-formats.md)
 
-## Unit 2
-
-- [Facebook's Platform Imperialism](facebook-platform-imperialism.md)
-- **Missing:** Mirrlees, Chapter 1, assigned pages 19-36
-
-Reading maps identify arguments and evidence. Always return to the original course file before using quotations, statistics or page references in assessed work.
+Reading maps are evidence guides, not substitutes for the originals. Recheck the PDF before quoting exact wording.
