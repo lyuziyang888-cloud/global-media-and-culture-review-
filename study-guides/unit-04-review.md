@@ -8,7 +8,7 @@ Week 4 examines how television concepts move across borders as adaptable product
 
 - [Week 4 Lecture](../lectures/week-04-format-programs.md)
 - [Week 4 Tutorial](../tutorials/week-04-format-programs.md)
-- [Esser: TV Formats](../readings/unit-04/esser-tv-formats.md)
+- [Unit 4 Exam Evidence](../exam-evidence/unit-04.md)
 - [Workbook 2 Guide](../assignments/workbook-02-guide.md)
 
 ## Learning Targets
@@ -49,7 +49,7 @@ finished programs are not the only form of international television trade
 
 ## Reusable Evidence
 
-- [Unit 4 Exam Examples](../case-studies/unit-04/exam-examples.md)
+- [Unit 4 Exam Evidence](../exam-evidence/unit-04.md)
 - *1 vs 100* for non-scripted standardisation and localisation
 - *The Bridge* for scripted adaptation and cultural sensitivity
 - *The Traitors* for local uniqueness and West-versus-Rest discussion

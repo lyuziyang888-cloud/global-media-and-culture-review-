@@ -8,7 +8,7 @@ Unit 1 introduces global media as a field of critical inquiry. It questions simp
 
 - [Week 1 Lecture](../lectures/week-01-course-overview.md)
 - [Week 1 Tutorial](../tutorials/week-01-what-is-global-media.md)
-- [Canada's Showbiz Reading](../readings/unit-01/canada-showbiz.md)
+- [Unit 1 Exam Evidence](../exam-evidence/unit-01.md)
 
 ## Learning Targets
 
@@ -52,8 +52,7 @@ globalisation increases cross-border media connections
 
 ## Reusable Evidence
 
-- [Unit 1 Exam Examples](../case-studies/unit-01/exam-examples.md): *Heated Rivalry*, *North of North*, platform reach and Canadian regulation
-- [Canada's Showbiz Reading](../readings/unit-01/canada-showbiz.md): author argument, evidence and source pages
+- [Unit 1 Exam Evidence](../exam-evidence/unit-01.md): reading claim, *Heated Rivalry*, *North of North* and Canadian regulation
 
 ## Tutorial Discussion Questions and Answers
 

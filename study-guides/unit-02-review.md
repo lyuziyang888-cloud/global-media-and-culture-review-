@@ -8,8 +8,8 @@ Week 2 treats **media imperialism as the main paradigm** and **platform imperial
 
 - [Week 2 Lecture](../lectures/week-02-media-imperialism.md)
 - [Week 2 Tutorial](../tutorials/week-02-media-imperialism.md)
-- [Jin: Facebook's Platform Imperialism](../readings/unit-02/facebook-platform-imperialism.md)
-- [Mirrlees: Paradigms of Global Entertainment Media](../readings/unit-03/mirrlees-paradigms.md) (shared theoretical foundation for Units 2 and 3)
+- [Unit 2 Exam Evidence](../exam-evidence/unit-02.md)
+- [Unit 3 Exam Evidence](../exam-evidence/unit-03.md) (Mirrlees also provides Unit 2's theoretical foundation)
 - [Workbook 1 Guide](../assignments/workbook-01-guide.md)
 
 The Week 1 lecture identifies Mirrlees Chapter 1 (assigned pages 19-36) and Jin Chapter 13 as the Week 2 readings. The Mirrlees chapter is still missing from this repository, so its ideas must not be reconstructed from memory.
@@ -58,7 +58,7 @@ Colonial and postcolonial inequality
 
 ## Reusable Evidence
 
-- [Unit 2 Exam Examples](../case-studies/unit-02/exam-examples.md): one-way flows, militainment, Facebook data and platform dominance
+- [Unit 2 Exam Evidence](../exam-evidence/unit-02.md): Facebook data, platform dominance and militainment
 
 ## Tutorial Discussion Questions and Answers
 
