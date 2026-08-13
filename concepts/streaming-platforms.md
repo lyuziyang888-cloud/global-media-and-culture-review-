@@ -1,5 +1,7 @@
 # Streaming Platforms
 
+**Unit:** Unit 1: Global Media
+
 ## Definition
 
 Streaming platforms are digital services that distribute media content online to audiences, often across national borders.

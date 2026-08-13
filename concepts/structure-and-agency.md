@@ -1,5 +1,7 @@
 # Structure and Agency
 
+**Unit:** Identity Material: Unit Pending Confirmation
+
 ## Definition
 
 Structure and agency describe the tension between social forces that shape or restrict identity and the capacity of individuals or groups to act, interpret roles and reconstruct identities.

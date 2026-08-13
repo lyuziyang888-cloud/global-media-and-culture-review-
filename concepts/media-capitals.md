@@ -1,5 +1,7 @@
 # Media Capitals
 
+**Unit:** Unit 3: Cultural Globalisation
+
 ## Definition
 
 Media capitals are dynamic and historically contingent centres where resources, reputation and talent concentrate, enabling efficient and sustained media production.

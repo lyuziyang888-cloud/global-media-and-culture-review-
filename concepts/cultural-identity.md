@@ -1,5 +1,7 @@
 # Cultural Identity
 
+**Unit:** Unit 1: Global Media
+
 ## Definition
 
 Cultural identity refers to the shared meanings, values, symbols, stories and practices through which a group understands itself.

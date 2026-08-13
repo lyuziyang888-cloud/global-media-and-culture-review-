@@ -1,5 +1,7 @@
 # Difference
 
+**Unit:** Identity Material: Unit Pending Confirmation
+
 ## Definition
 
 Difference is the relational process through which identities are distinguished by defining who is included as "us" and who is excluded as "them."

@@ -1,5 +1,7 @@
 # Media Imperialism
 
+**Unit:** Unit 2: Media Imperialism
+
 ## Definition
 
 Media imperialism is a paradigm for explaining how media from powerful nations or corporations dominate other nations and cultures through unequal ownership, infrastructure, production, distribution and largely one-way flows.

@@ -1,5 +1,7 @@
 # Media Regulation
 
+**Unit:** Unit 1: Global Media
+
 ## Definition
 
 Media regulation refers to government rules, policies and institutions that shape how media industries operate, fund content and serve public or cultural goals.

@@ -1,5 +1,7 @@
 # Cultural Homogenisation
 
+**Unit:** Unit 1: Global Media
+
 ## Definition
 
 Cultural homogenisation is the process through which cultural differences are reduced as dominant media, values, styles and standards spread across societies.

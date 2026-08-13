@@ -1,5 +1,7 @@
 # World-Systems Theory
 
+**Unit:** Unit 2: Media Imperialism
+
 ## Definition
 
 World-systems theory describes a global system divided into core, semi-periphery and periphery positions, where core countries benefit from unequal relationships with less powerful regions.

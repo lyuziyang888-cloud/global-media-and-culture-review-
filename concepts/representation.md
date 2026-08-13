@@ -1,5 +1,7 @@
 # Representation
 
+**Unit:** Unit 1: Global Media
+
 ## Definition
 
 Representation refers to how people, places, cultures, identities and social groups are portrayed in media.

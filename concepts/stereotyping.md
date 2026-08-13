@@ -1,5 +1,7 @@
 # Stereotyping
 
+**Unit:** Identity Material: Unit Pending Confirmation
+
 ## Definition
 
 Stereotyping is the repeated reduction of a group to simplified, generalised characteristics that appear natural and can reinforce unequal power relations.

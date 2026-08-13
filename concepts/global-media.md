@@ -1,5 +1,7 @@
 # Global Media
 
+**Unit:** Unit 1: Global Media
+
 ## Definition
 
 Global media refers to media content, industries, platforms and audiences that operate across national and cultural boundaries.

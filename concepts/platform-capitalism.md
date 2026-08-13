@@ -1,5 +1,7 @@
 # Platform Capitalism
 
+**Unit:** Unit 2: Media Imperialism
+
 ## Definition
 
 Platform capitalism is a business system in which privately owned digital platforms mediate interactions, collect user data and convert attention, activity and data into profit.

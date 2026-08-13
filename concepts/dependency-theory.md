@@ -1,5 +1,7 @@
 # Dependency Theory
 
+**Unit:** Unit 2: Media Imperialism
+
 ## Definition
 
 Dependency theory argues that capitalist development can reproduce unequal relationships in which developing or postcolonial countries remain economically and structurally dependent on powerful Anglo-European countries.

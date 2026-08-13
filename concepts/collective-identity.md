@@ -1,5 +1,7 @@
 # Collective Identity
 
+**Unit:** Identity Material: Unit Pending Confirmation
+
 ## Definition
 
 Collective identity is a shared sense of "we" through which people recognise common experiences, interests or differences and act together.

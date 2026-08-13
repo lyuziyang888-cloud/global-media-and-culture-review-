@@ -1,5 +1,7 @@
 # Western Media
 
+**Unit:** Unit 1: Global Media
+
 ## Definition
 
 Western media refers to media associated with countries, industries, values or cultural traditions commonly understood as part of "the West", although the category is contested and not always clear.

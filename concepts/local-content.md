@@ -1,5 +1,7 @@
 # Local Content
 
+**Unit:** Unit 1: Global Media
+
 ## Definition
 
 Local content refers to media that is connected to a particular place, culture, community or nation through its production, stories, creators, locations, language or themes.

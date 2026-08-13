@@ -1,5 +1,7 @@
 # Data Commodification
 
+**Unit:** Unit 2: Media Imperialism
+
 ## Definition
 
 Data commodification is the process of turning users' activities, attention, personal information and data trails into commercial assets.
