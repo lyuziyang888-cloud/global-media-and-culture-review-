@@ -10,13 +10,13 @@ Canada's screen industry shows the tension between global market reach and the p
 
 ## Useful For These Concepts
 
-- [Globalisation](../concepts/globalisation.md)
-- [Local Content](../concepts/local-content.md)
-- [Cultural Identity](../concepts/cultural-identity.md)
-- [National Identity](../concepts/national-identity.md)
-- [Media Regulation](../concepts/media-regulation.md)
-- [Streaming Platforms](../concepts/streaming-platforms.md)
-- [Platform Power](../concepts/platform-power.md)
+- [Globalisation](../concepts/unit-01-global-media/globalisation.md)
+- [Local Content](../concepts/unit-01-global-media/local-content.md)
+- [Cultural Identity](../concepts/unit-01-global-media/cultural-identity.md)
+- [National Identity](../concepts/unit-01-global-media/national-identity.md)
+- [Media Regulation](../concepts/unit-01-global-media/media-regulation.md)
+- [Streaming Platforms](../concepts/unit-01-global-media/streaming-platforms.md)
+- [Platform Power](../concepts/unit-01-global-media/platform-power.md)
 
 ## Exam Use
 

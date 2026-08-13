@@ -10,11 +10,11 @@ Woodward uses Madan Sarup's passports to show that official documents assign ide
 
 ## Useful For These Concepts
 
-- [Identity](../concepts/identity.md)
-- [National Identity](../concepts/national-identity.md)
-- [Difference](../concepts/difference.md)
-- [Structure and Agency](../concepts/structure-and-agency.md)
-- [Representation](../concepts/representation.md)
+- [Identity](../concepts/identity-material-pending/identity.md)
+- [National Identity](../concepts/unit-01-global-media/national-identity.md)
+- [Difference](../concepts/identity-material-pending/difference.md)
+- [Structure and Agency](../concepts/identity-material-pending/structure-and-agency.md)
+- [Representation](../concepts/unit-01-global-media/representation.md)
 
 ## Analysis Points
 
