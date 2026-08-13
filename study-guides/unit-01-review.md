@@ -8,7 +8,7 @@ Unit 1 introduces global media as a field of critical inquiry. It questions simp
 
 - [Week 1 Lecture](../lectures/week-01-course-overview.md)
 - [Week 1 Tutorial](../tutorials/week-01-what-is-global-media.md)
-- [Canada's Showbiz Reading](../readings/canadas-showbiz-steps-out-of-hollywoods-shadow.md)
+- [Canada's Showbiz Reading](../readings/unit-01/canada-showbiz.md)
 
 ## Learning Targets
 
@@ -52,11 +52,8 @@ globalisation increases cross-border media connections
 
 ## Reusable Evidence
 
-- [Canada Screen Industry](../case-studies/canada-screen-industry.md): global reach, local culture and regulation
-- [Heated Rivalry](../case-studies/heated-rivalry.md): how production details construct media nationality
-- [North of North](../case-studies/north-of-north.md): Indigenous representation and global distribution
-- [KPop Demon Hunters](../case-studies/kpop-demon-hunters.md): hybrid identity and contested national classification
-- [Canada's Showbiz Reading](../readings/canadas-showbiz-steps-out-of-hollywoods-shadow.md): source overview and evidence map
+- [Unit 1 Exam Examples](../case-studies/unit-01/exam-examples.md): *Heated Rivalry*, *North of North*, platform reach and Canadian regulation
+- [Canada's Showbiz Reading](../readings/unit-01/canada-showbiz.md): author argument, evidence and source pages
 
 ## Tutorial Discussion Questions and Answers
 

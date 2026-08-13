@@ -51,8 +51,8 @@ media imperialism cannot fully explain audiences and non-US success
 
 ## Reusable Evidence
 
-- [Jane the Virgin: Contra-Flow and Adaptation](../case-studies/jane-the-virgin-contra-flow.md)
-- [Chinese Microdramas: Global Popularity](../case-studies/chinese-microdramas.md)
+- [Mirrlees: Paradigms of Global Entertainment Media](../readings/unit-03/mirrlees-paradigms.md)
+- [Unit 3 Exam Examples](../case-studies/unit-03/exam-examples.md): Lucas versus Legrain, *Jane the Virgin* and Chinese microdramas
 - Brazilian and Latin American audience cases in the lecture map
 - national Top 10 streaming charts, when time period and ranking method are recorded
 
