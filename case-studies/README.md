@@ -22,8 +22,4 @@
 
 - [Format Program Examples](format-program-examples.md)
 
-## Identity Material
-
-- [Passport and Institutional Identity](passport-and-institutional-identity.md)
-
 Use case studies as evidence after defining and applying a concept. Do not replace analysis with plot or company description.
