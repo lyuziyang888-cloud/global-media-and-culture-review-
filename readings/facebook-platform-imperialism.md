@@ -21,11 +21,11 @@ Privately owned platform infrastructure
 
 ## Key Concepts
 
-- [Platform Capitalism](../concepts/platform-capitalism.md)
-- [Platform Imperialism](../concepts/platform-imperialism.md)
-- [Data Commodification](../concepts/data-commodification.md)
-- [Media Imperialism](../concepts/media-imperialism.md)
-- [Platform Power](../concepts/platform-power.md)
+- [Platform Capitalism](../concepts/unit-02-media-imperialism/platform-capitalism.md)
+- [Platform Imperialism](../concepts/unit-02-media-imperialism/platform-imperialism.md)
+- [Data Commodification](../concepts/unit-02-media-imperialism/data-commodification.md)
+- [Media Imperialism](../concepts/unit-02-media-imperialism/media-imperialism.md)
+- [Platform Power](../concepts/unit-01-global-media/platform-power.md)
 
 ## Key Evidence
 

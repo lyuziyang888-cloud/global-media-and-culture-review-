@@ -24,23 +24,23 @@ Identity links the personal and the social. It is formed through identification,
 
 ## Core Concepts
 
-- [Identity](../concepts/identity.md)
-- [Identification](../concepts/identification.md)
-- [Difference](../concepts/difference.md)
-- [Structure and Agency](../concepts/structure-and-agency.md)
-- [Identity Performance](../concepts/identity-performance.md)
-- [Interpellation](../concepts/interpellation.md)
+- [Identity](../concepts/identity-material-pending/identity.md)
+- [Identification](../concepts/identity-material-pending/identification.md)
+- [Difference](../concepts/identity-material-pending/difference.md)
+- [Structure and Agency](../concepts/identity-material-pending/structure-and-agency.md)
+- [Identity Performance](../concepts/identity-material-pending/identity-performance.md)
+- [Interpellation](../concepts/identity-material-pending/interpellation.md)
 
 ## Supporting Concepts
 
-- [Multiple Identities](../concepts/multiple-identities.md)
-- [The Unconscious and Identity](../concepts/unconscious-and-identity.md)
-- [Stereotyping](../concepts/stereotyping.md)
-- [Identity Crisis](../concepts/identity-crisis.md)
-- [Collective Identity](../concepts/collective-identity.md)
-- [Body Projects](../concepts/body-projects.md)
-- [Representation](../concepts/representation.md)
-- [National Identity](../concepts/national-identity.md)
+- [Multiple Identities](../concepts/identity-material-pending/multiple-identities.md)
+- [The Unconscious and Identity](../concepts/identity-material-pending/unconscious-and-identity.md)
+- [Stereotyping](../concepts/identity-material-pending/stereotyping.md)
+- [Identity Crisis](../concepts/identity-material-pending/identity-crisis.md)
+- [Collective Identity](../concepts/identity-material-pending/collective-identity.md)
+- [Body Projects](../concepts/identity-material-pending/body-projects.md)
+- [Representation](../concepts/unit-01-global-media/representation.md)
+- [National Identity](../concepts/unit-01-global-media/national-identity.md)
 
 ## Key Arguments
 
