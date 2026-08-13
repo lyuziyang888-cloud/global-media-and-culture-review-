@@ -26,14 +26,14 @@ By the end of this unit, you should be able to:
 
 ## Core Concepts
 
-- [Cultural Globalisation](../concepts/cultural-globalisation.md)
-- [Five-Scapes Model](../concepts/five-scapes-model.md)
-- [Cultural Proximity](../concepts/cultural-proximity.md)
-- [Contra-Flows](../concepts/contra-flows.md)
-- [Media Capitals](../concepts/media-capitals.md)
-- [Asymmetrical Interdependence](../concepts/asymmetrical-interdependence.md)
+- [Cultural Globalisation](../concepts/unit-03-cultural-globalisation/cultural-globalisation.md)
+- [Five-Scapes Model](../concepts/unit-03-cultural-globalisation/five-scapes-model.md)
+- [Cultural Proximity](../concepts/unit-03-cultural-globalisation/cultural-proximity.md)
+- [Contra-Flows](../concepts/unit-03-cultural-globalisation/contra-flows.md)
+- [Media Capitals](../concepts/unit-03-cultural-globalisation/media-capitals.md)
+- [Asymmetrical Interdependence](../concepts/unit-03-cultural-globalisation/asymmetrical-interdependence.md)
 
-Supporting concepts: [Media Imperialism](../concepts/media-imperialism.md), [Cultural Homogenisation](../concepts/cultural-homogenisation.md), [Streaming Platforms](../concepts/streaming-platforms.md) and [Platform Power](../concepts/platform-power.md).
+Supporting concepts: [Media Imperialism](../concepts/unit-02-media-imperialism/media-imperialism.md), [Cultural Homogenisation](../concepts/unit-01-global-media/cultural-homogenisation.md), [Streaming Platforms](../concepts/unit-01-global-media/streaming-platforms.md) and [Platform Power](../concepts/unit-01-global-media/platform-power.md).
 
 ## Main Argument Chain
 

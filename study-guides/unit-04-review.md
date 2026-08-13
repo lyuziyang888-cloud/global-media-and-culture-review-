@@ -25,11 +25,11 @@ By the end of this unit, you should be able to:
 
 ## Core Concepts
 
-- [Format Programs](../concepts/format-programs.md)
-- [Canned Programs](../concepts/canned-programs.md)
-- [Scripted and Non-Scripted Formats](../concepts/scripted-and-non-scripted-formats.md)
+- [Format Programs](../concepts/unit-04-format-programs/format-programs.md)
+- [Canned Programs](../concepts/unit-04-format-programs/canned-programs.md)
+- [Scripted and Non-Scripted Formats](../concepts/unit-04-format-programs/scripted-and-non-scripted-formats.md)
 
-Supporting concepts: [Local Content](../concepts/local-content.md), [Cultural Globalisation](../concepts/cultural-globalisation.md), [Media Imperialism](../concepts/media-imperialism.md) and [Cultural Proximity](../concepts/cultural-proximity.md).
+Supporting concepts: [Local Content](../concepts/unit-01-global-media/local-content.md), [Cultural Globalisation](../concepts/unit-03-cultural-globalisation/cultural-globalisation.md), [Media Imperialism](../concepts/unit-02-media-imperialism/media-imperialism.md) and [Cultural Proximity](../concepts/unit-03-cultural-globalisation/cultural-proximity.md).
 
 ## Main Argument Chain
 

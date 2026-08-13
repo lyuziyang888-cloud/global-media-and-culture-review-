@@ -29,14 +29,14 @@ By the end of this unit, you should be able to:
 
 Learn these first:
 
-- [Media Imperialism](../concepts/media-imperialism.md)
-- [Dependency Theory](../concepts/dependency-theory.md)
-- [World-Systems Theory](../concepts/world-systems-theory.md)
-- [One-Way Media Flow](../concepts/one-way-media-flow.md)
-- [Transnational Media Corporations](../concepts/transnational-media-corporations.md)
-- [Platform Imperialism](../concepts/platform-imperialism.md)
+- [Media Imperialism](../concepts/unit-02-media-imperialism/media-imperialism.md)
+- [Dependency Theory](../concepts/unit-02-media-imperialism/dependency-theory.md)
+- [World-Systems Theory](../concepts/unit-02-media-imperialism/world-systems-theory.md)
+- [One-Way Media Flow](../concepts/unit-02-media-imperialism/one-way-media-flow.md)
+- [Transnational Media Corporations](../concepts/unit-02-media-imperialism/transnational-media-corporations.md)
+- [Platform Imperialism](../concepts/unit-02-media-imperialism/platform-imperialism.md)
 
-Supporting concepts: [Cultural Homogenisation](../concepts/cultural-homogenisation.md), [Platform Capitalism](../concepts/platform-capitalism.md), [Data Commodification](../concepts/data-commodification.md), and [Platform Power](../concepts/platform-power.md).
+Supporting concepts: [Cultural Homogenisation](../concepts/unit-01-global-media/cultural-homogenisation.md), [Platform Capitalism](../concepts/unit-02-media-imperialism/platform-capitalism.md), [Data Commodification](../concepts/unit-02-media-imperialism/data-commodification.md), and [Platform Power](../concepts/unit-01-global-media/platform-power.md).
 
 ## Main Argument Chain
 

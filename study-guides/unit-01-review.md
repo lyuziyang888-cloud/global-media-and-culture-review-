@@ -23,16 +23,16 @@ By the end of this unit, you should be able to:
 
 ## Core Concepts
 
-1. [Global Media](../concepts/global-media.md)
-2. [Globalisation](../concepts/globalisation.md)
-3. [Local Content](../concepts/local-content.md)
-4. [Cultural Identity](../concepts/cultural-identity.md)
-5. [National Identity](../concepts/national-identity.md)
-6. [Representation](../concepts/representation.md)
-7. [Streaming Platforms](../concepts/streaming-platforms.md)
-8. [Platform Power](../concepts/platform-power.md)
-9. [Media Regulation](../concepts/media-regulation.md)
-10. [Western Media](../concepts/western-media.md)
+1. [Global Media](../concepts/unit-01-global-media/global-media.md)
+2. [Globalisation](../concepts/unit-01-global-media/globalisation.md)
+3. [Local Content](../concepts/unit-01-global-media/local-content.md)
+4. [Cultural Identity](../concepts/unit-01-global-media/cultural-identity.md)
+5. [National Identity](../concepts/unit-01-global-media/national-identity.md)
+6. [Representation](../concepts/unit-01-global-media/representation.md)
+7. [Streaming Platforms](../concepts/unit-01-global-media/streaming-platforms.md)
+8. [Platform Power](../concepts/unit-01-global-media/platform-power.md)
+9. [Media Regulation](../concepts/unit-01-global-media/media-regulation.md)
+10. [Western Media](../concepts/unit-01-global-media/western-media.md)
 
 ## Main Argument Chain
 
