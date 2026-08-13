@@ -1,25 +1,10 @@
-# Case Studies
+# Exam Examples
 
-## Unit 1: Global Media
+Each unit has one compact example bank. Choose an example by concept, then use its final column as the analytical point.
 
-- [Canada Screen Industry](canada-screen-industry.md)
-- [Heated Rivalry](heated-rivalry.md)
-- [KPop Demon Hunters](kpop-demon-hunters.md)
-- [North of North](north-of-north.md)
+- [Unit 1 Exam Examples](unit-01/exam-examples.md)
+- [Unit 2 Exam Examples](unit-02/exam-examples.md)
+- [Unit 3 Exam Examples](unit-03/exam-examples.md)
+- [Unit 4 Exam Examples](unit-04/exam-examples.md)
 
-## Unit 2: Media Imperialism
-
-- [Facebook Platform Imperialism](facebook-platform-imperialism.md)
-- [Hollywood-Pentagon Militainment](hollywood-pentagon-militainment.md)
-- [UNESCO, MacBride and NWICO](unesco-macbride-nwico.md)
-
-## Unit 3: Cultural Globalisation
-
-- [Jane the Virgin as a Contra-Flow](jane-the-virgin-contra-flow.md)
-- [Chinese Microdramas](chinese-microdramas.md)
-
-## Unit 4: Format Programs
-
-- [Format Program Examples](format-program-examples.md)
-
-Use case studies as evidence after defining and applying a concept. Do not replace analysis with plot or company description.
+In an answer, use this order: define the concept, give the specific example, explain what the example demonstrates, then connect it back to the question.
