@@ -22,9 +22,4 @@
 
 - [Format Programs and Globalisation](format-programs-and-globalisation.md)
 
-## Identity Material
-
-- [Identity and Difference](identity-and-difference.md)
-- [Structure and Agency in Identity](structure-and-agency-in-identity.md)
-
 Relationship cards explain how concepts interact, where they conflict and what evidence can demonstrate the connection. Use them for compare, discuss and evaluate questions.
