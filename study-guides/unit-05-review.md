@@ -1,60 +1,47 @@
 # Unit 5 Review: Localising Streaming
 
-## Unit Focus
+## Must Know
 
-Week 5 examines how global streaming platforms change when they enter powerful local markets. India shows that platform power is negotiated through market scale, cultural diversity, local industries, audiences and regulation.
+- **Industrial contact zone:** a market where global and local media industries interact and change each other.
+- **Cosmopolitan local:** a global platform makes local stories in globally familiar forms.
+- **Indigenized global:** a local platform adopts global industrial practices around local culture.
 
-## Sources
+## Best Examples
 
-- [Week 5 Lecture](../lectures/week-05-localising-streaming.md)
-- [Week 5 Tutorial](../tutorials/week-05-localising-streaming.md)
-- [Unit 5 Exam Evidence](../exam-evidence/unit-05.md)
+- **Netflix India:** uses Indian stories, Bollywood workers and local genres.
+- ***Sacred Games*:** Indian story produced for Netflix's global service.
+- **Hotstar:** combines streaming with Indian languages, Bollywood and cricket.
 
-## Core Concepts
+[More evidence](../exam-evidence/unit-05.md)
 
-- [Industrial Contact Zones](../concepts/unit-05-localising-streaming/industrial-contact-zones.md)
-- [Streaming Localisation](../concepts/unit-05-localising-streaming/streaming-localisation.md)
-- [Cosmopolitan Local and Indigenized Global](../concepts/unit-05-localising-streaming/cosmopolitan-local-and-indigenized-global.md)
-- [Bollywoodization of Netflix](../concepts/unit-05-localising-streaming/bollywoodization-of-netflix.md)
-
-## Main Argument
-
-```text
-global platforms enter India
--> encounter strong local industries, languages and audiences
--> adapt content and business strategies
--> Netflix becomes Bollywoodized; Hotstar builds a cricketverse
--> platform power remains unequal but varies by local context
-```
-
-## How Should You Study?
-
-### What is an industrial contact zone?
-
-It is a space where global and local industries interact and change under asymmetrical but negotiable power relations. India matters because its scale and media capacity give local actors meaningful influence over global platforms.
+## Key Questions
 
 ### Compare Netflix and Hotstar
 
-Netflix's cosmopolitan-local strategy uses Indian stories within globally familiar genres for cosmopolitan audiences. Hotstar's indigenized-global strategy builds global industrial practices around Indian languages, Bollywood and cricket for local and diasporic audiences.
+Netflix becomes more Indian to compete locally. Hotstar uses global streaming methods but remains centred on Indian content and cricket.
 
-### How does India complicate platform imperialism?
+### How does India limit platform imperialism?
 
-Netflix has global capital and distribution power, but it is only one competitor in India. It must work with Bollywood, lower prices and respond to local preferences and policy. Platform imperialism identifies structural inequality, but industrial contact zones explain why power varies across markets.
+Netflix has global power, but it must compete with strong local platforms, lower prices and respond to Indian audiences and regulation.
 
-## Tutorial Exam Practice
+### What does the Indian Netflix chart show?
 
-[Industrial Contact Zones and Format Programs](../relationships/industrial-contact-zones-and-format-programs.md) provides the answer to the *Traitors* application question.
+Netflix has much less Indian-produced content than Zee5, Sun NXT and JioHotstar. It is important but not dominant.
 
-## Best Evidence
+## Tutorial Exam Question
 
-1. Hotstar's IPL cricketverse: indigenized global.
-2. *Sacred Games* as India's *Narcos*: cosmopolitan local and Bollywoodization.
-3. Hotstar 25 million versus Netflix 4.6 million subscribers in the reading: local context limits global-platform dominance.
+**Question:** Apply industrial contact zones to television formats using *The Traitors*.
 
-## Mastery Check
+**Short answer:** The format keeps its central rules, but local producers change the location, host, contestants and prize. This shows global format ownership interacting with local production.
 
-- [ ] I can define industrial contact zones.
-- [ ] I can compare the two localisation strategies.
-- [ ] I can explain the Bollywoodization of Netflix.
-- [ ] I can apply the concept to India and *The Traitors*.
-- [ ] I can evaluate, rather than simply accept or reject, platform imperialism.
+## Exam Answer Pattern
+
+```text
+define industrial contact zone
+-> identify global power
+-> identify local influence
+-> apply Netflix, Hotstar or The Traitors
+-> explain how both sides change
+```
+
+**Useful judgement:** India is not a passive market. Global platforms have power, but local industries, audiences and regulation force them to adapt.
