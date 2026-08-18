@@ -70,16 +70,16 @@ The task is marked out of 15 across three equally weighted criteria.
 - use Keane's categories to justify the final judgement
 - reach a qualified but decisive conclusion rather than ending with "it depends"
 
-### Rubric-Based Self-Score
+### Rubric Target
 
-Score the draft before submission. For each criterion, write one sentence explaining the score and identify the weakest missing element.
+The guide is designed around the following submission target. Use it to test the finished draft rather than leaving the score undecided.
 
-| Criterion | Score | Evidence that justifies the score | Next improvement |
+| Criterion | Target | Evidence required in the finished response | Final quality check |
 |---|---:|---|---|
-| Application | /5 | | |
-| Analysis | /5 | | |
-| Evaluation | /5 | | |
-| **Total** | **/15** | | |
+| Application | 4-5/5 | accurate application of niche breakthrough markets and cultural/industrial milieu, with Keane page references | every company fact must be interpreted through a Keane category |
+| Analysis | 4-5/5 | YRF evidence, independent evidence about the Mumbai cluster and international circulation, plus one limitation | each example must explain capacity, not merely describe activity |
+| Evaluation | 4-5/5 | decisive judgement that YRF is no longer wholly peripheral but retains platform and market-access dependencies | directly answer both peripheral status and operation on its own terms |
+| **Target total** | **12-15/15** | all three criteria must be developed within 500 words | cut background description before cutting analysis or evaluation |
 
 ## Central Question
 
@@ -122,16 +122,18 @@ Keep this overview brief in the final response. The assignment is evaluating cap
 | yFX provides 3D asset creation, animation, matte painting, compositing and visual effects using an in-house technical pipeline. | specialised technical labour, post-production capability and movement into high-value production services | [YRF Studios and yFX](https://www.yashrajfilms.com/divisions/yrf-studios) |
 | Its divisions include production, international distribution, studios, VFX, entertainment, music, digital media, talent, licensing and merchandising. | diversification and vertical integration across the media value chain | [YRF Divisions](https://www.yashrajfilms.com/divisions) |
 
-### Strong Evidence Pair
+### Recommended Keane Categories
 
-Do not choose Keane categories until their exact names and definitions have been confirmed from the Week 6 reading. Based on the company evidence, the strongest eventual pairing will probably be:
+Use these two categories as the main analytical pair:
 
-1. the category dealing with **production infrastructure, technology or industrial capacity**, supported by YRF Studios and yFX
-2. the category dealing with **creative content, intellectual property, markets or distribution**, supported by its film catalogue, integrated divisions and international distribution
+1. **Niche breakthrough markets**: YRF develops culturally specific Indian films and uses its international distribution capacity to move them beyond domestic and diaspora markets. *Pathaan* is the clearest owned example because YRF produced it and later promoted a dubbed release across Russia and the CIS.
+2. **Cultural/industrial milieu (creative clusters)**: YRF's Mumbai base combines studios, sound stages, post-production, VFX, creative labour, talent management and distribution. These activities indicate high-value capacity rather than dependence on low-cost outsourced work alone.
 
-Replace these descriptive labels with Keane's exact terminology before drafting.
+Important qualification: Keane's fifth category describes a **cluster**, not simply a vertically integrated company. The paragraph must connect YRF's in-house capacity to Mumbai's wider film-production environment, specialised labour, suppliers, institutions and knowledge exchange. Do not claim that YRF alone constitutes the entire milieu.
 
-### Provisional Argument
+Do not add a third category in the 500-word response. Cultural technology transfer is less efficient for this case because the strongest available YRF evidence concerns owned production capacity and international circulation, not a clearly documented transfer of shared IP or expertise.
+
+### Final Recommended Position
 
 ```text
 YRF is no longer adequately described as a wholly peripheral producer
@@ -142,30 +144,29 @@ global reach does not by itself prove equal access to finance, platforms,
 screens, revenue or bargaining power in the wider media economy.
 ```
 
-### Critical Questions for External Research
+### Confirmed Critical Tension
 
-- Does YRF own the intellectual property of the specific films used as examples?
-- In how many countries or territories does it directly distribute, and where does it rely on partners?
-- Who controls streaming distribution for major YRF titles?
-- Does international box-office reach translate into control over revenue and release conditions?
-- Are the company's claims of being fully integrated supported by independent industry evidence?
-- How does YRF compare with major Indian and global studios in production scale and market power?
-
-The official website is evidence of what YRF does and how it represents itself. It is not independent proof that YRF possesses equal global power.
+YRF produced *Pathaan* and controls substantial production, IP and distribution capacity. Its international theatrical reach and Netflix partnership expand access to global audiences, but they do not give YRF complete control over overseas cinemas, digital platforms or audience discovery. The official website is evidence of what YRF does and how it represents itself; independent sources are used to test its claims rather than assume equal global power.
 
 ## Keane Framework
 
-Complete this section from the assigned Week 6 reading before drafting.
+Keane presents five growth models for evaluating how once-peripheral media industries enter the global economy. They are not a simple checklist or a guaranteed linear path. They distinguish low-value participation from stronger capacity to create, own and circulate media.
 
-| Category | Exact definition from Keane | Indicators to investigate | Company evidence |
+| Category | Meaning in Keane | Indicators | Relevance to YRF |
 |---|---|---|---|
-| Category 1 | | | |
-| Category 2 | | | |
-| Category 3 | | | |
-| Category 4 | | | |
-| Category 5 | | | |
+| **1. De-territorialisation / world factory model** | Foreign production is relocated to lower-cost locations. It may create jobs and skills, but can produce a race to the bottom because foreign firms usually retain IP and higher-value control (pp. 842-843). | outsourced production, cost incentives, service work, foreign IP ownership | Weak as a main category. YRF provides some production services, but this does not explain its strongest capacity. |
+| **2. Isomorphism / cloning** | Firms conform to state pressure, imitate successful competitors or adopt industry norms. Mimetic cloning offers short-term rewards but can reduce originality and value creation (pp. 843-844). | copied genres or formats, follow-the-leader strategies, unlicensed imitation, standardised best practice | Weak unless a precise imitation or adaptation can be demonstrated. Do not equate all genre filmmaking with cloning. |
+| **3. Cultural technology transfer** | Co-productions, franchises and licensed formats transfer training, expertise and infrastructure. Unlike outsourcing or cloning, this may involve legal adaptation and sharing or licensing IP (pp. 844-845). | co-production, joint venture, licensed remake, franchise, shared IP, transferred expertise | Possible backup category, but only with evidence of an actual YRF partnership or IP arrangement. |
+| **4. Niche breakthrough markets** | Culturally specific products use expanding channels, informed audiences and international distribution to move from niche circulation towards global success. Innovation offers an alternative to imitation (pp. 845-846). | overseas releases, dubbing, festivals, diaspora and non-diaspora audiences, global hit, culturally distinctive IP | Strong. Use YRF-owned *Pathaan* and its overseas strategy rather than films that YRF only distributed. |
+| **5. Cultural/industrial milieu** | Co-located firms, skilled labour, infrastructure, R&D and knowledge spillovers form creative clusters that generate sustained innovation and higher-value capacity (pp. 846-847). | studios, VFX, specialist workers, training, suppliers, institutions, urban cluster, knowledge exchange | Strong. YRF Studios and yFX provide firm-level evidence, while Lorenzen and Täube establish Bollywood as a geographically centred Mumbai cluster shaped by professional networks. |
 
-Apply at least two categories in the assignment. Choose categories that produce a meaningful comparison and for which the company provides specific evidence.
+### Keane's Overall Argument
+
+Keane argues that integration into the global economy does not automatically disadvantage peripheral producers; it can create "conditions of possibility" for new media centres. However, analysis must still examine concentrated ownership and power (pp. 852-853). This balance should guide the final judgement on YRF.
+
+**Prescribed reading:**
+
+Keane, M. (2006). Once were peripheral: Creating media capacity in East Asia. *Media, Culture & Society, 28*(6), 835-855. https://doi.org/10.1177/0163443706068712
 
 ## Choosing a Strong Company
 
@@ -194,36 +195,83 @@ Use sources for different jobs:
 
 Do not treat promotional language on the official website as neutral evidence. Compare claims such as "global," "innovative" or "leading" with observable activities and independent evidence.
 
+### Confirmed Source Bank
+
+| Source | Ready-to-use evidence | Analytical purpose |
+|---|---|---|
+| Keane (2006), pp. 845-847 | defines niche breakthrough markets and cultural/industrial milieu | prescribed framework and category application |
+| [YRF company profile](https://www.yashrajfilms.com/about-us/the-company) | YRF identifies itself as privately held, vertically integrated and active across production, post-production, distribution, music, licensing, talent and studios | demonstrates firm-level control while remaining a corporate self-description |
+| [YRF Studios](https://www.yashrajfilms.com/divisions/yrf-studios) | three sound stages, sound and post-production facilities, and the in-house yFX operation | concrete infrastructure, technical labour and high-value production capacity |
+| [YRF international distribution](https://www.yashrajfilms.com/divisions/yrf-distribution-international) | distributes YRF and third-party Indian films overseas and seeks new territories and revenue streams | evidence of international market access and distribution expertise |
+| [YRF on the Russia and CIS release of *Pathaan*](https://www.yashrajfilms.com/news/detail/2023/06/09/yrfs-pathaan-gets-widest-release-for-an-indian-film-in-dubbed-version-across-russia-cis) | a dubbed YRF-owned film entered multiple non-diaspora territories | official evidence for niche breakthrough and localisation |
+| [Times of India on *Pathaan*](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pathaan-hits-a-century-to-release-in-100-countries-the-highest-for-any-indian-film-ever/articleshow/97274890.cms) | reported an overseas release in more than 100 countries and over 2,500 screens | independent support for the scale of international circulation |
+| [Lorenzen and Täube (2008)](https://doi.org/10.1016/j.intman.2008.01.004) | identifies Bollywood as a geographically centred Mumbai film cluster whose professional social networks support indigenous industry growth | independent evidence connecting YRF's facilities to a wider cultural/industrial milieu |
+| [Netflix-YRF partnership](https://about.netflix.com/en/news/netflix-announces-partnership-with-yash-raj-films-bringing-iconic-bollywood) | Netflix distributes a selection of YRF films to audiences around the world | demonstrates global reach but also dependence on a US-owned platform for digital access |
+
+The 500-word response does not need to use every source. The most efficient combination is Keane, two YRF pages, Lorenzen and Täube, the independent *Pathaan* report and the Netflix partnership.
+
 ## Evidence Matrix
 
-Complete this before writing:
+This matrix combines each concept with its evidence, interpretation and citation. Each analytical row can be converted directly into part of a body paragraph.
 
-| Requirement | Evidence to insert |
-|---|---|
-| company, country and content sector | Yash Raj Films; India; film and screen-content production, studios, VFX, music and distribution |
-| key production or media property | select one or two precise examples after checking ownership and relevance; possible cases include YRF productions or its international distribution catalogue |
-| selected Keane category 1 | |
-| exact definition of category 1 | |
-| company example for category 1 | |
-| selected Keane category 2 | |
-| exact definition of category 2 | |
-| company example for category 2 | |
-| evidence of global media capacity | vertically integrated operations, in-house studios and VFX, substantial catalogue, domestic network and international distribution |
-| evidence of continuing dependence or limitation | investigate streaming platforms, overseas partners, finance, exhibition access and revenue control |
-| reason the company is or is not peripheral | provisional position: not wholly peripheral because it controls important production and distribution capacities |
-| evidence about operating on its own terms | in-house value-chain control supports autonomy, but international dependencies must be tested with external evidence |
+| Analytical role | Keane idea or decision | YRF evidence | What the evidence proves | Sources |
+|---|---|---|---|---|
+| **Company overview** | YRF is an Indian media-content company rather than only a distributor. | Founded in 1970, YRF produces films and operates production, post-production, VFX, music, talent, licensing and domestic and international distribution divisions. | It is an eligible non-Australian/US/UK content producer with control across several parts of the media value chain. | Yash Raj Films, *The Company* |
+| **Category 1** | **Niche breakthrough markets:** culturally specific products can use multiple channels, audience demand and international distribution to move into profitable markets (Keane, 2006, pp. 845-846). | YRF produced and owns *Pathaan*. It was released in more than 100 countries and later received a dubbed release across Russia and CIS territories. | YRF can turn Indian-owned cultural content into a global commercial product instead of merely supplying low-cost production services to foreign owners. | Keane (2006); ETimes (2023); Yash Raj Films, *Pathaan* Russia/CIS release |
+| **Category 2** | **Cultural/industrial milieu:** co-located firms, skilled labour, infrastructure and knowledge spillovers generate sustained innovation and higher-value capacity (Keane, 2006, pp. 846-847). | YRF Studios concentrates three sound stages, sound and post-production facilities and yFX in Mumbai. Bollywood is a geographically centred Mumbai film cluster supported by professional social networks. | YRF's capacity comes from owned infrastructure and participation in a wider creative cluster, not only from one successful film. This supports continuing production, technical development and value creation. | Keane (2006); Yash Raj Films, *YRF Studios*; Lorenzen and Täube (2008) |
+| **Evidence of autonomy** | Operating “on its own terms” requires meaningful control over production, IP and circulation. | YRF is privately held, owns original films and franchises, operates in-house facilities and has domestic and international distribution divisions. | Vertical integration gives YRF substantial control over creative decisions and several stages of the value chain. | Yash Raj Films, *The Company* and *International Distribution* |
+| **Continuing limitation** | Global reach does not automatically remove structural dependency. | Netflix distributes selected YRF films internationally, while overseas theatrical circulation still requires cinemas and territorial market access. | YRF retains its content and production capacity but depends partly on powerful external gatekeepers to reach some global audiences. | Netflix (2025); Yash Raj Films, *International Distribution* |
+| **Final evaluation** | Peripheral status should be judged by capacity and control, not location alone. | YRF combines Indian-owned IP, Mumbai production infrastructure, global theatrical reach and external platform partnerships. | YRF is no longer wholly peripheral and has entered the global media economy substantially on its own terms, although its global autonomy is not complete. | Synthesis of the evidence above |
+
+### How to Use the Matrix
+
+1. Use the overview row for two or three introductory sentences only.
+2. Build one paragraph from the Category 1 row and one from the Category 2 row.
+3. Combine the autonomy and limitation rows in the evaluation paragraph.
+4. Use the final evaluation row as the conclusion.
+
+Do not reproduce the table or its labels in the submitted response. Convert its evidence and analysis into connected prose without subheadings.
+
+## Working Thesis
+
+Use this as an argument guide rather than copying it unchanged:
+
+```text
+YRF is no longer adequately described as a peripheral media producer.
+Its Mumbai production infrastructure and its ability to turn Indian-owned
+content such as Pathaan into internationally distributed media demonstrate
+both a cultural/industrial milieu and niche breakthrough capacity. However,
+its autonomy is substantial rather than complete because access to some
+overseas screens and digital audiences still depends on external global
+intermediaries.
+```
+
+This position is decisive: **YRF is no longer wholly peripheral**, but it does not claim that the company has equal power to the largest global conglomerates.
 
 ## Recommended 500-Word Structure
 
-| Section | Approximate words | Job |
+| Paragraph | Target words | Job |
 |---|---:|---|
-| Introduction | 55-65 | identify the company, context and final judgement |
-| Keane category 1 | 115-125 | define and apply the first category using specific evidence |
-| Keane category 2 | 115-125 | define and apply the second category using specific evidence |
-| Peripheral status and autonomy | 135-150 | weigh global capacity against dependency and answer "on its own terms" |
-| Conclusion | 30-40 | give a direct, qualified judgement |
+| 1. Introduction | 55-60 | identify YRF, its cultural context and content activities; state the final judgement |
+| 2. Niche breakthrough markets | 115-120 | define the category and analyse *Pathaan* and international circulation |
+| 3. Cultural/industrial milieu | 115-120 | define the category and analyse YRF within Mumbai's wider production cluster |
+| 4. Evaluation and conclusion | 185-190 | weigh autonomy against Netflix and market-access dependency; answer peripheral status and “on its own terms”; finish decisively |
+| **Total target** | **470-490** | remain safely below the 500-word maximum |
 
-These are planning sections only. Remove subheadings from the submitted response.
+These are planning labels only. Remove all subheadings from the submitted response, but retain the four-paragraph structure.
+
+### Sentence-Level Writing Plan
+
+Use approximately 16-18 sentences in four continuous paragraphs:
+
+| Paragraph | Sentences | Required content |
+|---|---:|---|
+| 1 | 3 | identify YRF, summarise its integrated activities and state the final judgement immediately |
+| 2 | 4-5 | define niche breakthrough markets; apply it to YRF-owned *Pathaan*; use the 100-country release and Russia/CIS dubbing as evidence; explain how this exceeds domestic circulation |
+| 3 | 4-5 | define cultural/industrial milieu; connect YRF Studios and yFX to Mumbai's professional Bollywood cluster; explain why this represents sustained high-value capacity rather than low-cost outsourcing |
+| 4 | 4-5 | weigh ownership and integrated distribution against reliance on Netflix and overseas gatekeepers; answer “peripheral” and “on its own terms”; finish with a decisive conclusion |
+
+Do not write separate definitions detached from the case. Define each category in the same sentence that introduces its relevance to YRF.
 
 ## Analysis Pattern
 
@@ -258,24 +306,17 @@ The official website provides useful primary evidence, but its claims must be ex
 
 A company may be globally visible without controlling the conditions of its participation. Examine bargaining power, ownership and strategic decision-making.
 
-## Possible Judgement Models
-
-Use one of these logical positions only if the evidence supports it:
+## Judgement to Defend
 
 ```text
-The company is no longer meaningfully peripheral because it controls
-several capacities and uses partnerships strategically.
+YRF is no longer wholly peripheral: it owns culturally specific content,
+possesses high-value production infrastructure and circulates films
+internationally. It has entered the global media economy substantially on
+its own terms, although its access to some overseas and digital audiences
+still depends on external exhibitors and platforms such as Netflix.
 ```
 
-```text
-The company has developed substantial global reach but remains partly
-peripheral because key capacities depend on external corporations.
-```
-
-```text
-The core-periphery label is too rigid: the company exercises autonomy
-in some categories while remaining dependent in others.
-```
+Keep this qualified but decisive position throughout the response. Do not switch between competing conclusions.
 
 ## Final Checklist
 
@@ -295,12 +336,47 @@ in some categories while remaining dependent in others.
 - [ ] The title and references are excluded from the word count.
 - [ ] All factual claims and borrowed ideas are referenced.
 
-## Do Not Draft Yet If Missing
+## Reference List Model
 
-- the Week 6 Keane reading and the exact five categories
-- a selected company with a usable official website
-- evidence for at least two categories
-- at least one source that helps test the company's official claims
+Check the required referencing style in Canvas before submission. In APA 7 form, the central references are:
+
+```text
+Keane, M. (2006). Once were peripheral: Creating media capacity in East
+Asia. Media, Culture & Society, 28(6), 835-855.
+https://doi.org/10.1177/0163443706068712
+
+Lorenzen, M., & Täube, F. A. (2008). Breakout from Bollywood? The roles
+of social networks and regulation in the evolution of Indian film industry.
+Journal of International Management, 14(3), 286-299.
+https://doi.org/10.1016/j.intman.2008.01.004
+
+Netflix. (2025). Netflix announces partnership with Yash Raj Films,
+bringing iconic Bollywood titles to the platform.
+https://about.netflix.com/en/news/netflix-announces-partnership-with-yash-raj-films-bringing-iconic-bollywood
+
+ETimes. (2023, January 25). Pathaan hits a century, to release in 100+
+countries, the highest for any Indian film ever. The Times of India.
+https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pathaan-hits-a-century-to-release-in-100-countries-the-highest-for-any-indian-film-ever/articleshow/97274890.cms
+
+Yash Raj Films. (n.d.). The company.
+https://www.yashrajfilms.com/about-us/the-company
+
+Yash Raj Films. (n.d.). Film distribution - international.
+https://www.yashrajfilms.com/divisions/yrf-distribution-international
+
+Yash Raj Films. (2023, June 9). YRF's Pathaan gets widest release for an
+Indian film in dubbed version across Russia & CIS!
+https://www.yashrajfilms.com/news/detail/2023/06/09/yrfs-pathaan-gets-widest-release-for-an-indian-film-in-dubbed-version-across-russia-cis
+
+Yash Raj Films. (n.d.). YRF Studios.
+https://www.yashrajfilms.com/divisions/yrf-studios
+```
+
+The recommended response uses the independent *Pathaan* report, so retain it in the reference list. Every listed source must appear in the writing, and every sourced factual claim must have an in-text citation. If the finished response omits a source, remove that unused source from the reference list.
+
+## Draft-Ready Status
+
+The guide now contains the task rules, exact framework, selected categories, company evidence, independent evidence, counter-evidence, thesis, paragraph plan, rubric target and reference model. No research placeholder remains. The next step is writing and then checking the completed response against the final checklist.
 
 ## Due Date
 
