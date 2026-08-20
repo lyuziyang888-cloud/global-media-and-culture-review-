@@ -6,6 +6,45 @@ Use this template with any approved Industry Insight Report. It helps you compar
 
 Do not submit this guide. Complete the planning fields, then convert the material into a continuous response in your own words.
 
+## Actual Result and Teacher Feedback
+
+| Criterion | Result |
+|---|---:|
+| understanding and application of the paradigms | 3/5 |
+| critical analysis of the report and its data | 3/5 |
+| argument for the stronger paradigm | 3/5 |
+| **Final result** | **9/15** |
+
+**Teacher feedback:**
+
+> You have engaged with the relevant characteristics of the paradigms, though the relationship between the reading and the report could be explained more clearly. Incorporating more detailed evidence from the report would strengthen your analysis.
+
+### What the Feedback Means
+
+The response identified relevant features of media imperialism and cultural globalisation, but it did not consistently show how a specific idea from Mirrlees explained a specific result from the selected report. Some claims also needed more precise figures, regions, time periods or indicators from the report.
+
+For future responses, every analytical point should contain this complete chain:
+
+```text
+Mirrlees concept
+-> exact report evidence
+-> explanation of how the concept interprets that evidence
+-> limitation of what the evidence can prove
+-> effect on the final judgement
+```
+
+Do not write a paragraph about the reading and then a separate paragraph about the report. Integrate them sentence by sentence.
+
+### Feedback-Derived Rules
+
+1. Use at least two precise report figures, each with its measurement, region and period.
+2. Place report evidence immediately after the Mirrlees idea it supports.
+3. Explain the relationship using `because`, `shows`, `suggests` or another clear causal link.
+4. Do not treat investment, production, availability and viewing as interchangeable evidence.
+5. Do not claim audience popularity unless the report provides viewing or audience data.
+6. Do not infer ownership, control or dependency unless the report provides evidence for it.
+7. Compare the paradigms against the same report evidence before making the final judgement.
+
 ## Official Task Requirements
 
 Your response must:
