@@ -10,7 +10,7 @@ These are discussion questions, not a tutorial exam-practice question.
 
 ### Which category appeared most often in your group?
 
-**Adaptable answer:** Creative/industrial clusters appeared most often because several companies combined studios, skilled workers and production networks. The companies differed in how much infrastructure and intellectual property they controlled.
+**My answer:** My YRF case used niche breakthrough markets and cultural/industrial milieu. If I choose one, cultural/industrial milieu is more important because YRF has studios, post-production facilities and a visual-effects division within Mumbai's film cluster. Other companies may have similar infrastructure, but they differ in how much production capacity and intellectual property they control.
 
 ### Which strategy is most effective for becoming global?
 
@@ -18,7 +18,13 @@ Creative/industrial clusters are the strongest long-term strategy. A global hit 
 
 ### Which company best demonstrates global media capacity?
 
-**Example answer:** Yash Raj Films is a strong example because it combines Indian-owned content, studio facilities and international distribution. Its external platform partnerships also show that global reach does not mean complete independence.
+**My answer:** Yash Raj Films best demonstrates global media capacity. It owns and produces Indian films, operates studio and post-production facilities, and distributes content internationally. *Pathaan* reached Russia and CIS territories on more than 3,000 screens. YRF is therefore no longer a peripheral producer, although it still uses Netflix and overseas market access to reach some audiences.
+
+## Short Speaking Version
+
+1. **Most relevant category:** Cultural/industrial milieu, because YRF combines its own facilities with Mumbai's skilled film-production network.
+2. **Best global strategy:** Building a creative cluster, because it supports continuing production instead of depending on one successful film.
+3. **Best company example:** YRF. It controls substantial production capacity and creates films for international markets, but its global distribution is not completely independent.
 
 ## Discussion Questions
 
@@ -37,4 +43,3 @@ Useful measures include local audience reach, control of intellectual property, 
 ## Tutorial Sources
 
 Week 6 tutorial slides 3-6. The Viu discussion uses the linked Deadline article supplied on slide 5.
-
