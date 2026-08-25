@@ -10,16 +10,17 @@ Choose the unit you are revising. Each review guide includes its lecture and tut
 - [Unit 2 Review Guide](study-guides/unit-02-review.md): media imperialism and platform imperialism
 - [Unit 3 Review Guide](study-guides/unit-03-review.md): cultural globalisation, proximity, contra-flows and media capitals
 - [Unit 4 Review Guide](study-guides/unit-04-review.md): format programs, adaptation and transnational television
+- [Unit 5 Review Guide](study-guides/unit-05-review.md): localising streaming platforms in India
+- [Unit 6 Review Guide](study-guides/unit-06-review.md): Keane's media-capacity framework and once-peripheral producers
 
 Every unit uses the same structure:
 
 ```text
 unit review guide
--> lecture map
--> tutorial map
--> required reading maps
--> concepts and relationships
--> cases and exam questions
+-> must-know concepts
+-> best examples
+-> tutorial questions
+-> exam answer pattern
 ```
 
 ## Naming and Content Standard
@@ -28,7 +29,7 @@ Use the same title pattern and section order for every unit:
 
 | File type | Title pattern | Fixed content order |
 |---|---|---|
-| Unit review | `Unit X Review: Topic` | focus, sources, concepts, relationships, evidence, tutorial signals, exam questions, limitations, revision, mastery |
+| Unit review | `Unit X Review: Topic` | must know, best examples, tutorial questions, exam answer pattern |
 | Lecture map | `Week X Lecture: Topic` | purpose, structure, definitions, arguments, evidence, assessment signals, slide anchors |
 | Tutorial map | `Week X Tutorial: Topic` | purpose, clarifications, cases, suggested answers, answer structure, assessment signal, slide anchors |
 
@@ -72,8 +73,7 @@ When new course material arrives:
 - update an existing concept before creating a similar one
 - keep concept cards short; move detailed cases, limitations and relationships to their own files
 - add a relationship card only when the connection could become an exam question
-- keep a case study only when it supports at least two concepts
-- keep readings as evidence maps, not full summaries
+- keep reading evidence and examples together in `exam-evidence/`
 - convert tutorial questions into the relevant unit review
 - keep one review guide as the unit entry point
 - keep one lecture map and one tutorial map for each teaching week
@@ -85,7 +85,8 @@ When new course material arrives:
 - **Unit 2:** Week 2 lecture and tutorial on media imperialism and Dal Yong Jin's chapter on Facebook's platform imperialism. The assigned Mirrlees Chapter 1 is not yet available in the repository.
 - **Unit 3:** Week 3 lecture and tutorial on cultural globalisation, including scapes, cultural proximity, contra-flows, media capitals, Chinese microdramas and streaming-chart analysis.
 - **Unit 4:** Week 4 lecture and tutorial on format programs, scripted and non-scripted adaptation, transnational production and *The Traitors*.
-- **Unassigned:** Kath Woodward's Chapter 1, "Questions of Identity," pending confirmation of its teaching week.
+- **Unit 5:** Week 5 lecture, tutorial and reading on Netflix, Hotstar and streaming localisation in India.
+- **Unit 6:** Week 6 lecture and tutorial on Western-centric approaches, Keane's five models and changing media capacity in China.
 
 The original copyrighted PDFs are not stored in this public repository. Reading maps identify the arguments and evidence that should be checked against the supplied texts.
 
