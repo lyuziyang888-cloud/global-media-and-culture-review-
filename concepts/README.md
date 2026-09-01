@@ -10,5 +10,6 @@ Choose a unit first, then open the concept you want to revise.
 | [Unit 4: Format Programs](unit-04-format-programs/) | formats, canned programs and adaptation | 3 |
 | [Unit 5: Localising Streaming](unit-05-localising-streaming/) | industrial contact zones, localisation, Netflix and Hotstar | 4 |
 | [Unit 6: Media Capacity](unit-06-media-capacity/) | Western-centric approaches, media capacity and Keane's five models | 3 |
+| [Unit 7: Location as Soft Power](unit-07-location-soft-power/) | soft power, place-making, media services and fixers | 4 |
 
 Each concept card contains four short sections: definition, keywords, core understanding and possible questions. Use the unit reviews, relationship cards and case studies for deeper analysis.
