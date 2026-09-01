@@ -14,7 +14,13 @@
 
 [More evidence](../exam-evidence/unit-05.md)
 
-## Key Questions
+## Tutorial Exam Practice
+
+**Question:** Apply industrial contact zones to television formats using *The Traitors*.
+
+**Short answer:** The format keeps its central rules, but local producers change the location, host, contestants and prize. This shows global format ownership interacting with local production.
+
+## Discussion Questions
 
 ### Compare Netflix and Hotstar
 
@@ -27,12 +33,6 @@ Netflix has global power, but it must compete with strong local platforms, lower
 ### What does the Indian Netflix chart show?
 
 Netflix has much less Indian-produced content than Zee5, Sun NXT and JioHotstar. It is important but not dominant.
-
-## Tutorial Exam Question
-
-**Question:** Apply industrial contact zones to television formats using *The Traitors*.
-
-**Short answer:** The format keeps its central rules, but local producers change the location, host, contestants and prize. This shows global format ownership interacting with local production.
 
 ## Exam Answer Pattern
 
