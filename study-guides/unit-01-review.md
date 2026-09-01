@@ -19,7 +19,7 @@ ownership + creators + story + location + funding + distribution
 
 [More evidence](../exam-evidence/unit-01.md)
 
-## Tutorial Discussion Questions
+## Discussion Questions
 
 ### What makes media Canadian?
 
