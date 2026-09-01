@@ -48,12 +48,6 @@ Creative/industrial clusters are the strongest long-term strategy. A global hit 
 
 **My answer:** Yash Raj Films best demonstrates global media capacity. It owns and produces Indian films, operates studio and post-production facilities, and distributes content internationally. *Pathaan* reached Russia and CIS territories on more than 3,000 screens. YRF is therefore no longer a peripheral producer, although it still uses Netflix and overseas market access to reach some audiences.
 
-### Short Speaking Version
-
-1. **Most relevant category:** Cultural/industrial milieu, because YRF combines its own facilities with Mumbai's skilled film-production network.
-2. **Best global strategy:** Building a creative cluster, because it supports continuing production instead of depending on one successful film.
-3. **Best company example:** YRF. It controls substantial production capacity and creates films for international markets, but its global distribution is not completely independent.
-
 ### Streaming-Service Discussion
 
 ### How should a successful streaming service be defined?
