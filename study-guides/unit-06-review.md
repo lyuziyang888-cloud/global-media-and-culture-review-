@@ -15,7 +15,7 @@
 
 [More evidence](../exam-evidence/unit-06.md)
 
-## Key Questions
+## Discussion Questions
 
 ### Why does Keane criticise West-versus-Rest thinking?
 
@@ -40,4 +40,3 @@ define the Keane category
 ```
 
 **Useful judgement:** Global visibility is not the same as media capacity; capacity depends on lasting control over production, knowledge, intellectual property and circulation.
-
