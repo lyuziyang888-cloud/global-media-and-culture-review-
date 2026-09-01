@@ -1,10 +1,22 @@
 # Week 5 Tutorial: Globalising and Localising Streaming
 
+## Tutorial Purpose
+
+Apply industrial contact zones and evaluate how Netflix's power changes within India's media market.
+
+## Key Concepts and Clarifications
+
+- localisation depends on language, regulation, competition and audience
+- contact zones are unequal but interactive
+- a global platform can be influential without dominating a market
+
 ## How Should You Study?
 
 Practise connecting concepts across units. Questions may ask for similarities, differences or application to an example.
 
-## Exam Practice
+## Tutorial Exam Practice
+
+The Week 5 PPT explicitly labels this as exam practice.
 
 ### Apply industrial contact zones to *The Traitors*
 
@@ -16,7 +28,7 @@ Practise connecting concepts across units. Questions may ask for similarities, d
 4. Identify local changes, such as the castle, reality-TV participants and prize money.
 5. Explain that licensors and local producers negotiate standardisation and localisation within unequal but interactive industrial relations.
 
-## Discussion Questions
+## Discussion Questions and Suggested Answers
 
 ### What position does Netflix hold in India?
 
@@ -30,6 +42,22 @@ Global platform power depends on local context. Ownership and capital matter, bu
 
 Comparing countries prevents Netflix from being treated as one identical global force and reveals how its power changes across markets.
 
+## Answer Structure
+
+```text
+define -> identify actors -> explain interaction -> apply evidence -> evaluate power
+```
+
+## Assessment Signal
+
+Show why platform power changes across markets instead of treating Netflix as equally dominant everywhere.
+
 ## Tutorial Sources
 
 Week 5 tutorial slides 3-11.
+
+## Slide Anchors
+
+- exam practice: slide 3
+- India discussion: slides 4-9
+- comparison: slides 10-11
