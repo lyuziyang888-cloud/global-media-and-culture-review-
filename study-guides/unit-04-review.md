@@ -11,7 +11,7 @@
 global format rules + local adaptation = format program
 ```
 
-## Best Example: *The Traitors*
+## Best Examples
 
 **Stays the same:** traitors, faithful contestants, missions, banishment and elimination.
 
@@ -19,7 +19,7 @@ global format rules + local adaptation = format program
 
 [More evidence](../exam-evidence/unit-04.md)
 
-## Tutorial Discussion Questions
+## Discussion Questions
 
 ### Are national versions unique or the same?
 
