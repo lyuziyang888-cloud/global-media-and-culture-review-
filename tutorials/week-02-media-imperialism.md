@@ -10,7 +10,7 @@ The tutorial applies media and platform imperialism to contemporary cases and as
 - Contemporary media imperialism is not always simply nation-based because TNCs and platforms operate across borders.
 - The paradigm emphasises broad structures rather than isolated content.
 
-## Cases Discussed
+### Cases Discussed
 
 - Marvel Cinematic Universe and the US Pentagon
 - *America's Army*
@@ -19,6 +19,10 @@ The tutorial applies media and platform imperialism to contemporary cases and as
 - exclusion of Francophone Africa from YouTube monetisation
 
 These are tutorial prompts, not automatically proven examples. For each one, identify ownership, infrastructure, revenue, regulation, ideology and local consequences before applying the paradigm.
+
+## How Should You Study?
+
+For each case, identify who holds power, what resource they control, the resulting dependency and one limitation of the paradigm.
 
 ## Discussion Questions and Suggested Answers
 
@@ -72,6 +76,10 @@ state a judgement
 ## Assessment Signal
 
 Workbook 1 requires comparison between media imperialism and cultural globalisation. The tutorial prioritises paradigm application, understanding the report's data and a persuasive judgement, not a descriptive report summary.
+
+## Tutorial Sources
+
+Week 2 tutorial slides.
 
 ## Slide Anchors
 
