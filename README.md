@@ -12,6 +12,7 @@ Choose the unit you are revising. Each review guide includes its lecture and tut
 - [Unit 4 Review Guide](study-guides/unit-04-review.md): format programs, adaptation and transnational television
 - [Unit 5 Review Guide](study-guides/unit-05-review.md): localising streaming platforms in India
 - [Unit 6 Review Guide](study-guides/unit-06-review.md): Keane's media-capacity framework and once-peripheral producers
+- [Unit 7 Review Guide](study-guides/unit-07-review.md): location, soft power, media services and place-making
 
 Every unit uses the same structure:
 
@@ -87,6 +88,7 @@ When new course material arrives:
 - **Unit 4:** Week 4 lecture and tutorial on format programs, scripted and non-scripted adaptation, transnational production and *The Traitors*.
 - **Unit 5:** Week 5 lecture, tutorial and reading on Netflix, Hotstar and streaming localisation in India.
 - **Unit 6:** Week 6 lecture and tutorial on Western-centric approaches, Keane's five models and changing media capacity in China.
+- **Unit 7:** Week 7 lecture, tutorial and reading on soft power, media-service industries, place-making, Budapest and Brisbane.
 
 The original copyrighted PDFs are not stored in this public repository. Reading maps identify the arguments and evidence that should be checked against the supplied texts.
 
