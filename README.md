@@ -36,11 +36,11 @@ Use the same title pattern and section order for every unit:
 
 ## Revision Workflow
 
-Use the repository in three passes:
+Use the repository in three passes. Do not read every folder from beginning to end:
 
-1. **Recall:** open a concept card and give its definition and keywords without looking.
-2. **Connect:** explain how two concepts interact using the relationship cards.
-3. **Produce:** write a timed response from the unit review, supported by a case study.
+1. **Start:** open the unit review to identify the essential concepts, examples and questions.
+2. **Repair:** use a concept card only when a definition is unclear; use exam evidence only when an example is missing.
+3. **Produce:** answer tutorial or exam-practice questions without notes, then check the short suggested answer.
 
 Reading files from beginning to end is not the goal. The goal is to answer without notes.
 
@@ -48,12 +48,12 @@ Reading files from beginning to end is not the goal. The goal is to answer witho
 
 | Folder | Use it for |
 |---|---|
-| [`study-guides/`](study-guides/) | Unit priorities, revision sequence and mastery checks |
-| [`lectures/`](lectures/) | Teacher definitions, argument sequence and slide anchors |
-| [`tutorials/`](tutorials/) | Applied cases, discussion questions and assessment signals |
-| [`concepts/`](concepts/) | Short definitions, keywords, core understanding and common questions |
+| [`study-guides/`](study-guides/) | **Start here:** the shortest exam-focused map for each unit |
+| [`concepts/`](concepts/) | **Definition check:** short cards for concepts you cannot recall |
+| [`tutorials/`](tutorials/) | **Practice:** discussion questions, official exam practice and short answers |
+| [`exam-evidence/`](exam-evidence/) | **Evidence bank:** reading arguments and examples ready to apply |
+| [`lectures/`](lectures/) | **Reference only:** teacher argument sequence and slide anchors |
 | [`relationships/`](relationships/) | Explaining how A and B affect one another |
-| [`exam-evidence/`](exam-evidence/) | Reading arguments and examples ready for exam use |
 | [`assignments/`](assignments/) | Task requirements, assessment criteria and planning frameworks |
 
 ## Exam Answer Pattern
@@ -88,7 +88,7 @@ When new course material arrives:
 - **Unit 4:** Week 4 lecture and tutorial on format programs, scripted and non-scripted adaptation, transnational production and *The Traitors*.
 - **Unit 5:** Week 5 lecture, tutorial and reading on Netflix, Hotstar and streaming localisation in India.
 - **Unit 6:** Week 6 lecture and tutorial on Western-centric approaches, Keane's five models and changing media capacity in China.
-- **Unit 7:** Week 7 lecture, tutorial and reading on soft power, media-service industries, place-making, Budapest and Brisbane.
+- **Unit 7:** Week 7 lecture and tutorial on soft power, media-service industries, place-making, Budapest and Brisbane.
 
 The original copyrighted PDFs are not stored in this public repository. Reading maps identify the arguments and evidence that should be checked against the supplied texts.
 
