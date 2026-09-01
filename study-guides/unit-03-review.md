@@ -15,7 +15,7 @@
 
 [More evidence](../exam-evidence/unit-03.md)
 
-## Tutorial Exam Questions
+## Tutorial Exam Practice
 
 ### What is cultural globalisation?
 
@@ -29,7 +29,7 @@ It corrects the idea that media only flows from the US and that audiences passiv
 
 *Jane the Virgin* demonstrates contra-flow and adaptation because it remade a Venezuelan telenovela for a US audience.
 
-## Tutorial Discussion
+## Discussion Questions
 
 ### Do Chinese microdramas challenge media imperialism?
 
