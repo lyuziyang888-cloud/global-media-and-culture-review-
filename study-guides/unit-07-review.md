@@ -16,7 +16,13 @@
 
 [More evidence](../exam-evidence/unit-07.md)
 
-## Key Questions
+## Tutorial Exam Practice
+
+**Question:** How is place understood similarly in media capitals and spy thrillers filmed in Hungary?
+
+**Short answer:** Both show that place is produced through changing history, industry and representation. Media-capital status can rise or fall, while Budapest changes meaning when it represents itself or another city.
+
+## Discussion Questions
 
 ### How can location create soft power?
 
@@ -30,12 +36,6 @@ Budapest can represent a modern European destination, an Eastern European geopol
 
 Not simply. Hungary gains investment, expertise and a strong service reputation. However, foreign companies can relocate, domestic production remains limited, and Budapest is often erased on screen. Its success therefore combines local capacity with external dependence.
 
-## Tutorial Exam Practice
-
-**Question:** How is place understood similarly in media capitals and spy thrillers filmed in Hungary?
-
-**Short answer:** Both show that place is produced through changing history, industry and representation. Media-capital status can rise or fall, while Budapest changes meaning when it represents itself or another city.
-
 ## Exam Answer Pattern
 
 ```text
@@ -48,7 +48,3 @@ define soft power or place-making
 ```
 
 **Useful judgement:** A flexible location can gain industrial value by being visible as a production centre while remaining visually invisible on screen.
-
-## Required Reading
-
-Havens, T., and Imre, A., "Location as Soft Power in the Media Services Industry: The Case of Hollywood East," pp. 25-41.
