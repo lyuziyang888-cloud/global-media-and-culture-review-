@@ -1,5 +1,15 @@
 # Week 7 Tutorial: Place-Making
 
+## Tutorial Purpose
+
+Compare how media, tourism and industry promotion construct Budapest and Brisbane for different audiences.
+
+## Key Concepts and Clarifications
+
+- place is constructed rather than fixed
+- different institutions select different images
+- a location can represent itself or another place
+
 ## How Should You Study?
 
 Practise identifying who constructs a place, the intended audience, the image being created and what that image leaves out.
@@ -14,7 +24,9 @@ Practise identifying who constructs a place, the intended audience, the image be
 2. In spy thrillers, Budapest can appear as a modern destination while also standing in for other European cities.
 3. In both cases, a place's meaning depends on changing industrial relationships and representation.
 
-## Discussion Questions: Budapest
+## Discussion Questions and Suggested Answers
+
+### Budapest
 
 ### Do the examples construct the same Budapest?
 
@@ -24,7 +36,7 @@ No. The Parliament presents a monumental national capital, the arcade suggests a
 
 Government agencies, fixers, foreign producers, local workers and media texts all contribute. Their influence is unequal, so no single image is neutral or complete.
 
-## Discussion Questions: Brisbane
+### Brisbane
 
 ### How is Brisbane constructed differently?
 
@@ -44,6 +56,16 @@ It matters strongly in *Boy Swallows Universe* because place shapes the story an
 
 The screen version may gain the widest international reach through Netflix, but the tourism and industry versions directly target people who can visit or bring productions to Brisbane. Reach and practical influence are therefore not the same.
 
+## Answer Structure
+
+```text
+define place-making -> identify creator and audience -> explain image -> identify exclusion -> judge
+```
+
+## Assessment Signal
+
+Compare who constructs each place, for whom and with what industrial or cultural effect.
+
 ## Tutorial Sources
 
 - Week 7 tutorial slides 3-9
@@ -51,3 +73,8 @@ The screen version may gain the widest international reach through Netflix, but 
 - [Ausfilm: Brisbane Location Spotlight](https://www.ausfilm.com.au/news/location-spotlight-brisbane-queensland-australias-river-city/)
 - [ABC: *Boy Swallows Universe* and 1980s Brisbane](https://www.abc.net.au/news/2024-01-13/boy-swallows-universe-netflix-trent-dalton-brisbane-seq/103309034)
 
+## Slide Anchors
+
+- exam practice: slide 3
+- Budapest: slides 4-7
+- Brisbane: slides 8-9
