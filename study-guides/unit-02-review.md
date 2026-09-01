@@ -21,7 +21,7 @@ concentrated ownership
 
 [More evidence](../exam-evidence/unit-02.md)
 
-## Tutorial Discussion Questions
+## Discussion Questions
 
 ### Does the US influence global media?
 
