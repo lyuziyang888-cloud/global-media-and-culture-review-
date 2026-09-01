@@ -11,10 +11,14 @@ The tutorial introduces globalisation and tests the categories global, local, Ca
 - Geographical territory alone cannot determine whether media is local or global.
 - Western media is a power-laden category rather than a neutral map label.
 
-## Cases Discussed
+### Cases Discussed
 
 - **Netflix keynote:** what does a platform mean when it calls media global, and is platform-led globalisation historically new?
 - **Heated Rivalry:** its Crave origin, Nova Scotian source author and ice-hockey subject matter complicate American, Canadian, Western and global labels.
+
+## How Should You Study?
+
+Classify a media text through ownership, production, story, people, location, distribution and audience. Do not rely on one feature.
 
 ## Discussion Questions and Suggested Answers
 
@@ -67,6 +71,10 @@ define the category
 ## Assessment Signal
 
 Week 1 tutorial participation is not graded. Graded critical engagement begins in Week 2.
+
+## Tutorial Sources
+
+Week 1 tutorial slides.
 
 ## Slide Anchors
 
