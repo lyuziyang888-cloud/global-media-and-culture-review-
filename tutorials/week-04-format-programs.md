@@ -4,14 +4,20 @@
 
 The tutorial prepares students for Workbook 2 and the Keane reading, reviews the Workbook 1 paradigm debate, and applies format-program concepts to *The Traitors* and adaptation decisions.
 
-## Workbook 2 and Reading Guidance
+## Key Concepts and Clarifications
+
+- formats combine a stable licensed core with locally adaptable elements
+- adaptation does not remove ownership, licensing or commissioner power
+- multidirectional format trade does not make global media power equal
+
+## How Should You Study?
 
 - access Keane's article through QUT Readings for Week 6
 - use the abstract for orientation, not as a substitute for the article
 - follow the argument's sequence: big-picture context, proposed model, China application and final significance
 - ask why each detail appears and how it supports Keane's overall framework
 
-## Workbook 1 Discussion Questions and Suggested Answers
+## Discussion Questions and Suggested Answers
 
 ### 1. Which position did you take: cultural/media imperialism or cultural globalisation?
 
@@ -25,7 +31,7 @@ The tutorial prepares students for Workbook 2 and the Keane reading, reviews the
 
 **Suggested answer:** A defensible conclusion may distinguish cultural change from structural continuity. Cultural globalisation can better explain diverse content flows while media imperialism may better explain enduring ownership and distribution inequalities.
 
-## Format Discussion Questions and Suggested Answers
+### Format Program Discussion
 
 ### 4. Is each version of *The Traitors* unique content, or essentially the same program?
 
@@ -65,6 +71,10 @@ state a judgement
 ## Assessment Signal
 
 Workbook 2 requires Keane's framework rather than the format-program concepts alone. This tutorial's reading guidance is preparation for identifying the framework, applying categories to a media company and evaluating whether that company remains peripheral.
+
+## Tutorial Sources
+
+Week 4 tutorial slides.
 
 ## Slide Anchors
 
