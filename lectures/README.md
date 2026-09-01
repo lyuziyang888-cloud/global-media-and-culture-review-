@@ -8,5 +8,6 @@
 | 4 | Format programs | [Week 4: Format Programs](week-04-format-programs.md) |
 | 5 | Localising streaming | [Week 5: Netflix and Hotstar in India](week-05-localising-streaming.md) |
 | 6 | Media capacity | [Week 6: Once Were Peripheral](week-06-media-capacity.md) |
+| 7 | Location as soft power | [Week 7: Location as Soft Power](week-07-location-soft-power.md) |
 
 Lecture maps preserve teacher definitions, the argument sequence and exact slide anchors. Start revision from the unit guide rather than reading this folder in isolation.
