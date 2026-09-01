@@ -13,23 +13,27 @@ The tutorial converts cultural globalisation into exam-ready concepts, applies b
 
 ## How Should You Study?
 
-### 1. What is cultural globalisation?
+The Week 3 PPT explicitly labels the following prompts as exam-preparation practice.
+
+## Tutorial Exam Practice
+
+#### 1. What is cultural globalisation?
 
 **Answer:** Cultural globalisation is a group of theories explaining the cross-border interaction of media, people, technologies, capital, ideas and cultures. It emphasises contextual and multidirectional processes, active audiences, local meaning-making and the capacity of non-US industries. It does not necessarily claim that global power is equal.
 
 **Keywords:** multidirectional, contextual, audiences, meaning-making, cultural proximity, media capitals.
 
-### 2. Why is cultural globalisation important to studying global media?
+#### 2. Why is cultural globalisation important to studying global media?
 
 **Answer:** It corrects media imperialism's tendency to treat audiences as passive, nations as culturally uniform and media flows as exclusively US-led. It explains why local audiences prefer culturally proximate content, why non-US industries become media capitals and how content moves through contra-flows. Its limitation is that cultural complexity can distract from unequal ownership, finance and distribution.
 
 **Judgement:** It is essential for explaining cultural change, but stronger when combined with structural political economy.
 
-### 3. What is an example of cultural globalisation?
+#### 3. What is an example of cultural globalisation?
 
 **Answer:** *Jane the Virgin* is a precise example. The Venezuelan telenovela *Juana la virgen* was adapted across the US, Europe, Asia and Latin America. This demonstrates contra-flow because the format originated outside the traditional US core, multidirectional movement because it travelled to several regions, and local adaptation because each version could be reshaped for culturally specific audiences.
 
-## Applied Discussion Questions and Suggested Answers
+## Discussion Questions and Suggested Answers
 
 ### 4. How does Chinese microdrama popularity complicate media imperialism?
 
@@ -64,6 +68,10 @@ state a judgement
 ## Assessment Signal
 
 Workbook 1 should not present the paradigms as a simplistic good/bad opposition. Apply two concepts from each, use the report's data precisely and explain why one paradigm has greater explanatory power for that particular indicator.
+
+## Tutorial Sources
+
+Week 3 tutorial slides and the linked FlixPatrol activity.
 
 ## Slide Anchors
 
