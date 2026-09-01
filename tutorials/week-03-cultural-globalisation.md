@@ -19,39 +19,33 @@ The Week 3 PPT explicitly labels the following prompts as exam-preparation pract
 
 #### 1. What is cultural globalisation?
 
-**Answer:** Cultural globalisation is a group of theories explaining the cross-border interaction of media, people, technologies, capital, ideas and cultures. It emphasises contextual and multidirectional processes, active audiences, local meaning-making and the capacity of non-US industries. It does not necessarily claim that global power is equal.
-
-**Keywords:** multidirectional, contextual, audiences, meaning-making, cultural proximity, media capitals.
+**Answer:** Cultural globalisation explains multidirectional interaction among media, people, technology, capital, ideas and culture. It stresses active audiences and local meaning without claiming that power is equal.
 
 #### 2. Why is cultural globalisation important to studying global media?
 
-**Answer:** It corrects media imperialism's tendency to treat audiences as passive, nations as culturally uniform and media flows as exclusively US-led. It explains why local audiences prefer culturally proximate content, why non-US industries become media capitals and how content moves through contra-flows. Its limitation is that cultural complexity can distract from unequal ownership, finance and distribution.
-
-**Judgement:** It is essential for explaining cultural change, but stronger when combined with structural political economy.
+**Answer:** It explains active audiences, cultural proximity, media capitals and contra-flows. Its limitation is that attention to cultural complexity can understate unequal ownership and distribution.
 
 #### 3. What is an example of cultural globalisation?
 
-**Answer:** *Jane the Virgin* is a precise example. The Venezuelan telenovela *Juana la virgen* was adapted across the US, Europe, Asia and Latin America. This demonstrates contra-flow because the format originated outside the traditional US core, multidirectional movement because it travelled to several regions, and local adaptation because each version could be reshaped for culturally specific audiences.
+**Answer:** *Jane the Virgin* adapted Venezuela's *Juana la virgen* across several regions. It demonstrates contra-flow, multidirectional circulation and local adaptation.
 
 ## Discussion Questions and Suggested Answers
 
 ### 4. How does Chinese microdrama popularity complicate media imperialism?
 
-**Answer:** It challenges a simple one-way model because a Chinese-origin format and production system can attract audiences outside China. It shows non-US creative capacity, contra-flow and the possibility that a new media centre can influence global formats and viewing habits. Cultural globalisation therefore explains the movement, adaptation and audience appeal better than a purely US-centred account.
+**Answer:** A Chinese-origin format reaching foreign audiences demonstrates contra-flow and non-US creative capacity, challenging a simple US-to-periphery model.
 
 ### 5. How can Chinese microdramas still support media imperialism?
 
-**Answer:** Their global circulation may still depend on concentrated platforms, app stores, advertising systems, payment infrastructure and commercially driven algorithms. Revenue and visibility can remain uneven even when content originates outside the US. The case may also reveal a new centre-periphery relationship rather than the disappearance of structural inequality.
-
-**Judgement:** The content flow complicates classical media imperialism, while platform ownership and distribution may preserve its structural concerns.
+**Answer:** Circulation may still depend on concentrated platforms, app stores, advertising and algorithms. Non-US content therefore does not automatically remove structural inequality.
 
 ### 6. What is the role of streaming services, and is there hope for local industries?
 
-**Answer:** Streaming services reduce some distribution barriers and can connect local producers to international audiences. They can fund local content and make niche formats visible across borders. However, platforms choose commissions, control recommendation systems, collect audience data and set monetisation conditions. Local industries gain opportunities, but durable independence also requires production capacity, rights ownership, policy support and alternative distribution channels.
+**Answer:** Streaming can fund and distribute local content, but platforms control commissioning, recommendations, data and monetisation. Durable independence also requires rights ownership, capacity and policy support.
 
 ### 7. How should a country Top 10 list be analysed?
 
-**Answer:** First identify the production origin, language and platform of each title. Cultural proximity is supported when audiences prefer domestic or culturally similar content. Contra-flow is supported when content from a former periphery enters another regional or dominant market. Media imperialism is supported when US content, platforms or distribution remain structurally dominant. One chart is only a snapshot, so avoid generalising without information about the period, ranking method and catalogue availability.
+**Answer:** Check origin, language and platform. Use local preference for cultural proximity, non-core circulation for contra-flow, and concentrated US control for imperialism. Treat one chart as a snapshot.
 
 ## Answer Structure
 
