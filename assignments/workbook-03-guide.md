@@ -1,0 +1,191 @@
+# Workbook 3 Guide: Nation Branding and Soft Power
+
+## Task Requirements
+
+Choose **three videos from the same nation-branding campaign**. Each video must:
+
+- be at least 30 seconds long
+- clearly belong to the same campaign and campaign period
+- provide enough visual evidence to analyse Mino's Othering strategies
+- have a stable URL that can be included in the reference list
+
+Consult the campaign's official nation-branding website for its goals and context. Additional relevant sources may be used. Write no more than **500 words**; the title and references are excluded.
+
+The response must:
+
+1. briefly explain the campaign, its intended national image, goals and target audience
+2. apply Mino's first Othering strategy to at least one video
+3. apply Mino's second Othering strategy to at least one different video
+4. use the third video for either strategy
+5. support every video analysis with specific scenes
+6. compare nation branding with fictional media production as soft power
+7. judge whether the selected campaign is more effective than Hungary's Hollywood spy thrillers
+8. use Mino and Havens and Imre
+9. include all three video URLs in the reference list
+
+Submit through Canvas. Follow any formatting directions shown on the official submission page.
+
+## Prompt-to-Rubric Map
+
+| Prompt | Criterion | What the marker needs to see |
+|---|---|---|
+| Campaign overview | Understanding /5 | suitable videos, verified campaign membership, concise context, intended image, objective and audience |
+| Three-video Othering analysis | Application /5 | accurate use of both Mino strategies, specific scenes and explanation of broader cultural meaning |
+| Soft-power comparison | Evaluation /5 | clear comparison with Hungary, integration of Havens and Imre, evidence-based final judgement |
+
+## Assessment Criteria
+
+| Criterion | Exceeds: 3.9-5 | Satisfactory: 2-3.9 | Unsatisfactory: 0-2 |
+|---|---|---|---|
+| **Understanding /5** | Selects appropriate videos and demonstrates sophisticated understanding of the campaign using strong evidence. | Shows general understanding but lacks depth or consistent evidence. | Uses unsuitable videos or gives limited or inaccurate campaign analysis. |
+| **Application /5** | Critically applies Othering to specific scenes and explains wider cultural implications. | Applies Othering adequately but may remain descriptive. | Misunderstands Othering or provides weak, unclear examples. |
+| **Evaluation /5** | Presents a persuasive, critical soft-power judgement integrating the case and readings. | Presents a reasonable argument but lacks depth or integration. | Gives little critical reflection or an unsupported judgement. |
+
+**Target:** 12-15/15. Protect analysis and evaluation before adding campaign background.
+
+## Source Rules
+
+### Required
+
+- Mino's article on the two Othering strategies
+- Havens and Imre's Week 7 reading
+- three videos from one official campaign
+- official nation-branding website
+
+### Optional
+
+- credible government, campaign or industry information explaining context, launch date, objectives or audience
+- reliable reporting that tests official campaign claims
+
+Do not define Mino's two strategies from memory. Add the exact definitions and page references only after checking the assigned article.
+
+## Campaign Selection Checklist
+
+Before writing, confirm:
+
+- [ ] campaign country is eligible under the task list
+- [ ] official campaign name and slogan are known
+- [ ] all three videos belong to the same campaign
+- [ ] each video is at least 30 seconds
+- [ ] official website explains the campaign's goal or image
+- [ ] Video 1 clearly demonstrates Mino strategy 1
+- [ ] Video 2 clearly demonstrates Mino strategy 2
+- [ ] Video 3 clearly demonstrates either strategy
+- [ ] each video contains at least two specific analysable scenes
+- [ ] all video URLs and publication details are recorded
+- [ ] the case can be meaningfully compared with Hungary
+
+Fame is not the main selection criterion. Choose the campaign with the clearest evidence for both Othering strategies.
+
+## Evidence Matrix
+
+Complete this before drafting. Do not start the 500-word response with blank evidence cells.
+
+| Analytical role | Evidence to record | Interpretation |
+|---|---|---|
+| Campaign context | previous reputation, launch context, slogan and official objective | what image the campaign wants to replace or create |
+| Target audience | language, platform, imagery and official statements | who the campaign wants to attract or influence |
+| Mino strategy 1 | exact definition and page | the theoretical test applied to Video 1 |
+| Video 1 | timestamps, people, setting, action, sound and narration | how the scenes construct Self and Other through strategy 1 |
+| Mino strategy 2 | exact definition and page | the theoretical test applied to Video 2 |
+| Video 2 | timestamps, people, setting, action, sound and narration | how the scenes construct Self and Other through strategy 2 |
+| Video 3 | selected strategy plus precise scenes | whether it repeats, extends or complicates the pattern |
+| Nation-branding strength | message control, clarity and campaign consistency | how directly the state or campaign manages national image |
+| Nation-branding limitation | simplification, stereotyping, credibility or promotional tone | what the campaign excludes and why audiences may resist it |
+| Hungary comparison | fixers, film-friendly reputation, Budapest's flexibility and fictional representation | how indirect industrial soft power differs from explicit branding |
+| Final judgement | which form is more effective and under what criterion | decisive answer supported by both readings and the videos |
+
+## Video Analysis Method
+
+For every video, use this sequence:
+
+```text
+name the Mino strategy
+-> state its exact meaning
+-> identify a specific scene and timestamp
+-> explain how the scene constructs the nation or an Other
+-> explain the cultural implication
+-> connect it to the campaign's objective
+```
+
+Avoid writing only that a video shows beaches, food, friendly people or modern buildings. Explain why those images were selected, what alternative image they displace and what relationship they create between the country and its audience.
+
+## Soft-Power Comparison
+
+Use the same criteria for both cases:
+
+| Criterion | Nation-branding campaign | Hungary's spy-thriller production |
+|---|---|---|
+| Message control | campaign controls slogan and selected national images | foreign productions retain substantial narrative control |
+| Audience response | clearly promotional message may be recognised as advertising | entertainment may influence audiences less directly |
+| Reach | depends on campaign distribution and engagement | globally distributed fiction may reach larger audiences |
+| Credibility | polished branding may simplify or stereotype the nation | fictional stories may appear more credible but can erase Budapest |
+| Industrial effect | aims to shape tourism, investment or reputation | attracts producers through rebates, facilities, fixers and trust |
+| Main limitation | explicit Othering and selective national image | dependence on foreign capital and Budapest's visual invisibility |
+
+Havens and Imre expand soft power beyond national images aimed at general audiences. Hungary also targets foreign media professionals through policy, production relationships and cultural diplomacy. Use this distinction rather than comparing only the visual attractiveness of the videos and spy thrillers.
+
+## Recommended Position Options
+
+Choose one only after reviewing the evidence:
+
+### Nation Branding Is More Effective
+
+Use this position when the campaign presents a consistent, distinctive image across all three videos, reaches the intended audience and clearly counters an earlier reputation. Acknowledge that explicit promotion and Othering may reduce credibility.
+
+### Fictional Media Is More Effective
+
+Use this position when the campaign appears simplified or obviously promotional, while fiction offers wider reach, emotional engagement and indirect influence. Acknowledge that foreign productions may erase the location or leave narrative control outside the country.
+
+The conclusion must choose one. A qualified judgement is acceptable, but do not finish with only "both are effective."
+
+## Recommended 500-Word Structure
+
+The submitted response should remain continuous prose unless Canvas states otherwise.
+
+| Paragraph | Target words | Required job |
+|---|---:|---|
+| 1. Campaign and argument | 70-80 | identify campaign, context, slogan, intended image, audience and final soft-power position |
+| 2. Video 1 | 85-95 | define Mino strategy 1 and analyse precise scenes |
+| 3. Videos 2 and 3 | 145-160 | define strategy 2, analyse Video 2, then use Video 3 to strengthen or complicate the pattern |
+| 4. Soft-power evaluation | 150-165 | compare the campaign with Hungary through Havens and Imre; weigh strengths and limitations; conclude decisively |
+| **Total target** | **465-495** | remain below 500 words |
+
+## Working Thesis Template
+
+```text
+[Campaign] attempts to reposition [country] as [desired image] for
+[target audience]. Its videos use Mino's two Othering strategies to
+[main representational effect]. Although [important limitation],
+[nation branding / fictional media production] is the more effective
+form of soft power in this case because [comparison criteria and evidence].
+```
+
+## Final Submission Checklist
+
+- [ ] exactly three videos from the same campaign
+- [ ] each video is at least 30 seconds
+- [ ] all three URLs appear in the reference list
+- [ ] campaign overview is brief rather than a long national history
+- [ ] Mino strategy 1 is accurately applied to one video
+- [ ] Mino strategy 2 is accurately applied to another video
+- [ ] the third video applies either strategy
+- [ ] every video paragraph uses specific scenes or timestamps
+- [ ] analysis explains cultural implications instead of only describing images
+- [ ] Havens and Imre are used in the comparison
+- [ ] comparison directly addresses Hungary's Hollywood spy thrillers
+- [ ] conclusion clearly chooses the more effective form of soft power
+- [ ] response is no more than 500 words excluding title and references
+- [ ] claims and references have been checked against original sources
+
+## Information Still Needed
+
+Add these before drafting:
+
+1. Mino article PDF and exact definitions/pages for both Othering strategies
+2. selected nation-branding campaign and official website
+3. three confirmed campaign videos and URLs
+4. timestamps and scene notes for each video
+5. campaign launch context, objective and target audience
+
+Do not draft the final response until these items are complete.
