@@ -161,6 +161,70 @@ The submitted response should remain continuous prose unless Canvas states other
 form of soft power in this case because [comparison criteria and evidence].
 ```
 
+## Selected Case: Qatar - Surprise Yourself
+
+### Verified Campaign Context
+
+- **Campaign:** *Surprise Yourself*
+- **Campaign organisation:** Visit Qatar
+- **Official campaign page:** [Visit Qatar launches new global campaign: Surprise Yourself](https://www.multivu.com/visitqatar/9294651-en-gb-launches-new-global-campaign-surprise-yourself)
+- **Stated objective:** help attract six million visitors annually and establish Qatar as a must-visit destination by 2030
+- **Target groups:** families, couples and groups of friends
+- **Promoted national image:** welcoming, safe and accessible, combining culture, natural landscapes, leisure and modern luxury
+- **International reach:** the campaign was announced for ten international markets
+
+The three embedded videos were checked individually. Each is a 30-second version from the same campaign and ends with the *Surprise Yourself* and Visit Qatar branding.
+
+### Video 1: Family
+
+**Direct video:** [Family campaign video](https://mmx.prnewswire.com/media/MS1807162/9294651_Visit_Qatar.mp4)
+
+**Verified scenes:**
+
+- a woman dining beside the sea, with a traditional boat visible in the background
+- a child using a water slide
+- a Visit Qatar four-wheel-drive vehicle crossing desert dunes
+- visitors examining spices and goods in a traditional market
+- a night-time camp surrounded by desert rock formations
+
+**Usable interpretation:** Qatar is presented as a safe and varied family destination. Modern recreation is placed alongside recognisable local culture and desert landscapes. This creates an image that is unfamiliar enough to feel distinctive but comfortable enough for international family tourism.
+
+### Video 2: Couple
+
+**Direct video:** [Couple campaign video](https://mmx.prnewswire.com/media/MS1807161/9294651_Visit_Qatar_COUPLE_VACATION.mp4)
+
+**Verified scenes:**
+
+- a couple travelling on a private yacht
+- a woman viewing an artwork containing Arabic script
+- the couple walking beside a large pool at a coastal resort during sunset
+- intimate interactions accompanied by the message, "For moments that stay with you"
+
+**Usable interpretation:** Qatar is framed as romantic, culturally sophisticated and luxurious. Arabic visual culture provides local distinctiveness, while the yacht and resort reproduce globally familiar signs of premium travel.
+
+### Video 3: Friends
+
+**Direct video:** [Friends campaign video](https://mmx.prnewswire.com/media/MS1807160/9294651_Visit_Qatar_FRIENDS.mp4)
+
+**Verified scenes:**
+
+- friends driving off-road vehicles across desert dunes
+- a group arriving at the Bagatelle beach venue
+- a large night-time fireworks display across Doha's waterfront
+- a final aerial view of illuminated modern towers and the city skyline
+
+**Usable interpretation:** Qatar is presented as adventurous, social and modern. The desert supplies a distinctive sense of place, while beach leisure, nightlife and contemporary architecture make the destination legible to young international travellers.
+
+### Comparison Across the Three Videos
+
+| Video | Main audience | Main image of Qatar | Strongest evidence |
+|---|---|---|---|
+| Family | families with children | safe, welcoming and culturally varied | water recreation, desert travel, market and camp |
+| Couple | international couples | romantic, luxurious and sophisticated | yacht, Arabic artwork and coastal resort |
+| Friends | young friendship groups | adventurous, social and modern | dune vehicles, beach venue, fireworks and skyline |
+
+Across all three videos, the campaign balances difference with familiarity. The desert, traditional boat, market and Arabic artwork mark Qatar as culturally distinctive. Resorts, luxury transport, family attractions and nightlife reassure international visitors that the destination offers familiar global tourism experiences. This pattern is useful for Othering analysis, but the exact strategy assigned to each video must be based on Mino's wording rather than inferred from the campaign alone.
+
 ## Final Submission Checklist
 
 - [ ] exactly three videos from the same campaign
@@ -180,12 +244,10 @@ form of soft power in this case because [comparison criteria and evidence].
 
 ## Information Still Needed
 
-Add these before drafting:
+Before drafting the final response, add:
 
-1. Mino article PDF and exact definitions/pages for both Othering strategies
-2. selected nation-branding campaign and official website
-3. three confirmed campaign videos and URLs
-4. timestamps and scene notes for each video
-5. campaign launch context, objective and target audience
+1. Mino article PDF and the exact definitions and page numbers for both Othering strategies
+2. precise timestamps for the strongest scene used from each video
+3. the full reference details and relevant page numbers for Havens and Imre
 
-Do not draft the final response until these items are complete.
+The campaign, official context, target groups, three videos and core visual evidence are now confirmed.
