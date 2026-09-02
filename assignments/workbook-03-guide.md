@@ -201,6 +201,60 @@ Mino's second strategy presents local citizens as proudly showing foreign touris
 
 The Family video provides the closest evidence through its dining, market and managed tourism scenes. However, the locals are not strong speaking protagonists. The final response should acknowledge that this is a weaker and more indirect example of Mino's second strategy. Their limited visibility can itself support a critical point: the campaign promotes Qatari culture and hospitality while giving most narrative attention to international visitors.
 
+### Havens and Imre: Location as Soft Power
+
+#### Central Argument
+
+Havens and Imre broaden soft power beyond national images communicated to general audiences. Governments and media workers can also influence foreign producers and executives through cultural diplomacy, incentives, professional relationships and a film-friendly reputation (2026, pp. 25-26).
+
+#### Evidence from Hungary
+
+- International media investment in Hungary increased by nearly 500% between 2018 and 2024 and reached almost US$1 billion annually (pp. 27-28).
+- Hungary offers a 30% rebate on direct production costs, has no annual cap on total rebates, and operates a Location Office that assists foreign productions (pp. 27-28).
+- Government officials and local production professionals act as cultural diplomats by building trust and presenting Hungary as film-friendly (pp. 28-29, 39).
+- Budapest can represent many other cities. This attracts productions but can erase Hungary's identity from finished media (pp. 29-31, 36).
+- Spy thrillers including *Munich* and *The Day of the Jackal* demonstrate the abilities of Hungarian crews and promote the country as a high-end production location (pp. 37-38).
+- Most of *The Day of the Jackal* was produced in Hungary. Budapest represented Paris, Munich and Istanbul, but also appeared as itself through images of the Danube and Parliament Building (pp. 37-38).
+
+#### How to Use This Reading in Prompt 3
+
+Qatar uses **direct representational soft power**: Visit Qatar controls the images and explicitly addresses potential tourists. Hungary uses **industrial and indirect soft power**: policy and production relationships target foreign media professionals, while fictional productions may influence general audiences.
+
+| Comparison | Qatar nation branding | Hungary's media-service strategy |
+|---|---|---|
+| Intended audience | international tourists | foreign producers and media executives |
+| Main method | controlled promotional videos | rebates, facilities, relationships and production expertise |
+| Main strength | clear and consistent national image | investment, professional trust and indirect screen exposure |
+| Main limitation | obvious promotion and simplified identity | foreign narrative control and frequent erasure of Budapest |
+
+**Recommended judgement:** Qatar's nation branding is more effective for communicating a clear tourism image because it controls the message and consistently presents Qatar as safe, luxurious and culturally distinctive. Hungary may reach audiences indirectly through popular fiction, but Budapest often plays other cities and foreign producers retain narrative control. The evaluation should still acknowledge that Qatar's explicit advertising may be less credible and reproduces the foreign gaze identified by Mino.
+
+### Reading-to-Prompt Map
+
+| Prescribed reading | Use in the response | Best pages |
+|---|---|---|
+| Mino | define and apply both Othering strategies to the three Qatar videos | pp. 184-187 |
+| Havens and Imre | explain industrial soft power and compare Qatar with Hungary's spy-thriller production | pp. 25-31, 36-39 |
+
+### In-Text Citation Models
+
+```text
+Mino (2023, pp. 184-185) describes the first strategy as...
+
+The family video more closely reflects the second strategy, in which local
+culture and service are offered for foreign consumption (Mino, 2023,
+pp. 186-187).
+
+Havens and Imre (2026, pp. 25-26) broaden soft power from national images
+aimed at general audiences to relationships with foreign media professionals.
+```
+
+### Prescribed Reading References
+
+Havens, T., & Imre, A. (2026). Location as soft power in the media services industry: The case of "Hollywood East." In P. McDonald, C. T. Meir, & A. Spicer (Eds.), *Locating media industries: Spaces, places, platforms* (pp. 25-41). Routledge. https://doi.org/10.4324/9781003498445-3
+
+Mino, P. (2023). When the locals are Othered: Hybridized representations of Latin American cultures and identities through nation branding. *Communication, Culture & Critique, 16*(3), 182-189. https://doi.org/10.1093/ccc/tcad004
+
 ### Video 1: Family
 
 **Direct video:** [Family campaign video](https://mmx.prnewswire.com/media/MS1807162/9294651_Visit_Qatar.mp4)
@@ -280,9 +334,6 @@ The campaign reproduces Mino's foreigner-local imbalance even though Qatar is ou
 
 ## Information Still Needed
 
-Before finalising the response, add:
+Before finalising the response, record precise timestamps for the strongest scene used from each video.
 
-1. precise timestamps for the strongest scene used from each video
-2. the full publication details for Havens and Imre from the Week 7 reading
-
-The campaign, official context, target groups, three videos, core visual evidence, and Mino's two strategies and page references are now confirmed.
+Both prescribed readings, their relevant arguments, page references and publication details are now included in this guide.
