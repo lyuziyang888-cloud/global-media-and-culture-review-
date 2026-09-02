@@ -175,6 +175,32 @@ form of soft power in this case because [comparison criteria and evidence].
 
 The three embedded videos were checked individually. Each is a 30-second version from the same campaign and ends with the *Surprise Yourself* and Visit Qatar branding.
 
+### Mino's Two Othering Strategies
+
+#### Strategy 1: The "Adventurous" Foreigner
+
+Mino describes advertisements in which a foreign visitor, commonly presented as White, educated and relatively affluent, becomes the main character exploring an unfamiliar and exotic destination. The intended audience is encouraged to identify with this visitor. Local people and culture are then understood through the visitor's gaze and positioned as the Other (Mino, 2023, pp. 184-185).
+
+**Test for the Qatar videos:**
+
+- Are international visitors the central characters?
+- Is Qatar presented as a place for their discovery, adventure or personal transformation?
+- Are local people absent, secondary or mainly part of the cultural setting?
+
+This strategy is strongly visible across the Family, Couple and Friends videos. The foreign visitors perform the activities and receive the experiences, while Qatar becomes the destination they explore.
+
+#### Strategy 2: Locals Who "Proudly" Serve the Foreigner
+
+Mino's second strategy presents local citizens as proudly showing foreign tourists or investors what their country can provide. Local products, culture, labour and services are offered for outside consumption or investment. Although local pride is visible, national identity is converted into a commercial resource for global audiences (Mino, 2023, pp. 186-187).
+
+**Test for the Qatar videos:**
+
+- Do local people actively welcome, guide or serve international visitors?
+- Are local culture, products or labour presented as tourism offerings?
+- Do visitors remain the main beneficiaries of the interaction?
+
+The Family video provides the closest evidence through its dining, market and managed tourism scenes. However, the locals are not strong speaking protagonists. The final response should acknowledge that this is a weaker and more indirect example of Mino's second strategy. Their limited visibility can itself support a critical point: the campaign promotes Qatari culture and hospitality while giving most narrative attention to international visitors.
+
 ### Video 1: Family
 
 **Direct video:** [Family campaign video](https://mmx.prnewswire.com/media/MS1807162/9294651_Visit_Qatar.mp4)
@@ -189,6 +215,8 @@ The three embedded videos were checked individually. Each is a 30-second version
 
 **Usable interpretation:** Qatar is presented as a safe and varied family destination. Modern recreation is placed alongside recognisable local culture and desert landscapes. This creates an image that is unfamiliar enough to feel distinctive but comfortable enough for international family tourism.
 
+**Recommended Mino use:** Use this video for Strategy 2. The tourism setting presents local culture and hospitality as experiences available to the visiting family. State clearly that the evidence is indirect because local citizens do not control the narrative.
+
 ### Video 2: Couple
 
 **Direct video:** [Couple campaign video](https://mmx.prnewswire.com/media/MS1807161/9294651_Visit_Qatar_COUPLE_VACATION.mp4)
@@ -201,6 +229,8 @@ The three embedded videos were checked individually. Each is a 30-second version
 - intimate interactions accompanied by the message, "For moments that stay with you"
 
 **Usable interpretation:** Qatar is framed as romantic, culturally sophisticated and luxurious. Arabic visual culture provides local distinctiveness, while the yacht and resort reproduce globally familiar signs of premium travel.
+
+**Recommended Mino use:** Use Strategy 1. The visiting couple occupies the centre of the story, and Qatar is organised around their private discovery, pleasure and romance.
 
 ### Video 3: Friends
 
@@ -215,6 +245,8 @@ The three embedded videos were checked individually. Each is a 30-second version
 
 **Usable interpretation:** Qatar is presented as adventurous, social and modern. The desert supplies a distinctive sense of place, while beach leisure, nightlife and contemporary architecture make the destination legible to young international travellers.
 
+**Recommended Mino use:** Use Strategy 1. The friends act as adventurous outsiders who discover the desert and city, while local people remain largely outside the story.
+
 ### Comparison Across the Three Videos
 
 | Video | Main audience | Main image of Qatar | Strongest evidence |
@@ -224,6 +256,10 @@ The three embedded videos were checked individually. Each is a 30-second version
 | Friends | young friendship groups | adventurous, social and modern | dune vehicles, beach venue, fireworks and skyline |
 
 Across all three videos, the campaign balances difference with familiarity. The desert, traditional boat, market and Arabic artwork mark Qatar as culturally distinctive. Resorts, luxury transport, family attractions and nightlife reassure international visitors that the destination offers familiar global tourism experiences. This pattern is useful for Othering analysis, but the exact strategy assigned to each video must be based on Mino's wording rather than inferred from the campaign alone.
+
+### Critical Argument Available for the Draft
+
+The campaign reproduces Mino's foreigner-local imbalance even though Qatar is outside the Latin American context studied in the article. International visitors remain active subjects who travel, discover and enjoy. Qatar's culture, landscape and hospitality become consumable experiences, while Qatari citizens receive little opportunity to define the nation in their own voices. This makes the campaign visually attractive and accessible to international tourists, but it narrows Qatar to selected images that support the tourism market.
 
 ## Final Submission Checklist
 
@@ -244,10 +280,9 @@ Across all three videos, the campaign balances difference with familiarity. The 
 
 ## Information Still Needed
 
-Before drafting the final response, add:
+Before finalising the response, add:
 
-1. Mino article PDF and the exact definitions and page numbers for both Othering strategies
-2. precise timestamps for the strongest scene used from each video
-3. the full reference details and relevant page numbers for Havens and Imre
+1. precise timestamps for the strongest scene used from each video
+2. the full publication details for Havens and Imre from the Week 7 reading
 
-The campaign, official context, target groups, three videos and core visual evidence are now confirmed.
+The campaign, official context, target groups, three videos, core visual evidence, and Mino's two strategies and page references are now confirmed.
