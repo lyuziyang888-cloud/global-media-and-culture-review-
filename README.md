@@ -14,7 +14,6 @@ Choose the unit you are revising. Each review guide includes its lecture and tut
 - [Unit 6 Review Guide](study-guides/unit-06-review.md): Keane's media-capacity framework and once-peripheral producers
 - [Unit 7 Review Guide](study-guides/unit-07-review.md): location, soft power, media services and place-making
 - [Unit 8 Review Guide](study-guides/unit-08-review.md): nation branding, Othering and imagined communities
-- [Unit 8 Reading Evidence](exam-evidence/unit-08.md): nation branding, Othering, foreign gaze and the Qatar campaign
 
 Every unit uses the same structure:
 
