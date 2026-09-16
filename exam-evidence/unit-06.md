@@ -1,10 +1,10 @@
 # Unit 6: Media Capacity Evidence
 
-## Reading Claim
+## Main Claim
 
 Keane argues that global integration should not be understood only through a West-versus-Rest model. Unequal power remains, but once-peripheral locations can develop agency and media capacity through several pathways.
 
-## Five Ready-to-Use Examples
+## Best Evidence
 
 | Model | Example | What it demonstrates |
 |---|---|---|
@@ -14,7 +14,7 @@ Keane argues that global integration should not be understood only through a Wes
 | Niche breakthrough markets | *Hero* and *House of Flying Daggers* | multiple distribution channels can take culturally distinctive content to wider audiences |
 | Creative/industrial clusters | Seoul Digital Media City | co-located infrastructure, firms and talent can support repeated innovation |
 
-## China Update
+### China Update
 
 Chinese companies participated in Sino-US co-productions during the 2010s, used international creative talent and developed streaming collaborations with Southeast Asian producers.
 
@@ -24,5 +24,8 @@ Chinese companies participated in Sino-US co-productions during the 2010s, used 
 
 International success does not automatically prove capacity-building. Ask whether local producers own intellectual property, retain skilled workers, control infrastructure and can repeat production without depending entirely on foreign companies.
 
-**Source:** Keane (2006), especially pp. 839-847 and 852-853; Week 6 lecture slides 4-20.
+## Exam-Ready Judgement
 
+Global integration can help once-peripheral producers build capacity, but lasting progress depends on local control over skills, infrastructure, intellectual property and repeated production.
+
+**Source:** Keane (2006), especially pp. 839-847 and 852-853; Week 6 lecture slides 4-20.
