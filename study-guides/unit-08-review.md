@@ -1,5 +1,7 @@
 # Unit 8 Review: Nation Branding
 
+**Unit files:** [Concepts](../concepts/unit-08-nation-branding/) | [Tutorial](../tutorials/week-08-nation-branding.md) | [Evidence](../exam-evidence/unit-08.md) | [Lecture](../lectures/week-08-nation-branding.md)
+
 ## Must Know
 
 - **Nation branding:** managing a country's reputation with adapted commercial branding techniques.
@@ -15,9 +17,7 @@
 - **Peru:** local farming and textile work connect national culture to products for global consumers.
 - **Qatar:** *Surprise Yourself* centres international visitors across Family, Couple and Friends videos; the Family video offers the closest example of service-based Othering.
 
-[More reading evidence](../exam-evidence/unit-08.md)
-
-## Tutorial Discussion
+## Discussion Questions
 
 **Question:** What do Qatar's videos reveal about Othering?
 
