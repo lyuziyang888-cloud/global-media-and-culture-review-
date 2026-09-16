@@ -1,10 +1,10 @@
 # Unit 5: Localising Streaming Evidence
 
-## Reading Claim
+## Main Claim
 
 Rai argues that India is an industrial contact zone where Netflix and Disney+ Hotstar must negotiate with a large, culturally diverse and powerful local media industry. Platform power is therefore real but context-dependent.
 
-## Best Examples
+## Best Evidence
 
 ### Hotstar's Cricketverse
 
@@ -29,5 +29,13 @@ Netflix used an Indian story, Bollywood talent and crime-drama conventions famil
 The reading reported approximately 25 million Hotstar subscribers in India, compared with 4.6 million for Netflix.
 
 **Use:** This contrast complicates platform imperialism because a US platform's global scale does not guarantee dominance within every local market.
+
+## Critical Limitation
+
+Local adaptation and competition constrain Netflix, but they do not remove its global financial, technological and distribution power. Subscriber figures also describe a particular period rather than a permanent market position.
+
+## Exam-Ready Judgement
+
+India is an industrial contact zone in which global platforms and local industries reshape one another, although their resources and bargaining power remain unequal.
 
 **Source:** Rai (2024), pp. 65-83, especially pp. 65-70.
