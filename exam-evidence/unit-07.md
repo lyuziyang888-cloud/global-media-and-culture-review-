@@ -2,48 +2,36 @@
 
 ## Main Claim
 
-Havens and Imre expand soft power beyond media texts and general audiences. They show that governments and industry workers can use policy, cultural diplomacy and professional relationships to influence foreign producers. Budapest's value comes partly from being recognisable as a production centre while remaining flexible enough to represent many locations on screen.
+Havens and Imre show that soft power can target foreign producers as well as general audiences. Governments, agencies and production workers use incentives, cultural diplomacy and professional relationships to make a location attractive (pp. 25-29).
 
-## Best Examples
+## Best Evidence
 
-### Budapest as a Chameleon City
+### Budapest
 
-**Concepts:** place-making, media services, soft power
+- Foreign production investment grew nearly 500% from 2018 to 2024 and reached almost US$1 billion per year.
+- A 30% rebate, studios, locations and skilled crews support its film-friendly reputation.
+- Budapest can represent itself or another European city.
 
-Foreign production investment in Hungary grew nearly 500% between 2018 and 2024 and reached almost US$1 billion per year. A 30% rebate on direct film costs, uncapped total rebates, locations, studios and skilled crews help Budapest compete. Spy thrillers can use the city as itself or as another European city.
-
-**Use:** A city's industrial value may come from flexibility rather than a single fixed identity.
+**Use:** Industrial flexibility can attract investment even when the city is not recognised on screen (pp. 27-29, 37-38).
 
 ### Government and Fixers
 
-**Concepts:** film diplomacy, intermediaries, place-making
+Official agencies promote Hungary, while fixers connect foreign producers with government and local workers.
 
-Official agencies promote rebates, locations and a film-friendly image. Informal fixers translate between foreign companies, the state and local stakeholders. Their trust-building work helps turn a politically specific city into a usable production location.
+**Use:** Soft power also develops through routine production relationships, not only finished media texts (pp. 28-29, 39).
 
-**Use:** Soft power is produced not only by governments or finished content but also through routine industrial relationships.
+### Benefit and Limitation
 
-### Media-Service Work
+Hungary gains investment, skills and a service reputation. However, foreign productions can relocate, Hungary creates relatively little internationally visible media of its own, and Budapest is often visually erased (pp. 25-26, 30-31, 36).
 
-**Concepts:** runaway production, labour, dependency
+### Brisbane Comparison
 
-Hungary gains investment, skills and a reputation for delivering complex productions. However, multinational firms can move elsewhere, Hungary has a small international footprint as a creator of its own media, and the city is often visually erased. Budapest's flexibility is therefore both an advantage and a source of dependency.
+Tourism promotion presents a leisure city, Ausfilm presents a production location, and *Boy Swallows Universe* presents a socially specific 1980s Brisbane.
 
-**Use:** Runaway production should be evaluated through both local capacity and continuing dependence on foreign projects.
+**Use:** Institutions construct the same place differently for different audiences.
 
-### *The Day of the Jackal* (2024)
+## Exam-Ready Judgement
 
-**Concepts:** spy thriller, representation, tourism, soft power
+Hungary gains soft power by influencing production decisions and building a film-friendly reputation. Its reliance on mobile foreign productions nevertheless limits local control.
 
-Most of the production, including studio work, took place in Hungary. It spent more than US$125 million overall. Budapest represented Paris, Munich and Istanbul, but scenes also presented Budapest itself as clean, modern and picturesque.
-
-**Use:** A service production can hide the location in some scenes while promoting it in others. Economic benefits and representational soft power can operate together.
-
-### Three Versions of Brisbane
-
-**Concepts:** audience, place-making, representation
-
-Tourism promotion presents an attractive leisure city; Ausfilm presents a versatile production location; *Boy Swallows Universe* presents a socially specific 1980s Brisbane.
-
-**Use:** Places are constructed differently according to the institution, audience and purpose.
-
-**Sources:** Havens and Imre, "Location as Soft Power in the Media Services Industry," pp. 25-41; Week 7 lecture slides 3-20; Week 7 tutorial slides 3-9; tutorial-linked Brisbane materials.
+**Source:** Havens and Imre, "Location as Soft Power in the Media Services Industry," pp. 25-41; Week 7 lecture and tutorial.
