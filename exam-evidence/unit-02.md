@@ -1,10 +1,10 @@
 # Unit 2: Media Imperialism Evidence
 
-## Reading Claim
+## Main Claim
 
 Jin argues that Facebook renews media imperialism through US-centred ownership, data extraction, technological dominance and asymmetrical global capital flows.
 
-## Best Examples
+## Best Evidence
 
 ### Facebook Data
 
@@ -29,5 +29,13 @@ Facebook was the leading social network in 152 of 167 analysed countries in Janu
 Cooperation between entertainment producers and the US military is described as militainment.
 
 **Use:** Militainment demonstrates that media power can reinforce geopolitical interests as well as generate commercial profit.
+
+## Critical Limitation
+
+Corporate reach does not prove that every audience responds in the same way. Local industries, regulation and user practices can constrain platform power.
+
+## Exam-Ready Judgement
+
+Media imperialism remains useful for explaining concentrated ownership, infrastructure and data power, but it is weaker at explaining local agency and multidirectional flows.
 
 **Source:** Jin (2019), pp. 187-198; Week 2 lecture.
