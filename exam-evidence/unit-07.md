@@ -20,15 +20,15 @@ Official agencies promote Hungary, while fixers connect foreign producers with g
 
 **Use:** Soft power also develops through routine production relationships, not only finished media texts (pp. 28-29, 39).
 
-### Benefit and Limitation
-
-Hungary gains investment, skills and a service reputation. However, foreign productions can relocate, Hungary creates relatively little internationally visible media of its own, and Budapest is often visually erased (pp. 25-26, 30-31, 36).
-
 ### Brisbane Comparison
 
 Tourism promotion presents a leisure city, Ausfilm presents a production location, and *Boy Swallows Universe* presents a socially specific 1980s Brisbane.
 
 **Use:** Institutions construct the same place differently for different audiences.
+
+## Critical Limitation
+
+Hungary gains investment, skills and a service reputation. However, foreign productions can relocate, Hungary creates relatively little internationally visible media of its own, and Budapest is often visually erased (pp. 25-26, 30-31, 36).
 
 ## Exam-Ready Judgement
 
