@@ -26,4 +26,17 @@
 
 - [Industrial Contact Zones and Format Programs](industrial-contact-zones-and-format-programs.md)
 
+## Unit 6: Media Capacity
+
+- [Global Integration and Media Capacity](global-integration-and-media-capacity.md)
+
+## Unit 7: Location as Soft Power
+
+- [Location and Soft Power](location-and-soft-power.md)
+
+## Unit 8: Nation Branding
+
+- [Nation Branding and Othering](nation-branding-and-othering.md)
+- [Nation Branding and Soft Power](nation-branding-and-soft-power.md)
+
 Relationship cards explain how concepts interact, where they conflict and what evidence can demonstrate the connection. Use them for compare, discuss and evaluate questions.
