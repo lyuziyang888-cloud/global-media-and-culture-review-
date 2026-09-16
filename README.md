@@ -6,6 +6,8 @@ An exam-focused knowledge base for learning definitions, connecting concepts, ap
 
 Choose the unit you are revising. Each review guide includes its lecture and tutorial priorities, exam questions and answer structure:
 
+- [Final Exam Map](study-guides/final-exam-map.md): all eight units on one short page
+
 - [Unit 1 Review Guide](study-guides/unit-01-review.md): global media, local content and Canadian screen industries
 - [Unit 2 Review Guide](study-guides/unit-02-review.md): media imperialism and platform imperialism
 - [Unit 3 Review Guide](study-guides/unit-03-review.md): cultural globalisation, proximity, contra-flows and media capitals
@@ -14,7 +16,6 @@ Choose the unit you are revising. Each review guide includes its lecture and tut
 - [Unit 6 Review Guide](study-guides/unit-06-review.md): Keane's media-capacity framework and once-peripheral producers
 - [Unit 7 Review Guide](study-guides/unit-07-review.md): location, soft power, media services and place-making
 - [Unit 8 Review Guide](study-guides/unit-08-review.md): nation branding, Othering and imagined communities
-- [Unit 8 Reading Evidence](exam-evidence/unit-08.md): nation branding, Othering, foreign gaze and the Qatar campaign
 
 Every unit uses the same structure:
 
