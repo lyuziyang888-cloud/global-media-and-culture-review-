@@ -1,10 +1,10 @@
 # Unit 4: Format Programs Evidence
 
-## Reading Claim
+## Main Claim
 
 Esser argues that format trade transnationalises television by circulating rights, production knowledge and expertise while allowing local adaptation.
 
-## Best Examples
+## Best Evidence
 
 ### Production Bible and Flying Producer
 
@@ -29,5 +29,13 @@ The South Korean format had 37 international adaptations, with another 13 report
 Formats originating in the "rest of the world" increased from 26% in 2004 to 48% in 2014.
 
 **Use:** The increase shows that global format production became more geographically diverse, although ownership and licensing power still require analysis.
+
+## Critical Limitation
+
+More diverse format origins do not guarantee equal ownership or revenue. Format owners can retain intellectual property and rule-setting power while local producers perform the adaptation.
+
+## Exam-Ready Judgement
+
+Formats demonstrate multidirectional exchange and local adaptation, but their industrial power must be evaluated through ownership, licensing and control over production knowledge.
 
 **Source:** Esser (2021), pp. 351-360.
