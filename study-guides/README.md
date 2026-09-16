@@ -1,5 +1,7 @@
 # Study Guides
 
+[Final Exam Map](final-exam-map.md) gives you the smallest possible overview of all eight units. Use it for final recall, then open one unit guide only when you need more detail.
+
 | Unit | Focus | Review guide |
 |---|---|---|
 | 1 | What is global media? | [Unit 1 Review](unit-01-review.md) |
