@@ -1,5 +1,7 @@
 # Unit 1 Review: What Is Global Media?
 
+**Unit files:** [Concepts](../concepts/unit-01-global-media/) | [Tutorial](../tutorials/week-01-what-is-global-media.md) | [Evidence](../exam-evidence/unit-01.md) | [Lecture](../lectures/week-01-course-overview.md)
+
 ## Must Know
 
 - **Global media:** media produced, distributed or consumed across borders.
@@ -16,8 +18,6 @@ ownership + creators + story + location + funding + distribution
 - ***Heated Rivalry*:** Canadian creators and locations, but global distribution.
 - ***North of North*:** Indigenous-led Canadian production distributed through Netflix.
 - **CanCon regulation:** government policy supports Canadian production and identity.
-
-[More evidence](../exam-evidence/unit-01.md)
 
 ## Discussion Questions
 
