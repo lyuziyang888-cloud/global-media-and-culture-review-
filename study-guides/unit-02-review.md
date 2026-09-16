@@ -1,5 +1,7 @@
 # Unit 2 Review: Media Imperialism
 
+**Unit files:** [Concepts](../concepts/unit-02-media-imperialism/) | [Tutorial](../tutorials/week-02-media-imperialism.md) | [Evidence](../exam-evidence/unit-02.md) | [Lecture](../lectures/week-02-media-imperialism.md)
+
 ## Must Know
 
 - **Media imperialism:** powerful countries or corporations dominate media production, distribution and infrastructure in weaker markets.
@@ -18,8 +20,6 @@ concentrated ownership
 - **Facebook:** controls data, visibility and access to news audiences.
 - **Australian news block:** shows that a platform can pressure a national government.
 - **Hollywood-Pentagon cooperation:** entertainment can support US military ideas.
-
-[More evidence](../exam-evidence/unit-02.md)
 
 ## Discussion Questions
 
