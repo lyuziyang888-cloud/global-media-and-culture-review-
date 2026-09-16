@@ -1,5 +1,7 @@
 # Unit 7 Review: Location as Soft Power
 
+**Unit files:** [Concepts](../concepts/unit-07-location-soft-power/) | [Tutorial](../tutorials/week-07-place-making.md) | [Evidence](../exam-evidence/unit-07.md) | [Lecture](../lectures/week-07-location-soft-power.md)
+
 ## Must Know
 
 - **Soft power:** influencing others through attraction rather than coercion or payment.
@@ -14,9 +16,7 @@
 - ***The Day of the Jackal* (2024):** most production took place in Hungary, and Budapest represented Paris, Munich and Istanbul as well as itself.
 - ***Boy Swallows Universe*:** constructs a historically and socially specific Brisbane rather than an interchangeable location.
 
-[More evidence](../exam-evidence/unit-07.md)
-
-## Tutorial Exam Practice
+## Official Tutorial Exam Practice
 
 **Question:** How is place understood similarly in media capitals and spy thrillers filmed in Hungary?
 
