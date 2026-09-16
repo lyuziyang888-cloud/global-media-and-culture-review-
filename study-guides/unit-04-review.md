@@ -1,5 +1,7 @@
 # Unit 4 Review: Format Programs
 
+**Unit files:** [Concepts](../concepts/unit-04-format-programs/) | [Tutorial](../tutorials/week-04-format-programs.md) | [Evidence](../exam-evidence/unit-04.md) | [Lecture](../lectures/week-04-format-programs.md)
+
 ## Must Know
 
 - **Canned program:** the finished program is exported without being remade.
@@ -16,8 +18,6 @@ global format rules + local adaptation = format program
 **Stays the same:** traitors, faithful contestants, missions, banishment and elimination.
 
 **Can change:** location, host, contestants, prize money, tone and local celebrity culture.
-
-[More evidence](../exam-evidence/unit-04.md)
 
 ## Discussion Questions
 
