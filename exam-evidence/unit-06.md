@@ -6,7 +6,7 @@ Keane argues that global integration should not be understood only through a Wes
 
 ## Best Evidence
 
-| Model | Example | What it demonstrates |
+| Use for concept | Example | What it proves |
 |---|---|---|
 | World factory | Indian animation outsourcing | creates employment and skills, but foreign firms may retain IP and high-value control |
 | Mimetic isomorphism | *Hari Puttar* and cloned television dramas | imitation may bring short-term success but creates originality and IP problems |
@@ -18,7 +18,9 @@ Keane argues that global integration should not be understood only through a Wes
 
 Chinese companies participated in Sino-US co-productions during the 2010s, used international creative talent and developed streaming collaborations with Southeast Asian producers.
 
-**Use:** China's changing activities show why countries should not remain permanently classified as passive peripheral producers.
+**Use for concepts:** media capacity, Western-centric approaches, cultural technology transfer
+
+**What it proves:** China's changing activities show why countries should not remain permanently classified as passive peripheral producers.
 
 ## Critical Limitation
 
