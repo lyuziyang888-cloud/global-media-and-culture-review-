@@ -8,23 +8,29 @@ Havens and Imre show that soft power can target foreign producers as well as gen
 
 ### Budapest
 
+**Use for concepts:** place-making, media-service industry, soft power
+
 - Foreign production investment grew nearly 500% from 2018 to 2024 and reached almost US$1 billion per year.
 - A 30% rebate, studios, locations and skilled crews support its film-friendly reputation.
 - Budapest can represent itself or another European city.
 
-**Use:** Industrial flexibility can attract investment even when the city is not recognised on screen (pp. 27-29, 37-38).
+**What it proves:** Industrial flexibility can attract investment even when the city is not recognised on screen (pp. 27-29, 37-38).
 
 ### Government and Fixers
 
+**Use for concepts:** fixers, film diplomacy, soft power
+
 Official agencies promote Hungary, while fixers connect foreign producers with government and local workers.
 
-**Use:** Soft power also develops through routine production relationships, not only finished media texts (pp. 28-29, 39).
+**What it proves:** Soft power also develops through routine production relationships, not only finished media texts (pp. 28-29, 39).
 
 ### Brisbane Comparison
 
+**Use for concepts:** place-making, representation, audience
+
 Tourism promotion presents a leisure city, Ausfilm presents a production location, and *Boy Swallows Universe* presents a socially specific 1980s Brisbane.
 
-**Use:** Institutions construct the same place differently for different audiences.
+**What it proves:** Institutions construct the same place differently for different audiences.
 
 ## Critical Limitation
 
