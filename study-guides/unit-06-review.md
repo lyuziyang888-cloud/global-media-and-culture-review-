@@ -1,5 +1,7 @@
 # Unit 6 Review: Media Capacity
 
+**Unit files:** [Concepts](../concepts/unit-06-media-capacity/) | [Tutorial](../tutorials/week-06-media-capacity.md) | [Evidence](../exam-evidence/unit-06.md) | [Lecture](../lectures/week-06-media-capacity.md)
+
 ## Must Know
 
 - **Media capacity:** the ability to create, finance, own, improve and circulate media, not simply perform low-cost work.
@@ -12,8 +14,6 @@
 - ***Hero* and *House of Flying Daggers*:** culturally distinctive films entering wider markets.
 - **Seoul Digital Media City:** infrastructure and talent concentrated in a creative cluster.
 - **China:** co-productions, global talent and regional streaming partnerships show changing capacity.
-
-[More evidence](../exam-evidence/unit-06.md)
 
 ## Discussion Questions
 
