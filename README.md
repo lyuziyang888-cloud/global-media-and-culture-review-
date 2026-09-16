@@ -14,6 +14,7 @@ Choose the unit you are revising. Each review guide includes its lecture and tut
 - [Unit 6 Review Guide](study-guides/unit-06-review.md): Keane's media-capacity framework and once-peripheral producers
 - [Unit 7 Review Guide](study-guides/unit-07-review.md): location, soft power, media services and place-making
 - [Unit 8 Review Guide](study-guides/unit-08-review.md): nation branding, Othering and imagined communities
+- [Unit 8 Reading Evidence](exam-evidence/unit-08.md): nation branding, Othering, foreign gaze and the Qatar campaign
 
 Every unit uses the same structure:
 
@@ -54,7 +55,6 @@ Reading files from beginning to end is not the goal. The goal is to answer witho
 | [`tutorials/`](tutorials/) | **Practice:** discussion questions, official exam practice and short answers |
 | [`exam-evidence/`](exam-evidence/) | **Evidence bank:** reading arguments and examples ready to apply |
 | [`lectures/`](lectures/) | **Reference only:** teacher argument sequence and slide anchors |
-| [`relationships/`](relationships/) | Explaining how A and B affect one another |
 | [`assignments/`](assignments/) | Task requirements, assessment criteria and planning frameworks |
 
 ## Exam Answer Pattern
@@ -73,8 +73,7 @@ Define the concept
 When new course material arrives:
 
 - update an existing concept before creating a similar one
-- keep concept cards short; move detailed cases, limitations and relationships to their own files
-- add a relationship card only when the connection could become an exam question
+- keep concept cards short; place exam-ready relationships and judgements in the relevant unit review
 - keep reading evidence and examples together in `exam-evidence/`
 - convert tutorial questions into the relevant unit review
 - keep one review guide as the unit entry point
