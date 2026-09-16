@@ -4,7 +4,7 @@
 
 Mino argues that nation-branding campaigns package culture and identity for foreign tourism, trade and investment. They often centre the foreign gaze and separate the active visitor from the local Other (pp. 182-183, 187-188).
 
-## Two Othering Strategies
+## Best Evidence
 
 ### The "Adventurous" Foreigner
 
@@ -24,7 +24,7 @@ Local people display culture, labour, products or services for tourists and inve
 
 **Use:** National identity becomes a commercial resource offered to outsiders.
 
-## Qatar: *Surprise Yourself*
+### Qatar: *Surprise Yourself*
 
 - **Couple and Friends videos:** international visitors discover luxury, desert activities and nightlife, demonstrating the adventurous-foreigner strategy.
 - **Family video:** dining, market and tourism scenes offer the closest example of service-based Othering, but local people have little narrative control.
