@@ -19,21 +19,21 @@ Learn the four short definitions, then practise one Spanish-audience example tha
 
 ### Discuss how cosmopolitanism challenges cultural proximity using Spanish audiences watching Turkish dramas.
 
-**Suggested answer:** Cultural proximity argues that audiences usually prefer familiar language, values or genres. Cosmopolitanism describes openness to cultural difference and a sense of connection to the wider world. Spanish viewers partly connected with the familiar melodramatic form, but many also valued unfamiliar Turkish places, customs and social life. Some researched Turkey, studied Turkish or travelled after watching the dramas. Their interest shows that cultural distance can create curiosity rather than prevent viewing. However, this does not make cultural proximity irrelevant because familiar moral values and melodrama still contributed to the appeal.
+**Suggested answer:** Cultural proximity argues that audiences usually prefer familiar languages, values or genres. Cosmopolitanism describes openness to cultural difference and a sense of connection to the wider world. Turkish dramas offered Spanish audiences the familiar form of melodrama, but viewers also valued cultural difference. Amparo watched because she wanted to learn how people elsewhere lived, even when she disagreed with what she saw. Isabella began studying Turkish, while Lidia's fan activity led to friendships and a trip to Istanbul. These examples show that unfamiliar culture can create curiosity and active engagement. Cultural proximity still matters because melodrama provided a familiar way into the programs, but it cannot explain the audience response by itself.
 
 ## Discussion Questions and Suggested Answers
 
 ### Why do people consume foreign content?
 
-People may enjoy a familiar genre, seek novelty or become curious about another culture. Access matters, but audiences still make choices based on their interests and previous experiences.
+People may enjoy a familiar genre or seek cultural difference. Rosa moved from Mexican telenovelas to Turkish dramas because the older programs had become repetitive. Turkish melodrama remained familiar, while Turkish settings and customs offered novelty.
 
 ### Does consuming foreign media make people more interested in another culture?
 
-Sometimes. Active viewers may research the culture, learn the language or join fan communities. Other viewers may simply enjoy the program, so consumption alone does not prove deeper interest.
+Sometimes. Isabella began studying Turkish after discovering the dramas. Lidia created a fan account, formed friendships and travelled to Istanbul. Other viewers mainly learned from what appeared on screen, so watching alone does not prove deeper engagement.
 
 ### What is enough to count as cosmopolitan?
 
-Exposure is a starting point. A stronger case requires openness to difference and some ability to reflect on the limits of what the media shows.
+Exposure is a starting point. Teresa showed stronger cosmopolitan reflection when she distinguished wealthy Istanbul settings from Mardin and more rural regions. This shows awareness that one drama cannot represent an entire country.
 
 ### Can the Thai boys' love tourism example show banal or pop cosmopolitanism?
 
@@ -59,4 +59,3 @@ The official exam-practice question is on slide 4. It requires both definitions 
 - official exam practice: slide 4
 - Thai drama application: slide 5
 - foreign-content discussion: slides 6-7
-
