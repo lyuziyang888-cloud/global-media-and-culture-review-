@@ -1,6 +1,6 @@
 # Study Guides
 
-[Final Exam Map](final-exam-map.md) gives you the smallest possible overview of all eight units. Use it for final recall, then open one unit guide only when you need more detail.
+[Final Exam Map](final-exam-map.md) gives you the smallest possible overview of the available units. Use it for final recall, then open one unit guide only when you need more detail.
 
 | Unit | Focus | Review guide |
 |---|---|---|
@@ -12,5 +12,6 @@
 | 6 | Media capacity | [Unit 6 Review](unit-06-review.md) |
 | 7 | Location as soft power | [Unit 7 Review](unit-07-review.md) |
 | 8 | Nation branding and Othering | [Unit 8 Review](unit-08-review.md) |
+| 10 | Cosmopolitanism and Turkish dramas | [Unit 10 Review](unit-10-review.md) |
 
 Each guide is the first and shortest revision page for its unit. The fixed order is: must-know concepts, best examples, official tutorial exam practice when supplied, discussion questions and an exam answer pattern. Open other folders only to repair a specific gap.
