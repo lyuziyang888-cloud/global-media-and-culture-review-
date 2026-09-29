@@ -1,12 +1,23 @@
-# Unit 10: Cosmopolitanism Evidence
+# Unit 10 Evidence-to-Concept Map
 
-## Main Claim
+## Core Claim
 
 Ferreira argues that Turkish dramas contribute to a continuing process of cosmopolitan identity formation among Spanish viewers. They do not create cosmopolitanism by themselves; viewers' prior experiences, curiosity and active engagement also shape the process (pp. 945-946).
 
-## Best Evidence
+## Quick Map
 
-### Difference as an Attraction
+| Concept | Evidence to use | What it proves | Pages |
+|---|---|---|---|
+| Cultural proximity | Spanish viewers recognised melodrama and some familiar moral values | Familiarity partly explains cross-border appeal | 934-935, 945-946 |
+| Cosmopolitanism | Viewers valued unfamiliar Turkish places, customs and social life | Cultural difference can attract audiences | 941-943 |
+| Banal cosmopolitanism | Some viewers learned mainly through routine drama consumption | Foreign culture can enter everyday media life without deep research | 941-944 |
+| Pop cosmopolitanism | Viewers researched Turkey, studied Turkish, joined fan communities or travelled | Active engagement can develop cultural knowledge and reflection | 941-944 |
+| Critical reflexivity | Viewers questioned wealthy Istanbul images and criticised gender inequality | Audiences can challenge media representations instead of accepting them as reality | 942-943 |
+| Transnational media flow | Spanish broadcasters imported inexpensive Turkish dramas and developed local remakes | Industrial access shapes which foreign content audiences can watch | 933-934 |
+
+## Evidence Details
+
+### Cultural Difference as an Attraction
 
 **Use for concepts:** cosmopolitanism, cultural proximity, cultural distance
 
@@ -38,7 +49,7 @@ Spanish broadcasters used Turkish dramas because they were affordable, repeated 
 
 **What it proves:** Audience interest operates within industrial decisions about what becomes available.
 
-## Critical Limitation
+## Limitation to Add
 
 The study used 16 interviews, mostly with women and people who already engaged in fan practices. Ferreira states that the sample does not necessarily represent all Spanish viewers (pp. 938-939). The findings therefore explain how cosmopolitan engagement can occur, not how every viewer responds.
 
@@ -47,4 +58,3 @@ The study used 16 interviews, mostly with women and people who already engaged i
 The Spanish case challenges a simple cultural-proximity explanation because viewers were attracted to both familiar melodrama and unfamiliar Turkish culture. Cosmopolitanism adds the role of curiosity and reflection, but neither framework alone explains popularity without industrial access and audience background.
 
 **Source:** Ferreira (2026), pp. 932-949. https://doi.org/10.1177/01634437261428615
-
