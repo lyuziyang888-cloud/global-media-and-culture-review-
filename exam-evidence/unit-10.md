@@ -8,12 +8,12 @@ Ferreira argues that Turkish dramas contribute to a continuing process of cosmop
 
 | Concept | Evidence to use | What it proves | Pages |
 |---|---|---|---|
-| Cultural proximity | Spanish viewers recognised melodrama and some familiar moral values | Familiarity partly explains cross-border appeal | 934-935, 945-946 |
-| Cosmopolitanism | Viewers valued unfamiliar Turkish places, customs and social life | Cultural difference can attract audiences | 941-943 |
-| Banal cosmopolitanism | Some viewers learned mainly through routine drama consumption | Foreign culture can enter everyday media life without deep research | 941-944 |
-| Pop cosmopolitanism | Viewers researched Turkey, studied Turkish, joined fan communities or travelled | Active engagement can develop cultural knowledge and reflection | 941-944 |
-| Critical reflexivity | Viewers questioned wealthy Istanbul images and criticised gender inequality | Audiences can challenge media representations instead of accepting them as reality | 942-943 |
-| Transnational media flow | Spanish broadcasters imported inexpensive Turkish dramas and developed local remakes | Industrial access shapes which foreign content audiences can watch | 933-934 |
+| Cultural proximity | Turkish melodrama entered a market already familiar with Latin American telenovelas; Rosa moved from Mexican telenovelas to Turkish dramas | A familiar genre helped Turkish content enter Spain, although novelty also mattered | 933-934, 941 |
+| Cosmopolitanism | Amparo watched to learn how people elsewhere live, including practices she disliked | Openness does not require identification or agreement with the culture shown | 941, 943 |
+| Banal cosmopolitanism | Amparo described learning about Turkish customs and everyday life through regular viewing | Television can make contact with a distant culture part of ordinary life | 941 |
+| Pop cosmopolitanism | Isabella began studying Turkish; Lidia created a fan account, formed friendships and travelled to Istanbul | Fans can turn viewing into active cultural learning and cross-border activity | 939, 944 |
+| Critical reflexivity | Teresa distinguished wealthy Istanbul from Mardin and rural regions; Dolores searched online to check regional differences | Viewers can question whether a drama represents the whole country | 942-943 |
+| Transnational media flow | *Fatmagül* became Nova's most-watched series; *Woman* later reached Antena 3 primetime, and *Alba* adapted *Fatmagül* for Spanish streaming and television | Broadcasters, scheduling and remakes helped Turkish stories move from niche import to mainstream content | 933-934 |
 
 ## Evidence Details
 
@@ -21,7 +21,7 @@ Ferreira argues that Turkish dramas contribute to a continuing process of cosmop
 
 **Use for concepts:** cosmopolitanism, cultural proximity, cultural distance
 
-Participants valued Turkish architecture, food, history, music, traditions and geography. Amparo said that learning how another culture lives was the main attraction (p. 941).
+Amparo said that learning how people in another culture live was the main attraction. She continued watching even though she disagreed with practices she considered sexist (pp. 941, 943).
 
 **What it proves:** Familiarity is not the only source of appeal. Cultural difference can motivate viewing.
 
@@ -29,7 +29,7 @@ Participants valued Turkish architecture, food, history, music, traditions and g
 
 **Use for concepts:** pop cosmopolitanism, fandom, cultural learning
 
-Some viewers followed Turkish media accounts, joined fan communities, studied Turkish, attended cultural events or travelled to Turkey (pp. 941-942). Lidia's fan activity also produced friendships and travel beyond the television program (p. 944).
+Isabella began studying Turkish after a Turkish-German student introduced her to the dramas (p. 939). Lidia created a fan account for a Turkish actor, formed friendships with women around Spain and travelled with them to Istanbul (p. 944).
 
 **What it proves:** Active engagement with popular culture can expand knowledge and social relationships.
 
@@ -37,7 +37,7 @@ Some viewers followed Turkish media accounts, joined fan communities, studied Tu
 
 **Use for concepts:** pop cosmopolitanism, representation, reflexivity
 
-Viewers recognised that wealthy Istanbul settings did not represent all of Turkey. They compared urban and rural settings and criticised gender inequality in some dramas (pp. 942-943).
+Teresa used *If I Were a Cloud*, set in Mardin, to distinguish rural regions from the wealthy, Westernised Istanbul commonly shown on screen. Dolores searched online to understand regional differences, while Lidia criticised the dramas for presenting Turkey more positively than reality (pp. 942-943).
 
 **What it proves:** Cosmopolitan engagement can include questioning the media image rather than accepting it as reality.
 
@@ -45,7 +45,7 @@ Viewers recognised that wealthy Istanbul settings did not represent all of Turke
 
 **Use for concepts:** transnational media flow, distribution, audience access
 
-Spanish broadcasters used Turkish dramas because they were affordable, repeated well and supported remakes and cross-platform distribution. Turkish content moved from specialist channels into primetime television and streaming (pp. 933-934).
+*What Is Fatmagül's Fault?* became the most-watched series in Nova's history after its 2018 premiere. *Woman* later moved Turkish drama into Antena 3's primetime schedule. The Spanish remake *Alba* moved from local streaming to television and then Netflix (pp. 933-934).
 
 **What it proves:** Audience interest operates within industrial decisions about what becomes available.
 
