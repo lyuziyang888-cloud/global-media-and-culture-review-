@@ -10,5 +10,6 @@
 | 6 | Media capacity | [Week 6: Once Were Peripheral](week-06-media-capacity.md) |
 | 7 | Location as soft power | [Week 7: Location as Soft Power](week-07-location-soft-power.md) |
 | 8 | Nation branding | [Week 8: Nation Branding](week-08-nation-branding.md) |
+| 10 | Cosmopolitanism and Turkish dramas | [Week 10: Cosmopolitanism and Turkish Dramas](week-10-cosmopolitanism-and-dramas.md) |
 
 Lecture maps preserve teacher definitions, the argument sequence and exact slide anchors. Start revision from the unit guide rather than reading this folder in isolation.
