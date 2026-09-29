@@ -12,6 +12,7 @@ Use this page for rapid recall. Open the linked unit review only when you cannot
 | [6: Media Capacity](unit-06-review.md) | media capacity; creative/industrial clusters | global integration builds capacity only when local producers retain skills, IP and infrastructure | Seoul Digital Media City | Which Keane model creates the strongest capacity? |
 | [7: Location as Soft Power](unit-07-review.md) | soft power; place-making | production services can attract foreign producers while creating external dependence | Budapest as a flexible filming location | Are media-service industries simply exploited? |
 | [8: Nation Branding](unit-08-review.md) | nation branding; Othering | attraction can improve reputation while simplifying identity for foreign audiences | Qatar's *Surprise Yourself* | How does nation branding create soft power and Othering? |
+| [10: Cosmopolitanism](unit-10-review.md) | cosmopolitanism; cultural proximity | audiences may value cultural familiarity and cultural difference at the same time | Spanish audiences watching Turkish dramas | How does cosmopolitanism challenge cultural proximity? |
 
 ## Universal Answer Pattern
 
