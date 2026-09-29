@@ -19,7 +19,7 @@ Learn the four short definitions, then practise one Spanish-audience example tha
 
 ### Discuss how cosmopolitanism challenges cultural proximity using Spanish audiences watching Turkish dramas.
 
-**Suggested answer:** Cultural proximity means that audiences tend to prefer media with familiar languages, values or genres. Cosmopolitanism means openness to cultural difference and a sense of connection to the wider world. Spanish viewers engaged with difference in several ways: Amparo watched to learn how people elsewhere lived, Isabella began studying Turkish, and Teresa questioned whether wealthy Istanbul settings represented the whole country. These examples challenge cultural proximity because unfamiliar culture encouraged curiosity, learning and critical reflection.
+**Suggested answer:** Cultural proximity means that audiences tend to prefer media with familiar languages, values or genres. Cosmopolitanism means openness to cultural difference and a sense of connection to the wider world. Spanish viewers engaged with difference in several ways: Amparo watched to learn how people elsewhere lived, Isabella began studying Turkish, and Teresa questioned whether wealthy Istanbul settings represented the whole country. 
 
 ## Discussion Questions and Suggested Answers
 
