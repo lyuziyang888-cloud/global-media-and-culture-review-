@@ -120,8 +120,8 @@ Choose the **cover video first** if necessary. A famous song with weak comments 
 | Compare | Official MV | Paris cover | Analytical use |
 |---|---|---|---|
 | Choreography | BLACKPINK performs the agency-produced choreography | RISIN' retains the principal movements and formations | shows continuity and fan reproduction |
-| Performers | four female K-pop idols | four male French-based cover dancers | shows that gender does not prevent affective affinity or participation |
-| Location | controlled studio sets and rapidly changing visual worlds | one recognisable public space in Paris | relocates a Korean media text into the dancers' local environment |
+| Performers | four female K-pop idols | four male dancers from a Paris-based cover group | shows that gender does not prevent affective affinity or participation |
+| Location | controlled studio sets and rapidly changing visual worlds | several recognisable public locations in Paris | relocates a Korean media text into the dancers' local environment |
 | Costume | high-budget styling, including modernised hanbok | fan-selected outfits inspired by the original style | demonstrates adaptation rather than exact duplication |
 | Production | cinematic editing, sets and effects | public performance with simpler fan production | shifts attention from spectacle to choreography and participation |
 
@@ -286,6 +286,12 @@ The cover can therefore be considered [position] transcultural fandom because
 Jin, D. Y. (2023). K-pop fandom from global perspectives. In *Understanding the Korean Wave: Transnational Korean pop culture and digital technologies* (pp. 118-134). Routledge. https://doi.org/10.4324/9781003393016-10
 
 Yoon, K. (2018). Global imagination of K-pop: Pop music fans' lived experiences of cultural hybridity. *Popular Music and Society, 41*(4), 373-389. https://doi.org/10.1080/03007766.2017.1292819
+
+## Video References
+
+BLACKPINK. (2020, June 26). *BLACKPINK - 'How You Like That' M/V* [Video]. YouTube. https://www.youtube.com/watch?v=ioNng23DkIM
+
+RISIN'. (2020, July 10). *[KPOP IN PUBLIC PARIS] BLACKPINK (블랙핑크) - 'How You Like That' dance cover by RISIN' from France* [Video]. YouTube. https://www.youtube.com/watch?v=cJfuX3ZBIPE
 
 ## Final Rubric Check
 
