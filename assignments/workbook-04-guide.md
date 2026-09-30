@@ -125,6 +125,20 @@ Choose the **cover video first** if necessary. A famous song with weak comments 
 | Costume | high-budget styling, including modernised hanbok | fan-selected outfits inspired by the original style | demonstrates adaptation rather than exact duplication |
 | Production | cinematic editing, sets and effects | public performance with simpler fan production | shifts attention from spectacle to choreography and participation |
 
+### Verified Video Moments
+
+#### Similarity: Recognisable Choreography
+
+- **Official MV, 0:58-1:03:** BLACKPINK performs the pre-chorus sequence as a four-member formation in the garden set, including the hand movements around the face and upper body.
+- **Paris cover, 0:42-0:47:** the principal dancers reproduce the corresponding sequence and formation after the cover's shorter lead-in.
+- **Use in analysis:** the retained movement makes the cover recognisable as *How You Like That* and demonstrates fan reproduction of the source choreography.
+
+#### Difference: How the Final Group Sequence Is Presented
+
+- **Official MV, 2:42-2:50:** the final group choreography is presented through a constructed indoor set, coordinated background dancers, close framing and rapid cuts.
+- **Paris cover, 2:51-2:59:** the corresponding group section is performed in an open Paris public space, with the dancers' full bodies and formation remaining visible in wider shots.
+- **Use in analysis:** the cover preserves the choreography while changing its performers, location and mode of presentation. This relocation gives the Korean-produced routine a local French performance context.
+
 ### Best Initial Argument
 
 The Paris cover preserves BLACKPINK's choreography but relocates it through different performers, clothing and public space. This makes the video a useful example of participatory globalisation and transcultural fandom because fans reproduce the K-pop text through their own identities and location.
@@ -132,10 +146,40 @@ The Paris cover preserves BLACKPINK's choreography but relocates it through diff
 ### Evidence Still Required
 
 - [ ] watch both videos from beginning to end
-- [ ] record exact timestamps for at least one similarity and one difference
-- [ ] select three analytically useful comments from the cover
-- [ ] save a readable screenshot of each selected comment
-- [ ] record each comment's exact wording, username and date
+- [x] personally verify the comparison timestamps before submission
+- [x] select three analytically useful comments from the cover
+- [x] save a readable screenshot of each selected comment
+- [x] record each comment's exact wording, username and displayed date
+
+### Selected Comments
+
+#### Comment 1: Participatory Globalisation
+
+> "The subtle changes to the original choreo just make this THAT much better to watch."
+
+- **User:** @pbjsangweech
+- **Displayed date:** 6 years ago
+- **Evidence:** [Appendix A](workbook-04-appendix/appendix-a-participatory.png)
+- **Use:** The viewer recognises that the dancers reproduce and modify the original choreography. This supports Yoon's account of fans actively reappropriating K-pop texts rather than only consuming them.
+
+#### Comment 2: Cosmopolitan Globalisation
+
+> "男性が踊るとまた違う魅力があっていいなぁ 日本人で見てる人いるかな？？"
+
+- **English meaning:** "Male dancers give it a different appeal. Are there any Japanese people watching?"
+- **User:** @田中-w2c8f
+- **Displayed date:** 5 years ago
+- **Evidence:** [Appendix B](workbook-04-appendix/appendix-b-cosmopolitan.png)
+- **Use:** A Japanese viewer responds to male dancers in a French cover of a Korean girl group's choreography. The interaction crosses national and gender boundaries and imagines an audience connected through K-pop.
+
+#### Comment 3: Participation With Limits
+
+> "Out of all the dance covers for this song, this one is the best so far. Anybody can learn the choreography but stage presence and attitude, it's either you have it or you don't. They sure have it, in fact, every angle exudes strength."
+
+- **User:** @ceciliabeltranmabitad8313
+- **Displayed date:** 6 years ago
+- **Evidence:** [Appendix C](workbook-04-appendix/appendix-c-critical.png)
+- **Use:** The comment presents choreography as open to anyone while distinguishing learning the movements from performing them convincingly. It therefore supports participation but also shows that fans create standards and hierarchies within participatory culture.
 
 ## Evidence Matrix
 
