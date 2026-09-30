@@ -77,11 +77,11 @@ Fans imagine a more inclusive global cultural space. They use K-pop to question 
 
 ### Jin: Transcultural Fandom
 
-Jin distinguishes transcultural fandom from a framework focused mainly on movement between nations. A transcultural approach examines a wider combination of cultural context, gender, ethnicity, age and fan culture. Fans from different backgrounds form communities around shared interests and **affective affinity**, meaning a subjective feeling of connection to a fan object regardless of its national origin (2023, pp. 119-121).
+Jin distinguishes transcultural fandom from a framework focused mainly on movement between nations. A transcultural approach examines a wider combination of cultural context, gender, ethnicity, age and fan culture. Fans from different backgrounds form communities around shared interests and **affective affinity**, meaning a subjective feeling of connection to a fan object regardless of its national origin (2024, pp. 119-121).
 
 **Application to cover dance:** A cover can be transcultural when performers take a Korean-produced fan object into their own location and identity, while viewers connect through shared enthusiasm rather than nationality alone. The argument becomes stronger when the comments show recognition, belonging or interaction among people from different backgrounds.
 
-**Critical limitation:** Jin states that transculturalism does not fully explain why every global fan likes K-pop. Industry control, platform visibility and national context still matter (2023, p. 133).
+**Critical limitation:** Jin states that transculturalism does not fully explain why every global fan likes K-pop. Industry control, platform visibility and national context still matter (2024, p. 133).
 
 ## Video Selection Checklist
 
@@ -283,7 +283,7 @@ The cover can therefore be considered [position] transcultural fandom because
 
 ## Prescribed Reading References
 
-Jin, D. Y. (2023). K-pop fandom from global perspectives. In *Understanding the Korean Wave: Transnational Korean pop culture and digital technologies* (pp. 118-134). Routledge. https://doi.org/10.4324/9781003393016-10
+Jin, D. Y. (2024). *Understanding the Korean wave: Transnational Korean pop culture and digital technologies*. Routledge. https://doi.org/10.4324/9781003393016
 
 Yoon, K. (2018). Global imagination of K-pop: Pop music fans' lived experiences of cultural hybridity. *Popular Music and Society, 41*(4), 373-389. https://doi.org/10.1080/03007766.2017.1292819
 
