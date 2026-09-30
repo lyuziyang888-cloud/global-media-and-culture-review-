@@ -96,6 +96,47 @@ Jin distinguishes transcultural fandom from a framework focused mainly on moveme
 
 Choose the **cover video first** if necessary. A famous song with weak comments is less useful than a clear cover with strong comment evidence.
 
+## Selected Case: BLACKPINK - How You Like That
+
+### Official Music Video
+
+- **Video:** [BLACKPINK - How You Like That M/V](https://www.youtube.com/watch?v=ioNng23DkIM)
+- **Uploader:** BLACKPINK Official Artist Channel
+- **Release date:** 26 June 2020
+- **Agency:** YG Entertainment
+- **Why it qualifies:** the official artist channel uploaded the original MV
+
+### Cover Dance Video
+
+- **Video:** [KPOP IN PUBLIC PARIS - How You Like That Dance Cover](https://www.youtube.com/watch?v=cJfuX3ZBIPE)
+- **Uploader:** RISIN'
+- **Release date:** 10 July 2020
+- **Location:** Paris, France
+- **Performers:** four male dancers in the principal BLACKPINK roles, supported by additional dancers
+- **Why it works:** it keeps the recognisable choreography while changing the performers, costumes, production setting and cultural location
+
+### Prompt 1 Comparison Plan
+
+| Compare | Official MV | Paris cover | Analytical use |
+|---|---|---|---|
+| Choreography | BLACKPINK performs the agency-produced choreography | RISIN' retains the principal movements and formations | shows continuity and fan reproduction |
+| Performers | four female K-pop idols | four male French-based cover dancers | shows that gender does not prevent affective affinity or participation |
+| Location | controlled studio sets and rapidly changing visual worlds | one recognisable public space in Paris | relocates a Korean media text into the dancers' local environment |
+| Costume | high-budget styling, including modernised hanbok | fan-selected outfits inspired by the original style | demonstrates adaptation rather than exact duplication |
+| Production | cinematic editing, sets and effects | public performance with simpler fan production | shifts attention from spectacle to choreography and participation |
+
+### Best Initial Argument
+
+The Paris cover preserves BLACKPINK's choreography but relocates it through different performers, clothing and public space. This makes the video a useful example of participatory globalisation and transcultural fandom because fans reproduce the K-pop text through their own identities and location.
+
+### Evidence Still Required
+
+- [ ] watch both videos from beginning to end
+- [ ] record exact timestamps for at least one similarity and one difference
+- [ ] select three analytically useful comments from the cover
+- [ ] save a readable screenshot of each selected comment
+- [ ] record each comment's exact wording, username and date
+
 ## Evidence Matrix
 
 Complete this before drafting.
