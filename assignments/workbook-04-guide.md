@@ -130,13 +130,13 @@ Choose the **cover video first** if necessary. A famous song with weak comments 
 #### Similarity: Recognisable Choreography
 
 - **Official MV, 0:58-1:03:** BLACKPINK performs the pre-chorus sequence as a four-member formation in the garden set, including the hand movements around the face and upper body.
-- **Paris cover, 0:42-0:47:** the principal dancers reproduce the corresponding sequence and formation after the cover's shorter lead-in.
+- **Paris cover, 1:16-1:21:** the principal dancers reproduce the corresponding sequence and formation after the cover's added opening material.
 - **Use in analysis:** the retained movement makes the cover recognisable as *How You Like That* and demonstrates fan reproduction of the source choreography.
 
 #### Difference: How the Final Group Sequence Is Presented
 
 - **Official MV, 2:42-2:50:** the final group choreography is presented through a constructed indoor set, coordinated background dancers, close framing and rapid cuts.
-- **Paris cover, 2:51-2:59:** the corresponding group section is performed in an open Paris public space, with the dancers' full bodies and formation remaining visible in wider shots.
+- **Paris cover, 3:00-3:08:** the corresponding group section is performed in an open Paris public space, with the dancers' full bodies and formation remaining visible in wider shots.
 - **Use in analysis:** the cover preserves the choreography while changing its performers, location and mode of presentation. This relocation gives the Korean-produced routine a local French performance context.
 
 ### Best Initial Argument
