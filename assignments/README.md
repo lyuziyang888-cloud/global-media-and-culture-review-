@@ -14,4 +14,8 @@
 
 - [Workbook 3 Guide: Nation Branding and Soft Power](workbook-03-guide.md)
 
+## Assessment Task 4
+
+- [Workbook 4 Guide: K-pop Cover Dance](workbook-04-guide.md)
+
 Use the guides to interpret the task and rubric before drafting. Check every final submission against the official Canvas instructions, word limit and permitted sources.
