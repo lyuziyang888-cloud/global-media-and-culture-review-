@@ -29,7 +29,7 @@ Learn the difference between the four concepts. Prepare one industry example, on
 
 ### Who has the most power over cover-dance videos?
 
-Entertainment agencies have the strongest starting power because they own and promote the original music, performers and choreography. Cover dancers can adapt the performance, audiences influence visibility through engagement, and YouTube controls discoverability. Power is therefore shared but unequal.
+I think entertainment agencies have the most power. They control the original song, choreography, performers and visual style that cover dancers usually follow. Cover dancers can change the location, gender presentation or movements, while audiences and YouTube affect which videos become visible. However, these activities still begin with cultural material produced and promoted by the entertainment agency. Therefore, power is shared, but agencies shape the starting point.
 
 ### Are cover dances cultural hybridity or copying?
 
