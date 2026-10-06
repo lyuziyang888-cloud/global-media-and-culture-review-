@@ -11,5 +11,6 @@
 | 7 | Place-making in media-service industries | [Week 7: Place-Making](week-07-place-making.md) |
 | 8 | Nation branding and Othering | [Week 8: Nation Branding](week-08-nation-branding.md) |
 | 10 | Cosmopolitanism and foreign-content audiences | [Week 10: Cosmopolitanism](week-10-cosmopolitanism.md) |
+| 11 | Cultural hybridity and K-pop fan practices | [Week 11: K-pop Fandom](week-11-k-pop-fandom.md) |
 
 Tutorial maps keep discussion questions and suggested answers. Official exam-practice questions are labelled separately and are also included in the relevant unit review.

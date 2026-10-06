@@ -13,5 +13,6 @@
 | 7 | Location as soft power | [Unit 7 Review](unit-07-review.md) |
 | 8 | Nation branding and Othering | [Unit 8 Review](unit-08-review.md) |
 | 10 | Cosmopolitanism and Turkish dramas | [Unit 10 Review](unit-10-review.md) |
+| 11 | K-pop fandom and cultural hybridity | [Unit 11 Review](unit-11-review.md) |
 
 Each guide is the first and shortest revision page for its unit. The fixed order is: must-know concepts, best examples, official tutorial exam practice when supplied, discussion questions and an exam answer pattern. Open other folders only to repair a specific gap.

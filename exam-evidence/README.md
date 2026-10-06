@@ -11,5 +11,6 @@ Choose the unit you are revising. Each page uses the same structure and labels e
 - [Unit 7: Location as Soft Power](unit-07.md)
 - [Unit 8: Nation Branding and Othering](unit-08.md)
 - [Unit 10: Cosmopolitanism and Turkish Dramas](unit-10.md)
+- [Unit 11: K-pop Fandom and Cultural Hybridity](unit-11.md)
 
 Use one strong example per argument. Explain what it proves instead of listing several examples.

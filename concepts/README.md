@@ -13,5 +13,6 @@ Choose a unit first, then open the concept you want to revise.
 | [Unit 7: Location as Soft Power](unit-07-location-soft-power/) | soft power, place-making, media services and fixers | 4 |
 | [Unit 8: Nation Branding](unit-08-nation-branding/) | nation branding, imagined communities, Othering and the foreign gaze | 3 |
 | [Unit 10: Cosmopolitanism](unit-10-cosmopolitanism/) | cosmopolitanism, cultural proximity and Turkish drama audiences | 4 |
+| [Unit 11: K-pop Fandom](unit-11-k-pop-fandom/) | cultural hybridity, global imagination and transcultural fandom | 4 |
 
 Each concept card contains four short sections: definition, keywords, core understanding and possible questions. Return to the relevant unit review for relationships, examples and exam practice.
