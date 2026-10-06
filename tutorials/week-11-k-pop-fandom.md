@@ -33,7 +33,7 @@ I think entertainment agencies have the most power. They control the original so
 
 ### Are cover dances cultural hybridity or copying?
 
-They can be both. Reproducing recognisable choreography involves copying, but changes in performers, gender presentation, location and performance style can create a new cultural version. The answer depends on the evidence in the specific video.
+K-pop cover dances can be both copying and cultural hybridity. They copy recognisable music and choreography from the original performance. However, dancers may change the performers, gender presentation, location, costumes and movement details. These changes adapt the performance to a new cultural setting. Therefore, a cover becomes culturally hybrid when dancers reinterpret the original instead of reproducing it exactly.
 
 ## Fan-Practice Activity
 
