@@ -11,7 +11,7 @@
 
 ## Best Examples
 
-- **KATSEYE:** combines K-pop industrial practices with a multinational group and global pop strategy.
+- **KATSEYE:** HYBE and Geffen created a multinational group through K-pop training. Korean, Japanese and Tagalog versions of "Touch" adapted the release for different markets.
 - **Cover dance:** fans reproduce recognisable choreography while changing performers, place and presentation.
 - **Melbourne Taemin banner:** fans combined K-pop support culture with Australian animals, landscape and language.
 - **Fan labour:** participation gives fans agency but can also create value for agencies and platforms.
@@ -20,7 +20,7 @@
 
 ### How does KATSEYE demonstrate cultural hybridity?
 
-Its industrial strategy combines K-pop training and performance conventions with multinational members and global pop positioning. This challenges a fixed Korean-versus-Western division, although major companies still organise and profit from the mixture.
+HYBE and Geffen combined K-pop training and synchronised choreography with six members from the Philippines, the United States, Switzerland and South Korea. KATSEYE also prepared Korean, Japanese and Tagalog versions of "Touch." This is cultural fusion and challenges a fixed K-pop-versus-Western-pop division. However, two major companies organised the mixture for global markets, and the article described the group's early reception as lukewarm. A global strategy is therefore not the same as proven global success.
 
 ## Discussion Questions
 
@@ -44,4 +44,3 @@ define the selected concept
 ```
 
 **Useful judgement:** K-pop fandom allows active cross-border adaptation, but participation operates within media systems still shaped by agencies and platforms.
-

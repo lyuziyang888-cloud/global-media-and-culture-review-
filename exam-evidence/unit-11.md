@@ -13,6 +13,7 @@ K-pop fans do more than receive a Korean media product. They reinterpret, reprod
 | Cosmopolitan globalisation | Cover dancers reinterpret K-pop from their own experiences and locations | K-pop can support cultural flows beyond Western centres and exclusive national ownership | Yoon, 380-382 |
 | Transcultural fandom | Fans from varied genders, cultures and ethnicities form connections around shared interests | Fandom cannot be explained by nationality alone | Jin, 120-121 |
 | Affective affinity | Fans may connect with border-crossing texts because of shared interests rather than national origin | Emotional attachment can cross national boundaries | Jin, 120-121 |
+| Industrial hybridity | HYBE and Geffen combined K-pop training with multinational casting and multilingual versions of "Touch" | KATSEYE mixes production systems, identities and market strategies rather than exporting an unchanged Korean group | Korea JoongAng Daily, 2024 |
 
 ## Evidence Details
 
@@ -48,6 +49,14 @@ Yoon notes that participatory culture may commodify audiences and produce value 
 
 **What it proves:** Fan agency is real but should not be treated as complete freedom or a complete explanation.
 
+### KATSEYE's Hybrid Industrial Strategy
+
+**Use for concepts:** cultural hybridity, globalisation, localisation, corporate power
+
+HYBE partnered with Geffen Records to create KATSEYE for a US debut. The six members came from the Philippines, the United States, Switzerland and South Korea, while HYBE supplied K-pop training and synchronised performance methods. The group prepared Korean, Japanese and Tagalog versions of "Touch," and its audition and training content circulated through YouTube, Weverse, Abema and Netflix.
+
+**What it proves:** The strategy combines Korean production methods with multinational casting, local languages and global distribution. It challenges a fixed division between K-pop and Western pop, but HYBE and Geffen still organise the mixture commercially. The article's description of initially lukewarm reception also shows that a global strategy does not guarantee global success.
+
 ## Limitation to Add
 
 Yoon's evidence comes from qualitative research with fans in Canada, so it should not be treated as the experience of every K-pop audience. Jin presents transculturalism as a useful approach rather than the only explanation of global fandom.
@@ -56,5 +65,4 @@ Yoon's evidence comes from qualitative research with fans in Canada, so it shoul
 
 K-pop fandom is participatory and transcultural when fans actively adapt media and form connections across borders. The judgement should remain tied to the chosen evidence because not every act of viewing or imitation proves hybridity.
 
-**Sources:** Yoon (2018), pp. 373-389; Jin (2024), pp. 118-134.
-
+**Sources:** Yoon (2018), pp. 373-389; Jin (2024), pp. 118-134; [Korea JoongAng Daily (2024), "K-pop's most diverse newcomers KATSEYE aim to push boundaries"](https://www.koreajoongangdaily.com/entertainment/k-pops-most-diverse-newcomers-katseye-aim-to-push-boundaries-in-the-music-scene/12117156).
