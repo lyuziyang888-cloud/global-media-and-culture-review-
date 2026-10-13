@@ -12,5 +12,6 @@ Choose the unit you are revising. Each page uses the same structure and labels e
 - [Unit 8: Nation Branding and Othering](unit-08.md)
 - [Unit 10: Cosmopolitanism and Turkish Dramas](unit-10.md)
 - [Unit 11: K-pop Fandom and Cultural Hybridity](unit-11.md)
+- [Unit 12: Nollywood and Informality](unit-12.md)
 
 Use one strong example per argument. Explain what it proves instead of listing several examples.

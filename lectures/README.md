@@ -11,5 +11,6 @@
 | 7 | Location as soft power | [Week 7: Location as Soft Power](week-07-location-soft-power.md) |
 | 8 | Nation branding | [Week 8: Nation Branding](week-08-nation-branding.md) |
 | 10 | Cosmopolitanism and Turkish dramas | [Week 10: Cosmopolitanism and Turkish Dramas](week-10-cosmopolitanism-and-dramas.md) |
+| 12 | Nollywood and informal distribution | [Week 12: Nollywood and Informality](week-12-nollywood-informality.md) |
 
 Lecture maps preserve teacher definitions, the argument sequence and exact slide anchors. Start revision from the unit guide rather than reading this folder in isolation.

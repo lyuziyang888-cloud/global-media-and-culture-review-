@@ -18,6 +18,7 @@ Choose the unit you are revising. Each review guide includes its lecture and tut
 - [Unit 8 Review Guide](study-guides/unit-08-review.md): nation branding, Othering and imagined communities
 - [Unit 10 Review Guide](study-guides/unit-10-review.md): cosmopolitanism, cultural proximity and Turkish drama audiences
 - [Unit 11 Review Guide](study-guides/unit-11-review.md): cultural hybridity, K-pop fan practices and transcultural fandom
+- [Unit 12 Review Guide](study-guides/unit-12-review.md): Nollywood, informality and alternative digital distribution
 
 Every unit uses the same structure:
 
@@ -95,6 +96,7 @@ When new course material arrives:
 - **Unit 8:** Week 8 lecture, tutorial and Mino's reading on nation branding, imagined communities and two Othering strategies.
 - **Unit 10:** Week 10 lecture, tutorial and Ferreira's reading on Turkish dramas, Spanish audiences, cultural proximity and cosmopolitanism.
 - **Unit 11:** Week 11 tutorial, Yoon's reading on K-pop cultural hybridity and Jin's chapter on transcultural fandom.
+- **Unit 12:** Week 12 lecture, tutorial and Miller's reading on Nollywood, informality and VOD distribution.
 
 The original copyrighted PDFs are not stored in this public repository. Reading maps identify the arguments and evidence that should be checked against the supplied texts.
 
