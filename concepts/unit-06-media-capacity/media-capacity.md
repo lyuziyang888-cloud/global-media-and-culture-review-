@@ -7,7 +7,7 @@
 
 Media capacity is the lasting ability to create, finance, own, improve and circulate media through local skills, infrastructure, knowledge and intellectual property.
 
-## Detailed Definition
+## Definition
 
 Media capacity is the lasting ability to create, finance, own, improve and circulate media through local skills, infrastructure, knowledge and intellectual property.
 

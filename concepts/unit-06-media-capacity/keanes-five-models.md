@@ -7,7 +7,7 @@
 
 Keane's framework identifies five ways once-peripheral media industries may participate in and develop through the global economy.
 
-## Detailed Definition
+## Definition
 
 Keane identifies five models of global participation: the **world factory** relocates lower-cost production work; **mimetic isomorphism** copies successful products or formulas; **cultural technology transfer** shares expertise or intellectual property through licensing and co-production; **niche breakthrough markets** take distinctive content to wider audiences; and a **cultural/industrial milieu** connects firms, workers, infrastructure and knowledge in a local creative cluster. These models help distinguish international activity from lasting local capacity.
 

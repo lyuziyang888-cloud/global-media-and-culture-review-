@@ -7,7 +7,7 @@
 
 A Western-centric approach treats Western experience, power and standards as the main model for explaining global media.
 
-## Detailed Definition
+## Definition
 
 A Western-centric approach treats Western experience, power and standards as the main model for explaining global media.
 
