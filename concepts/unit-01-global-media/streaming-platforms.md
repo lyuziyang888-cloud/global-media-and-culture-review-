@@ -35,6 +35,14 @@ Streaming platforms are digital services that distribute media content online to
 
 **Why it fits:** These services expand access while influencing funding, availability and international visibility.
 
+## How to Apply in an Answer
+
+**Use it for:** How do streaming platforms affect local media industries?
+
+**Exam-ready application:** Netflix, HBO and Crave can be analysed through **Streaming Platforms**. These services expand access while influencing funding, availability and international visibility. This evidence shows how **Streaming Platforms** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.

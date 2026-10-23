@@ -35,6 +35,14 @@ Western media refers to media associated with countries, industries, values or c
 
 **Why it fits:** Both complicate simple classifications of what counts as Western or nationally owned media.
 
+## How to Apply in an Answer
+
+**Use it for:** Who counts as "the West" and who does not?
+
+**Exam-ready application:** Canadian media and *KPop Demon Hunters* can be analysed through **Western Media**. Both complicate simple classifications of what counts as Western or nationally owned media. This evidence shows how **Western Media** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.

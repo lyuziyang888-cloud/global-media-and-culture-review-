@@ -35,6 +35,14 @@ Representation refers to how people, places, cultures, identities and social gro
 
 **Why it fits:** Its creators and performers shape how an Indigenous Arctic community is represented.
 
+## How to Apply in an Answer
+
+**Use it for:** Why does representation matter in global media?
+
+**Exam-ready application:** *North of North* can be analysed through **Representation**. Its creators and performers shape how an Indigenous Arctic community is represented. This evidence shows how **Representation** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.

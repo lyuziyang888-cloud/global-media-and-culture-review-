@@ -35,6 +35,14 @@ Platform power refers to the ability of digital platforms to influence which con
 
 **Why it fits:** The examples combine local creators, stories or locations with cross-border platform distribution.
 
+## How to Apply in an Answer
+
+**Use it for:** How does platform power affect local media?
+
+**Exam-ready application:** *North of North* and *Heated Rivalry* can be analysed through **Platform Power**. The examples combine local creators, stories or locations with cross-border platform distribution. This evidence shows how **Platform Power** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
