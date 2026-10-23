@@ -1,12 +1,17 @@
 # Global Media
 
 **Unit:** Unit 1: Global Media
+**Exam priority:** CORE - know the definition and one case
 
-## Definition
+## Memorise This
 
 Global media refers to media content, industries, platforms and audiences that operate across national and cultural boundaries.
 
-## Keywords
+## Detailed Definition
+
+Global media refers to media content, industries, platforms and audiences that operate across national and cultural boundaries.
+
+## Key Terms
 
 - cross-border media
 - global audiences
@@ -16,7 +21,7 @@ Global media refers to media content, industries, platforms and audiences that o
 - industry
 - power
 
-## Core Understanding
+## Key Points
 
 - Produced, distributed or consumed across multiple countries.
 - Often shaped by global media companies and streaming platforms.
@@ -24,7 +29,21 @@ Global media refers to media content, industries, platforms and audiences that o
 - Raises questions about ownership, representation and cultural influence.
 - Global media is the central concept of the course. It helps explain why media cannot be understood only through one nation, one culture or one company.
 
-## Possible Questions
+## PPT Case
+
+**Case:** *Heated Rivalry*
+
+**Why it fits:** Its creators and cultural markers are Canadian, while its circulation extends beyond Canada.
+
+## Application Question
+
+> How can media be both local and global?
+
+### Answer Direction
+
+Define **global media**, identify the relevant detail in ***Heated Rivalry***, explain why it demonstrates the concept, and finish with one limitation or judgement.
+
+## Other Possible Questions
 
 - What is global media?
 - How can media be both local and global?

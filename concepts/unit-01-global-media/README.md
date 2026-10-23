@@ -1,5 +1,11 @@
 # Unit 1: Global Media
 
+## Priority Guide
+
+- **HIGH:** memorise the definition, case and application logic.
+- **CORE:** know the definition and one case.
+- **SUPPORTING:** recognise it and use it only when relevant.
+
 - [Global Media](global-media.md)
 - [Globalisation](globalisation.md)
 - [Cultural Identity](cultural-identity.md)

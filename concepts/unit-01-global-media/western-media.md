@@ -1,12 +1,17 @@
 # Western Media
 
 **Unit:** Unit 1: Global Media
+**Exam priority:** SUPPORTING - recognise it and use it when relevant
 
-## Definition
+## Memorise This
 
 Western media refers to media associated with countries, industries, values or cultural traditions commonly understood as part of "the West", although the category is contested and not always clear.
 
-## Keywords
+## Detailed Definition
+
+Western media refers to media associated with countries, industries, values or cultural traditions commonly understood as part of "the West", although the category is contested and not always clear.
+
+## Key Terms
 
 - the West
 - Western-centric thinking
@@ -16,7 +21,7 @@ Western media refers to media associated with countries, industries, values or c
 - culture
 - classification
 
-## Core Understanding
+## Key Points
 
 - Often associated with the United States and Europe.
 - Can become a dominant frame for understanding global media.
@@ -24,7 +29,21 @@ Western media refers to media associated with countries, industries, values or c
 - Raises questions about who is included or excluded.
 - Western media matters because global media studies often questions whether media is being understood from a Western-centric point of view.
 
-## Possible Questions
+## PPT Case
+
+**Case:** Canadian media and *KPop Demon Hunters*
+
+**Why it fits:** Both complicate simple classifications of what counts as Western or nationally owned media.
+
+## Application Question
+
+> Who counts as "the West" and who does not?
+
+### Answer Direction
+
+Define **western media**, identify the relevant detail in **Canadian media and *KPop Demon Hunters***, explain why it demonstrates the concept, and finish with one limitation or judgement.
+
+## Other Possible Questions
 
 - What is Western media?
 - Who counts as "the West" and who does not?
