@@ -5,11 +5,11 @@
 
 ## Memorise This
 
-Cultural homogenisation is the process through which cultural differences are reduced as dominant media, values, styles and standards spread across societies.
+Cultural homogenisation occurs when local cultures become more similar because dominant media and cultural values spread across societies.
 
 ## Detailed Definition
 
-Cultural homogenisation is the process through which cultural differences are reduced as dominant media, values, styles and standards spread across societies.
+Cultural homogenisation is the process through which differences among local cultures are reduced as dominant media, values, styles and standards spread across societies. It may occur when widely circulated media influences local tastes, lifestyles or production practices. However, global circulation does not automatically make audiences or cultures identical.
 
 ## Key Terms
 
@@ -32,7 +32,9 @@ Cultural homogenisation is the process through which cultural differences are re
 
 **Case:** US-dominated global media
 
-**Why it fits:** Repeated circulation of dominant styles may reduce diversity, although audiences and local industries can adapt or resist them.
+**How to use it:** US films, television programs and US-based streaming platforms circulate widely across national borders. Local producers or audiences may adopt American genres, lifestyles and production standards. This can make media cultures more similar and reduce the visibility of some local practices.
+
+**Limitation:** US media dominance does not automatically erase local culture. Audiences can interpret foreign media differently, while local producers can adapt, mix or resist American influences.
 
 ## Application Question
 
@@ -40,7 +42,27 @@ Cultural homogenisation is the process through which cultural differences are re
 
 ### Answer Direction
 
-Define **cultural homogenisation**, identify the relevant detail in **US-dominated global media**, explain why it demonstrates the concept, and finish with one limitation or judgement.
+Use this order:
+
+```text
+define cultural homogenisation
+-> identify US media dominance
+-> explain its possible effect on local culture
+-> add a limitation
+-> answer whether homogenisation is inevitable
+```
+
+### Complete Short Answer
+
+Cultural homogenisation occurs when local cultures become more similar because dominant media and cultural values spread across societies. US media dominance may contribute to this process because Hollywood films, American television and US-based streaming platforms circulate widely across national borders. Local producers and audiences may adopt American genres, lifestyles or production standards, which can reduce the visibility of distinctive local practices. However, media imperialism does not necessarily produce homogenisation because audiences can interpret foreign media differently and local industries can adapt or resist American influences.
+
+### How to Adapt the Answer
+
+- **If asked for a definition:** use the first sentence.
+- **If asked for an example:** add US-dominated global media and explain one possible effect on local culture.
+- **If asked about media imperialism:** explain that unequal US ownership and circulation can encourage homogenisation.
+- **If asked whether homogenisation is inevitable:** answer no, then mention local adaptation, cultural hybridity or audience resistance.
+- **If asked to discuss:** include both the homogenising pressure and the limitation before giving a judgement.
 
 ## Other Possible Questions
 
