@@ -7,7 +7,7 @@
 
 Fans imagine cultural flow as open to multiple places and identities instead of belonging only to Western centres or one nation.
 
-## Detailed Definition
+## Definition
 
 Fans imagine cultural flow as open to multiple places and identities instead of belonging only to Western centres or one nation.
 

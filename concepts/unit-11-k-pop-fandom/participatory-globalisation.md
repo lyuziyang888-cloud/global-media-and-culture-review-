@@ -7,7 +7,7 @@
 
 Fans imagine and experience globalisation through active participation in media culture rather than through consumption alone.
 
-## Detailed Definition
+## Definition
 
 Fans imagine and experience globalisation through active participation in media culture rather than through consumption alone.
 

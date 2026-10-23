@@ -7,7 +7,7 @@
 
 The mixing of relatively distinct cultural forms, styles or identities. Yoon also stresses fragmentation: hybridity can unsettle the idea that cultures are fixed and separate.
 
-## Detailed Definition
+## Definition
 
 The mixing of relatively distinct cultural forms, styles or identities. Yoon also stresses fragmentation: hybridity can unsettle the idea that cultures are fixed and separate.
 

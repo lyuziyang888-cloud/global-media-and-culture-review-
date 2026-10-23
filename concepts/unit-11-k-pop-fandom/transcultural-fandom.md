@@ -7,7 +7,7 @@
 
 A form of fandom in which connections are organised through shared interests, emotions and identities across national boundaries.
 
-## Detailed Definition
+## Definition
 
 A form of fandom in which connections are organised through shared interests, emotions and identities across national boundaries.
 
