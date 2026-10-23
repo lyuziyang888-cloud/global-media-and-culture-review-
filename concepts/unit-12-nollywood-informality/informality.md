@@ -7,7 +7,7 @@
 
 An organised system of production and distribution based on personal relationships, trust and flexible arrangements rather than complete contracts and official records.
 
-## Detailed Definition
+## Definition
 
 An organised system of production and distribution based on personal relationships, trust and flexible arrangements rather than complete contracts and official records.
 

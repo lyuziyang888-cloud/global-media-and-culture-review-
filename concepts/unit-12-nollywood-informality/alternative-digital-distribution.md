@@ -7,7 +7,7 @@
 
 The movement of digital media through methods adapted to local infrastructure, including downloads, Bluetooth, USB transfers and market kiosks as well as online streaming.
 
-## Detailed Definition
+## Definition
 
 The movement of digital media through methods adapted to local infrastructure, including downloads, Bluetooth, USB transfers and market kiosks as well as online streaming.
 

@@ -7,7 +7,7 @@
 
 Nigeria's film industry. It developed mainly through straight-to-video production and distribution rather than theatrical release.
 
-## Detailed Definition
+## Definition
 
 Nigeria's film industry. It developed mainly through straight-to-video production and distribution rather than theatrical release.
 

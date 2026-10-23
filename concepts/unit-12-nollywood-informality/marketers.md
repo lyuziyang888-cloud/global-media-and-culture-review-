@@ -7,7 +7,7 @@
 
 Traders who finance many Nollywood films, act as executive producers and control the physical distribution networks in open-air markets.
 
-## Detailed Definition
+## Definition
 
 Traders who finance many Nollywood films, act as executive producers and control the physical distribution networks in open-air markets.
 
