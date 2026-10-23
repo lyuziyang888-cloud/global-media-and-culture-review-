@@ -32,6 +32,14 @@ The Bollywoodization of Netflix describes Netflix's increasing dependence on Bol
 
 **Why it fits:** Netflix relied on Bollywood talent, companies and production knowledge while packaging an Indian story for its global service.
 
+## How to Apply in an Answer
+
+**Use it for:** Does Netflix dominate India on its own terms?
+
+**Exam-ready application:** *Sacred Games* can be analysed through **Bollywoodization of Netflix**. Netflix relied on Bollywood talent, companies and production knowledge while packaging an Indian story for its global service. This evidence shows how **Bollywoodization of Netflix** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Local adaptation and competition constrain global platforms, but they do not remove their financial, technological and distribution advantages.

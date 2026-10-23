@@ -32,6 +32,14 @@ Streaming localisation refers to strategies used by platforms to adapt content, 
 
 **Why it fits:** Global streaming practices meet powerful local industries, languages, audiences and cricket culture, forcing different forms of adaptation.
 
+## How to Apply in an Answer
+
+**Use it for:** Why do streaming platforms localise?
+
+**Exam-ready application:** Netflix India and Hotstar/JioHotstar can be analysed through **Streaming Localisation**. Global streaming practices meet powerful local industries, languages, audiences and cricket culture, forcing different forms of adaptation. This evidence shows how **Streaming Localisation** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Local adaptation and competition constrain global platforms, but they do not remove their financial, technological and distribution advantages.

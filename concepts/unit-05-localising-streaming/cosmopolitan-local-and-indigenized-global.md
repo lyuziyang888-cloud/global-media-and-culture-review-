@@ -33,6 +33,14 @@ The cosmopolitan local uses local stories and talent within genres designed for 
 
 **Why it fits:** Netflix used local stories in globally familiar forms, while Hotstar organised global streaming practices around Indian languages, Bollywood and cricket.
 
+## How to Apply in an Answer
+
+**Use it for:** Compare cosmopolitan-local and indigenized-global strategies.
+
+**Exam-ready application:** Netflix India compared with Hotstar can be analysed through **Cosmopolitan Local and Indigenized Global**. Netflix used local stories in globally familiar forms, while Hotstar organised global streaming practices around Indian languages, Bollywood and cricket. This evidence shows how **Cosmopolitan Local and Indigenized Global** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Local adaptation and competition constrain global platforms, but they do not remove their financial, technological and distribution advantages.

@@ -32,6 +32,14 @@ Industrial contact zones are spaces where global and local media industries meet
 
 **Why it fits:** Global streaming practices meet powerful local industries, languages, audiences and cricket culture, forcing different forms of adaptation.
 
+## How to Apply in an Answer
+
+**Use it for:** Why is India an industrial contact zone for streaming platforms?
+
+**Exam-ready application:** Netflix India and Hotstar/JioHotstar can be analysed through **Industrial Contact Zones**. Global streaming practices meet powerful local industries, languages, audiences and cricket culture, forcing different forms of adaptation. This evidence shows how **Industrial Contact Zones** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Local adaptation and competition constrain global platforms, but they do not remove their financial, technological and distribution advantages.
