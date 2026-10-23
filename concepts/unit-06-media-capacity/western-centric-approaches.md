@@ -32,13 +32,36 @@ A Western-centric approach treats Western experience, power and standards as the
 
 **Why it fits:** Keane shows that treating non-Western producers only as dependent labour can overlook local skill, infrastructure and IP development.
 
-## Application Question
+## Course-Based Limitation
+
+Participation or market success does not automatically create lasting capacity. The key question is whether skills, infrastructure, knowledge and intellectual property remain locally controlled.
+
+**Course basis:** Week 6 lecture; Week 6 tutorial; Keane reading
+
+## Possible Long-Answer Question
 
 > What does a Western-centric approach overlook?
 
-### Answer Direction
+### Long-Answer Plan
 
 Define **western-centric approaches**, identify the relevant detail in **East Asian media capacity**, explain why it demonstrates the concept, and finish with one limitation or judgement.
+
+### How to Answer the Long Question
+
+1. Define **Western-Centric Approaches** accurately.
+2. Give a direct answer or thesis responding to the wording of the question.
+3. Explain the relevant relationship, process or form of power.
+4. Apply the PPT case and use one concrete detail from it.
+5. Explain what that evidence proves; do not only name the example.
+6. Add the Course-Based Limitation above.
+7. Finish with a clear judgement that answers the question.
+
+## Possible Short Answer
+
+> What is Western-Centric Approaches? Give one course example.
+
+**Answer:** A Western-centric approach treats Western experience, power and standards as the main model for explaining global media. A course example is East Asian media capacity. Keane shows that treating non-Western producers only as dependent labour can overlook local skill, infrastructure and IP development.
+
 
 ## Other Possible Questions
 
