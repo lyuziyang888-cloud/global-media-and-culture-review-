@@ -7,7 +7,7 @@
 
 Non-scripted formats reproduce an adaptable program structure such as a quiz or reality competition, while scripted formats adapt a drama's narrative world, characters and scripts for another market.
 
-## Detailed Definition
+## Definition
 
 Non-scripted formats reproduce an adaptable program structure such as a quiz or reality competition, while scripted formats adapt a drama's narrative world, characters and scripts for another market.
 
