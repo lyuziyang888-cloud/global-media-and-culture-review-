@@ -7,7 +7,7 @@
 
 Place-making is the process through which institutions, industries and media give locations particular meanings and identities.
 
-## Detailed Definition
+## Definition
 
 Place-making is the process through which institutions, industries and media give locations particular meanings and identities.
 

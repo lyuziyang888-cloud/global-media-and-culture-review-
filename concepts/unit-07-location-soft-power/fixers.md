@@ -7,7 +7,7 @@
 
 Fixers are industry intermediaries who connect foreign producers with government agencies, local workers and other stakeholders.
 
-## Detailed Definition
+## Definition
 
 Fixers are industry intermediaries who connect foreign producers with government agencies, local workers and other stakeholders. Some may also work in or with official institutions.
 

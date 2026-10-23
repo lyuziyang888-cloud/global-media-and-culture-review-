@@ -7,7 +7,7 @@
 
 A media-service industry provides locations, labour, facilities and production support for projects controlled or financed by outside companies.
 
-## Detailed Definition
+## Definition
 
 A media-service industry provides locations, labour, facilities and production support for projects controlled or financed by outside companies.
 

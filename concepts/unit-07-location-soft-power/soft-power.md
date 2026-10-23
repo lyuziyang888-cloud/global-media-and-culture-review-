@@ -7,7 +7,7 @@
 
 Soft power is the ability to influence others through attraction rather than coercion or payment.
 
-## Detailed Definition
+## Definition
 
 Soft power is the ability to influence others through attraction rather than coercion or payment.
 
