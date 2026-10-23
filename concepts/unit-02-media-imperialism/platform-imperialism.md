@@ -7,7 +7,7 @@
 
 Platform imperialism is an asymmetrical relationship in which platforms based in dominant countries, especially the United States, control technologies, markets, data and symbolic influence across other countries.
 
-## Detailed Definition
+## Definition
 
 Platform imperialism is an asymmetrical relationship in which platforms based in dominant countries, especially the United States, control technologies, markets, data and symbolic influence across other countries.
 

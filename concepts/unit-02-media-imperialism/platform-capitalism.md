@@ -7,7 +7,7 @@
 
 Platform capitalism is a business system in which privately owned digital platforms mediate interactions, collect user data and convert attention, activity and data into profit.
 
-## Detailed Definition
+## Definition
 
 Platform capitalism is a business system in which privately owned digital platforms mediate interactions, collect user data and convert attention, activity and data into profit.
 

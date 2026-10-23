@@ -7,7 +7,7 @@
 
 Data commodification is the process of turning users' activities, attention, personal information and data trails into commercial assets.
 
-## Detailed Definition
+## Definition
 
 Data commodification is the process of turning users' activities, attention, personal information and data trails into commercial assets.
 
