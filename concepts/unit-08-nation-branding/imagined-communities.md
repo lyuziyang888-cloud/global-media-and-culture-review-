@@ -7,7 +7,7 @@
 
 Members of a nation imagine that they belong to one shared community even though they will never know most other members.
 
-## Detailed Definition
+## Definition
 
 Members of a nation imagine that they belong to one shared community even though they will never know most other members.
 

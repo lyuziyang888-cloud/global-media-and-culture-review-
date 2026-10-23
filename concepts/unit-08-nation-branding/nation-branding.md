@@ -7,7 +7,7 @@
 
 Using adapted commercial branding practices to manage a country's reputation for overseas audiences.
 
-## Detailed Definition
+## Definition
 
 Using adapted commercial branding practices to manage a country's reputation for overseas audiences.
 

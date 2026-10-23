@@ -7,7 +7,7 @@
 
 Othering separates an imagined "us" from "them." The foreign gaze presents a place and its people according to outside expectations.
 
-## Detailed Definition
+## Definition
 
 Othering separates an imagined "us" from "them." The foreign gaze presents a place and its people according to outside expectations.
 
