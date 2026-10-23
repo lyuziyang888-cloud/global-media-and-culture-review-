@@ -35,6 +35,14 @@ Media regulation refers to government rules, policies and institutions that shap
 
 **Why it fits:** Funding and platform obligations attempt to protect local production and cultural goals.
 
+## How to Apply in an Answer
+
+**Use it for:** Why do governments regulate global streaming platforms?
+
+**Exam-ready application:** Canadian-content policy can be analysed through **Media Regulation**. Funding and platform obligations attempt to protect local production and cultural goals. This evidence shows how **Media Regulation** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.

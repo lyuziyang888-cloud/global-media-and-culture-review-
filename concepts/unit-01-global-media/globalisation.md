@@ -35,6 +35,14 @@ Globalisation refers to the increasing interconnectedness of people, economies, 
 
 **Why it fits:** The examples combine local creators, stories or locations with cross-border platform distribution.
 
+## How to Apply in an Answer
+
+**Use it for:** Explain the relationship between globalisation and local culture.
+
+**Exam-ready application:** *North of North* and *Heated Rivalry* can be analysed through **Globalisation**. The examples combine local creators, stories or locations with cross-border platform distribution. This evidence shows how **Globalisation** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.

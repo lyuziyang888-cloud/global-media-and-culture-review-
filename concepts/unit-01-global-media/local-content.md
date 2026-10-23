@@ -35,6 +35,14 @@ Local content refers to media that is connected to a particular place, culture, 
 
 **Why it fits:** The examples combine local creators, stories or locations with cross-border platform distribution.
 
+## How to Apply in an Answer
+
+**Use it for:** Why is local content important in global media?
+
+**Exam-ready application:** *North of North* and *Heated Rivalry* can be analysed through **Local Content**. The examples combine local creators, stories or locations with cross-border platform distribution. This evidence shows how **Local Content** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.

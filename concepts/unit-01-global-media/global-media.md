@@ -35,6 +35,14 @@ Global media refers to media content, industries, platforms and audiences that o
 
 **Why it fits:** Its creators and cultural markers are Canadian, while its circulation extends beyond Canada.
 
+## How to Apply in an Answer
+
+**Use it for:** How can media be both local and global?
+
+**Exam-ready application:** *Heated Rivalry* can be analysed through **Global Media**. Its creators and cultural markers are Canadian, while its circulation extends beyond Canada. This evidence shows how **Global Media** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.

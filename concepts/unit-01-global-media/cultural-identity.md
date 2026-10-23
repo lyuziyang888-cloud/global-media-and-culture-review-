@@ -35,6 +35,14 @@ Cultural identity refers to the shared meanings, values, symbols, stories and pr
 
 **Why it fits:** Indigenous-led storytelling makes cultural authorship and representation central to the production.
 
+## How to Apply in an Answer
+
+**Use it for:** Why is cultural identity important in media?
+
+**Exam-ready application:** *North of North* can be analysed through **Cultural Identity**. Indigenous-led storytelling makes cultural authorship and representation central to the production. This evidence shows how **Cultural Identity** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
