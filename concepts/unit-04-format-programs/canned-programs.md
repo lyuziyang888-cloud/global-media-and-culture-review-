@@ -31,6 +31,14 @@ A canned program is produced and broadcast in one territory, then distributed to
 
 **Why it fits:** The same completed program travels to another market instead of being remade by local producers.
 
+## How to Apply in an Answer
+
+**Use it for:** Compare canned programs and format programs.
+
+**Exam-ready application:** An imported finished television program can be analysed through **Canned Programs**. The same completed program travels to another market instead of being remade by local producers. This evidence shows how **Canned Programs** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 More diverse format origins do not guarantee equal ownership or revenue because format owners may retain intellectual property and licensing power.

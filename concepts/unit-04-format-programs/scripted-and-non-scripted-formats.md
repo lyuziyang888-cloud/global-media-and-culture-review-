@@ -33,6 +33,14 @@ Non-scripted formats reproduce an adaptable program structure such as a quiz or 
 
 **Why it fits:** Non-scripted formats preserve rules, while scripted formats adapt story, characters and dialogue.
 
+## How to Apply in an Answer
+
+**Use it for:** Why did non-scripted formats dominate format trade earlier than scripted formats?
+
+**Exam-ready application:** *The Traitors* and scripted remakes can be analysed through **Scripted and Non-Scripted Formats**. Non-scripted formats preserve rules, while scripted formats adapt story, characters and dialogue. This evidence shows how **Scripted and Non-Scripted Formats** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 More diverse format origins do not guarantee equal ownership or revenue because format owners may retain intellectual property and licensing power.
