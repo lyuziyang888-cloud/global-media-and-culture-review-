@@ -7,7 +7,7 @@
 
 The five-scapes model describes globalisation as overlapping, interconnected and deterritorialised movements whose meaning and effects depend on context.
 
-## Detailed Definition
+## Definition
 
 The five-scapes model describes globalisation as overlapping, interconnected and deterritorialised movements whose meaning and effects depend on context.
 

@@ -7,7 +7,7 @@
 
 Contra-flows are media movements from former peripheries, the Global South or non-US centres towards other peripheral and dominant markets.
 
-## Detailed Definition
+## Definition
 
 Contra-flows are media movements from former peripheries, the Global South or non-US centres towards other peripheral and dominant markets.
 

@@ -7,7 +7,7 @@
 
 Cultural proximity is the tendency for audiences to prefer media that feels close to their language, humour, values, religion, ethnicity, lifestyle or everyday experience.
 
-## Detailed Definition
+## Definition
 
 Cultural proximity is the tendency for audiences to prefer media that feels close to their language, humour, values, religion, ethnicity, lifestyle or everyday experience.
 

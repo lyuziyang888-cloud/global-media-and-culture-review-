@@ -7,7 +7,7 @@
 
 Cultural globalisation is a paradigm containing theories and concepts that explain contextual, multidirectional and unequal interactions among media, people and cultures across borders.
 
-## Detailed Definition
+## Definition
 
 Cultural globalisation is a paradigm containing theories and concepts that explain contextual, multidirectional and unequal interactions among media, people and cultures across borders.
 
