@@ -25,13 +25,36 @@ Nollywood does not follow one language, city or Western industrial model. Physic
 
 **Why it fits:** The industry developed through local demand and physical distribution rather than following the Hollywood theatrical model.
 
-## Application Question
+## Course-Based Limitation
+
+Informal distribution improves access under infrastructure constraints, but it can reduce transparency and weaken creators' control over payment, rights and later circulation.
+
+**Course basis:** Week 12 lecture and tutorial; Miller, pp. 259-276
+
+## Possible Long-Answer Question
 
 > What are the main characteristics of Nollywood?
 
-### Answer Direction
+### Long-Answer Plan
 
 Define **nollywood**, identify the relevant detail in **Straight-to-video Nollywood production**, explain why it demonstrates the concept, and finish with one limitation or judgement.
+
+### How to Answer the Long Question
+
+1. Define **Nollywood** accurately.
+2. Give a direct answer or thesis responding to the wording of the question.
+3. Explain the relevant relationship, process or form of power.
+4. Apply the PPT case and use one concrete detail from it.
+5. Explain what that evidence proves; do not only name the example.
+6. Add the Course-Based Limitation above.
+7. Finish with a clear judgement that answers the question.
+
+## Possible Short Answer
+
+> What is Nollywood? Give one course example.
+
+**Answer:** Nigeria's film industry. It developed mainly through straight-to-video production and distribution rather than theatrical release. A course example is Straight-to-video Nollywood production. The industry developed through local demand and physical distribution rather than following the Hollywood theatrical model.
+
 
 ## Other Possible Questions
 
