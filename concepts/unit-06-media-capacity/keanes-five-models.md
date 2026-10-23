@@ -32,6 +32,14 @@ The categories are analytical models, not guaranteed stages. The fifth provides 
 
 **Why it fits:** The contrasting examples separate low-cost participation, niche success, technology transfer and durable cluster development.
 
+## How to Apply in an Answer
+
+**Use it for:** Which category best demonstrates lasting media capacity?
+
+**Exam-ready application:** India animation outsourcing, Chinese martial-arts films and Seoul Digital Media City can be analysed through **Keane's Five Models**. The contrasting examples separate low-cost participation, niche success, technology transfer and durable cluster development. This evidence shows how **Keane's Five Models** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Participation or market success does not automatically create lasting capacity. The key question is whether skills, infrastructure, knowledge and intellectual property remain locally controlled.

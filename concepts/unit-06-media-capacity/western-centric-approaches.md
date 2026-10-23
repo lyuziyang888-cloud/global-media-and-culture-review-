@@ -32,6 +32,14 @@ A Western-centric approach treats Western experience, power and standards as the
 
 **Why it fits:** Keane shows that treating non-Western producers only as dependent labour can overlook local skill, infrastructure and IP development.
 
+## How to Apply in an Answer
+
+**Use it for:** What does a Western-centric approach overlook?
+
+**Exam-ready application:** East Asian media capacity can be analysed through **Western-Centric Approaches**. Keane shows that treating non-Western producers only as dependent labour can overlook local skill, infrastructure and IP development. This evidence shows how **Western-Centric Approaches** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Participation or market success does not automatically create lasting capacity. The key question is whether skills, infrastructure, knowledge and intellectual property remain locally controlled.

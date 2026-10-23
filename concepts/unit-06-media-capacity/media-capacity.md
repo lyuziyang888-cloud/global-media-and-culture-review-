@@ -32,6 +32,14 @@ Media capacity is the lasting ability to create, finance, own, improve and circu
 
 **Why it fits:** The cases allow evaluation of whether global integration leaves lasting local skills, infrastructure, knowledge and IP control.
 
+## How to Apply in an Answer
+
+**Use it for:** How can a peripheral producer build media capacity?
+
+**Exam-ready application:** Seoul Digital Media City and East Asian media industries can be analysed through **Media Capacity**. The cases allow evaluation of whether global integration leaves lasting local skills, infrastructure, knowledge and IP control. This evidence shows how **Media Capacity** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Participation or market success does not automatically create lasting capacity. The key question is whether skills, infrastructure, knowledge and intellectual property remain locally controlled.
