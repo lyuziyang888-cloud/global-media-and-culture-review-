@@ -1,12 +1,17 @@
 # Data Commodification
 
 **Unit:** Unit 2: Media Imperialism
+**Exam priority:** CORE - know the definition and one case
 
-## Definition
+## Memorise This
 
 Data commodification is the process of turning users' activities, attention, personal information and data trails into commercial assets.
 
-## Keywords
+## Detailed Definition
+
+Data commodification is the process of turning users' activities, attention, personal information and data trails into commercial assets.
+
+## Key Terms
 
 - user data
 - attention
@@ -16,7 +21,7 @@ Data commodification is the process of turning users' activities, attention, per
 - commodity
 - consent
 
-## Core Understanding
+## Key Points
 
 - Users generate data while engaging in ordinary platform activities.
 - Platforms aggregate data to enable targeted advertising.
@@ -24,7 +29,21 @@ Data commodification is the process of turning users' activities, attention, per
 - Data collection and commercial use are often opaque.
 - The same data infrastructure can support political persuasion and surveillance.
 
-## Possible Questions
+## PPT Case
+
+**Case:** Facebook advertising data
+
+**Why it fits:** Users create behavioural data that can be analysed and sold through targeted advertising systems.
+
+## Application Question
+
+> How are users commodified on social media?
+
+### Answer Direction
+
+Define **data commodification**, identify the relevant detail in **Facebook advertising data**, explain why it demonstrates the concept, and finish with one limitation or judgement.
+
+## Other Possible Questions
 
 - What is data commodification?
 - How are users commodified on social media?

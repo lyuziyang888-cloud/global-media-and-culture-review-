@@ -1,5 +1,11 @@
 # Unit 2: Media Imperialism
 
+## Priority Guide
+
+- **HIGH:** memorise the definition, case and application logic.
+- **CORE:** know the definition and one case.
+- **SUPPORTING:** recognise it and use it only when relevant.
+
 - [Media Imperialism](media-imperialism.md)
 - [Dependency Theory](dependency-theory.md)
 - [World-Systems Theory](world-systems-theory.md)
