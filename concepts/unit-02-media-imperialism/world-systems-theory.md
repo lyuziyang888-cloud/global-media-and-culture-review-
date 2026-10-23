@@ -34,6 +34,14 @@ World-systems theory describes a global system divided into core, semi-periphery
 
 **Why it fits:** Capital, infrastructure and decision-making remain concentrated in core locations while other markets participate on weaker terms.
 
+## How to Apply in an Answer
+
+**Use it for:** How does world-systems theory support media imperialism?
+
+**Exam-ready application:** US platform dominance can be analysed through **World-Systems Theory**. Capital, infrastructure and decision-making remain concentrated in core locations while other markets participate on weaker terms. This evidence shows how **World-Systems Theory** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.

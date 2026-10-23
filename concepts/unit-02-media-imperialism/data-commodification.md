@@ -35,6 +35,14 @@ Data commodification is the process of turning users' activities, attention, per
 
 **Why it fits:** Users create behavioural data that can be analysed and sold through targeted advertising systems.
 
+## How to Apply in an Answer
+
+**Use it for:** How are users commodified on social media?
+
+**Exam-ready application:** Facebook advertising data can be analysed through **Data Commodification**. Users create behavioural data that can be analysed and sold through targeted advertising systems. This evidence shows how **Data Commodification** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.

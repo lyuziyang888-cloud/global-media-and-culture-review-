@@ -34,6 +34,14 @@ One-way media flow describes an unequal pattern in which information and enterta
 
 **Why it fits:** Their production resources and distribution reach historically enabled content to travel outward more easily than media from peripheral regions.
 
+## How to Apply in an Answer
+
+**Use it for:** Do streaming platforms reproduce one-way media flows?
+
+**Exam-ready application:** Hollywood and major Western news agencies can be analysed through **One-Way Media Flow**. Their production resources and distribution reach historically enabled content to travel outward more easily than media from peripheral regions. This evidence shows how **One-Way Media Flow** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.

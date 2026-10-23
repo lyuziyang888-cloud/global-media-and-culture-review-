@@ -34,6 +34,14 @@ Transnational media corporations are firms that own, produce or distribute media
 
 **Why it fits:** The company operates across borders and controls infrastructure connecting audiences, advertisers and news producers.
 
+## How to Apply in an Answer
+
+**Use it for:** How do TNCs update traditional media imperialism?
+
+**Exam-ready application:** Meta/Facebook can be analysed through **Transnational Media Corporations**. The company operates across borders and controls infrastructure connecting audiences, advertisers and news producers. This evidence shows how **Transnational Media Corporations** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.

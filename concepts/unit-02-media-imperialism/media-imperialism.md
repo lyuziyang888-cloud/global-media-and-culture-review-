@@ -37,6 +37,14 @@ Media imperialism is a paradigm for explaining how media from powerful nations o
 
 **Why it fits:** Facebook used control over platform infrastructure and audience access to pressure a national media system.
 
+## How to Apply in an Answer
+
+**Use it for:** How is platform imperialism different from traditional media imperialism?
+
+**Exam-ready application:** Facebook's Australian news block can be analysed through **Media Imperialism**. Facebook used control over platform infrastructure and audience access to pressure a national media system. This evidence shows how **Media Imperialism** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.

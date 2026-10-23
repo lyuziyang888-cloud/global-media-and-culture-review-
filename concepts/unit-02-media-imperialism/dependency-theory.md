@@ -34,6 +34,14 @@ Dependency theory argues that capitalist development can reproduce unequal relat
 
 **Why it fits:** News organisations can depend on foreign platform infrastructure for visibility and audience access.
 
+## How to Apply in an Answer
+
+**Use it for:** How does dependency theory explain media imperialism?
+
+**Exam-ready application:** Facebook and national news organisations can be analysed through **Dependency Theory**. News organisations can depend on foreign platform infrastructure for visibility and audience access. This evidence shows how **Dependency Theory** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
