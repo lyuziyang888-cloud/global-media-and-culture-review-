@@ -36,6 +36,14 @@ Cultural globalisation is a paradigm containing theories and concepts that expla
 
 **Why it fits:** These examples show media moving from outside traditional Western centres and changing through adaptation and circulation.
 
+## How to Apply in an Answer
+
+**Use it for:** Why is cultural globalisation important to global media studies?
+
+**Exam-ready application:** *Jane the Virgin* and Chinese microdramas can be analysed through **Cultural Globalisation**. These examples show media moving from outside traditional Western centres and changing through adaptation and circulation. This evidence shows how **Cultural Globalisation** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.

@@ -35,6 +35,14 @@ Cultural proximity is the tendency for audiences to prefer media that feels clos
 
 **Why it fits:** Familiar melodrama and shared values help attraction, but novelty and cultural difference also matter.
 
+## How to Apply in an Answer
+
+**Use it for:** Does cultural proximity disprove media imperialism?
+
+**Exam-ready application:** Spanish audiences watching Turkish dramas can be analysed through **Cultural Proximity**. Familiar melodrama and shared values help attraction, but novelty and cultural difference also matter. This evidence shows how **Cultural Proximity** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.

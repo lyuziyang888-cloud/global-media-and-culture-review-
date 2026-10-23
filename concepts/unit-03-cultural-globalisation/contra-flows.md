@@ -34,6 +34,14 @@ Contra-flows are media movements from former peripheries, the Global South or no
 
 **Why it fits:** Media formats and production models move from Venezuela or China toward wider markets rather than only outward from the United States.
 
+## How to Apply in an Answer
+
+**Use it for:** How do contra-flows complicate media imperialism?
+
+**Exam-ready application:** *Jane the Virgin* and Chinese microdramas can be analysed through **Contra-Flows**. Media formats and production models move from Venezuela or China toward wider markets rather than only outward from the United States. This evidence shows how **Contra-Flows** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.

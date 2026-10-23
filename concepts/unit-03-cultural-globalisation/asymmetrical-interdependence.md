@@ -32,6 +32,14 @@ Asymmetrical interdependence describes relationships in which countries, industr
 
 **Why it fits:** Both sides need one another, but they do not possess equal control over finance, data, IP or distribution.
 
+## How to Apply in an Answer
+
+**Use it for:** How does it provide a middle ground between the two paradigms?
+
+**Exam-ready application:** Global platforms working with local producers can be analysed through **Asymmetrical Interdependence**. Both sides need one another, but they do not possess equal control over finance, data, IP or distribution. This evidence shows how **Asymmetrical Interdependence** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.

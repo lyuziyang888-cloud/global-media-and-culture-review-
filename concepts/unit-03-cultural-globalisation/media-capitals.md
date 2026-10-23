@@ -35,6 +35,14 @@ Media capitals are dynamic and historically contingent centres where resources, 
 
 **Why it fits:** Concentrated talent, finance and production networks allow cities to organise media flows beyond Hollywood.
 
+## How to Apply in an Answer
+
+**Use it for:** What makes a place a media capital?
+
+**Exam-ready application:** Seoul, Mumbai and other regional production centres can be analysed through **Media Capitals**. Concentrated talent, finance and production networks allow cities to organise media flows beyond Hollywood. This evidence shows how **Media Capitals** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
