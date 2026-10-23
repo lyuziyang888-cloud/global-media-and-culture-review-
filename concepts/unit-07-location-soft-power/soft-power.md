@@ -32,6 +32,14 @@ Soft power is the ability to influence others through attraction rather than coe
 
 **Why it fits:** Budapest attracts foreign productions through locations, incentives, crews and intermediaries while often representing other cities on screen.
 
+## How to Apply in an Answer
+
+**Use it for:** How can filming locations generate soft power?
+
+**Exam-ready application:** Budapest as a flexible filming location can be analysed through **Soft Power**. Budapest attracts foreign productions through locations, incentives, crews and intermediaries while often representing other cities on screen. This evidence shows how **Soft Power** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Media-service production can create investment and expertise, but foreign projects can relocate and may leave local producers dependent or visually erase the location.

@@ -32,6 +32,14 @@ A media-service industry provides locations, labour, facilities and production s
 
 **Why it fits:** Local crews and facilities service externally controlled projects, creating work alongside dependency.
 
+## How to Apply in an Answer
+
+**Use it for:** Are runaway productions exploitative?
+
+**Exam-ready application:** Foreign productions filmed in Budapest can be analysed through **Media-Service Industry**. Local crews and facilities service externally controlled projects, creating work alongside dependency. This evidence shows how **Media-Service Industry** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Media-service production can create investment and expertise, but foreign projects can relocate and may leave local producers dependent or visually erase the location.
