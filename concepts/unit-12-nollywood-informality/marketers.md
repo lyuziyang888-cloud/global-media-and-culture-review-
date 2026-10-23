@@ -25,6 +25,14 @@ Marketers hold power because producers need their networks to reach domestic aud
 
 **Why it fits:** Marketers finance productions and control access to domestic markets, giving them influence over producers and sales information.
 
+## How to Apply in an Answer
+
+**Use it for:** Why are marketers powerful in Nollywood?
+
+**Exam-ready application:** Nollywood physical distribution networks can be analysed through **Marketers**. Marketers finance productions and control access to domestic markets, giving them influence over producers and sales information. This evidence shows how **Marketers** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Informal distribution improves access under infrastructure constraints, but it can reduce transparency and weaken creators' control over payment, rights and later circulation.

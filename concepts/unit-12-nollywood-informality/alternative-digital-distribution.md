@@ -25,6 +25,14 @@ Digital distribution does not require continuous internet streaming. In Nigeria,
 
 **Why it fits:** Digital files reach audiences without depending entirely on continuous broadband streaming.
 
+## How to Apply in an Answer
+
+**Use it for:** How does Nollywood challenge conventional ideas of digital distribution?
+
+**Exam-ready application:** iROKOtv kiosks, downloads and Bluetooth transfers can be analysed through **Alternative Digital Distribution**. Digital files reach audiences without depending entirely on continuous broadband streaming. This evidence shows how **Alternative Digital Distribution** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Informal distribution improves access under infrastructure constraints, but it can reduce transparency and weaken creators' control over payment, rights and later circulation.

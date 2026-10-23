@@ -25,6 +25,14 @@ Informality does not mean disorder. It helps Nollywood operate with limited infr
 
 **Why it fits:** Trust-based networks coordinate finance and distribution, but limited records reduce transparency.
 
+## How to Apply in an Answer
+
+**Use it for:** How does informality support Nollywood?
+
+**Exam-ready application:** Nollywood marketers and open-air markets can be analysed through **Informality**. Trust-based networks coordinate finance and distribution, but limited records reduce transparency. This evidence shows how **Informality** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Informal distribution improves access under infrastructure constraints, but it can reduce transparency and weaken creators' control over payment, rights and later circulation.
