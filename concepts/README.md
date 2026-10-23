@@ -16,4 +16,11 @@ Choose a unit first, then open the concept you want to revise.
 | [Unit 11: K-pop Fandom](unit-11-k-pop-fandom/) | cultural hybridity, global imagination and transcultural fandom | 4 |
 | [Unit 12: Nollywood and Informality](unit-12-nollywood-informality/) | informal industries, marketers and alternative digital distribution | 4 |
 
-Each concept card contains four short sections: definition, keywords, core understanding and possible questions. Return to the relevant unit review for relationships, examples and exam practice.
+Each concept card follows the same exam-focused order: priority, recall definition, detailed definition, key points, PPT case, application question and answer direction. Return to the relevant unit review only when you need broader relationships or tutorial practice.
+
+## How to Use the Priority Labels
+
+1. Study **HIGH** cards first: definition, PPT case and application question.
+2. Study **CORE** cards next: definition and one case.
+3. Use **SUPPORTING** cards only to clarify relationships or strengthen an answer.
+4. Do not memorise long keyword lists. Use the **Memorise This** sentence as the recall definition.
