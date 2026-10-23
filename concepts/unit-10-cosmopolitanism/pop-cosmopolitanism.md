@@ -25,6 +25,14 @@ Viewers go beyond watching. They may research the culture, learn a language, joi
 
 **Why it fits:** Fans move beyond consumption toward active learning and reflection.
 
+## How to Apply in an Answer
+
+**Use it for:** What makes a viewer a pop cosmopolitan?
+
+**Exam-ready application:** Spanish fans learning Turkish or travelling to Turkey can be analysed through **Pop Cosmopolitanism**. Fans move beyond consumption toward active learning and reflection. This evidence shows how **Pop Cosmopolitanism** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Watching foreign media does not automatically create cosmopolitan openness. Industrial access, audience background and the reproduction of stereotypes must also be considered.

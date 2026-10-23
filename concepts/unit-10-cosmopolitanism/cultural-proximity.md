@@ -25,6 +25,14 @@ Cultural proximity explains some cross-border viewing, but it cannot explain eve
 
 **Why it fits:** Familiar melodrama and shared values help attraction, but novelty and cultural difference also matter.
 
+## How to Apply in an Answer
+
+**Use it for:** Why is cultural proximity an incomplete explanation of foreign-media popularity?
+
+**Exam-ready application:** Spanish audiences watching Turkish dramas can be analysed through **Cultural Proximity**. Familiar melodrama and shared values help attraction, but novelty and cultural difference also matter. This evidence shows how **Cultural Proximity** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Watching foreign media does not automatically create cosmopolitan openness. Industrial access, audience background and the reproduction of stereotypes must also be considered.

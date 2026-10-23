@@ -25,6 +25,14 @@ Foreign content becomes a normal part of daily viewing. Audiences may learn abou
 
 **Why it fits:** Foreign culture becomes part of ordinary entertainment without necessarily producing deliberate reflection.
 
+## How to Apply in an Answer
+
+**Use it for:** How can television create banal cosmopolitanism?
+
+**Exam-ready application:** Routine viewing of Turkish dramas in Spain can be analysed through **Banal Cosmopolitanism**. Foreign culture becomes part of ordinary entertainment without necessarily producing deliberate reflection. This evidence shows how **Banal Cosmopolitanism** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Watching foreign media does not automatically create cosmopolitan openness. Industrial access, audience background and the reproduction of stereotypes must also be considered.

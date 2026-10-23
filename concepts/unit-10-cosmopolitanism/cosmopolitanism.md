@@ -25,6 +25,14 @@ Media can expose people to unfamiliar cultures without physical travel. Watching
 
 **Why it fits:** Viewers were attracted by familiar melodrama as well as cultural difference, and some developed more active knowledge and reflection.
 
+## How to Apply in an Answer
+
+**Use it for:** How can foreign media encourage cosmopolitan attitudes?
+
+**Exam-ready application:** Spanish audiences watching Turkish dramas can be analysed through **Cosmopolitanism**. Viewers were attracted by familiar melodrama as well as cultural difference, and some developed more active knowledge and reflection. This evidence shows how **Cosmopolitanism** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Watching foreign media does not automatically create cosmopolitan openness. Industrial access, audience background and the reproduction of stereotypes must also be considered.
