@@ -7,7 +7,7 @@
 
 The ordinary, often non-reflexive experience of global culture through everyday consumption.
 
-## Detailed Definition
+## Definition
 
 The ordinary, often non-reflexive experience of global culture through everyday consumption.
 

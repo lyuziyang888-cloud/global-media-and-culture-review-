@@ -7,7 +7,7 @@
 
 Active engagement with popular culture from elsewhere that expands cultural knowledge and may prompt reflection on one's own culture.
 
-## Detailed Definition
+## Definition
 
 Active engagement with popular culture from elsewhere that expands cultural knowledge and may prompt reflection on one's own culture.
 

@@ -7,7 +7,7 @@
 
 The idea that audiences tend to prefer media that feels culturally familiar through language, values, genre, religion or everyday experience.
 
-## Detailed Definition
+## Definition
 
 The idea that audiences tend to prefer media that feels culturally familiar through language, values, genre, religion or everyday experience.
 

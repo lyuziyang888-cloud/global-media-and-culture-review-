@@ -7,7 +7,7 @@
 
 A sense of belonging to the wider world, together with awareness of cultural plurality and openness to cultural difference.
 
-## Detailed Definition
+## Definition
 
 A sense of belonging to the wider world, together with awareness of cultural plurality and openness to cultural difference.
 
