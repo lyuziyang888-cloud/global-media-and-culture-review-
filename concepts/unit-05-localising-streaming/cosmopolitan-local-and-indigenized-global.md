@@ -7,7 +7,7 @@
 
 The cosmopolitan local uses local stories and talent within genres designed for globally oriented audiences.
 
-## Detailed Definition
+## Definition
 
 The cosmopolitan local uses local stories and talent within genres designed for globally oriented audiences. The indigenized global adapts global industrial practices around the priorities of a specific local market and its audiences.
 

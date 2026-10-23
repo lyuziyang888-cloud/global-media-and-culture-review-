@@ -7,7 +7,7 @@
 
 Industrial contact zones are spaces where global and local media industries meet, interact and change within power relations that may be unequal but are not fixed.
 
-## Detailed Definition
+## Definition
 
 Industrial contact zones are spaces where global and local media industries meet, interact and change within power relations that may be unequal but are not fixed.
 
