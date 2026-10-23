@@ -25,6 +25,14 @@ K-pop combines cultural elements and is reworked again by overseas fans. A hybri
 
 **Why it fits:** K-pop training and performance forms are mixed and reworked through multinational production and fan adaptation.
 
+## How to Apply in an Answer
+
+**Use it for:** How does K-pop demonstrate cultural hybridity?
+
+**Exam-ready application:** KATSEYE and K-pop cover dances can be analysed through **Cultural Hybridity**. K-pop training and performance forms are mixed and reworked through multinational production and fan adaptation. This evidence shows how **Cultural Hybridity** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Fan agency is real but not complete freedom: participation can create value for entertainment companies, advertisers and platforms, and one case cannot represent every fan.

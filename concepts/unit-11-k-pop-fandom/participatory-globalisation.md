@@ -25,6 +25,14 @@ Cover dances, reaction videos, fan chants and online communities let fans intera
 
 **Why it fits:** Fans learn, perform, modify and circulate choreography instead of remaining consumers only.
 
+## How to Apply in an Answer
+
+**Use it for:** How do K-pop fans participate in globalisation?
+
+**Exam-ready application:** K-pop cover dance can be analysed through **Participatory Globalisation**. Fans learn, perform, modify and circulate choreography instead of remaining consumers only. This evidence shows how **Participatory Globalisation** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Fan agency is real but not complete freedom: participation can create value for entertainment companies, advertisers and platforms, and one case cannot represent every fan.

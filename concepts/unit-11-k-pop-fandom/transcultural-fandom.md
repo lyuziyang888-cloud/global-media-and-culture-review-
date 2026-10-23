@@ -25,6 +25,14 @@ Jin argues that nationality alone cannot explain K-pop fandom. Gender, ethnicity
 
 **Why it fits:** Shared attachment connects fans across borders while local symbols and identities remain present.
 
+## How to Apply in an Answer
+
+**Use it for:** Why is transculturalism useful for understanding K-pop fandom?
+
+**Exam-ready application:** Melbourne Taemin banner and cover-dance communities can be analysed through **Transcultural Fandom**. Shared attachment connects fans across borders while local symbols and identities remain present. This evidence shows how **Transcultural Fandom** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Fan agency is real but not complete freedom: participation can create value for entertainment companies, advertisers and platforms, and one case cannot represent every fan.
