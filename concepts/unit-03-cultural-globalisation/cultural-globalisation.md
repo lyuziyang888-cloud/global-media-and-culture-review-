@@ -1,12 +1,17 @@
 # Cultural Globalisation
 
 **Unit:** Unit 3: Cultural Globalisation
+**Exam priority:** HIGH - memorise and practise applying it
 
-## Definition
+## Memorise This
 
 Cultural globalisation is a paradigm containing theories and concepts that explain contextual, multidirectional and unequal interactions among media, people and cultures across borders.
 
-## Keywords
+## Detailed Definition
+
+Cultural globalisation is a paradigm containing theories and concepts that explain contextual, multidirectional and unequal interactions among media, people and cultures across borders.
+
+## Key Terms
 
 - multidirectional flows
 - audiences
@@ -17,7 +22,7 @@ Cultural globalisation is a paradigm containing theories and concepts that expla
 - media capitals
 - change
 
-## Core Understanding
+## Key Points
 
 - focuses on people, audiences, workers and everyday media practices
 - treats cultures as diverse and changing rather than nationally uniform
@@ -25,7 +30,21 @@ Cultural globalisation is a paradigm containing theories and concepts that expla
 - examines movement in multiple directions
 - emphasises context and interpretation
 
-## Possible Questions
+## PPT Case
+
+**Case:** *Jane the Virgin* and Chinese microdramas
+
+**Why it fits:** These examples show media moving from outside traditional Western centres and changing through adaptation and circulation.
+
+## Application Question
+
+> Why is cultural globalisation important to global media studies?
+
+### Answer Direction
+
+Define **cultural globalisation**, identify the relevant detail in ***Jane the Virgin* and Chinese microdramas**, explain why it demonstrates the concept, and finish with one limitation or judgement.
+
+## Other Possible Questions
 
 - What is cultural globalisation?
 - Why is cultural globalisation important to global media studies?

@@ -1,12 +1,17 @@
 # Contra-Flows
 
 **Unit:** Unit 3: Cultural Globalisation
+**Exam priority:** CORE - know the definition and one case
 
-## Definition
+## Memorise This
 
 Contra-flows are media movements from former peripheries, the Global South or non-US centres towards other peripheral and dominant markets.
 
-## Keywords
+## Detailed Definition
+
+Contra-flows are media movements from former peripheries, the Global South or non-US centres towards other peripheral and dominant markets.
+
+## Key Terms
 
 - periphery to centre
 - South-North
@@ -15,7 +20,7 @@ Contra-flows are media movements from former peripheries, the Global South or no
 - non-US content
 - coexistence
 
-## Core Understanding
+## Key Points
 
 - challenge an exclusively US-to-rest model
 - can move North-South, South-South or South-North
@@ -23,7 +28,21 @@ Contra-flows are media movements from former peripheries, the Global South or no
 - do not automatically remove US or platform dominance
 - Venezuela's *Juana la virgen* travelled through adaptations in the US, Europe, Asia and Latin America. Chinese microdramas provide a contemporary example for testing contra-flow.
 
-## Possible Questions
+## PPT Case
+
+**Case:** *Jane the Virgin* and Chinese microdramas
+
+**Why it fits:** Media formats and production models move from Venezuela or China toward wider markets rather than only outward from the United States.
+
+## Application Question
+
+> How do contra-flows complicate media imperialism?
+
+### Answer Direction
+
+Define **contra-flows**, identify the relevant detail in ***Jane the Virgin* and Chinese microdramas**, explain why it demonstrates the concept, and finish with one limitation or judgement.
+
+## Other Possible Questions
 
 - What is a contra-flow?
 - How do contra-flows complicate media imperialism?
