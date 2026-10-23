@@ -25,6 +25,14 @@ Media circulate stories and symbols that help people imagine national membership
 
 **Why it fits:** The campaign selects national symbols and stories to present a coherent community to outsiders.
 
+## How to Apply in an Answer
+
+**Use it for:** How does media help construct a nation?
+
+**Exam-ready application:** Qatar nation-branding campaign can be analysed through **Imagined Communities**. The campaign selects national symbols and stories to present a coherent community to outsiders. This evidence shows how **Imagined Communities** operates in practice.
+
+**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+
 ## Course-Based Limitation
 
 Nation branding can attract attention, but it may simplify national identity and reproduce foreign expectations. Qatar is outside Mino's original Latin American sample, so the framework is an interpretation rather than proof.
