@@ -7,7 +7,7 @@
 
 National identity refers to the shared stories, symbols, values and cultural markers through which people imagine themselves as part of a nation.
 
-## Detailed Definition
+## Definition
 
 National identity refers to the shared stories, symbols, values and cultural markers through which people imagine themselves as part of a nation.
 

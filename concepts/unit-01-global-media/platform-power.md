@@ -7,7 +7,7 @@
 
 Platform power refers to the ability of digital platforms to influence which content is funded, distributed, promoted and accessed by audiences.
 
-## Detailed Definition
+## Definition
 
 Platform power refers to the ability of digital platforms to influence which content is funded, distributed, promoted and accessed by audiences.
 

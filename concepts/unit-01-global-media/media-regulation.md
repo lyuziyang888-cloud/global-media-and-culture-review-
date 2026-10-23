@@ -7,7 +7,7 @@
 
 Media regulation refers to government rules, policies and institutions that shape how media industries operate, fund content and serve public or cultural goals.
 
-## Detailed Definition
+## Definition
 
 Media regulation refers to government rules, policies and institutions that shape how media industries operate, fund content and serve public or cultural goals.
 

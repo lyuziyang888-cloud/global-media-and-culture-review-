@@ -7,7 +7,7 @@
 
 Streaming platforms are digital services that distribute media content online to audiences, often across national borders.
 
-## Detailed Definition
+## Definition
 
 Streaming platforms are digital services that distribute media content online to audiences, often across national borders.
 

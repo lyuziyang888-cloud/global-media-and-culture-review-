@@ -7,7 +7,7 @@
 
 Globalisation is the growing connection and movement of media and culture across national borders.
 
-## Detailed Definition
+## Definition
 
 Globalisation refers to the increasing interconnectedness of people, economies, cultures, technologies and media across national borders.
 

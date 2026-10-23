@@ -7,7 +7,7 @@
 
 Local content refers to media that is connected to a particular place, culture, community or nation through its production, stories, creators, locations, language or themes.
 
-## Detailed Definition
+## Definition
 
 Local content refers to media that is connected to a particular place, culture, community or nation through its production, stories, creators, locations, language or themes.
 

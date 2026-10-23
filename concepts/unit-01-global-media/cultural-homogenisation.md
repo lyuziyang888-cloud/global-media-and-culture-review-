@@ -7,7 +7,7 @@
 
 Cultural homogenisation occurs when local cultures become more similar because dominant media and cultural values spread across societies.
 
-## Detailed Definition
+## Definition
 
 Cultural homogenisation is the process through which differences among local cultures are reduced as dominant media, values, styles and standards spread across societies. It may occur when widely circulated media influences local tastes, lifestyles or production practices. However, global circulation does not automatically make audiences or cultures identical.
 
