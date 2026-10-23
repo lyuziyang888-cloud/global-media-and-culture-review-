@@ -32,13 +32,36 @@ Place-making is the process through which institutions, industries and media giv
 
 **Why it fits:** Media and industry give each city selective meanings for different audiences and production purposes.
 
-## Application Question
+## Course-Based Limitation
+
+Media-service production can create investment and expertise, but foreign projects can relocate and may leave local producers dependent or visually erase the location.
+
+**Course basis:** Week 7 lecture and tutorial; Havens and Imre, pp. 25-41
+
+## Possible Long-Answer Question
 
 > How is place made through media?
 
-### Answer Direction
+### Long-Answer Plan
 
 Define **place-making**, identify the relevant detail in **Budapest and Brisbane**, explain why it demonstrates the concept, and finish with one limitation or judgement.
+
+### How to Answer the Long Question
+
+1. Define **Place-Making** accurately.
+2. Give a direct answer or thesis responding to the wording of the question.
+3. Explain the relevant relationship, process or form of power.
+4. Apply the PPT case and use one concrete detail from it.
+5. Explain what that evidence proves; do not only name the example.
+6. Add the Course-Based Limitation above.
+7. Finish with a clear judgement that answers the question.
+
+## Possible Short Answer
+
+> What is Place-Making? Give one course example.
+
+**Answer:** Place-making is the process through which institutions, industries and media give locations particular meanings and identities. A course example is Budapest and Brisbane. Media and industry give each city selective meanings for different audiences and production purposes.
+
 
 ## Other Possible Questions
 

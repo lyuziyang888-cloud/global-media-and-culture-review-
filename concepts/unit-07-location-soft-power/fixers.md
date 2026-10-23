@@ -32,13 +32,36 @@ Fixers are industry intermediaries who connect foreign producers with government
 
 **Why it fits:** They translate expectations, connect stakeholders and turn an attractive national image into workable production relationships.
 
-## Application Question
+## Course-Based Limitation
+
+Media-service production can create investment and expertise, but foreign projects can relocate and may leave local producers dependent or visually erase the location.
+
+**Course basis:** Week 7 lecture and tutorial; Havens and Imre, pp. 25-41
+
+## Possible Long-Answer Question
 
 > What role do fixers play in Budapest's film industry?
 
-### Answer Direction
+### Long-Answer Plan
 
 Define **fixers**, identify the relevant detail in **Budapest production fixers**, explain why it demonstrates the concept, and finish with one limitation or judgement.
+
+### How to Answer the Long Question
+
+1. Define **Fixers** accurately.
+2. Give a direct answer or thesis responding to the wording of the question.
+3. Explain the relevant relationship, process or form of power.
+4. Apply the PPT case and use one concrete detail from it.
+5. Explain what that evidence proves; do not only name the example.
+6. Add the Course-Based Limitation above.
+7. Finish with a clear judgement that answers the question.
+
+## Possible Short Answer
+
+> What is Fixers? Give one course example.
+
+**Answer:** Fixers are industry intermediaries who connect foreign producers with government agencies, local workers and other stakeholders. A course example is Budapest production fixers. They translate expectations, connect stakeholders and turn an attractive national image into workable production relationships.
+
 
 ## Other Possible Questions
 
