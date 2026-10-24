@@ -34,15 +34,25 @@ World-systems theory describes a global system divided into core, semi-periphery
 
 **Why it fits:** Capital, infrastructure and decision-making remain concentrated in core locations while other markets participate on weaker terms.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How does world-systems theory support media imperialism?
+### What It Explains
 
-**Exam-ready application:** US platform dominance can be analysed through **World-Systems Theory**. Capital, infrastructure and decision-making remain concentrated in core locations while other markets participate on weaker terms. This evidence shows how **World-Systems Theory** operates in practice.
+World-systems theory describes a global system divided into core, semi-periphery and periphery positions, where core countries benefit from unequal relationships with less powerful regions.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How does world-systems theory support media imperialism?**
+
+### How the Course Case Shows It
+
+**US platform dominance:** Capital, infrastructure and decision-making remain concentrated in core locations while other markets participate on weaker terms.
+
+### Argument You Can Make
+
+The framework helps explain why global media circulation can be extensive while still being structurally unequal.
+
+### Do Not Overclaim
 
 Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 
@@ -63,7 +73,7 @@ Define **world-systems theory**, identify the relevant detail in **US platform d
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

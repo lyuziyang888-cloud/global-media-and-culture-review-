@@ -35,15 +35,25 @@ Platform capitalism is a business system in which privately owned digital platfo
 
 **Why it fits:** The platform mediates interaction and converts attention, activity and user data into commercial value.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Why are platforms not neutral intermediaries?
+### What It Explains
 
-**Exam-ready application:** Facebook can be analysed through **Platform Capitalism**. The platform mediates interaction and converts attention, activity and user data into commercial value. This evidence shows how **Platform Capitalism** operates in practice.
+Platform capitalism is a business system in which privately owned digital platforms mediate interactions, collect user data and convert attention, activity and data into profit.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Why are platforms not neutral intermediaries?**
+
+### How the Course Case Shows It
+
+**Facebook:** The platform mediates interaction and converts attention, activity and user data into commercial value.
+
+### Argument You Can Make
+
+Platform capitalism reveals the vertical commercial power hidden beneath apparently horizontal social interaction.
+
+### Do Not Overclaim
 
 Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 
@@ -64,7 +74,7 @@ Define **platform capitalism**, identify the relevant detail in **Facebook**, ex
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

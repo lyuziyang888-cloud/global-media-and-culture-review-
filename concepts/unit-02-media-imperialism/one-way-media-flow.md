@@ -34,15 +34,25 @@ One-way media flow describes an unequal pattern in which information and enterta
 
 **Why it fits:** Their production resources and distribution reach historically enabled content to travel outward more easily than media from peripheral regions.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Do streaming platforms reproduce one-way media flows?
+### What It Explains
 
-**Exam-ready application:** Hollywood and major Western news agencies can be analysed through **One-Way Media Flow**. Their production resources and distribution reach historically enabled content to travel outward more easily than media from peripheral regions. This evidence shows how **One-Way Media Flow** operates in practice.
+One-way media flow describes an unequal pattern in which information and entertainment move mainly from powerful Western or US centres to the rest of the world rather than through balanced reciprocal exchange.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Do streaming platforms reproduce one-way media flows?**
+
+### How the Course Case Shows It
+
+**Hollywood and major Western news agencies:** Their production resources and distribution reach historically enabled content to travel outward more easily than media from peripheral regions.
+
+### Argument You Can Make
+
+One-way flow is a central mechanism in classic media imperialism. It turns the abstract claim of domination into a question about who sends, who receives and who controls the routes.
+
+### Do Not Overclaim
 
 Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 
@@ -63,7 +73,7 @@ Define **one-way media flow**, identify the relevant detail in **Hollywood and m
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

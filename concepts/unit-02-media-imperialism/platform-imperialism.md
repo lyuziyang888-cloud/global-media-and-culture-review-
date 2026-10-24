@@ -35,15 +35,25 @@ Platform imperialism is an asymmetrical relationship in which platforms based in
 
 **Why it fits:** Facebook used control over platform infrastructure and audience access to pressure a national media system.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How does platform imperialism extend media imperialism?
+### What It Explains
 
-**Exam-ready application:** Facebook's Australian news block can be analysed through **Platform Imperialism**. Facebook used control over platform infrastructure and audience access to pressure a national media system. This evidence shows how **Platform Imperialism** operates in practice.
+Platform imperialism is an asymmetrical relationship in which platforms based in dominant countries, especially the United States, control technologies, markets, data and symbolic influence across other countries.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How does platform imperialism extend media imperialism?**
+
+### How the Course Case Shows It
+
+**Facebook's Australian news block:** Facebook used control over platform infrastructure and audience access to pressure a national media system.
+
+### Argument You Can Make
+
+Platform imperialism extends earlier media and cultural imperialism arguments.
+
+### Do Not Overclaim
 
 Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 
@@ -64,7 +74,7 @@ Define **platform imperialism**, identify the relevant detail in **Facebook's Au
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

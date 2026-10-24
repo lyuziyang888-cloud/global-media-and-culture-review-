@@ -34,15 +34,25 @@ Dependency theory argues that capitalist development can reproduce unequal relat
 
 **Why it fits:** News organisations can depend on foreign platform infrastructure for visibility and audience access.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How does dependency theory explain media imperialism?
+### What It Explains
 
-**Exam-ready application:** Facebook and national news organisations can be analysed through **Dependency Theory**. News organisations can depend on foreign platform infrastructure for visibility and audience access. This evidence shows how **Dependency Theory** operates in practice.
+Dependency theory argues that capitalist development can reproduce unequal relationships in which developing or postcolonial countries remain economically and structurally dependent on powerful Anglo-European countries.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How does dependency theory explain media imperialism?**
+
+### How the Course Case Shows It
+
+**Facebook and national news organisations:** News organisations can depend on foreign platform infrastructure for visibility and audience access.
+
+### Argument You Can Make
+
+Dependency theory supplies part of the historical explanation for media imperialism: unequal media flows are connected to wider political and economic relationships, not simply audience preferences.
+
+### Do Not Overclaim
 
 Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 
@@ -63,7 +73,7 @@ Define **dependency theory**, identify the relevant detail in **Facebook and nat
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

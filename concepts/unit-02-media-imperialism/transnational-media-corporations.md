@@ -34,15 +34,25 @@ Transnational media corporations are firms that own, produce or distribute media
 
 **Why it fits:** The company operates across borders and controls infrastructure connecting audiences, advertisers and news producers.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How do TNCs update traditional media imperialism?
+### What It Explains
 
-**Exam-ready application:** Meta/Facebook can be analysed through **Transnational Media Corporations**. The company operates across borders and controls infrastructure connecting audiences, advertisers and news producers. This evidence shows how **Transnational Media Corporations** operates in practice.
+Transnational media corporations are firms that own, produce or distribute media across national borders and form part of a concentrated global media system.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How do TNCs update traditional media imperialism?**
+
+### How the Course Case Shows It
+
+**Meta/Facebook:** The company operates across borders and controls infrastructure connecting audiences, advertisers and news producers.
+
+### Argument You Can Make
+
+TNCs update media imperialism by shifting attention from national media systems to a global oligopoly of corporations.
+
+### Do Not Overclaim
 
 Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 
@@ -63,7 +73,7 @@ Define **transnational media corporations**, identify the relevant detail in **M
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

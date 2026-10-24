@@ -37,15 +37,25 @@ Media imperialism is a paradigm for explaining how media from powerful nations o
 
 **Why it fits:** Facebook used control over platform infrastructure and audience access to pressure a national media system.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How is platform imperialism different from traditional media imperialism?
+### What It Explains
 
-**Exam-ready application:** Facebook's Australian news block can be analysed through **Media Imperialism**. Facebook used control over platform infrastructure and audience access to pressure a national media system. This evidence shows how **Media Imperialism** operates in practice.
+Media imperialism is a paradigm for explaining how media from powerful nations or corporations dominate other nations and cultures through unequal ownership, infrastructure, production, distribution and largely one-way flows.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How is platform imperialism different from traditional media imperialism?**
+
+### How the Course Case Shows It
+
+**Facebook's Australian news block:** Facebook used control over platform infrastructure and audience access to pressure a national media system.
+
+### Argument You Can Make
+
+Media imperialism is narrower than cultural imperialism because it focuses on the role and power of media.
+
+### Do Not Overclaim
 
 Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 
@@ -66,7 +76,7 @@ Define **media imperialism**, identify the relevant detail in **Facebook's Austr
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
