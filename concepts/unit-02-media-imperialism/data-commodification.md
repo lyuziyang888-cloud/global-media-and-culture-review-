@@ -26,7 +26,7 @@ The platform records actions such as clicks, likes, searches, viewing time and s
 - Facebook users communicate voluntarily, while the platform records attention and behaviour and sells targeted advertising.
 - The users are internationally dispersed, but data ownership and advertising revenue remain concentrated in Meta.
 
-## How the Evidence Shows the Concept
+## How The Evidence Applies
 
 Facebook users supply both content and behavioural signals while communicating. Facebook aggregates those signals and sells advertisers targeted access to particular audiences. Activity that has social meaning for the user consequently becomes an input into a revenue-generating system owned by the platform.
 
@@ -39,7 +39,6 @@ Data collection does not make every prediction accurate or every user passive. P
 
 **Possible long question:** How are users commodified on social media?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
 
 **Do not overclaim:** Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 

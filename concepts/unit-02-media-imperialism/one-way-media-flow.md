@@ -26,7 +26,7 @@ When production finance and distribution networks are concentrated in a small nu
 - Cooperation between Hollywood and the US military, described in the lecture as “militainment,” can combine commercial circulation with favourable access to military equipment and imagery.
 - Mirrlees also records the limitation: regional media capitals, diaspora markets and contra-flows now move content from East to West and South to North.
 
-## How the Evidence Shows the Concept
+## How The Evidence Applies
 
 The evidence supports an unequal-flow argument because US media possess exceptional outward reach. However, Korean television, Indian cinema and other contra-flows mean “one-way” should describe a continuing imbalance, not an absolute absence of reverse circulation.
 
@@ -35,7 +35,6 @@ The evidence supports an unequal-flow argument because US media possess exceptio
 
 **Possible long question:** Do streaming platforms reproduce one-way media flows?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
 
 **Do not overclaim:** Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 

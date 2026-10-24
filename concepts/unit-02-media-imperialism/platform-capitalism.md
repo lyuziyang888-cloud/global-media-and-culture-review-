@@ -26,7 +26,7 @@ A platform supplies the technical environment in which users, advertisers and me
 - Facebook users communicate voluntarily, while the platform records attention and behaviour and sells targeted advertising.
 - The users are internationally dispersed, but data ownership and advertising revenue remain concentrated in Meta.
 
-## How the Evidence Shows the Concept
+## How The Evidence Applies
 
 Posting, liking and sharing appear to be communication between users, but these actions also generate behavioural information and advertising inventory for Facebook. The platform does not need to produce every item of content; it profits by controlling the infrastructure through which other people communicate. The Australian news dispute further showed that publishers participate inside rules they do not independently control.
 
@@ -39,7 +39,6 @@ Platforms do not possess unlimited power. Governments can regulate them, users c
 
 **Possible long question:** Why are platforms not neutral intermediaries?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
 
 **Do not overclaim:** Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 

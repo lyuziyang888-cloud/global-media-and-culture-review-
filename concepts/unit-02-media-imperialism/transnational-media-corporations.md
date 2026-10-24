@@ -25,7 +25,7 @@ These corporations combine operations in multiple countries with central ownersh
 - Jin reports that Facebook was the leading social network in 152 of 167 analysed countries in January 2018.
 - This worldwide user base was organised through infrastructure and corporate decision-making centred in a US company.
 
-## How the Evidence Shows the Concept
+## How The Evidence Applies
 
 Meta operates services used in many countries while ownership of the platform, technical architecture and major commercial decisions remains corporate and centralised. Local users and publishers produce much of what circulates, but Meta controls the infrastructure that connects them to audiences and advertisers. This makes it a transnational corporate actor rather than simply an exporter of American content.
 
@@ -38,7 +38,6 @@ Corporate concentration does not remove national differences. Regulation, langua
 
 **Possible long question:** How do TNCs update traditional media imperialism?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
 
 **Do not overclaim:** Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 

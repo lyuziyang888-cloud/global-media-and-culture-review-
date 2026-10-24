@@ -26,7 +26,7 @@ Platform imperialism extends imperialism analysis from exported media texts to d
 - Facebook temporarily blocked Australian news content during conflict over the News Media Bargaining Code.
 - The action showed that a foreign platform could use control of audience access to pressure a national news system.
 
-## How the Evidence Shows the Concept
+## How The Evidence Applies
 
 Facebook's position as the leading social network in 152 of 167 analysed countries indicates exceptional international reach. Reach becomes imperial power when combined with control: Facebook owns the software, ranking systems and commercial data generated through those markets. Its Australian news block demonstrated leverage in practice because it could interrupt access to news while contesting national regulation.
 
@@ -39,7 +39,6 @@ The case does not establish complete US control. China restricts major US platfo
 
 **Possible long question:** How does platform imperialism extend media imperialism?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
 
 **Do not overclaim:** Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 

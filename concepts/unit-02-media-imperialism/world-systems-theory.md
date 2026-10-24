@@ -25,7 +25,7 @@ The categories describe functions within an unequal system, not permanent labels
 - Jin reports that Facebook was the leading social network in 152 of 167 analysed countries in January 2018.
 - This worldwide user base was organised through infrastructure and corporate decision-making centred in a US company.
 
-## How the Evidence Shows the Concept
+## How The Evidence Applies
 
 Facebook's users and content producers are distributed globally, but control of the platform, data infrastructure and advertising system is concentrated in a US corporation. The case illustrates a core function: coordinating global activity and capturing value from it. It does not mean every non-US country is simply peripheral; strong regional industries and state regulation can alter their bargaining position.
 
@@ -34,7 +34,6 @@ Facebook's users and content producers are distributed globally, but control of 
 
 **Possible long question:** How does world-systems theory support media imperialism?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
 
 **Do not overclaim:** Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 

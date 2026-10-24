@@ -25,7 +25,7 @@ Dependency is reproduced when peripheral industries must obtain capital, technol
 - News organisations can reach large audiences through Facebook but depend on its ranking, access and advertising infrastructure.
 - Facebook was the leading social network in 152 of 167 countries analysed in January 2018, while ownership and major corporate decisions remained centred in a US company.
 
-## How the Evidence Shows the Concept
+## How The Evidence Applies
 
 The number of users alone does not prove dependency. Dependency appears when local organisations cannot obtain comparable reach without the foreign platform and have limited power over its rules. Facebook's Australian news block exposed that reliance because publishers lost a distribution route when the platform withdrew news.
 
@@ -34,7 +34,6 @@ The number of users alone does not prove dependency. Dependency appears when loc
 
 **Possible long question:** How does dependency theory explain media imperialism?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
 
 **Do not overclaim:** Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 
