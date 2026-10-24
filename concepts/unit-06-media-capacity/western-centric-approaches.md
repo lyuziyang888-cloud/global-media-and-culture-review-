@@ -1,46 +1,36 @@
 # Western-Centric Approaches
 
 **Unit:** Unit 6: Media Capacity
-**Exam priority:** CORE - know the definition and one case
+**Exam priority:** CORE
 
 ## Definition
 
-A Western-centric approach treats Western experience, power and standards as the main model for explaining global media.
+A Western-centric approach treats Western ownership, institutions and historical experience as the main reference point for explaining global media. Non-Western industries then appear mainly as dependent markets, sources of cheap labour or recipients of Western products.
 
-## What This Concept Explains
+## What Keane Criticises
 
-A Western-centric approach treats Western experience, power and standards as the main model for explaining global media.
+Keane argues that some political-economy accounts explain international production mainly through Western corporate expansion and the new international division of labour. This correctly identifies unequal ownership and corporate power, but it can leave little room for local firms, states and workers to develop new capabilities or alter their position (Keane, 2006, pp. 836-837).
 
-## Key Terms
+The opposite mistake is to celebrate every non-Western media flow as resistance. Cultural proximity and “contra-flow” help explain why regional audiences may prefer culturally familiar content, but circulation alone does not reveal who owns production, controls rights or receives revenue. Keane therefore combines attention to local agency with attention to global business power (2006, pp. 837-840).
 
-- West versus Rest
-- universalism
-- peripheral producers
-- Western dominance
-- local agency
+## Specific Evidence
 
-## Concrete Course Evidence
+East Asian producers did not remain only passive recipients of Western media. Keane points to growth in hardware manufacture, content production and talent, which created forms of “reverse colonization” and helped some industries compete with imported media (2006, p. 840). He also stresses that this development was not produced by markets alone: state-directed investment and national policy contributed to industrial catch-up (p. 841).
 
-- Chinese firms later entered Sino-US co-productions, used international creative talent and developed streaming collaborations in Southeast Asia.
-- These activities complicate the assumption that non-Western producers remain permanently passive or peripheral.
+The five categories then show different levels of agency. Outsourcing may preserve foreign ownership, while co-production can transfer knowledge. Films such as *Hero* can open niche international markets, and connected local clusters can make production repeatable. These outcomes complicate a simple West-versus-Rest model, but they do not erase inequality.
 
-## How the Evidence Shows the Concept
+## Critical Judgement
 
-Keane does not deny Western power; he asks how integration can also create opportunities for emergence
+Keane's position is not that Western dominance has disappeared. His argument is that dominance cannot fully explain how new production centres emerge. Analysis must ask two questions together: **What power do global companies retain?** and **What skills, infrastructure, networks and intellectual property have local industries built?** Ignoring the first romanticises globalisation; ignoring the second reduces non-Western producers to permanent victims.
 
+## Exam-Ready Application
 
-## Exam Use
+A Western-centric reading of an Asian co-production may describe it only as expansion by a Western company. Keane's approach also investigates whether local workers gain reusable expertise, whether local firms acquire rights and whether the partnership strengthens a production cluster. If ownership stays abroad, dependency remains significant. If knowledge and productive resources are retained locally, the relationship can also increase local capacity.
 
-**Possible long question:** What does a Western-centric approach overlook?
+## Short Answer
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**Question:** What does a Western-centric approach overlook?
 
-**Do not overclaim:** Participation or market success does not automatically create lasting capacity. The key question is whether skills, infrastructure, knowledge and intellectual property remain locally controlled.
+**Answer:** It may overlook how non-Western firms, workers and states use global integration to build skills, infrastructure and intellectual property. Keane still recognises unequal corporate power, but he argues that local agency and capacity-building must also be examined.
 
-**Course basis:** Week 6 lecture; Week 6 tutorial; Keane reading
-
-## Possible Short Answer
-
-> What is Western-Centric Approaches? Give one course example.
-
-**Answer:** A Western-centric approach treats Western experience, power and standards as the main model for explaining global media. A course example is East Asian media capacity. Keane shows that treating non-Western producers only as dependent labour can overlook local skill, infrastructure and IP development.
+**Source:** Keane (2006), especially pp. 836-841 and 850-852.

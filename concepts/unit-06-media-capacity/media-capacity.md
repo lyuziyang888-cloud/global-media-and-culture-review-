@@ -1,49 +1,37 @@
 # Media Capacity
 
 **Unit:** Unit 6: Media Capacity
-**Exam priority:** HIGH - memorise and practise applying it
+**Exam priority:** HIGH
 
 ## Definition
 
-Media capacity is the lasting ability to create, finance, own, improve and circulate media through local skills, infrastructure, knowledge and intellectual property.
+Media capacity is a location's continuing ability to develop, produce and circulate media. In Keane's account, capacity depends on more than low production costs or one internationally successful title. It grows when expertise, skilled labour, infrastructure, business networks and intellectual-property revenue can support later productions (Keane, 2006, pp. 838-840, 850-852).
 
-## What This Concept Explains
+## How Capacity Is Built
 
-Media capacity is the lasting ability to create, finance, own, improve and circulate media through local skills, infrastructure, knowledge and intellectual property.
+Global integration can give a local industry access to contracts, technology, finance, training and distribution. These inputs become capacity only when they are absorbed into a repeatable local production system. For example, a co-production can teach workers new methods. The longer-term result depends on whether those workers, organisations and methods remain connected to future local projects.
 
-## Key Terms
+Keane describes media capitals as concentrations of finance, production, distribution, resources, reputation and talent (2006, pp. 838-839). Proximity matters because firms can find specialised workers and suppliers, workers can move between productions, and knowledge gained on one project can be reused on another. Capacity is therefore both material, such as studios and equipment, and organisational, such as professional networks and the ability to coordinate production.
 
-- production capability
-- intellectual property
-- skilled labour
-- infrastructure
-- innovation
+## Evidence From Keane
 
-## Concrete Course Evidence
+- **Outsourcing:** brings employment and technical work, but capacity remains limited when foreign commissioners retain intellectual property and higher-value decisions (p. 850).
+- **Co-production:** can transfer expertise, as in the Warner Bros., China Film Group and Hengdian partnership, but temporary access to foreign knowledge is not the same as independent control (p. 851).
+- **Niche success:** *Hero* and *House of Flying Daggers* reached international audiences, demonstrating export potential without proving that every part of the local industry had become sustainable (p. 851).
+- **Clusters:** connected local firms, labour and infrastructure make skills reusable and can support continuing intellectual-property revenue. Duplicating industrial parks without genuine interaction can dilute rather than create these benefits (pp. 851-852).
 
-- Keane distinguishes one-off international success from repeatable local capacity.
-- The test is whether local producers retain skilled workers, infrastructure, production knowledge and intellectual property and can use them again.
-- Indian animation outsourcing illustrates the “world factory”: it can create jobs and skills while foreign firms retain intellectual property.
-- Hero and House of Flying Daggers illustrate niche breakthrough markets through wider distribution of culturally distinctive films.
-- Seoul Digital Media City illustrates a creative/industrial cluster built from co-located infrastructure, firms and skilled labour.
+## Critical Point
 
-## How the Evidence Shows the Concept
+Keane does not claim that entry into the global economy automatically removes dependency. He argues that integration creates “conditions of possibility” for new centres to emerge, while ownership concentration and unequal bargaining power still require criticism (Keane, 2006, p. 852). A strong answer must therefore examine both the opportunity gained and the control retained.
 
-control and continuing dependency must both be evaluated
+## Exam-Ready Application
 
+A producer has stronger media capacity when it can use locally retained skills, facilities and rights to make another project after an international partnership ends. Export sales alone show circulation. Outsourced employment shows participation. Repeatable local production, control of intellectual property and the ability to negotiate distribution show deeper capacity.
 
-## Exam Use
+## Short Answer
 
-**Possible long question:** How can a peripheral producer build media capacity?
+**Question:** Why is one global hit insufficient evidence of media capacity?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**Answer:** A hit proves that one product can reach an international audience. Media capacity requires resources that can be reused, including skilled labour, production knowledge, infrastructure, business networks and intellectual-property income. Without those resources, success may remain temporary.
 
-**Do not overclaim:** Participation or market success does not automatically create lasting capacity. The key question is whether skills, infrastructure, knowledge and intellectual property remain locally controlled.
-
-**Course basis:** Week 6 lecture; Week 6 tutorial; Keane reading
-
-## Possible Short Answer
-
-> What is Media Capacity? Give one course example.
-
-**Answer:** Media capacity is the lasting ability to create, finance, own, improve and circulate media through local skills, infrastructure, knowledge and intellectual property. A course example is Seoul Digital Media City and East Asian media industries. The cases allow evaluation of whether global integration leaves lasting local skills, infrastructure, knowledge and IP control.
+**Source:** Keane (2006), especially pp. 838-840 and 850-852.
