@@ -12,7 +12,9 @@ Amparo learned about Turkish customs and daily life through regular television v
 
 ## Exam Use
 
-**Possible short question:** Why is Amparo's viewing described as banal cosmopolitanism?
+## Derived Short-Answer Practice
+
+> Why is Amparo's viewing described as banal cosmopolitanism?
 
 **Answer:** Turkish customs became part of her ordinary television routine rather than a formal learning project. She encountered difference repeatedly and could question practices she disliked.
 

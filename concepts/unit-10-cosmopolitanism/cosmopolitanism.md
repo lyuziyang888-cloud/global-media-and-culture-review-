@@ -16,7 +16,17 @@ The dramas placed unfamiliar practices inside everyday life. Evidence becomes st
 
 ## Exam Use
 
-**Possible short question:** Does watching Turkish drama automatically make a Spanish viewer cosmopolitan?
+## Official PPT Exam Practice
+
+The Week 10 tutorial, slide 4, asks:
+
+> Discuss how cosmopolitanism challenges cultural proximity using Spanish audiences watching Turkish dramas.
+
+Define both concepts, contrast familiarity with attraction to difference, apply a Spanish-viewer example, and add the limitation that viewing alone does not prove cosmopolitan openness.
+
+## Derived Short-Answer Practice
+
+> Does watching Turkish drama automatically make a Spanish viewer cosmopolitan?
 
 **Answer:** No. Viewing provides contact, but stronger evidence comes from reflection and action, such as Isabella learning Turkish or Lidia forming fan friendships and travelling to Istanbul.
 

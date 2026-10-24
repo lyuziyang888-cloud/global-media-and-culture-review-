@@ -12,7 +12,9 @@ Isabella began studying Turkish after watching Turkish dramas (Ferreira, 2026, p
 
 ## Exam Use
 
-**Possible short question:** What turns foreign-media viewing into pop cosmopolitanism?
+## Derived Short-Answer Practice
+
+> What turns foreign-media viewing into pop cosmopolitanism?
 
 **Answer:** The viewer moves from consumption to active learning or connection. Isabella studied Turkish, while Lidia created a fan account, formed friendships and travelled to Istanbul.
 
