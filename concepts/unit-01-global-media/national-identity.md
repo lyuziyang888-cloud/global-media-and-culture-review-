@@ -3,11 +3,11 @@
 **Unit:** Unit 1: Global Media
 **Exam priority:** SUPPORTING - recognise it and use it when relevant
 
-## Memorise This
+## Definition
 
 National identity refers to the shared stories, symbols, values and cultural markers through which people imagine themselves as part of a nation.
 
-## Definition
+## What This Concept Explains
 
 National identity refers to the shared stories, symbols, values and cultural markers through which people imagine themselves as part of a nation.
 
@@ -21,71 +21,34 @@ National identity refers to the shared stories, symbols, values and cultural mar
 - local content
 - representation
 
-## Key Points
+## Concrete Course Evidence
 
-- Can be represented through media stories, locations, language and characters.
-- Can be strengthened by local media industries.
-- Can be challenged when a stronger foreign media industry dominates.
-- Is not always fixed or simple.
-- National identity matters because media can help define what a nation looks like, sounds like and values.
+- The project originated with Canadian platform Crave.
+- Its source author Rachel Reid is from Nova Scotia, and its ice-hockey subject matter carries Canadian cultural associations.
+- Canadian creators, cast, crew, locations and imagery make it locally identifiable, while HBO provides US circulation.
+- The series is set in an Inuit community in the Canadian Arctic.
+- Indigenous Canadians have substantial roles in its creation, performance and production.
+- CBC and APTN connect it to Canadian and Indigenous media institutions; Netflix gives it international distribution.
+- The Week 1 tutorial requires nationality to be assessed through source material, creators, cast, crew, funding, ownership, locations, story and distribution.
+- A production can therefore be locally rooted and globally circulated at the same time.
 
-## PPT Case
-
-**Case:** *Heated Rivalry* and *KPop Demon Hunters*
-
-**Why it fits:** The examples require nationality to be judged through story, creators, locations, ownership and circulation rather than geography alone.
-
-## How to Use This Concept
-
-### What It Explains
-
-National identity refers to the shared stories, symbols, values and cultural markers through which people imagine themselves as part of a nation.
-
-### When to Use It
-
-Use it when a question asks: **How does media shape national identity?**
-
-### How the Course Case Shows It
-
-***Heated Rivalry* and *KPop Demon Hunters*:** The examples require nationality to be judged through story, creators, locations, ownership and circulation rather than geography alone.
-
-### Argument You Can Make
+## How the Evidence Shows the Concept
 
 National identity matters because media can help define what a nation looks like, sounds like and values.
 
-### Do Not Overclaim
 
-Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
+## Exam Use
+
+**Possible long question:** How does media shape national identity?
+
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+
+**Do not overclaim:** Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
 
 **Course basis:** Week 1 tutorial; Unit 1 evidence map
-
-## Possible Long-Answer Question
-
-> How does media shape national identity?
-
-### Long-Answer Plan
-
-Define **national identity**, identify the relevant detail in ***Heated Rivalry* and *KPop Demon Hunters***, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **National Identity** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is National Identity? Give one course example.
 
 **Answer:** National identity refers to the shared stories, symbols, values and cultural markers through which people imagine themselves as part of a nation. A course example is *Heated Rivalry* and *KPop Demon Hunters*. The examples require nationality to be judged through story, creators, locations, ownership and circulation rather than geography alone.
-
-
-## Other Possible Questions
-
-- What is national identity?
-- How does media shape national identity?
-- Why is national identity difficult to define in global media?

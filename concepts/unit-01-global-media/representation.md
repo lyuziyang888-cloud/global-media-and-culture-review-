@@ -3,11 +3,11 @@
 **Unit:** Unit 1: Global Media
 **Exam priority:** SUPPORTING - recognise it and use it when relevant
 
-## Memorise This
+## Definition
 
 Representation refers to how people, places, cultures, identities and social groups are portrayed in media.
 
-## Definition
+## What This Concept Explains
 
 Representation refers to how people, places, cultures, identities and social groups are portrayed in media.
 
@@ -21,71 +21,29 @@ Representation refers to how people, places, cultures, identities and social gro
 - stereotypes
 - voice
 
-## Key Points
+## Concrete Course Evidence
 
-- Representation can make a group visible or invisible.
-- It can challenge or reinforce stereotypes.
-- It is connected to who controls production and storytelling.
-- It shapes how audiences understand culture and identity.
-- Representation matters because media does not simply show reality. It selects, frames and gives meaning to people, places and cultures.
+- The series is set in an Inuit community in the Canadian Arctic.
+- Indigenous Canadians have substantial roles in its creation, performance and production.
+- CBC and APTN connect it to Canadian and Indigenous media institutions; Netflix gives it international distribution.
 
-## PPT Case
-
-**Case:** *North of North*
-
-**Why it fits:** Its creators and performers shape how an Indigenous Arctic community is represented.
-
-## How to Use This Concept
-
-### What It Explains
-
-Representation refers to how people, places, cultures, identities and social groups are portrayed in media.
-
-### When to Use It
-
-Use it when a question asks: **Why does representation matter in global media?**
-
-### How the Course Case Shows It
-
-***North of North*:** Its creators and performers shape how an Indigenous Arctic community is represented.
-
-### Argument You Can Make
+## How the Evidence Shows the Concept
 
 Representation matters because media does not simply show reality. It selects, frames and gives meaning to people, places and cultures.
 
-### Do Not Overclaim
 
-Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
+## Exam Use
+
+**Possible long question:** Why does representation matter in global media?
+
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+
+**Do not overclaim:** Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
 
 **Course basis:** Week 1 tutorial; Unit 1 evidence map
-
-## Possible Long-Answer Question
-
-> Why does representation matter in global media?
-
-### Long-Answer Plan
-
-Define **representation**, identify the relevant detail in ***North of North***, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **Representation** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is Representation? Give one course example.
 
 **Answer:** Representation refers to how people, places, cultures, identities and social groups are portrayed in media. A course example is *North of North*. Its creators and performers shape how an Indigenous Arctic community is represented.
-
-
-## Other Possible Questions
-
-- What is representation?
-- Why does representation matter in global media?
-- Explain the relationship between representation and cultural identity.
