@@ -3,11 +3,11 @@
 **Unit:** Unit 2: Media Imperialism
 **Exam priority:** SUPPORTING - recognise it and use it when relevant
 
-## Memorise This
+## Definition
 
 Transnational media corporations are firms that own, produce or distribute media across national borders and form part of a concentrated global media system.
 
-## Definition
+## What This Concept Explains
 
 Transnational media corporations are firms that own, produce or distribute media across national borders and form part of a concentrated global media system.
 
@@ -20,70 +20,28 @@ Transnational media corporations are firms that own, produce or distribute media
 - first-tier corporations
 - regional powerhouses
 
-## Key Points
+## Concrete Course Evidence
 
-- First-tier firms operate across many countries and markets.
-- Second-tier firms can be powerful nationally or regionally.
-- Corporate networks make media power less straightforwardly nation-based.
-- Ownership concentration can continue even when content travels globally.
-- TNCs update media imperialism by shifting attention from national media systems to a global oligopoly of corporations.
+- Jin reports that Facebook was the leading social network in 152 of 167 analysed countries in January 2018.
+- This worldwide user base was organised through infrastructure and corporate decision-making centred in a US company.
 
-## PPT Case
-
-**Case:** Meta/Facebook
-
-**Why it fits:** The company operates across borders and controls infrastructure connecting audiences, advertisers and news producers.
-
-## How to Use This Concept
-
-### What It Explains
-
-Transnational media corporations are firms that own, produce or distribute media across national borders and form part of a concentrated global media system.
-
-### When to Use It
-
-Use it when a question asks: **How do TNCs update traditional media imperialism?**
-
-### How the Course Case Shows It
-
-**Meta/Facebook:** The company operates across borders and controls infrastructure connecting audiences, advertisers and news producers.
-
-### Argument You Can Make
+## How the Evidence Shows the Concept
 
 TNCs update media imperialism by shifting attention from national media systems to a global oligopoly of corporations.
 
-### Do Not Overclaim
 
-Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
+## Exam Use
+
+**Possible long question:** How do TNCs update traditional media imperialism?
+
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+
+**Do not overclaim:** Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 
 **Course basis:** Week 2 lecture, limitations slides 27-28; Week 2 tutorial
-
-## Possible Long-Answer Question
-
-> How do TNCs update traditional media imperialism?
-
-### Long-Answer Plan
-
-Define **transnational media corporations**, identify the relevant detail in **Meta/Facebook**, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **Transnational Media Corporations** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is Transnational Media Corporations? Give one course example.
 
 **Answer:** Transnational media corporations are firms that own, produce or distribute media across national borders and form part of a concentrated global media system. A course example is Meta/Facebook. The company operates across borders and controls infrastructure connecting audiences, advertisers and news producers.
-
-
-## Other Possible Questions
-
-- How do TNCs update traditional media imperialism?
-- Does corporate globalisation make nations irrelevant?
