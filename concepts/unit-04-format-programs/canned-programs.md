@@ -37,7 +37,7 @@ Canned export gives the importing market a foreign production. A format licence 
 
 **Course basis:** Week 4 lecture, slides 5-7 and 20-23.
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > What is the main difference between a canned program and a format?
 

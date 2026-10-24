@@ -46,7 +46,7 @@ This reduces risk because broadcasters use an already tested structure. It can a
 
 **Course basis:** Week 4 lecture, slides 5-19; Week 4 tutorial, slides 7-8; Moran (1998), as cited in the lecture.
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > Why would a broadcaster buy *The Traitors* format?
 

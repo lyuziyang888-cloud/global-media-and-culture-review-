@@ -41,7 +41,7 @@ Non-scripted trade expanded earlier because its invariant rules are easier to sp
 
 **Course basis:** Week 4 lecture, slides 14-26; Week 4 tutorial, slides 7-8.
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > Why are non-scripted formats often easier to adapt than scripted formats?
 
