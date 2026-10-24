@@ -32,15 +32,25 @@ A Western-centric approach treats Western experience, power and standards as the
 
 **Why it fits:** Keane shows that treating non-Western producers only as dependent labour can overlook local skill, infrastructure and IP development.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** What does a Western-centric approach overlook?
+### What It Explains
 
-**Exam-ready application:** East Asian media capacity can be analysed through **Western-Centric Approaches**. Keane shows that treating non-Western producers only as dependent labour can overlook local skill, infrastructure and IP development. This evidence shows how **Western-Centric Approaches** operates in practice.
+A Western-centric approach treats Western experience, power and standards as the main model for explaining global media.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **What does a Western-centric approach overlook?**
+
+### How the Course Case Shows It
+
+**East Asian media capacity:** Keane shows that treating non-Western producers only as dependent labour can overlook local skill, infrastructure and IP development.
+
+### Argument You Can Make
+
+Keane does not deny Western power; he asks how integration can also create opportunities for emergence
+
+### Do Not Overclaim
 
 Participation or market success does not automatically create lasting capacity. The key question is whether skills, infrastructure, knowledge and intellectual property remain locally controlled.
 
@@ -61,7 +71,7 @@ Define **western-centric approaches**, identify the relevant detail in **East As
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

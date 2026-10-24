@@ -32,15 +32,25 @@ The categories are analytical models, not guaranteed stages. The fifth provides 
 
 **Why it fits:** The contrasting examples separate low-cost participation, niche success, technology transfer and durable cluster development.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Which category best demonstrates lasting media capacity?
+### What It Explains
 
-**Exam-ready application:** India animation outsourcing, Chinese martial-arts films and Seoul Digital Media City can be analysed through **Keane's Five Models**. The contrasting examples separate low-cost participation, niche success, technology transfer and durable cluster development. This evidence shows how **Keane's Five Models** operates in practice.
+Keane's framework identifies five ways once-peripheral media industries may participate in and develop through the global economy.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Which category best demonstrates lasting media capacity?**
+
+### How the Course Case Shows It
+
+**India animation outsourcing, Chinese martial-arts films and Seoul Digital Media City:** The contrasting examples separate low-cost participation, niche success, technology transfer and durable cluster development.
+
+### Argument You Can Make
+
+The categories are analytical models, not guaranteed stages. The fifth provides the strongest link to lasting capacity-building, while the others may still create opportunities and limitations.
+
+### Do Not Overclaim
 
 Participation or market success does not automatically create lasting capacity. The key question is whether skills, infrastructure, knowledge and intellectual property remain locally controlled.
 
@@ -61,7 +71,7 @@ Define **keane's five models**, identify the relevant detail in **India animatio
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

@@ -32,15 +32,25 @@ Media capacity is the lasting ability to create, finance, own, improve and circu
 
 **Why it fits:** The cases allow evaluation of whether global integration leaves lasting local skills, infrastructure, knowledge and IP control.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How can a peripheral producer build media capacity?
+### What It Explains
 
-**Exam-ready application:** Seoul Digital Media City and East Asian media industries can be analysed through **Media Capacity**. The cases allow evaluation of whether global integration leaves lasting local skills, infrastructure, knowledge and IP control. This evidence shows how **Media Capacity** operates in practice.
+Media capacity is the lasting ability to create, finance, own, improve and circulate media through local skills, infrastructure, knowledge and intellectual property.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How can a peripheral producer build media capacity?**
+
+### How the Course Case Shows It
+
+**Seoul Digital Media City and East Asian media industries:** The cases allow evaluation of whether global integration leaves lasting local skills, infrastructure, knowledge and IP control.
+
+### Argument You Can Make
+
+control and continuing dependency must both be evaluated
+
+### Do Not Overclaim
 
 Participation or market success does not automatically create lasting capacity. The key question is whether skills, infrastructure, knowledge and intellectual property remain locally controlled.
 
@@ -61,7 +71,7 @@ Define **media capacity**, identify the relevant detail in **Seoul Digital Media
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
