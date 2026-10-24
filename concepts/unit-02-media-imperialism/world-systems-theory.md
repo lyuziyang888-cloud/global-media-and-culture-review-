@@ -39,7 +39,7 @@ Facebook's users and content producers are distributed globally, but control of 
 
 **Course basis:** Week 2 lecture, limitations slides 27-28; Week 2 tutorial
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > How can Facebook be analysed through core and periphery?
 

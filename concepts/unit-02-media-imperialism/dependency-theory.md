@@ -39,7 +39,7 @@ The number of users alone does not prove dependency. Dependency appears when loc
 
 **Course basis:** Week 2 lecture, limitations slides 27-28; Week 2 tutorial
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > How did Facebook's Australian news block reveal dependency?
 

@@ -44,7 +44,7 @@ Data collection does not make every prediction accurate or every user passive. P
 
 **Course basis:** Week 2 lecture, limitations slides 27-28; Week 2 tutorial
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > How does Facebook turn user activity into a commodity?
 

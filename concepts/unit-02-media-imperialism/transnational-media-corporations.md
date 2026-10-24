@@ -43,7 +43,7 @@ Corporate concentration does not remove national differences. Regulation, langua
 
 **Course basis:** Week 2 lecture, limitations slides 27-28; Week 2 tutorial
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > Where does Meta's cross-border power come from?
 

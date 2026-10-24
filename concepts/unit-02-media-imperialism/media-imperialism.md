@@ -47,7 +47,7 @@ Corporate reach does not prove that audiences passively adopt foreign values. Mi
 
 **Course basis:** Week 2 lecture, limitations slides 27-28; Week 2 tutorial
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > What made Facebook's Australian news block an example of media imperialism?
 
