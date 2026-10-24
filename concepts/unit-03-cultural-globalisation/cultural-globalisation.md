@@ -7,9 +7,9 @@
 
 Cultural globalisation is a paradigm containing theories and concepts that explain contextual, multidirectional and unequal interactions among media, people and cultures across borders.
 
-## What This Concept Explains
+## Argument In Mirrlees
 
-Cultural globalisation is a paradigm containing theories and concepts that explain contextual, multidirectional and unequal interactions among media, people and cultures across borders.
+Mirrlees (2013, Chapter 1) presents cultural globalisation as a challenge to accounts that reduce cross-border media to one-way US domination. Its stronger versions emphasise deterritorialised flows, hybrid meanings and active audiences; its weaker versions retain unequal power while examining national industries, local preferences and multidirectional circulation. Mirrlees favours the weaker, evidence-based position because cultural change does not make ownership and geopolitical power disappear.
 
 ## Key Terms
 
@@ -29,20 +29,20 @@ Cultural globalisation is a paradigm containing theories and concepts that expla
 - Chinese microdramas now circulate to overseas audiences through streaming and mobile platforms.
 - Their movement challenges a purely US-to-rest model, although platform ownership still shapes visibility and revenue.
 
-## How the Evidence Shows the Concept
+## How The Cases Demonstrate It
 
-emphasises context and interpretation
+*Juana la virgen* originated in Venezuela and was remade in the US, South Korea, India and other markets. The direction of travel challenges a US-to-rest model, while each remake changes the format inside a different production culture. Chinese microdramas provide another non-US outward flow. Neither example proves equality: platforms, app stores and recommendation systems can still control overseas visibility and revenue.
 
 
 ## Exam Use
 
 **Possible long question:** Why is cultural globalisation important to global media studies?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**How to answer:** Use cultural globalisation to explain direction, adaptation and audience meaning; then use political economy to test who owns distribution and captures value.
 
 **Do not overclaim:** Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
 
-**Course basis:** Week 3 lecture, criticism slide 17; Week 3 tutorial
+**Course basis:** Mirrlees (2013), Chapter 1; Week 3 lecture, slides 5-20; Week 3 tutorial.
 
 ## Possible Short Answer
 

@@ -5,11 +5,11 @@
 
 ## Definition
 
-The five-scapes model describes globalisation as overlapping, interconnected and deterritorialised movements whose meaning and effects depend on context.
+Appadurai's model describes globalisation through five partly independent flows: **ethnoscapes** (people), **technoscapes** (technology), **financescapes** (capital), **mediascapes** (images and information) and **ideoscapes** (political ideas and values). Mirrlees (2013, Chapter 1) presents it as a strong cultural-globalisation alternative to a single centre-periphery system.
 
-## What This Concept Explains
+## How It Works
 
-The five-scapes model describes globalisation as overlapping, interconnected and deterritorialised movements whose meaning and effects depend on context.
+The suffix “scape” signals that each flow looks different from different positions. The flows overlap without moving at the same speed or under one controller. For example, a program may circulate internationally through a mediascape while finance, migration and political ideas follow different routes.
 
 ## Key Terms
 
@@ -20,25 +20,24 @@ The five-scapes model describes globalisation as overlapping, interconnected and
 - context
 - not generalisable
 
-## Concrete Course Evidence
+## Application
 
-- George Lucas interprets US entertainment exports as Americanisation; Philippe Legrain interprets global circulation as exchange and cultural hybridity.
-- The disagreement shows that the same flow can be read as unequal power or active cultural exchange.
+For an international remake, the format and promotional images form a mediascape; production software and streaming infrastructure form a technoscape; licensing and investment form a financescape; travelling workers or diaspora audiences form an ethnoscape; and ideas about gender, nation or modernity form an ideoscape. Naming a scape is not enough: the answer must identify what moves and how it interacts with another flow.
 
-## How the Evidence Shows the Concept
+## Limitation
 
-**Mediascapes:** worldwide production, distribution and consumption of media information and content
+Mirrlees warns that strong cultural-globalisation theories can become abstract and obscure concrete corporate or state power. The model maps different flows well, but ownership analysis is still needed to explain who directs or profits from them.
 
 
 ## Exam Use
 
 **Possible long question:** What are the five scapes?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**How to answer:** Select the relevant scapes, identify the object moving in each and explain their interaction; do not merely list five names.
 
 **Do not overclaim:** Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
 
-**Course basis:** Week 3 lecture, criticism slide 17; Week 3 tutorial
+**Course basis:** Mirrlees (2013), Chapter 1; Week 3 lecture, slides 7-8 and 17.
 
 ## Possible Short Answer
 

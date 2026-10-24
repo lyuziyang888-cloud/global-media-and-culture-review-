@@ -7,9 +7,9 @@
 
 Contra-flows are media movements from former peripheries, the Global South or non-US centres towards other peripheral and dominant markets.
 
-## What This Concept Explains
+## Mechanism
 
-Contra-flows are media movements from former peripheries, the Global South or non-US centres towards other peripheral and dominant markets.
+Mirrlees (2013, Chapter 1) uses contra-flow scholarship to qualify the claim that entertainment moves only from the US core to the rest. A contra-flow is identified by direction: content or a format moves from a former periphery toward another peripheral market or a dominant centre. Direction alone does not reveal equal ownership or market share.
 
 ## Key Terms
 
@@ -27,20 +27,20 @@ Contra-flows are media movements from former peripheries, the Global South or no
 - Chinese microdramas now circulate to overseas audiences through streaming and mobile platforms.
 - Their movement challenges a purely US-to-rest model, although platform ownership still shapes visibility and revenue.
 
-## How the Evidence Shows the Concept
+## How The Cases Demonstrate It
 
-Venezuela's *Juana la virgen* travelled through adaptations in the US, Europe, Asia and Latin America. Chinese microdramas provide a contemporary example for testing contra-flow.
+The Venezuelan origin of *Juana la virgen* matters because later US, European and Asian versions adapted a format that did not begin in Hollywood. Chinese microdramas similarly carry a Chinese-origin production model to overseas mobile audiences. These are genuine reverse or lateral movements, but they coexist with continuing US scale and with platform control over discovery and monetisation.
 
 
 ## Exam Use
 
 **Possible long question:** How do contra-flows complicate media imperialism?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**How to answer:** Name the origin, destination and route of circulation, then separate evidence of multidirectionality from claims about equal power.
 
 **Do not overclaim:** Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
 
-**Course basis:** Week 3 lecture, criticism slide 17; Week 3 tutorial
+**Course basis:** Mirrlees (2013), Chapter 1; Week 3 lecture, slides 13-14; Week 3 tutorial.
 
 ## Possible Short Answer
 

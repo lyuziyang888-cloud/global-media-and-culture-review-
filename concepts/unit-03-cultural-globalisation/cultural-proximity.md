@@ -7,9 +7,9 @@
 
 Cultural proximity is the tendency for audiences to prefer media that feels close to their language, humour, values, religion, ethnicity, lifestyle or everyday experience.
 
-## What This Concept Explains
+## Mechanism
 
-Cultural proximity is the tendency for audiences to prefer media that feels close to their language, humour, values, religion, ethnicity, lifestyle or everyday experience.
+Straubhaar's concept, discussed in Mirrlees (2013, Chapter 1), argues that audiences often select media offering familiar language, humour, values, religion or everyday experience. Preference therefore cannot be predicted from the exporting industry's size alone. Proximity is a tendency rather than a rule because class, education, technology, genre and interest in difference also shape viewing.
 
 ## Key Terms
 
@@ -23,23 +23,23 @@ Cultural proximity is the tendency for audiences to prefer media that feels clos
 
 ## Concrete Course Evidence
 
-- Spanish viewers were drawn to Turkish dramas through familiar melodrama as well as unfamiliar cultural details.
-- The case shows that proximity can assist circulation without fully explaining audience interest.
+- The Week 3 lecture reports strong domestic preference in Latin American viewing studies, although education, broadband access and proximity to the US modified the pattern.
+- Spanish viewers of Turkish dramas are used later in the course: familiar melodrama and values supported engagement, while cultural difference also attracted viewers.
 
-## How the Evidence Shows the Concept
+## How The Evidence Demonstrates It
 
-The concept challenges the assumption that globally powerful US content automatically dominates audience preferences.
+Domestic and regional media can compete with US imports because audiences recognise social situations and expressive styles that fit their experience. The Turkish-drama case also marks the limit: viewers did not choose only what was familiar; novelty encouraged learning and travel interest. Proximity explains part of attraction, not the whole response.
 
 
 ## Exam Use
 
 **Possible long question:** Does cultural proximity disprove media imperialism?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**How to answer:** Name the familiar element, connect it to audience preference and then identify another factor the concept cannot explain.
 
 **Do not overclaim:** Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
 
-**Course basis:** Week 3 lecture, criticism slide 17; Week 3 tutorial
+**Course basis:** Mirrlees (2013), Chapter 1; Week 3 lecture, slides 9-12. Turkish-drama evidence is developed in Week 10.
 
 ## Possible Short Answer
 

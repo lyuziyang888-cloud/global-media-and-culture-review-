@@ -7,9 +7,9 @@
 
 Media capitals are dynamic and historically contingent centres where resources, reputation and talent concentrate, enabling efficient and sustained media production.
 
-## What This Concept Explains
+## Mechanism
 
-Media capitals are dynamic and historically contingent centres where resources, reputation and talent concentrate, enabling efficient and sustained media production.
+Curtin's concept, discussed by Mirrlees (2013, Chapter 1), shifts analysis from nation-states to cities and production centres. A media capital attracts finance, skilled workers, suppliers and reputation. Repeated interaction lowers coordination costs and draws further projects, allowing the centre to organise flows beyond its own national market.
 
 ## Key Terms
 
@@ -23,25 +23,24 @@ Media capitals are dynamic and historically contingent centres where resources, 
 
 ## Concrete Course Evidence
 
-- The Venezuelan telenovela Juana la Virgen became Jane the Virgin and was adapted in the United States, South Korea, India and other markets.
-- The format originated outside the traditional US core and changed as it entered different production cultures.
-- Chinese microdramas now circulate to overseas audiences through streaming and mobile platforms.
-- Their movement challenges a purely US-to-rest model, although platform ownership still shapes visibility and revenue.
+- Hollywood remains a powerful media capital because finance, studios, talent, reputation and distribution are concentrated there.
+- Seoul and Mumbai demonstrate that sustained production centres can emerge outside Hollywood and organise regional or global circulation.
+- *Juana la virgen* demonstrates a related flow, but the format's travel alone is not proof that Caracas is a media capital; evidence of concentrated and repeatable production resources would also be required.
 
-## How the Evidence Shows the Concept
+## Critical Point
 
-The concept explains why important global media centres can emerge beyond Hollywood and why media movement cannot be understood only as exchange between nations.
+Multiple media capitals complicate a single US-centred map, but their existence does not mean equal scale. Mirrlees notes that Los Angeles can remain the dominant centre while other capitals gain regional influence. A media capital must be demonstrated through durable concentration, not one successful export.
 
 
 ## Exam Use
 
 **Possible long question:** What makes a place a media capital?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**How to answer:** Identify the concentrated resources, show how they support repeated production and compare the centre's reach with stronger rivals.
 
 **Do not overclaim:** Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
 
-**Course basis:** Week 3 lecture, criticism slide 17; Week 3 tutorial
+**Course basis:** Mirrlees (2013), Chapter 1; Week 3 lecture, slide 15.
 
 ## Possible Short Answer
 
