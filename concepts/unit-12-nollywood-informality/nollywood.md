@@ -12,7 +12,9 @@ Open-air markets and physical copies remained central to domestic circulation. M
 
 ## Exam Use
 
-**Short:** Nollywood grew through local production, marketers and physical markets.
+**Possible short question:** Why is Nollywood important to global media study?
+
+**Answer:** It became a large industry through locally adapted production, marketers and physical distribution rather than copying the Hollywood cinema model. It demonstrates that media capacity can develop through a different industrial system.
 
 **Long:** Explain why the industry matters, then connect marketers, infrastructure and mixed formal/informal distribution.
 

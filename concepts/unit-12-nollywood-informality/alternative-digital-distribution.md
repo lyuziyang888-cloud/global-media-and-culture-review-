@@ -12,7 +12,9 @@ Rural market stalls transferred low-cost films directly to phones. iROKOtv teste
 
 ## Exam Use
 
-**Short:** Nollywood used phone transfers, kiosks and low-data sharing to fit local infrastructure.
+**Possible short question:** How does Nollywood challenge the idea that digital distribution means streaming?
+
+**Answer:** Films moved through Bluetooth, FlashShare, USB, kiosks and low-data sharing. The files were digital even when they did not travel through continuous internet streaming.
 
 **Long:** Name the infrastructure problem, describe the adapted route, then evaluate access, rights and control.
 

@@ -12,7 +12,9 @@ Filmmakers needed marketers' physical networks to reach domestic audiences. Beca
 
 ## Exam Use
 
-**Short:** Marketers combined distribution, financing and executive-producer power.
+**Possible short question:** How did marketers influence what Nollywood produced?
+
+**Answer:** They controlled physical market access and could finance films or act as executive producers. Their distribution power therefore affected which projects were made and how revenue was reported.
 
 **Long:** Connect market access to production decisions, then compare marketers with formal platforms.
 
