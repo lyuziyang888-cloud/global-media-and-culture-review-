@@ -43,6 +43,6 @@ Netflix brought global scale but adapted through Bollywood labour and stories. H
 
 ## Possible Short Answer
 
-> What is Industrial Contact Zones? Give one course example.
+> Why is Indian streaming an industrial contact zone?
 
-**Answer:** Industrial contact zones are spaces where global and local media industries meet, interact and change within power relations that may be unequal but are not fixed. A course example is Netflix India and Hotstar/JioHotstar. Global streaming practices meet powerful local industries, languages, audiences and cricket culture, forcing different forms of adaptation.
+**Answer:** Global platform strategies meet powerful Indian film industries, languages, pricing conditions and cricket culture. Netflix and Hotstar are changed by this encounter, although they do not enter it with equal resources.

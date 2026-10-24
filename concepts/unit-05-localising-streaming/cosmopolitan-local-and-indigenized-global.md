@@ -44,6 +44,6 @@ Netflix initially used premium pricing and productions such as *Sacred Games*, c
 
 ## Possible Short Answer
 
-> What is Cosmopolitan Local and Indigenized Global? Give one course example.
+> How did Netflix India and Hotstar localise differently?
 
-**Answer:** The cosmopolitan local uses local stories and talent within genres designed for globally oriented audiences. A course example is Netflix India compared with Hotstar. Netflix used local stories in globally familiar forms, while Hotstar organised global streaming practices around Indian languages, Bollywood and cricket.
+**Answer:** Netflix used Indian talent and stories in globally familiar premium genres, creating a cosmopolitan local. Hotstar built global streaming technology around Indian languages, Bollywood and cricket, producing an indigenized global service.

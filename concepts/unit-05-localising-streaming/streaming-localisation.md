@@ -45,6 +45,6 @@ The limitation is that adaptation does not erase platform power. Netflix can loc
 
 ## Possible Short Answer
 
-> What is Streaming Localisation? Give one course example.
+> Why is translation alone insufficient for streaming localisation?
 
-**Answer:** Streaming localisation refers to strategies used by platforms to adapt content, pricing, language, genres and business practices to particular markets and audiences. A course example is Netflix India and Hotstar/JioHotstar. Global streaming practices meet powerful local industries, languages, audiences and cricket culture, forcing different forms of adaptation.
+**Answer:** Platforms also adapt pricing, commissioning, genres, interfaces and business partnerships. Hotstar's use of Indian languages, Bollywood and cricket shows localisation across culture and industry, not subtitles alone.

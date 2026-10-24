@@ -41,6 +41,6 @@ Netflix adapted Vikram Chandra's Indian novel through Indian production networks
 
 ## Possible Short Answer
 
-> What is Bollywoodization of Netflix? Give one course example.
+> How did *Sacred Games* show the Bollywoodization of Netflix?
 
-**Answer:** The Bollywoodization of Netflix describes Netflix's increasing dependence on Bollywood stars, directors, production companies, genres and aesthetics when localising in India. A course example is *Sacred Games*. Netflix relied on Bollywood talent, companies and production knowledge while packaging an Indian story for its global service.
+**Answer:** Netflix used Indian stories but also relied on Bollywood actors, directors, companies and production knowledge. Its entry into India therefore depended on an established local industry rather than a purely imported strategy.
