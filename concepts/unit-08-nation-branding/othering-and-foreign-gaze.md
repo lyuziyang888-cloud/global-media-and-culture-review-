@@ -1,46 +1,26 @@
-# Othering and the Foreign Gaze
+# Othering And The Foreign Gaze
 
-**Unit:** Unit 08 Nation Branding
-**Exam priority:** HIGH - memorise and practise applying it
+**Priority:** HIGH
 
-## Definition
+## Definition And Source
 
-Othering separates an imagined "us" from "them." The foreign gaze presents a place and its people according to outside expectations.
+Othering separates an imagined “us” from “them.” Mino (2023, pp. 182-185) argues that nation branding can present local people through affluent foreigners' expectations. The foreign visitor's viewpoint then organises the story.
 
-## What This Concept Explains
+## Mino's Two Strategies
 
-Othering separates an imagined "us" from "them." The foreign gaze presents a place and its people according to outside expectations.
+1. **Adventurous foreigner:** a foreign protagonist explores an exotic but safe destination. Mino's Costa Rica example follows a woman surfing, doing yoga, eating local food and observing local life (pp. 184-185).
+2. **Proud local host:** local people explain, perform or provide what makes the nation special for the newcomer; culture and labour become part of the visitor's experience (pp. 186-188).
 
-## Key Terms
+## Course Evidence
 
-Self, Other, adventurous foreigner, local service, exoticism
-
-## Concrete Course Evidence
-
-- In Mino’s first strategy, an affluent foreign visitor acts as the protagonist who explores an unfamiliar destination.
-- Costa Rica centres a foreign woman experiencing surfing, wellness, food and nature; Honduras makes an Indigenous guide part of a tourist’s adventure.
-- In Mino’s second strategy, local people display culture, labour, products or services to outsiders.
-- Peru links Indigenous farming and textiles to global consumers, while El Salvador presents workers and tourism infrastructure to investors.
-- Qatar’s Couple and Friends videos centre international visitors discovering luxury, desert activities and nightlife.
-- The Family video includes dining, market and tourism-service scenes, but local people receive little narrative control.
-
-## How the Evidence Shows the Concept
-
-Mino identifies visitors who discover exotic places and locals who present culture or labour for foreign consumption. Both strategies can centre the outsider.
-
+Qatar's Couple and Friends videos fit the first strategy because international visitors discover desert activities, luxury and nightlife. The Family video is closer to the second through dining, markets and tourism services, but local people have little narrative control.
 
 ## Exam Use
 
-**Possible long question:** What are Mino's two Othering strategies?
+**Short:** Othering positions local culture as something a foreign visitor discovers or consumes.
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**Long:** Identify who controls the story, what locals are allowed to do, and how the destination is made different but safe for the target audience.
 
-**Do not overclaim:** Nation branding can attract attention, but it may simplify national identity and reproduce foreign expectations. Qatar is outside Mino's original Latin American sample, so the framework is an interpretation rather than proof.
+**Limit:** Mino studied Latin America, not Qatar. This is a reasoned application; evidence for the second strategy is weaker.
 
-**Course basis:** Week 8 lecture and tutorial; Unit 8 evidence map
-
-## Possible Short Answer
-
-> What is Othering and the Foreign Gaze? Give one course example.
-
-**Answer:** Othering separates an imagined "us" from "them." The foreign gaze presents a place and its people according to outside expectations. A course example is Qatar's Family campaign video. Foreign visitors act and discover, while local culture and service become objects of their experience.
+**Source:** Mino (2023), pp. 182-189.

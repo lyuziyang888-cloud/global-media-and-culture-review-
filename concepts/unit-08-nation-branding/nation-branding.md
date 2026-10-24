@@ -1,42 +1,19 @@
 # Nation Branding
 
-**Unit:** Unit 08 Nation Branding
-**Exam priority:** HIGH - memorise and practise applying it
+**Priority:** HIGH
 
-## Definition
+## Definition And Source
 
-Using adapted commercial branding practices to manage a country's reputation for overseas audiences.
+Nation branding applies branding techniques to a country so governments can shape its reputation and attract tourists, investment or demand for exports. Mino (2023, pp. 182-183) treats it critically: campaigns turn contested national cultures into marketable images for affluent, English-speaking foreign audiences.
 
-## What This Concept Explains
+## Mechanism And Evidence
 
-Using adapted commercial branding practices to manage a country's reputation for overseas audiences.
-
-## Key Terms
-
-reputation, national identity, target audience, tourism, investment
-
-## Concrete Course Evidence
-
-- Qatar’s Couple and Friends videos centre international visitors discovering luxury, desert activities and nightlife.
-- The Family video includes dining, market and tourism-service scenes, but local people receive little narrative control.
-
-## How the Evidence Shows the Concept
-
-Nation branding selects images that distinguish a country and may change existing perceptions. This can attract opportunities but cannot represent the whole nation.
-
+A campaign selects places, people and activities, links them to a slogan, and repeats that image for a target audience. Qatar's *Surprise Yourself* campaign organises three videos around a family, a couple and friends. International visitors experience dining, markets, desert activities, nightlife and luxury. It sells Qatar as safe, varied and easy to consume; it does not represent the whole society.
 
 ## Exam Use
 
-**Possible long question:** How does nation branding relate to globalisation?
+**Short:** Nation branding manages a country's external reputation through selected commercial images. Qatar packages culture, adventure and luxury for overseas visitors.
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**Long:** Identify the target audience, the selected images and what is excluded. Judge whether visibility comes at the cost of simplifying national identity.
 
-**Do not overclaim:** Nation branding can attract attention, but it may simplify national identity and reproduce foreign expectations. Qatar is outside Mino's original Latin American sample, so the framework is an interpretation rather than proof.
-
-**Course basis:** Week 8 lecture and tutorial; Unit 8 evidence map
-
-## Possible Short Answer
-
-> What is Nation Branding? Give one course example.
-
-**Answer:** Using adapted commercial branding practices to manage a country's reputation for overseas audiences. A course example is Qatar's *Surprise Yourself* campaign. The campaign centres international visitors and selects attractive images of culture, adventure and luxury for overseas audiences.
+**Sources:** Week 8 lecture/tutorial; Mino (2023), pp. 182-189.
