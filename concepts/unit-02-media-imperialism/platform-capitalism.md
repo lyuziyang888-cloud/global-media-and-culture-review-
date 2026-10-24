@@ -46,6 +46,6 @@ Platforms do not possess unlimited power. Governments can regulate them, users c
 
 ## Possible Short Answer
 
-> What is Platform Capitalism? Give one course example.
+> Why is Facebook not a neutral intermediary?
 
-**Answer:** Platform capitalism is a business system in which privately owned digital platforms mediate interactions, collect user data and convert attention, activity and data into profit. A course example is Facebook. The platform mediates interaction and converts attention, activity and user data into commercial value.
+**Answer:** Facebook owns the environment where users, publishers and advertisers meet. It records activity, ranks content and sells access to audiences, so its rules and profit model shape the interactions it mediates.

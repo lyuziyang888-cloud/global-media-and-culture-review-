@@ -45,6 +45,6 @@ Corporate concentration does not remove national differences. Regulation, langua
 
 ## Possible Short Answer
 
-> What is Transnational Media Corporations? Give one course example.
+> Where does Meta's cross-border power come from?
 
-**Answer:** Transnational media corporations are firms that own, produce or distribute media across national borders and form part of a concentrated global media system. A course example is Meta/Facebook. The company operates across borders and controls infrastructure connecting audiences, advertisers and news producers.
+**Answer:** Meta combines a worldwide user base with central ownership of platform infrastructure, data systems and commercial decisions. Its power comes from controlling several links between audiences, advertisers and publishers.

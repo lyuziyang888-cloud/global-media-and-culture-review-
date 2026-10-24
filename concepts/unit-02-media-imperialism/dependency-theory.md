@@ -41,6 +41,6 @@ The number of users alone does not prove dependency. Dependency appears when loc
 
 ## Possible Short Answer
 
-> What is Dependency Theory? Give one course example.
+> How did Facebook's Australian news block reveal dependency?
 
-**Answer:** Dependency theory argues that capitalist development can reproduce unequal relationships in which developing or postcolonial countries remain economically and structurally dependent on powerful Anglo-European countries. A course example is Facebook and national news organisations. News organisations can depend on foreign platform infrastructure for visibility and audience access.
+**Answer:** Publishers relied on Facebook for audience access but did not control its infrastructure or rules. When Facebook removed news, local organisations lost a distribution route controlled by a foreign company.

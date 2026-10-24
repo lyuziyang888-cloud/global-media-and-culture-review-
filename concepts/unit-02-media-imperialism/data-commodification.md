@@ -46,6 +46,6 @@ Data collection does not make every prediction accurate or every user passive. P
 
 ## Possible Short Answer
 
-> What is Data Commodification? Give one course example.
+> How does Facebook turn user activity into a commodity?
 
-**Answer:** Data commodification is the process of turning users' activities, attention, personal information and data trails into commercial assets. A course example is Facebook advertising data. Users create behavioural data that can be analysed and sold through targeted advertising systems.
+**Answer:** Likes, clicks and viewing behaviour become data used to classify audiences and sell targeted advertising. Communication between users therefore also produces a commercial asset for the platform.

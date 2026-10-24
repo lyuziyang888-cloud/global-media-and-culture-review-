@@ -46,6 +46,6 @@ The case does not establish complete US control. China restricts major US platfo
 
 ## Possible Short Answer
 
-> What is Platform Imperialism? Give one course example.
+> How does platform imperialism differ from exporting American programs?
 
-**Answer:** Platform imperialism is an asymmetrical relationship in which platforms based in dominant countries, especially the United States, control technologies, markets, data and symbolic influence across other countries. A course example is Facebook's Australian news block. Facebook used control over platform infrastructure and audience access to pressure a national media system.
+**Answer:** The platform controls software, data, ranking and market access across countries. Facebook can extract value from locally produced communication without producing every item of content itself.

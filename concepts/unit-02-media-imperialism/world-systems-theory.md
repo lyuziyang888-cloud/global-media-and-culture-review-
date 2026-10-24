@@ -41,6 +41,6 @@ Facebook's users and content producers are distributed globally, but control of 
 
 ## Possible Short Answer
 
-> What is World-Systems Theory? Give one course example.
+> How can Facebook be analysed through core and periphery?
 
-**Answer:** World-systems theory describes a global system divided into core, semi-periphery and periphery positions, where core countries benefit from unequal relationships with less powerful regions. A course example is US platform dominance. Capital, infrastructure and decision-making remain concentrated in core locations while other markets participate on weaker terms.
+**Answer:** Users and content are globally dispersed, but ownership, technical coordination and advertising value remain concentrated in a US corporation. The case shows how activity outside the core can still generate value captured at the core.

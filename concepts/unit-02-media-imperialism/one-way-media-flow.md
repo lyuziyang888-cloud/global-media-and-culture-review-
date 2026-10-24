@@ -42,6 +42,6 @@ The evidence supports an unequal-flow argument because US media possess exceptio
 
 ## Possible Short Answer
 
-> What is One-Way Media Flow? Give one course example.
+> Why is 'one-way flow' no longer an absolute description?
 
-**Answer:** One-way media flow describes an unequal pattern in which information and entertainment move mainly from powerful Western or US centres to the rest of the world rather than through balanced reciprocal exchange. A course example is Hollywood and major Western news agencies. Their production resources and distribution reach historically enabled content to travel outward more easily than media from peripheral regions.
+**Answer:** Hollywood and Western news still have exceptional outward reach, but Korean television, Indian cinema and other contra-flows also enter Western markets. The concept now identifies an imbalance rather than a total absence of reverse flow.

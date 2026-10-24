@@ -49,6 +49,6 @@ Corporate reach does not prove that audiences passively adopt foreign values. Mi
 
 ## Possible Short Answer
 
-> What is Media Imperialism? Give one course example.
+> What made Facebook's Australian news block an example of media imperialism?
 
-**Answer:** Media imperialism is a paradigm for explaining how media from powerful nations or corporations dominate other nations and cultures through unequal ownership, infrastructure, production, distribution and largely one-way flows. A course example is Facebook's Australian news block. Facebook used control over platform infrastructure and audience access to pressure a national media system.
+**Answer:** A US corporation controlled an important route between Australian publishers and audiences and could withdraw it during a regulatory dispute. The power came from ownership of distribution infrastructure, not from one imported media text.
