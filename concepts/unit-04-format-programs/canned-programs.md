@@ -7,9 +7,9 @@
 
 A canned program is produced and broadcast in one territory, then distributed to another territory for rebroadcast as a finished program.
 
-## What This Concept Explains
+## What Is Transferred
 
-A canned program is produced and broadcast in one territory, then distributed to another territory for rebroadcast as a finished program.
+The completed audiovisual text is exported. The importing broadcaster may subtitle or dub it, but it does not reproduce the program with a new local cast and production team. Week 4 lecture slide 5 uses this distinction to separate canned programs from formats.
 
 ## Key Terms
 
@@ -18,25 +18,24 @@ A canned program is produced and broadcast in one territory, then distributed to
 - cross-border distribution
 - limited adaptation
 
-## Concrete Course Evidence
+## Concrete Comparison
 
-- A format production bible supplies schedules, budgets, casting rules and marketing guidance.
-- A flying producer advises the local adaptation, so production knowledge travels with the licence rather than only a finished program.
+An imported episode shown in another country is canned because the same recording travels. By contrast, the Korean or US version of *1 vs 100* is made locally from licensed rules and production knowledge. The relevant question is therefore not whether a program crossed a border, but whether the **finished text** or the **instructions for remaking it** crossed.
 
-## How the Evidence Shows the Concept
+## Industrial Consequence
 
-contrasts with a format program, which is reproduced locally
+Canned export gives the importing market a foreign production. A format licence can count as local content because local workers remake it. Canned programs may be cheaper to acquire, but they provide less opportunity for local production employment and adaptation.
 
 
 ## Exam Use
 
 **Possible long question:** Compare canned programs and format programs.
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**How to answer:** State what crosses the border and whether a new local production is created.
 
 **Do not overclaim:** More diverse format origins do not guarantee equal ownership or revenue because format owners may retain intellectual property and licensing power.
 
-**Course basis:** Week 4 lecture and tutorial; Unit 4 evidence map
+**Course basis:** Week 4 lecture, slides 5-7 and 20-23.
 
 ## Possible Short Answer
 

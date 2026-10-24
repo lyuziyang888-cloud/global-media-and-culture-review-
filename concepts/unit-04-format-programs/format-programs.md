@@ -7,9 +7,9 @@
 
 A format program is a licensed package of program information and production know-how that enables a television concept to be adapted in another market.
 
-## What This Concept Explains
+## What The Licence Transfers
 
-A format program is a licensed package of program information and production know-how that enables a television concept to be adapted in another market.
+A format licence transfers a reproducible concept plus production knowledge. According to Week 4 lecture slides 5-6, the package can include a production bible covering schedules, budgets, target audiences, ratings and marketing, together with advice from a “flying producer.” The buyer receives a tested method rather than only a completed episode.
 
 ## Key Terms
 
@@ -29,20 +29,22 @@ A format program is a licensed package of program information and production kno
 - The South Korean format The Masked Singer had 37 international adaptations, with another 13 reported as forthcoming.
 - A Korean production model therefore travelled outward and was locally remade in many markets.
 
-## How the Evidence Shows the Concept
+## How Adaptation Works
 
-can qualify as local content even when the format is foreign-owned
+The licensor knows which elements make the format recognisable; the licensee knows the home market. In *1 vs 100*, the logo, set, escalating question difficulty and one-versus-mob rule remain stable, while hosts, language, contestants and cultural references change. Moran's “same pie crust, different filling” analogy therefore describes controlled variation rather than unrestricted copying (Week 4 lecture, slides 5 and 13-19).
+
+This reduces risk because broadcasters use an already tested structure. It can also satisfy local-content quotas through local labour and performance. The limitation is ownership: local production does not necessarily give the licensee control of the underlying intellectual property or licensing revenue.
 
 
 ## Exam Use
 
 **Possible long question:** What benefits do format programs offer producers and broadcasters?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**How to answer:** Identify the protected core, the locally changed element, the knowledge supplied by the licensor and who retains the format rights.
 
 **Do not overclaim:** More diverse format origins do not guarantee equal ownership or revenue because format owners may retain intellectual property and licensing power.
 
-**Course basis:** Week 4 lecture and tutorial; Unit 4 evidence map
+**Course basis:** Week 4 lecture, slides 5-19; Week 4 tutorial, slides 7-8; Moran (1998), as cited in the lecture.
 
 ## Possible Short Answer
 

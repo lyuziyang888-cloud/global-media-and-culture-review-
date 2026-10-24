@@ -7,9 +7,9 @@
 
 Non-scripted formats reproduce an adaptable program structure such as a quiz or reality competition, while scripted formats adapt a drama's narrative world, characters and scripts for another market.
 
-## What This Concept Explains
+## Why Their Trade Developed Differently
 
-Non-scripted formats reproduce an adaptable program structure such as a quiz or reality competition, while scripted formats adapt a drama's narrative world, characters and scripts for another market.
+Non-scripted formats offer visible, repeatable rules: a quiz structure, elimination system or competition can be retained while replacing participants and presentation. Scripted drama depends more heavily on dialogue, character relationships, genre conventions and culturally specific storytelling. The Week 4 lecture argues that this made scripted formats harder to reproduce mechanically and weakened the cost-saving advantage of buying a format.
 
 ## Key Terms
 
@@ -22,25 +22,24 @@ Non-scripted formats reproduce an adaptable program structure such as a quiz or 
 
 ## Concrete Course Evidence
 
-- A format production bible supplies schedules, budgets, casting rules and marketing guidance.
-- A flying producer advises the local adaptation, so production knowledge travels with the licence rather than only a finished program.
-- Formats originating in the “rest of the world” increased from 26% in 2004 to 48% in 2014.
-- More diverse origins challenge a simple West-to-rest flow, although ownership and licensing may remain unequal.
+- ***1 vs 100*:** versions retain the one-versus-mob rule, logo and set logic while changing hosts, language and questions.
+- ***The Bridge*:** the Sweden-Denmark crime drama was adapted for UK-France, Malaysia-Singapore and Estonia-Russia. The border premise travels, but locations, institutions, characters and dialogue require substantial rewriting.
+- Hollywood historically preferred selling finished scripted programs because a remake could compete with the original export market (Week 4 lecture, slide 23).
 
-## How the Evidence Shows the Concept
+## Critical Comparison
 
-scripted adaptation raises stronger questions about authorship and creative freedom
+Non-scripted trade expanded earlier because its invariant rules are easier to specify in a production bible. Scripted adaptation requires more creative authorship from the licensee, creating greater cultural sensitivity and conflict over what must remain recognisable. This is a tendency, not a strict division: both types combine standardisation and localisation.
 
 
 ## Exam Use
 
 **Possible long question:** Why did non-scripted formats dominate format trade earlier than scripted formats?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**How to answer:** Compare what cannot change, what must change locally and why those decisions affect cost, risk and authorship.
 
 **Do not overclaim:** More diverse format origins do not guarantee equal ownership or revenue because format owners may retain intellectual property and licensing power.
 
-**Course basis:** Week 4 lecture and tutorial; Unit 4 evidence map
+**Course basis:** Week 4 lecture, slides 14-26; Week 4 tutorial, slides 7-8.
 
 ## Possible Short Answer
 
