@@ -25,15 +25,25 @@ Media circulate stories and symbols that help people imagine national membership
 
 **Why it fits:** The campaign selects national symbols and stories to present a coherent community to outsiders.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How does media help construct a nation?
+### What It Explains
 
-**Exam-ready application:** Qatar nation-branding campaign can be analysed through **Imagined Communities**. The campaign selects national symbols and stories to present a coherent community to outsiders. This evidence shows how **Imagined Communities** operates in practice.
+Members of a nation imagine that they belong to one shared community even though they will never know most other members.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How does media help construct a nation?**
+
+### How the Course Case Shows It
+
+**Qatar nation-branding campaign:** The campaign selects national symbols and stories to present a coherent community to outsiders.
+
+### Argument You Can Make
+
+Media circulate stories and symbols that help people imagine national membership. Nation branding then selects part of this identity for foreign audiences.
+
+### Do Not Overclaim
 
 Nation branding can attract attention, but it may simplify national identity and reproduce foreign expectations. Qatar is outside Mino's original Latin American sample, so the framework is an interpretation rather than proof.
 
@@ -54,7 +64,7 @@ Define **imagined communities**, identify the relevant detail in **Qatar nation-
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

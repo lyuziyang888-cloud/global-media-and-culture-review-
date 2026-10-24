@@ -25,15 +25,25 @@ Nation branding selects images that distinguish a country and may change existin
 
 **Why it fits:** The campaign centres international visitors and selects attractive images of culture, adventure and luxury for overseas audiences.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How does nation branding relate to globalisation?
+### What It Explains
 
-**Exam-ready application:** Qatar's *Surprise Yourself* campaign can be analysed through **Nation Branding**. The campaign centres international visitors and selects attractive images of culture, adventure and luxury for overseas audiences. This evidence shows how **Nation Branding** operates in practice.
+Using adapted commercial branding practices to manage a country's reputation for overseas audiences.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How does nation branding relate to globalisation?**
+
+### How the Course Case Shows It
+
+**Qatar's *Surprise Yourself* campaign:** The campaign centres international visitors and selects attractive images of culture, adventure and luxury for overseas audiences.
+
+### Argument You Can Make
+
+Nation branding selects images that distinguish a country and may change existing perceptions. This can attract opportunities but cannot represent the whole nation.
+
+### Do Not Overclaim
 
 Nation branding can attract attention, but it may simplify national identity and reproduce foreign expectations. Qatar is outside Mino's original Latin American sample, so the framework is an interpretation rather than proof.
 
@@ -54,7 +64,7 @@ Define **nation branding**, identify the relevant detail in **Qatar's *Surprise 
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
