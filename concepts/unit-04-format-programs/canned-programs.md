@@ -31,15 +31,25 @@ A canned program is produced and broadcast in one territory, then distributed to
 
 **Why it fits:** The same completed program travels to another market instead of being remade by local producers.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Compare canned programs and format programs.
+### What It Explains
 
-**Exam-ready application:** An imported finished television program can be analysed through **Canned Programs**. The same completed program travels to another market instead of being remade by local producers. This evidence shows how **Canned Programs** operates in practice.
+A canned program is produced and broadcast in one territory, then distributed to another territory for rebroadcast as a finished program.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Compare canned programs and format programs.**
+
+### How the Course Case Shows It
+
+**An imported finished television program:** The same completed program travels to another market instead of being remade by local producers.
+
+### Argument You Can Make
+
+contrasts with a format program, which is reproduced locally
+
+### Do Not Overclaim
 
 More diverse format origins do not guarantee equal ownership or revenue because format owners may retain intellectual property and licensing power.
 
@@ -60,7 +70,7 @@ Define **canned programs**, identify the relevant detail in **An imported finish
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

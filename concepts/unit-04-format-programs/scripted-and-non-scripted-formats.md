@@ -33,15 +33,25 @@ Non-scripted formats reproduce an adaptable program structure such as a quiz or 
 
 **Why it fits:** Non-scripted formats preserve rules, while scripted formats adapt story, characters and dialogue.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Why did non-scripted formats dominate format trade earlier than scripted formats?
+### What It Explains
 
-**Exam-ready application:** *The Traitors* and scripted remakes can be analysed through **Scripted and Non-Scripted Formats**. Non-scripted formats preserve rules, while scripted formats adapt story, characters and dialogue. This evidence shows how **Scripted and Non-Scripted Formats** operates in practice.
+Non-scripted formats reproduce an adaptable program structure such as a quiz or reality competition, while scripted formats adapt a drama's narrative world, characters and scripts for another market.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Why did non-scripted formats dominate format trade earlier than scripted formats?**
+
+### How the Course Case Shows It
+
+***The Traitors* and scripted remakes:** Non-scripted formats preserve rules, while scripted formats adapt story, characters and dialogue.
+
+### Argument You Can Make
+
+scripted adaptation raises stronger questions about authorship and creative freedom
+
+### Do Not Overclaim
 
 More diverse format origins do not guarantee equal ownership or revenue because format owners may retain intellectual property and licensing power.
 
@@ -62,7 +72,7 @@ Define **scripted and non-scripted formats**, identify the relevant detail in **
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

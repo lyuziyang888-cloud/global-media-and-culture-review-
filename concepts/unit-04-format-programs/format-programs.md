@@ -35,15 +35,25 @@ A format program is a licensed package of program information and production kno
 
 **Why it fits:** National versions preserve licensed rules while changing hosts, contestants, locations and cultural details.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** What benefits do format programs offer producers and broadcasters?
+### What It Explains
 
-**Exam-ready application:** *The Traitors* can be analysed through **Format Programs**. National versions preserve licensed rules while changing hosts, contestants, locations and cultural details. This evidence shows how **Format Programs** operates in practice.
+A format program is a licensed package of program information and production know-how that enables a television concept to be adapted in another market.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **What benefits do format programs offer producers and broadcasters?**
+
+### How the Course Case Shows It
+
+***The Traitors*:** National versions preserve licensed rules while changing hosts, contestants, locations and cultural details.
+
+### Argument You Can Make
+
+can qualify as local content even when the format is foreign-owned
+
+### Do Not Overclaim
 
 More diverse format origins do not guarantee equal ownership or revenue because format owners may retain intellectual property and licensing power.
 
@@ -64,7 +74,7 @@ Define **format programs**, identify the relevant detail in ***The Traitors***, 
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
