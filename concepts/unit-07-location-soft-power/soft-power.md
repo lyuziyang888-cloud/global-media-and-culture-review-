@@ -32,15 +32,25 @@ Soft power is the ability to influence others through attraction rather than coe
 
 **Why it fits:** Budapest attracts foreign productions through locations, incentives, crews and intermediaries while often representing other cities on screen.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How can filming locations generate soft power?
+### What It Explains
 
-**Exam-ready application:** Budapest as a flexible filming location can be analysed through **Soft Power**. Budapest attracts foreign productions through locations, incentives, crews and intermediaries while often representing other cities on screen. This evidence shows how **Soft Power** operates in practice.
+Soft power is the ability to influence others through attraction rather than coercion or payment.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How can filming locations generate soft power?**
+
+### How the Course Case Shows It
+
+**Budapest as a flexible filming location:** Budapest attracts foreign productions through locations, incentives, crews and intermediaries while often representing other cities on screen.
+
+### Argument You Can Make
+
+attraction does not remove political inequality or conflicting interests
+
+### Do Not Overclaim
 
 Media-service production can create investment and expertise, but foreign projects can relocate and may leave local producers dependent or visually erase the location.
 
@@ -61,7 +71,7 @@ Define **soft power**, identify the relevant detail in **Budapest as a flexible 
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

@@ -32,15 +32,25 @@ Place-making is the process through which institutions, industries and media giv
 
 **Why it fits:** Media and industry give each city selective meanings for different audiences and production purposes.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How is place made through media?
+### What It Explains
 
-**Exam-ready application:** Budapest and Brisbane can be analysed through **Place-Making**. Media and industry give each city selective meanings for different audiences and production purposes. This evidence shows how **Place-Making** operates in practice.
+Place-making is the process through which institutions, industries and media give locations particular meanings and identities.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How is place made through media?**
+
+### How the Course Case Shows It
+
+**Budapest and Brisbane:** Media and industry give each city selective meanings for different audiences and production purposes.
+
+### Argument You Can Make
+
+the same city can carry several meanings at once
+
+### Do Not Overclaim
 
 Media-service production can create investment and expertise, but foreign projects can relocate and may leave local producers dependent or visually erase the location.
 
@@ -61,7 +71,7 @@ Define **place-making**, identify the relevant detail in **Budapest and Brisbane
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

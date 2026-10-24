@@ -32,15 +32,25 @@ A media-service industry provides locations, labour, facilities and production s
 
 **Why it fits:** Local crews and facilities service externally controlled projects, creating work alongside dependency.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Are runaway productions exploitative?
+### What It Explains
 
-**Exam-ready application:** Foreign productions filmed in Budapest can be analysed through **Media-Service Industry**. Local crews and facilities service externally controlled projects, creating work alongside dependency. This evidence shows how **Media-Service Industry** operates in practice.
+A media-service industry provides locations, labour, facilities and production support for projects controlled or financed by outside companies.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Are runaway productions exploitative?**
+
+### How the Course Case Shows It
+
+**Foreign productions filmed in Budapest:** Local crews and facilities service externally controlled projects, creating work alongside dependency.
+
+### Argument You Can Make
+
+outcomes vary: Hungary has relatively durable service work, while other locations may experience precarity or weaker domestic production
+
+### Do Not Overclaim
 
 Media-service production can create investment and expertise, but foreign projects can relocate and may leave local producers dependent or visually erase the location.
 
@@ -61,7 +71,7 @@ Define **media-service industry**, identify the relevant detail in **Foreign pro
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
