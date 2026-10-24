@@ -7,9 +7,9 @@
 
 Transnational media corporations are firms that own, produce or distribute media across national borders and form part of a concentrated global media system.
 
-## What This Concept Explains
+## How They Exercise Power
 
-Transnational media corporations are firms that own, produce or distribute media across national borders and form part of a concentrated global media system.
+These corporations combine operations in multiple countries with central ownership and strategic coordination. Their scale allows them to spread production costs across markets, negotiate distribution from a stronger position, acquire competitors and circulate the same intellectual property through several media businesses. Their power comes from control across the production and distribution chain, not merely from having overseas customers.
 
 ## Key Terms
 
@@ -27,7 +27,11 @@ Transnational media corporations are firms that own, produce or distribute media
 
 ## How the Evidence Shows the Concept
 
-TNCs update media imperialism by shifting attention from national media systems to a global oligopoly of corporations.
+Meta operates services used in many countries while ownership of the platform, technical architecture and major commercial decisions remains corporate and centralised. Local users and publishers produce much of what circulates, but Meta controls the infrastructure that connects them to audiences and advertisers. This makes it a transnational corporate actor rather than simply an exporter of American content.
+
+## Limitation
+
+Corporate concentration does not remove national differences. Regulation, language, local competitors and audience preferences shape how a corporation can operate. Analysis should therefore identify the precise asset it controls and the constraints it faces in the selected country.
 
 
 ## Exam Use

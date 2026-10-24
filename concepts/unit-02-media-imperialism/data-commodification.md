@@ -7,9 +7,9 @@
 
 Data commodification is the process of turning users' activities, attention, personal information and data trails into commercial assets.
 
-## What This Concept Explains
+## How It Works
 
-Data commodification is the process of turning users' activities, attention, personal information and data trails into commercial assets.
+The platform records actions such as clicks, likes, searches, viewing time and social connections. It sorts these traces into predictions or audience categories that advertisers can purchase access to. The commodity is therefore not simply a person's name: it is the platform's capacity to classify, predict and target groups of users.
 
 ## Key Terms
 
@@ -28,7 +28,11 @@ Data commodification is the process of turning users' activities, attention, per
 
 ## How the Evidence Shows the Concept
 
-The same data infrastructure can support political persuasion and surveillance.
+Facebook users supply both content and behavioural signals while communicating. Facebook aggregates those signals and sells advertisers targeted access to particular audiences. Activity that has social meaning for the user consequently becomes an input into a revenue-generating system owned by the platform.
+
+## Limitation
+
+Data collection does not make every prediction accurate or every user passive. Privacy law, tracking restrictions and user practices can limit extraction. The concept concerns the commercial transformation of data, not proof that targeting always changes behaviour.
 
 
 ## Exam Use

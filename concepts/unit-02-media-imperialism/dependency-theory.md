@@ -7,9 +7,9 @@
 
 Dependency theory argues that capitalist development can reproduce unequal relationships in which developing or postcolonial countries remain economically and structurally dependent on powerful Anglo-European countries.
 
-## What This Concept Explains
+## How It Works
 
-Dependency theory argues that capitalist development can reproduce unequal relationships in which developing or postcolonial countries remain economically and structurally dependent on powerful Anglo-European countries.
+Dependency is reproduced when peripheral industries must obtain capital, technology, advertising systems or distribution from firms located in dominant economies. Participation in the global market may therefore deepen reliance instead of producing independent development: local organisations operate, but important conditions of operation are set elsewhere.
 
 ## Key Terms
 
@@ -22,12 +22,12 @@ Dependency theory argues that capitalist development can reproduce unequal relat
 
 ## Concrete Course Evidence
 
-- Jin reports that Facebook was the leading social network in 152 of 167 analysed countries in January 2018.
-- This worldwide user base was organised through infrastructure and corporate decision-making centred in a US company.
+- News organisations can reach large audiences through Facebook but depend on its ranking, access and advertising infrastructure.
+- Facebook was the leading social network in 152 of 167 countries analysed in January 2018, while ownership and major corporate decisions remained centred in a US company.
 
 ## How the Evidence Shows the Concept
 
-Dependency theory supplies part of the historical explanation for media imperialism: unequal media flows are connected to wider political and economic relationships, not simply audience preferences.
+The number of users alone does not prove dependency. Dependency appears when local organisations cannot obtain comparable reach without the foreign platform and have limited power over its rules. Facebook's Australian news block exposed that reliance because publishers lost a distribution route when the platform withdrew news.
 
 
 ## Exam Use

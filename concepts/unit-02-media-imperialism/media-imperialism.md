@@ -7,9 +7,9 @@
 
 Media imperialism is a paradigm for explaining how media from powerful nations or corporations dominate other nations and cultures through unequal ownership, infrastructure, production, distribution and largely one-way flows.
 
-## What This Concept Explains
+## How It Works
 
-Media imperialism is a paradigm for explaining how media from powerful nations or corporations dominate other nations and cultures through unequal ownership, infrastructure, production, distribution and largely one-way flows.
+Mirrlees connects media imperialism to the unequal organisation of the world economy. Corporations based in powerful states possess more finance, production resources and distribution access, so their media can enter weaker markets more easily than media from those markets can travel in return. The inequality is therefore built into ownership and circulation before audiences interpret the content.
 
 ## Key Terms
 
@@ -28,16 +28,20 @@ Media imperialism is a paradigm for explaining how media from powerful nations o
 - Facebook temporarily blocked Australian news content during conflict over the News Media Bargaining Code.
 - The action showed that a foreign platform could use control of audience access to pressure a national news system.
 
-## How the Evidence Shows the Concept
+## How the Case Demonstrates It
 
-Media imperialism is narrower than cultural imperialism because it focuses on the role and power of media.
+Facebook's 2021 Australian news block was not merely a disagreement about content. Facebook controlled a major route between news organisations and audiences and temporarily withdrew that route while resisting regulation. A corporation headquartered outside Australia could therefore place pressure on Australian publishers and government through privately owned distribution infrastructure. This updates the older model of foreign television imports: power now also operates through platforms that organise visibility and access.
+
+## Limitation
+
+Corporate reach does not prove that audiences passively adopt foreign values. Mirrlees notes that national industries, state regulation, multidirectional flows and culturally specific audience preferences complicate a simple domination model. Media imperialism is strongest for analysing structural power, not predicting identical cultural effects.
 
 
 ## Exam Use
 
 **Possible long question:** How is platform imperialism different from traditional media imperialism?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**How to answer:** Identify the unequal resource or route, name who controls it, show what that control allows the actor to do, and then distinguish structural power from audience response.
 
 **Do not overclaim:** Corporate reach does not prove identical audience responses. Local industries, regulation and user practices can limit platform power.
 

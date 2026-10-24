@@ -7,9 +7,9 @@
 
 World-systems theory describes a global system divided into core, semi-periphery and periphery positions, where core countries benefit from unequal relationships with less powerful regions.
 
-## What This Concept Explains
+## How It Works
 
-World-systems theory describes a global system divided into core, semi-periphery and periphery positions, where core countries benefit from unequal relationships with less powerful regions.
+The categories describe functions within an unequal system, not permanent labels for particular cultures. Core locations concentrate capital, ownership and high-value decision-making. Peripheral locations are more likely to supply markets, labour or resources, while semi-peripheral locations combine dependent and competitive roles. Value can therefore move toward the core even when production or consumption is geographically dispersed.
 
 ## Key Terms
 
@@ -27,7 +27,7 @@ World-systems theory describes a global system divided into core, semi-periphery
 
 ## How the Evidence Shows the Concept
 
-The framework helps explain why global media circulation can be extensive while still being structurally unequal.
+Facebook's users and content producers are distributed globally, but control of the platform, data infrastructure and advertising system is concentrated in a US corporation. The case illustrates a core function: coordinating global activity and capturing value from it. It does not mean every non-US country is simply peripheral; strong regional industries and state regulation can alter their bargaining position.
 
 
 ## Exam Use

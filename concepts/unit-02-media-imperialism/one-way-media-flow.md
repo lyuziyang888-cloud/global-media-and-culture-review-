@@ -7,9 +7,9 @@
 
 One-way media flow describes an unequal pattern in which information and entertainment move mainly from powerful Western or US centres to the rest of the world rather than through balanced reciprocal exchange.
 
-## What This Concept Explains
+## How It Works
 
-One-way media flow describes an unequal pattern in which information and entertainment move mainly from powerful Western or US centres to the rest of the world rather than through balanced reciprocal exchange.
+When production finance and distribution networks are concentrated in a small number of centres, their films, television programs and news reach many importing markets. Producers in those markets face weaker access in the opposite direction. The concept concerns the direction and scale of circulation; it is not simply a claim that foreign audiences believe everything they watch.
 
 ## Key Terms
 
@@ -22,14 +22,13 @@ One-way media flow describes an unequal pattern in which information and enterta
 
 ## Concrete Course Evidence
 
-- Jin reports that Facebook was the leading social network in 152 of 167 analysed countries in January 2018.
-- This worldwide user base was organised through infrastructure and corporate decision-making centred in a US company.
-- The lecture describes cooperation between Hollywood producers and the US military as “militainment”.
-- This links commercial media production with US geopolitical and ideological interests.
+- Hollywood's production budgets and international distribution historically allowed US entertainment to travel outward on a much larger scale than most imported industries could enter the United States.
+- Cooperation between Hollywood and the US military, described in the lecture as “militainment,” can combine commercial circulation with favourable access to military equipment and imagery.
+- Mirrlees also records the limitation: regional media capitals, diaspora markets and contra-flows now move content from East to West and South to North.
 
 ## How the Evidence Shows the Concept
 
-One-way flow is a central mechanism in classic media imperialism. It turns the abstract claim of domination into a question about who sends, who receives and who controls the routes.
+The evidence supports an unequal-flow argument because US media possess exceptional outward reach. However, Korean television, Indian cinema and other contra-flows mean “one-way” should describe a continuing imbalance, not an absolute absence of reverse circulation.
 
 
 ## Exam Use
