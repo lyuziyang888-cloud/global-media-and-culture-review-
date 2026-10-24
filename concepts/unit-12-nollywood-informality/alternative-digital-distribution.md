@@ -12,7 +12,17 @@ Rural market stalls transferred low-cost films directly to phones. iROKOtv teste
 
 ## Exam Use
 
-**Possible short question:** How does Nollywood challenge the idea that digital distribution means streaming?
+## Official PPT Exam Practice
+
+The Week 12 tutorial, slide 4, asks:
+
+> How does Nollywood offer an alternative understanding of digital distribution compared with dominant Global North models? Include the role of marketers.
+
+Contrast continuous streaming with Bluetooth, USB, stalls and offline transfer; explain why these routes fit local infrastructure; include marketers' financing and distribution power; then give one benefit and one problem.
+
+## Derived Short-Answer Practice
+
+> How does Nollywood challenge the idea that digital distribution means streaming?
 
 **Answer:** Films moved through Bluetooth, FlashShare, USB, kiosks and low-data sharing. The files were digital even when they did not travel through continuous internet streaming.
 

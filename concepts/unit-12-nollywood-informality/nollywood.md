@@ -12,7 +12,9 @@ Open-air markets and physical copies remained central to domestic circulation. M
 
 ## Exam Use
 
-**Possible short question:** Why is Nollywood important to global media study?
+## Derived Short-Answer Practice
+
+> Why is Nollywood important to global media study?
 
 **Answer:** It became a large industry through locally adapted production, marketers and physical distribution rather than copying the Hollywood cinema model. It demonstrates that media capacity can develop through a different industrial system.
 

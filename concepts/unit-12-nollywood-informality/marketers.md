@@ -12,7 +12,9 @@ Filmmakers needed marketers' physical networks to reach domestic audiences. Beca
 
 ## Exam Use
 
-**Possible short question:** How did marketers influence what Nollywood produced?
+## Derived Short-Answer Practice
+
+> How did marketers influence what Nollywood produced?
 
 **Answer:** They controlled physical market access and could finance films or act as executive producers. Their distribution power therefore affected which projects were made and how revenue was reported.
 

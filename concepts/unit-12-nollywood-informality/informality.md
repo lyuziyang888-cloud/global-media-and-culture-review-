@@ -12,7 +12,9 @@ Nollywood films circulated through open-air markets, physical copying and low-co
 
 ## Exam Use
 
-**Possible short question:** Is informality only a weakness in Nollywood?
+## Derived Short-Answer Practice
+
+> Is informality only a weakness in Nollywood?
 
 **Answer:** No. Informal networks reached audiences despite expensive data and unreliable infrastructure. They also made sales and rights harder to track, so informality created access and vulnerability at the same time.
 
