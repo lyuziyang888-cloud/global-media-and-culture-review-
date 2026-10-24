@@ -7,9 +7,9 @@
 
 A media-service industry provides locations, labour, facilities and production support for projects controlled or financed by outside companies.
 
-## What This Concept Explains
+## Industrial Structure
 
-A media-service industry provides locations, labour, facilities and production support for projects controlled or financed by outside companies.
+A service industry earns work by supplying crews, studios, locations, logistics and post-production to externally controlled projects. Skills and infrastructure remain local, while commissioning, intellectual property and distribution may remain abroad. Havens and Imre therefore distinguish production activity in Hungary from Hungarian ownership of the finished media.
 
 ## Key Terms
 
@@ -25,16 +25,16 @@ A media-service industry provides locations, labour, facilities and production s
 - A 30% rebate, studios, varied locations and skilled crews support Budapest’s film-friendly reputation.
 - Budapest frequently represents other European cities, so the location can gain industrial value while disappearing from the finished story.
 
-## How the Evidence Shows the Concept
+## Budapest Evidence
 
-outcomes vary: Hungary has relatively durable service work, while other locations may experience precarity or weaker domestic production
+The 30% rebate, experienced crews and studio infrastructure make repeated foreign production possible. *The Day of the Jackal* used Hungary for most production and Budapest represented several European cities. This creates spending, employment and experience, but the city's ability to disappear as somewhere else also means international viewers may never recognise the Hungarian contribution. Mobile productions can relocate if costs or incentives change.
 
 
 ## Exam Use
 
 **Possible long question:** Are runaway productions exploitative?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**How to answer:** Separate locally retained work and capability from externally retained story ownership and distribution.
 
 **Do not overclaim:** Media-service production can create investment and expertise, but foreign projects can relocate and may leave local producers dependent or visually erase the location.
 

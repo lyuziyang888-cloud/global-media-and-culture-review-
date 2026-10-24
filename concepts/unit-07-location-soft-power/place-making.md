@@ -7,9 +7,9 @@
 
 Place-making is the process through which institutions, industries and media give locations particular meanings and identities.
 
-## What This Concept Explains
+## Mechanism
 
-Place-making is the process through which institutions, industries and media give locations particular meanings and identities.
+Havens and Imre treat place as produced through selection and use. Governments, tourism bodies, service companies, fixers and screen texts choose particular buildings, histories and social qualities for particular audiences. The same physical city can consequently carry several industrial and cultural identities.
 
 ## Key Terms
 
@@ -24,16 +24,16 @@ Place-making is the process through which institutions, industries and media giv
 - Tourism promotion presents Brisbane as a leisure destination; Ausfilm presents it as production infrastructure.
 - Boy Swallows Universe instead depicts a socially specific 1980s Brisbane, showing that different media construct different versions of the same place.
 
-## How the Evidence Shows the Concept
+## Comparative Evidence
 
-the same city can carry several meanings at once
+Visit Brisbane selects food, leisure and accessible precincts for tourists. Ausfilm selects infrastructure, locations and production readiness for foreign producers. *Boy Swallows Universe* instead ties Brisbane to 1980s suburbs, class, migration and memory, so Brisbane is part of the narrative rather than an interchangeable backdrop. The comparison identifies who constructs the place, for whom and what each version omits.
 
 
 ## Exam Use
 
 **Possible long question:** How is place made through media?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**How to answer:** Name the place-maker, target audience, selected image and excluded features, then judge whether the location represents itself or stands in for somewhere else.
 
 **Do not overclaim:** Media-service production can create investment and expertise, but foreign projects can relocate and may leave local producers dependent or visually erase the location.
 
