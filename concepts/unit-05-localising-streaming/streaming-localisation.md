@@ -7,9 +7,9 @@
 
 Streaming localisation refers to strategies used by platforms to adapt content, pricing, language, genres and business practices to particular markets and audiences.
 
-## What This Concept Explains
+## Mechanism
 
-Streaming localisation refers to strategies used by platforms to adapt content, pricing, language, genres and business practices to particular markets and audiences.
+Localisation changes the service's market offer rather than merely translating dialogue. A platform may alter price, payment, interface language, commissioning, genre, partnerships and promotional strategy. The India case shows why: one national market contains multiple languages, regional cinemas, established stars, cricket audiences and strong competitors.
 
 ## Key Terms
 
@@ -26,20 +26,22 @@ Streaming localisation refers to strategies used by platforms to adapt content, 
 - The reading reported about 25 million Hotstar subscribers in India compared with 4.6 million for Netflix.
 - Global scale therefore did not automatically give Netflix dominance in the Indian market.
 
-## How the Evidence Shows the Concept
+## Comparison
 
-localisation strategies vary according to market power and cultural diversity
+Netflix initially targeted a narrower cosmopolitan segment and used Bollywood-linked prestige originals. Hotstar placed IPL cricket, Bollywood and regional-language programming at the centre of a mass-market service. Their different strategies reflect different assets and intended audiences. Localisation is therefore not one checklist applied identically by every platform.
+
+The limitation is that adaptation does not erase platform power. Netflix can localise while retaining control of commissioning, subscriber data and international distribution. A complete answer must examine both adaptation and ownership.
 
 
 ## Exam Use
 
 **Possible long question:** Why do streaming platforms localise?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**How to answer:** Identify the market obstacle, the precise business or content change and the form of control that remains with the platform.
 
 **Do not overclaim:** Local adaptation and competition constrain global platforms, but they do not remove their financial, technological and distribution advantages.
 
-**Course basis:** Week 5 lecture and tutorial; Unit 5 evidence map
+**Course basis:** Punathambekar and Mohan; Week 5 lecture and tutorial.
 
 ## Possible Short Answer
 

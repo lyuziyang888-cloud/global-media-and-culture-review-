@@ -7,9 +7,9 @@
 
 The cosmopolitan local uses local stories and talent within genres designed for globally oriented audiences. The indigenized global adapts global industrial practices around the priorities of a specific local market and its audiences.
 
-## What This Concept Explains
+## Difference Between The Strategies
 
-The cosmopolitan local uses local stories and talent within genres designed for globally oriented audiences.
+The **cosmopolitan local** packages selected local culture for urban, affluent and globally oriented viewers. The **indigenized global** starts with global platform technology but organises the service around mass local institutions and habits. Punathambekar and Mohan use the contrast to show two different routes between local and global rather than two levels of the same strategy.
 
 ## Key Terms
 
@@ -27,20 +27,20 @@ The cosmopolitan local uses local stories and talent within genres designed for 
 - Hotstar organised its service around the IPL, Bollywood and Indian-language programming.
 - The IPL attracted domestic, diasporic and transnational audiences; the reading reports more than 700 million worldwide viewers in 2018.
 
-## How the Evidence Shows the Concept
+## Netflix And Hotstar
 
-comparing them shows how platforms negotiate different market conditions
+Netflix initially used premium pricing and productions such as *Sacred Games*, combining an Indian story and Bollywood talent with a globally familiar prestige-crime frame. Hotstar built broader Indian appeal through the IPL, Bollywood and regional-language programming. The reading's reported 2018 IPL audience of more than 700 million demonstrates how a locally central institution can generate transnational and diasporic reach. Netflix localised a global service; Hotstar globalised a service built around Indian priorities.
 
 
 ## Exam Use
 
 **Possible long question:** Compare cosmopolitan-local and indigenized-global strategies.
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**How to answer:** Compare target audience, content anchor and direction of adaptation; do not reduce the distinction to “foreign versus Indian.”
 
 **Do not overclaim:** Local adaptation and competition constrain global platforms, but they do not remove their financial, technological and distribution advantages.
 
-**Course basis:** Week 5 lecture and tutorial; Unit 5 evidence map
+**Course basis:** Punathambekar and Mohan; Week 5 lecture, slides 12-17.
 
 ## Possible Short Answer
 
