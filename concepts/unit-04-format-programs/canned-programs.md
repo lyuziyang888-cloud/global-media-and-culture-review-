@@ -39,6 +39,6 @@ Canned export gives the importing market a foreign production. A format licence 
 
 ## Possible Short Answer
 
-> What is Canned Programs? Give one course example.
+> What is the main difference between a canned program and a format?
 
-**Answer:** A canned program is produced and broadcast in one territory, then distributed to another territory for rebroadcast as a finished program. A course example is An imported finished television program. The same completed program travels to another market instead of being remade by local producers.
+**Answer:** A canned program crosses borders as a finished episode or series. A format sells the production blueprint so local producers remake the program with new hosts, performers or cultural details.

@@ -43,6 +43,6 @@ Non-scripted trade expanded earlier because its invariant rules are easier to sp
 
 ## Possible Short Answer
 
-> What is Scripted and Non-Scripted Formats? Give one course example.
+> Why are non-scripted formats often easier to adapt than scripted formats?
 
-**Answer:** Non-scripted formats reproduce an adaptable program structure such as a quiz or reality competition, while scripted formats adapt a drama's narrative world, characters and scripts for another market. A course example is *The Traitors* and scripted remakes. Non-scripted formats preserve rules, while scripted formats adapt story, characters and dialogue.
+**Answer:** A competition can preserve rules while replacing contestants, hosts and locations. A drama requires characters, dialogue and social relationships to be rewritten without losing the narrative structure.

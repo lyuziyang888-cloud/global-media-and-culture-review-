@@ -48,6 +48,6 @@ This reduces risk because broadcasters use an already tested structure. It can a
 
 ## Possible Short Answer
 
-> What is Format Programs? Give one course example.
+> Why would a broadcaster buy *The Traitors* format?
 
-**Answer:** A format program is a licensed package of program information and production know-how that enables a television concept to be adapted in another market. A course example is *The Traitors*. National versions preserve licensed rules while changing hosts, contestants, locations and cultural details.
+**Answer:** The licensed rules, brand and production knowledge reduce development risk, while local casting and presentation can suit the national audience. The buyer receives both a tested concept and room for adaptation.
