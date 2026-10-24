@@ -3,11 +3,11 @@
 **Unit:** Unit 7: Location as Soft Power
 **Exam priority:** HIGH - memorise and practise applying it
 
-## Memorise This
+## Definition
 
 Soft power is the ability to influence others through attraction rather than coercion or payment.
 
-## Definition
+## What This Concept Explains
 
 Soft power is the ability to influence others through attraction rather than coercion or payment.
 
@@ -19,70 +19,29 @@ Soft power is the ability to influence others through attraction rather than coe
 - diplomacy
 - image
 
-## Key Points
+## Concrete Course Evidence
 
-- soft power differs from military or economic coercion
-- it is subtler than direct propaganda
-- governments, media content and production relationships can all create attraction
-- attraction does not remove political inequality or conflicting interests
+- Foreign production investment in Hungary grew nearly 500% from 2018 to 2024 and reached almost US$1 billion per year.
+- A 30% rebate, studios, varied locations and skilled crews support Budapest’s film-friendly reputation.
+- Budapest frequently represents other European cities, so the location can gain industrial value while disappearing from the finished story.
 
-## PPT Case
-
-**Case:** Budapest as a flexible filming location
-
-**Why it fits:** Budapest attracts foreign productions through locations, incentives, crews and intermediaries while often representing other cities on screen.
-
-## How to Use This Concept
-
-### What It Explains
-
-Soft power is the ability to influence others through attraction rather than coercion or payment.
-
-### When to Use It
-
-Use it when a question asks: **How can filming locations generate soft power?**
-
-### How the Course Case Shows It
-
-**Budapest as a flexible filming location:** Budapest attracts foreign productions through locations, incentives, crews and intermediaries while often representing other cities on screen.
-
-### Argument You Can Make
+## How the Evidence Shows the Concept
 
 attraction does not remove political inequality or conflicting interests
 
-### Do Not Overclaim
 
-Media-service production can create investment and expertise, but foreign projects can relocate and may leave local producers dependent or visually erase the location.
+## Exam Use
+
+**Possible long question:** How can filming locations generate soft power?
+
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+
+**Do not overclaim:** Media-service production can create investment and expertise, but foreign projects can relocate and may leave local producers dependent or visually erase the location.
 
 **Course basis:** Week 7 lecture and tutorial; Havens and Imre, pp. 25-41
-
-## Possible Long-Answer Question
-
-> How can filming locations generate soft power?
-
-### Long-Answer Plan
-
-Define **soft power**, identify the relevant detail in **Budapest as a flexible filming location**, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **Soft Power** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is Soft Power? Give one course example.
 
 **Answer:** Soft power is the ability to influence others through attraction rather than coercion or payment. A course example is Budapest as a flexible filming location. Budapest attracts foreign productions through locations, incentives, crews and intermediaries while often representing other cities on screen.
-
-
-## Other Possible Questions
-
-- What is soft power?
-- How can filming locations generate soft power?
-- How does the Budapest case extend traditional soft-power theory?

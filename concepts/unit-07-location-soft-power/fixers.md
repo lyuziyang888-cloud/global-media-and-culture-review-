@@ -3,13 +3,13 @@
 **Unit:** Unit 7: Location as Soft Power
 **Exam priority:** CORE - know the definition and one case
 
-## Memorise This
-
-Fixers are industry intermediaries who connect foreign producers with government agencies, local workers and other stakeholders.
-
 ## Definition
 
 Fixers are industry intermediaries who connect foreign producers with government agencies, local workers and other stakeholders. Some may also work in or with official institutions.
+
+## What This Concept Explains
+
+Fixers are industry intermediaries who connect foreign producers with government agencies, local workers and other stakeholders.
 
 ## Key Terms
 
@@ -19,70 +19,28 @@ Fixers are industry intermediaries who connect foreign producers with government
 - reassurance
 - cultural diplomacy
 
-## Key Points
+## Concrete Course Evidence
 
-- fixers turn national images into practical production locations
-- they reassure companies and manage local relationships
-- their everyday work can contribute to cultural diplomacy
-- they do not simply repeat the government's preferred national image
+- Government agencies promote Hungary, while local fixers connect foreign producers with officials, crews and suppliers.
+- These routine professional relationships turn a national image into workable production access.
 
-## PPT Case
-
-**Case:** Budapest production fixers
-
-**Why it fits:** They translate expectations, connect stakeholders and turn an attractive national image into workable production relationships.
-
-## How to Use This Concept
-
-### What It Explains
-
-Fixers are industry intermediaries who connect foreign producers with government agencies, local workers and other stakeholders.
-
-### When to Use It
-
-Use it when a question asks: **What role do fixers play in Budapest's film industry?**
-
-### How the Course Case Shows It
-
-**Budapest production fixers:** They translate expectations, connect stakeholders and turn an attractive national image into workable production relationships.
-
-### Argument You Can Make
+## How the Evidence Shows the Concept
 
 they do not simply repeat the government's preferred national image
 
-### Do Not Overclaim
 
-Media-service production can create investment and expertise, but foreign projects can relocate and may leave local producers dependent or visually erase the location.
+## Exam Use
+
+**Possible long question:** What role do fixers play in Budapest's film industry?
+
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+
+**Do not overclaim:** Media-service production can create investment and expertise, but foreign projects can relocate and may leave local producers dependent or visually erase the location.
 
 **Course basis:** Week 7 lecture and tutorial; Havens and Imre, pp. 25-41
-
-## Possible Long-Answer Question
-
-> What role do fixers play in Budapest's film industry?
-
-### Long-Answer Plan
-
-Define **fixers**, identify the relevant detail in **Budapest production fixers**, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **Fixers** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is Fixers? Give one course example.
 
 **Answer:** Fixers are industry intermediaries who connect foreign producers with government agencies, local workers and other stakeholders. A course example is Budapest production fixers. They translate expectations, connect stakeholders and turn an attractive national image into workable production relationships.
-
-
-## Other Possible Questions
-
-- What role do fixers play in Budapest's film industry?
-- How do fixers differ from government agencies?
-- How can intermediaries contribute to soft power?
