@@ -43,7 +43,7 @@ The categories are not automatic stages of development. A company may use severa
 
 If a company completes animation for a foreign studio but does not own the characters or distribution rights, it fits de-territorialisation: work has moved, but control has not. If the same company later develops its own intellectual property, trains workers across repeated projects and works within a cluster of local suppliers and distributors, it begins to show a cultural/industrial milieu. Keane's framework therefore evaluates not only whether media crosses borders, but also what productive resources remain in the local industry after circulation occurs.
 
-## Short Answer
+## Lecture-Based Practice
 
 **Question:** What is the difference between niche breakthrough and a cultural/industrial milieu?
 

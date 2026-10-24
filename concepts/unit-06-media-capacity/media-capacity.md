@@ -28,7 +28,7 @@ Keane does not claim that entry into the global economy automatically removes de
 
 A producer has stronger media capacity when it can use locally retained skills, facilities and rights to make another project after an international partnership ends. Export sales alone show circulation. Outsourced employment shows participation. Repeatable local production, control of intellectual property and the ability to negotiate distribution show deeper capacity.
 
-## Short Answer
+## Lecture-Based Practice
 
 **Question:** Why is one global hit insufficient evidence of media capacity?
 

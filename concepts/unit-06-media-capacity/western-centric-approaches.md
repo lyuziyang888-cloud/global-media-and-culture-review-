@@ -27,7 +27,7 @@ Keane's position is not that Western dominance has disappeared. His argument is 
 
 A Western-centric reading of an Asian co-production may describe it only as expansion by a Western company. Keane's approach also investigates whether local workers gain reusable expertise, whether local firms acquire rights and whether the partnership strengthens a production cluster. If ownership stays abroad, dependency remains significant. If knowledge and productive resources are retained locally, the relationship can also increase local capacity.
 
-## Short Answer
+## Lecture-Based Practice
 
 **Question:** What does a Western-centric approach overlook?
 
