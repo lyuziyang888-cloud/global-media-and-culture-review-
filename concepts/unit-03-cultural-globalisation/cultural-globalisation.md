@@ -44,7 +44,17 @@ Mirrlees (2013, Chapter 1) presents cultural globalisation as a challenge to acc
 
 **Course basis:** Mirrlees (2013), Chapter 1; Week 3 lecture, slides 5-20; Week 3 tutorial.
 
-## Possible Short Answer
+## Official PPT Exam Practice
+
+The Week 3 tutorial, slide 4, explicitly asks:
+
+1. **What is cultural globalisation?**
+2. **Why is cultural globalisation important to studying global media?**
+3. **What is an example of cultural globalisation?**
+
+Answer in that order: definition, value, then a precise example such as *Jane the Virgin*. These are official PPT prompts.
+
+## Derived Short-Answer Practice
 
 > What does cultural globalisation explain that media imperialism can miss?
 

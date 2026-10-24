@@ -41,7 +41,7 @@ Neither side is inactive. Local industries shape the content and market strategy
 
 **Course basis:** Mirrlees (2013), Chapter 1, discussion of Straubhaar; Week 3 lecture, slides 9-12.
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > Can global platforms and local producers depend on each other unequally?
 

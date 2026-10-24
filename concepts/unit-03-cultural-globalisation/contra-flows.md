@@ -42,7 +42,7 @@ The Venezuelan origin of *Juana la virgen* matters because later US, European an
 
 **Course basis:** Mirrlees (2013), Chapter 1; Week 3 lecture, slides 13-14; Week 3 tutorial.
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > How do Chinese microdramas challenge one-way media flow?
 

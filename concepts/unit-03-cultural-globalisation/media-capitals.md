@@ -42,7 +42,7 @@ Multiple media capitals complicate a single US-centred map, but their existence 
 
 **Course basis:** Mirrlees (2013), Chapter 1; Week 3 lecture, slide 15.
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > What makes Seoul or Mumbai a media capital rather than only a production location?
 

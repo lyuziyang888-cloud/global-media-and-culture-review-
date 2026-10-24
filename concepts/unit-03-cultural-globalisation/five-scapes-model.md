@@ -39,7 +39,7 @@ Mirrlees warns that strong cultural-globalisation theories can become abstract a
 
 **Course basis:** Mirrlees (2013), Chapter 1; Week 3 lecture, slides 7-8 and 17.
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > Why does Appadurai use five separate 'scapes'?
 

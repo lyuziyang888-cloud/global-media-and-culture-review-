@@ -41,7 +41,7 @@ Domestic and regional media can compete with US imports because audiences recogn
 
 **Course basis:** Mirrlees (2013), Chapter 1; Week 3 lecture, slides 9-12. Turkish-drama evidence is developed in Week 10.
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > Why might Spanish viewers choose Turkish dramas?
 
