@@ -35,15 +35,25 @@ Globalisation refers to the increasing interconnectedness of people, economies, 
 
 **Why it fits:** The examples combine local creators, stories or locations with cross-border platform distribution.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Explain the relationship between globalisation and local culture.
+### What It Explains
 
-**Exam-ready application:** *North of North* and *Heated Rivalry* can be analysed through **Globalisation**. The examples combine local creators, stories or locations with cross-border platform distribution. This evidence shows how **Globalisation** operates in practice.
+Globalisation is the growing connection and movement of media and culture across national borders.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Explain the relationship between globalisation and local culture.**
+
+### How the Course Case Shows It
+
+***North of North* and *Heated Rivalry*:** The examples combine local creators, stories or locations with cross-border platform distribution.
+
+### Argument You Can Make
+
+Globalisation is important because it explains how media industries, audiences and cultures are connected beyond one nation. It helps explain why a Canadian production, a Korean-themed film, Netflix, HBO and local cultural policy can all be part of the same media question.
+
+### Do Not Overclaim
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
 
@@ -64,7 +74,7 @@ Define **globalisation**, identify the relevant detail in ***North of North* and
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

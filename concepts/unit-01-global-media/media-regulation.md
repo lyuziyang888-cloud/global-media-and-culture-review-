@@ -35,15 +35,25 @@ Media regulation refers to government rules, policies and institutions that shap
 
 **Why it fits:** Funding and platform obligations attempt to protect local production and cultural goals.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Why do governments regulate global streaming platforms?
+### What It Explains
 
-**Exam-ready application:** Canadian-content policy can be analysed through **Media Regulation**. Funding and platform obligations attempt to protect local production and cultural goals. This evidence shows how **Media Regulation** operates in practice.
+Media regulation refers to government rules, policies and institutions that shape how media industries operate, fund content and serve public or cultural goals.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Why do governments regulate global streaming platforms?**
+
+### How the Course Case Shows It
+
+**Canadian-content policy:** Funding and platform obligations attempt to protect local production and cultural goals.
+
+### Argument You Can Make
+
+Media regulation matters because global media markets do not automatically protect local culture, national identity or minority representation.
+
+### Do Not Overclaim
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
 
@@ -64,7 +74,7 @@ Define **media regulation**, identify the relevant detail in **Canadian-content 
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
