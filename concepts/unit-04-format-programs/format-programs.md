@@ -3,11 +3,11 @@
 **Unit:** Unit 4: Format Programs
 **Exam priority:** CORE - know the definition and one case
 
-## Memorise This
+## Definition
 
 A format program is a licensed package of program information and production know-how that enables a television concept to be adapted in another market.
 
-## Definition
+## What This Concept Explains
 
 A format program is a licensed package of program information and production know-how that enables a television concept to be adapted in another market.
 
@@ -22,70 +22,30 @@ A format program is a licensed package of program information and production kno
 - localisation
 - risk reduction
 
-## Key Points
+## Concrete Course Evidence
 
-- keeps a recognisable core while changing local details
-- reduces production cost and risk through tested knowledge
-- combines the licensor's format knowledge with the licensee's cultural knowledge
-- can qualify as local content even when the format is foreign-owned
+- A format production bible supplies schedules, budgets, casting rules and marketing guidance.
+- A flying producer advises the local adaptation, so production knowledge travels with the licence rather than only a finished program.
+- The South Korean format The Masked Singer had 37 international adaptations, with another 13 reported as forthcoming.
+- A Korean production model therefore travelled outward and was locally remade in many markets.
 
-## PPT Case
-
-**Case:** *The Traitors*
-
-**Why it fits:** National versions preserve licensed rules while changing hosts, contestants, locations and cultural details.
-
-## How to Use This Concept
-
-### What It Explains
-
-A format program is a licensed package of program information and production know-how that enables a television concept to be adapted in another market.
-
-### When to Use It
-
-Use it when a question asks: **What benefits do format programs offer producers and broadcasters?**
-
-### How the Course Case Shows It
-
-***The Traitors*:** National versions preserve licensed rules while changing hosts, contestants, locations and cultural details.
-
-### Argument You Can Make
+## How the Evidence Shows the Concept
 
 can qualify as local content even when the format is foreign-owned
 
-### Do Not Overclaim
 
-More diverse format origins do not guarantee equal ownership or revenue because format owners may retain intellectual property and licensing power.
+## Exam Use
+
+**Possible long question:** What benefits do format programs offer producers and broadcasters?
+
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+
+**Do not overclaim:** More diverse format origins do not guarantee equal ownership or revenue because format owners may retain intellectual property and licensing power.
 
 **Course basis:** Week 4 lecture and tutorial; Unit 4 evidence map
-
-## Possible Long-Answer Question
-
-> What benefits do format programs offer producers and broadcasters?
-
-### Long-Answer Plan
-
-Define **format programs**, identify the relevant detail in ***The Traitors***, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **Format Programs** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is Format Programs? Give one course example.
 
 **Answer:** A format program is a licensed package of program information and production know-how that enables a television concept to be adapted in another market. A course example is *The Traitors*. National versions preserve licensed rules while changing hosts, contestants, locations and cultural details.
-
-
-## Other Possible Questions
-
-- What is a format program, and how does it differ from a canned program?
-- What benefits do format programs offer producers and broadcasters?
-- How do format programs combine standardisation and localisation?

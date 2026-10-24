@@ -3,11 +3,11 @@
 **Unit:** Unit 4: Format Programs
 **Exam priority:** CORE - know the definition and one case
 
-## Memorise This
+## Definition
 
 A canned program is produced and broadcast in one territory, then distributed to another territory for rebroadcast as a finished program.
 
-## Definition
+## What This Concept Explains
 
 A canned program is produced and broadcast in one territory, then distributed to another territory for rebroadcast as a finished program.
 
@@ -18,70 +18,28 @@ A canned program is produced and broadcast in one territory, then distributed to
 - cross-border distribution
 - limited adaptation
 
-## Key Points
+## Concrete Course Evidence
 
-- transfers a finished program rather than production knowledge
-- usually keeps the original cast, setting and performance
-- may be dubbed or subtitled but is not locally remade
-- contrasts with a format program, which is reproduced locally
+- A format production bible supplies schedules, budgets, casting rules and marketing guidance.
+- A flying producer advises the local adaptation, so production knowledge travels with the licence rather than only a finished program.
 
-## PPT Case
-
-**Case:** An imported finished television program
-
-**Why it fits:** The same completed program travels to another market instead of being remade by local producers.
-
-## How to Use This Concept
-
-### What It Explains
-
-A canned program is produced and broadcast in one territory, then distributed to another territory for rebroadcast as a finished program.
-
-### When to Use It
-
-Use it when a question asks: **Compare canned programs and format programs.**
-
-### How the Course Case Shows It
-
-**An imported finished television program:** The same completed program travels to another market instead of being remade by local producers.
-
-### Argument You Can Make
+## How the Evidence Shows the Concept
 
 contrasts with a format program, which is reproduced locally
 
-### Do Not Overclaim
 
-More diverse format origins do not guarantee equal ownership or revenue because format owners may retain intellectual property and licensing power.
+## Exam Use
+
+**Possible long question:** Compare canned programs and format programs.
+
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+
+**Do not overclaim:** More diverse format origins do not guarantee equal ownership or revenue because format owners may retain intellectual property and licensing power.
 
 **Course basis:** Week 4 lecture and tutorial; Unit 4 evidence map
-
-## Possible Long-Answer Question
-
-> Compare canned programs and format programs.
-
-### Long-Answer Plan
-
-Define **canned programs**, identify the relevant detail in **An imported finished television program**, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **Canned Programs** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is Canned Programs? Give one course example.
 
 **Answer:** A canned program is produced and broadcast in one territory, then distributed to another territory for rebroadcast as a finished program. A course example is An imported finished television program. The same completed program travels to another market instead of being remade by local producers.
-
-
-## Other Possible Questions
-
-- What is a canned program?
-- Compare canned programs and format programs.
-- Why might a broadcaster license a format rather than import a finished program?
