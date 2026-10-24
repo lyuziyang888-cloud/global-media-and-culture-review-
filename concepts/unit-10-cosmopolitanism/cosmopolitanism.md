@@ -1,46 +1,23 @@
 # Cosmopolitanism
 
-**Unit:** Unit 10 Cosmopolitanism
-**Exam priority:** HIGH - memorise and practise applying it
+**Priority:** HIGH
 
-## Definition
+## Definition And Source
 
-A sense of belonging to the wider world, together with awareness of cultural plurality and openness to cultural difference.
+Cosmopolitanism is openness to cultural difference and an awareness of connection to a wider world. Ferreira (2026, pp. 934-936) presents it as an ongoing process shaped by media, prior experience and reflection, not an automatic result of watching foreign television.
 
-## What This Concept Explains
+## Course Evidence
 
-A sense of belonging to the wider world, together with awareness of cultural plurality and openness to cultural difference.
+Ferreira interviewed 16 Spanish viewers of Turkish dramas. Some learned about Turkish customs through regular viewing; Isabella began studying Turkish; Lidia created a fan account, formed friendships and travelled to Istanbul (pp. 939-944).
 
-## Key Terms
+## Application
 
-Openness, difference, wider world, cultural awareness, global and local.
-
-## Concrete Course Evidence
-
-- Amparo described learning Turkish customs and everyday life through routine television viewing.
-- She continued watching even when she disagreed with practices she considered sexist.
-- Isabella began studying Turkish after encountering Turkish dramas.
-- Lidia created a fan account, formed friendships with women around Spain and travelled with them to Istanbul.
-- The study used 16 interviews, mostly with women and viewers already engaged in fan practices.
-- Ferreira states that this sample does not represent every Spanish viewer.
-
-## How the Evidence Shows the Concept
-
-Media can expose people to unfamiliar cultures without physical travel. Watching foreign media does not automatically make someone cosmopolitan; curiosity, openness and reflection also matter.
-
+The dramas placed unfamiliar practices inside everyday life. Evidence becomes stronger when viewers compare cultures, seek knowledge or form cross-border relationships. Viewing alone does not prove openness.
 
 ## Exam Use
 
-**Possible long question:** How can foreign media encourage cosmopolitan attitudes?
+**Short:** Spanish Turkish-drama fans showed cosmopolitanism when viewing led to language learning, reflection or travel.
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**Long:** Separate access, routine exposure and active reflection. Note that the small, mostly female sample does not represent every Spanish viewer (pp. 938-939, 945-946).
 
-**Do not overclaim:** Watching foreign media does not automatically create cosmopolitan openness. Industrial access, audience background and the reproduction of stereotypes must also be considered.
-
-**Course basis:** Week 10 lecture and tutorial; Ferreira reading
-
-## Possible Short Answer
-
-> What is Cosmopolitanism? Give one course example.
-
-**Answer:** A sense of belonging to the wider world, together with awareness of cultural plurality and openness to cultural difference. A course example is Spanish audiences watching Turkish dramas. Viewers were attracted by familiar melodrama as well as cultural difference, and some developed more active knowledge and reflection.
+**Source:** Ferreira (2026), pp. 932-949.

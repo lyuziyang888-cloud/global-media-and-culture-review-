@@ -1,42 +1,21 @@
 # Pop Cosmopolitanism
 
-**Unit:** Unit 10 Cosmopolitanism
-**Exam priority:** CORE - know the definition and one case
+**Priority:** CORE
 
-## Definition
+## Definition And Source
 
-Active engagement with popular culture from elsewhere that expands cultural knowledge and may prompt reflection on one's own culture.
+Pop cosmopolitanism occurs when engagement with foreign popular culture develops knowledge, skills, relationships or reflection across cultural boundaries.
 
-## What This Concept Explains
+## Course Evidence And Application
 
-Active engagement with popular culture from elsewhere that expands cultural knowledge and may prompt reflection on one's own culture.
-
-## Key Terms
-
-Active engagement, popular culture, learning, reflection, cultural competency.
-
-## Concrete Course Evidence
-
-- Isabella began studying Turkish after encountering Turkish dramas.
-- Lidia created a fan account, formed friendships with women around Spain and travelled with them to Istanbul.
-
-## How the Evidence Shows the Concept
-
-Viewers go beyond watching. They may research the culture, learn a language, join fan communities, travel or question whether media representations match social reality.
-
+Isabella began studying Turkish after watching Turkish dramas (Ferreira, 2026, p. 939). Lidia created a fan account, met other women through fandom and travelled with them to Istanbul (p. 944). Language study created knowledge; the fan account created social ties; travel tested mediated expectations against a physical place.
 
 ## Exam Use
 
-**Possible long question:** What makes a viewer a pop cosmopolitan?
+**Short:** Isabella's language study and Lidia's fandom and travel show active learning beyond viewing.
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**Long:** Trace the movement from media encounter to practice, then judge whether it produced reflection or only enthusiasm.
 
-**Do not overclaim:** Watching foreign media does not automatically create cosmopolitan openness. Industrial access, audience background and the reproduction of stereotypes must also be considered.
+**Limit:** Active fandom may still rely on selective commercial images.
 
-**Course basis:** Week 10 lecture and tutorial; Ferreira reading
-
-## Possible Short Answer
-
-> What is Pop Cosmopolitanism? Give one course example.
-
-**Answer:** Active engagement with popular culture from elsewhere that expands cultural knowledge and may prompt reflection on one's own culture. A course example is Spanish fans learning Turkish or travelling to Turkey. Fans move beyond consumption toward active learning and reflection.
+**Source:** Ferreira (2026), pp. 939, 944.
