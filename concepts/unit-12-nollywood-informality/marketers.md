@@ -1,42 +1,21 @@
 # Marketers
 
-**Unit:** Unit 12 Nollywood Informality
-**Exam priority:** HIGH - memorise and practise applying it
+**Priority:** HIGH
 
-## Definition
+## Definition And Source
 
-Traders who finance many Nollywood films, act as executive producers and control the physical distribution networks in open-air markets.
+Nollywood marketers historically did more than sell films. They could finance productions, act as executive producers, decide which projects reached the market and control sales information (Miller, 2021, pp. 260-262).
 
-## What This Concept Explains
+## Course Evidence And Application
 
-Traders who finance many Nollywood films, act as executive producers and control the physical distribution networks in open-air markets.
-
-## Key Terms
-
-funding; distribution; executive production; market networks; opaque sales
-
-## Concrete Course Evidence
-
-- Nollywood marketers finance films, act as executive producers and control physical distribution through open-air markets.
-- They conceal sales figures and their collective networks have blocked some large-scale attempts to replace them.
-
-## How the Evidence Shows the Concept
-
-Marketers hold power because producers need their networks to reach domestic audiences. They keep sales figures private and can exclude competitors from the physical market, which makes outside investment and profit sharing difficult.
-
+Filmmakers needed marketers' physical networks to reach domestic audiences. Because sales were difficult to verify, marketers held better revenue information than producers. Distribution control therefore affected which films were funded and how profits were reported.
 
 ## Exam Use
 
-**Possible long question:** Why are marketers powerful in Nollywood?
+**Short:** Marketers combined distribution, financing and executive-producer power.
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**Long:** Connect market access to production decisions, then compare marketers with formal platforms.
 
-**Do not overclaim:** Informal distribution improves access under infrastructure constraints, but it can reduce transparency and weaken creators' control over payment, rights and later circulation.
+**Limit:** Marketers supported Nollywood's scale as well as creating opacity; they were not only obstacles.
 
-**Course basis:** Week 12 lecture and tutorial; Miller, pp. 259-276
-
-## Possible Short Answer
-
-> What is Marketers? Give one course example.
-
-**Answer:** Traders who finance many Nollywood films, act as executive producers and control the physical distribution networks in open-air markets. A course example is Nollywood physical distribution networks. Marketers finance productions and control access to domestic markets, giving them influence over producers and sales information.
+**Source:** Miller (2021), pp. 260-262.

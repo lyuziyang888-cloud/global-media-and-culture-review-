@@ -1,42 +1,21 @@
 # Informality
 
-**Unit:** Unit 12 Nollywood Informality
-**Exam priority:** HIGH - memorise and practise applying it
+**Priority:** HIGH
 
-## Definition
+## Definition And Source
 
-An organised system of production and distribution based on personal relationships, trust and flexible arrangements rather than complete contracts and official records.
+Informality is economic activity organised partly outside fully documented contracts, sales records, formal rights systems or standard corporate distribution. Miller (2021, pp. 259-265) presents it as an industry structure, not simply failure.
 
-## What This Concept Explains
+## Course Evidence And Application
 
-An organised system of production and distribution based on personal relationships, trust and flexible arrangements rather than complete contracts and official records.
-
-## Key Terms
-
-trust; personal networks; flexible exchange; limited statistics; piracy
-
-## Concrete Course Evidence
-
-- Nollywood marketers finance films, act as executive producers and control physical distribution through open-air markets.
-- They conceal sales figures and their collective networks have blocked some large-scale attempts to replace them.
-
-## How the Evidence Shows the Concept
-
-Informality does not mean disorder. It helps Nollywood operate with limited infrastructure and makes content affordable, but weak documentation can reduce transparency and leave producers with less control over later sales.
-
+Nollywood films circulated through open-air markets, physical copying and low-cost file transfer where data, electricity and formal payment were expensive or unreliable. These networks solved access problems but made revenue difficult to trace and reduced producers' knowledge of sales.
 
 ## Exam Use
 
-**Possible long question:** How does informality support Nollywood?
+**Short:** Nollywood's informal networks expanded access while making revenue and rights harder to track.
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**Long:** Explain both the service informality provides and the power problems it creates.
 
-**Do not overclaim:** Informal distribution improves access under infrastructure constraints, but it can reduce transparency and weaken creators' control over payment, rights and later circulation.
+**Limit:** Not every informal transfer is piracy; some use authorised subscriptions or rights.
 
-**Course basis:** Week 12 lecture and tutorial; Miller, pp. 259-276
-
-## Possible Short Answer
-
-> What is Informality? Give one course example.
-
-**Answer:** An organised system of production and distribution based on personal relationships, trust and flexible arrangements rather than complete contracts and official records. A course example is Nollywood marketers and open-air markets. Trust-based networks coordinate finance and distribution, but limited records reduce transparency.
+**Source:** Miller (2021), pp. 259-265.
