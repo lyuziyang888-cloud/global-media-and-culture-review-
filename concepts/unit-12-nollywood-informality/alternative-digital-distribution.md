@@ -3,11 +3,11 @@
 **Unit:** Unit 12 Nollywood Informality
 **Exam priority:** HIGH - memorise and practise applying it
 
-## Memorise This
+## Definition
 
 The movement of digital media through methods adapted to local infrastructure, including downloads, Bluetooth, USB transfers and market kiosks as well as online streaming.
 
-## Definition
+## What This Concept Explains
 
 The movement of digital media through methods adapted to local infrastructure, including downloads, Bluetooth, USB transfers and market kiosks as well as online streaming.
 
@@ -15,66 +15,30 @@ The movement of digital media through methods adapted to local infrastructure, i
 
 Bluetooth; phone-to-phone transfer; download; kiosk; infrastructure
 
-## Key Points
+## Concrete Course Evidence
+
+- Miller describes rural stalls charging phones and transferring inexpensive unauthorised films through Bluetooth or FlashShare.
+- The system uses little data and limited electricity, so digital circulation occurs without continuous broadband streaming.
+- iROKOtv experimented with cash or airtime payments, kiosks, compressed downloads and person-to-person transfers requiring almost no data.
+- The service altered its technology and business model around local infrastructure.
+
+## How the Evidence Shows the Concept
 
 Digital distribution does not require continuous internet streaming. In Nigeria, high data prices and unreliable electricity encourage file sharing and offline downloads. These methods widen access but may be unauthorised or difficult to measure.
 
-## PPT Case
 
-**Case:** iROKOtv kiosks, downloads and Bluetooth transfers
+## Exam Use
 
-**Why it fits:** Digital files reach audiences without depending entirely on continuous broadband streaming.
+**Possible long question:** How does Nollywood challenge conventional ideas of digital distribution?
 
-## How to Use This Concept
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
 
-### What It Explains
-
-The movement of digital media through methods adapted to local infrastructure, including downloads, Bluetooth, USB transfers and market kiosks as well as online streaming.
-
-### When to Use It
-
-Use it when a question asks: **How does Nollywood challenge conventional ideas of digital distribution?**
-
-### How the Course Case Shows It
-
-**iROKOtv kiosks, downloads and Bluetooth transfers:** Digital files reach audiences without depending entirely on continuous broadband streaming.
-
-### Argument You Can Make
-
-Digital distribution does not require continuous internet streaming. In Nigeria, high data prices and unreliable electricity encourage file sharing and offline downloads. These methods widen access but may be unauthorised or difficult to measure.
-
-### Do Not Overclaim
-
-Informal distribution improves access under infrastructure constraints, but it can reduce transparency and weaken creators' control over payment, rights and later circulation.
+**Do not overclaim:** Informal distribution improves access under infrastructure constraints, but it can reduce transparency and weaken creators' control over payment, rights and later circulation.
 
 **Course basis:** Week 12 lecture and tutorial; Miller, pp. 259-276
-
-## Possible Long-Answer Question
-
-> How does Nollywood challenge conventional ideas of digital distribution?
-
-### Long-Answer Plan
-
-Define **alternative digital distribution**, identify the relevant detail in **iROKOtv kiosks, downloads and Bluetooth transfers**, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **Alternative Digital Distribution** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is Alternative Digital Distribution? Give one course example.
 
 **Answer:** The movement of digital media through methods adapted to local infrastructure, including downloads, Bluetooth, USB transfers and market kiosks as well as online streaming. A course example is iROKOtv kiosks, downloads and Bluetooth transfers. Digital files reach audiences without depending entirely on continuous broadband streaming.
-
-
-## Other Possible Questions
-
-- How does Nollywood challenge conventional ideas of digital distribution?
-- Why may streaming platforms struggle in Nigeria?
