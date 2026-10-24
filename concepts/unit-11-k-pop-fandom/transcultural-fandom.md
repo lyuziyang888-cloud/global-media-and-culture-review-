@@ -12,7 +12,9 @@ RISIN performs Korean pop choreography in Paris, while comments discuss adaptati
 
 ## Exam Use
 
-**Possible short question:** Why can the RISIN cover be treated as transcultural fandom?
+## Derived Short-Answer Practice
+
+> Why can the RISIN cover be treated as transcultural fandom?
 
 **Answer:** Performers and viewers connect around a Korean pop text across locations and languages. Their shared attachment matters, although the evidence does not establish the identity or motivation of every viewer.
 

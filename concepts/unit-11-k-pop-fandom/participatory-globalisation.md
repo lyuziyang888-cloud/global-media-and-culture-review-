@@ -12,7 +12,9 @@ RISIN learned and publicly performed BLACKPINK's choreography in Paris. The comm
 
 ## Exam Use
 
-**Possible short question:** What does the comment about subtle changes reveal about participation?
+## Derived Short-Answer Practice
+
+> What does the comment about subtle changes reveal about participation?
 
 **Answer:** The viewer notices and values fan adaptation, not only accurate copying. The dancers act on the original choreography and the audience evaluates their creative choices.
 
