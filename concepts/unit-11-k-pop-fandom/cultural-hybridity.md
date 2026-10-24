@@ -25,15 +25,25 @@ K-pop combines cultural elements and is reworked again by overseas fans. A hybri
 
 **Why it fits:** K-pop training and performance forms are mixed and reworked through multinational production and fan adaptation.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How does K-pop demonstrate cultural hybridity?
+### What It Explains
 
-**Exam-ready application:** KATSEYE and K-pop cover dances can be analysed through **Cultural Hybridity**. K-pop training and performance forms are mixed and reworked through multinational production and fan adaptation. This evidence shows how **Cultural Hybridity** operates in practice.
+The mixing of relatively distinct cultural forms, styles or identities. Yoon also stresses fragmentation: hybridity can unsettle the idea that cultures are fixed and separate.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How does K-pop demonstrate cultural hybridity?**
+
+### How the Course Case Shows It
+
+**KATSEYE and K-pop cover dances:** K-pop training and performance forms are mixed and reworked through multinational production and fan adaptation.
+
+### Argument You Can Make
+
+K-pop combines cultural elements and is reworked again by overseas fans. A hybrid form is not simply half Korean and half foreign; its meaning changes across production, circulation and fan use.
+
+### Do Not Overclaim
 
 Fan agency is real but not complete freedom: participation can create value for entertainment companies, advertisers and platforms, and one case cannot represent every fan.
 
@@ -54,7 +64,7 @@ Define **cultural hybridity**, identify the relevant detail in **KATSEYE and K-p
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

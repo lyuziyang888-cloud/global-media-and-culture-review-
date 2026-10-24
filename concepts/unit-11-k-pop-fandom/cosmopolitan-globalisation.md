@@ -25,15 +25,25 @@ Overseas fans interpret K-pop from their own experiences and locations. This can
 
 **Why it fits:** Fans interpret Korean popular culture through different languages, places and identities beyond a single Western centre.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How does K-pop support a cosmopolitan imagination of globalisation?
+### What It Explains
 
-**Exam-ready application:** Multilingual K-pop fandom can be analysed through **Cosmopolitan Globalisation**. Fans interpret Korean popular culture through different languages, places and identities beyond a single Western centre. This evidence shows how **Cosmopolitan Globalisation** operates in practice.
+Fans imagine cultural flow as open to multiple places and identities instead of belonging only to Western centres or one nation.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How does K-pop support a cosmopolitan imagination of globalisation?**
+
+### How the Course Case Shows It
+
+**Multilingual K-pop fandom:** Fans interpret Korean popular culture through different languages, places and identities beyond a single Western centre.
+
+### Argument You Can Make
+
+Overseas fans interpret K-pop from their own experiences and locations. This can challenge Western-centred cultural flow and the idea that South Korean fans have exclusive ownership of K-pop.
+
+### Do Not Overclaim
 
 Fan agency is real but not complete freedom: participation can create value for entertainment companies, advertisers and platforms, and one case cannot represent every fan.
 
@@ -54,7 +64,7 @@ Define **cosmopolitan globalisation**, identify the relevant detail in **Multili
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

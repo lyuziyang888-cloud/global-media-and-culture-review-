@@ -25,15 +25,25 @@ Jin argues that nationality alone cannot explain K-pop fandom. Gender, ethnicity
 
 **Why it fits:** Shared attachment connects fans across borders while local symbols and identities remain present.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Why is transculturalism useful for understanding K-pop fandom?
+### What It Explains
 
-**Exam-ready application:** Melbourne Taemin banner and cover-dance communities can be analysed through **Transcultural Fandom**. Shared attachment connects fans across borders while local symbols and identities remain present. This evidence shows how **Transcultural Fandom** operates in practice.
+A form of fandom in which connections are organised through shared interests, emotions and identities across national boundaries.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Why is transculturalism useful for understanding K-pop fandom?**
+
+### How the Course Case Shows It
+
+**Melbourne Taemin banner and cover-dance communities:** Shared attachment connects fans across borders while local symbols and identities remain present.
+
+### Argument You Can Make
+
+Jin argues that nationality alone cannot explain K-pop fandom. Gender, ethnicity, sexuality, fan culture and emotional attachment can also shape connections. The framework is useful but does not fully explain why every fan likes K-pop.
+
+### Do Not Overclaim
 
 Fan agency is real but not complete freedom: participation can create value for entertainment companies, advertisers and platforms, and one case cannot represent every fan.
 
@@ -54,7 +64,7 @@ Define **transcultural fandom**, identify the relevant detail in **Melbourne Tae
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

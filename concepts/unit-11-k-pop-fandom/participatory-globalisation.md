@@ -25,15 +25,25 @@ Cover dances, reaction videos, fan chants and online communities let fans intera
 
 **Why it fits:** Fans learn, perform, modify and circulate choreography instead of remaining consumers only.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How do K-pop fans participate in globalisation?
+### What It Explains
 
-**Exam-ready application:** K-pop cover dance can be analysed through **Participatory Globalisation**. Fans learn, perform, modify and circulate choreography instead of remaining consumers only. This evidence shows how **Participatory Globalisation** operates in practice.
+Fans imagine and experience globalisation through active participation in media culture rather than through consumption alone.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How do K-pop fans participate in globalisation?**
+
+### How the Course Case Shows It
+
+**K-pop cover dance:** Fans learn, perform, modify and circulate choreography instead of remaining consumers only.
+
+### Argument You Can Make
+
+Cover dances, reaction videos, fan chants and online communities let fans interact with and adapt K-pop texts. Participation creates agency, although platforms and entertainment companies may still gain value from unpaid fan activity.
+
+### Do Not Overclaim
 
 Fan agency is real but not complete freedom: participation can create value for entertainment companies, advertisers and platforms, and one case cannot represent every fan.
 
@@ -54,7 +64,7 @@ Define **participatory globalisation**, identify the relevant detail in **K-pop 
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
