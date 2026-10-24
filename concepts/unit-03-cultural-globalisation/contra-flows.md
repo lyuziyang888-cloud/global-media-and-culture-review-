@@ -34,15 +34,25 @@ Contra-flows are media movements from former peripheries, the Global South or no
 
 **Why it fits:** Media formats and production models move from Venezuela or China toward wider markets rather than only outward from the United States.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How do contra-flows complicate media imperialism?
+### What It Explains
 
-**Exam-ready application:** *Jane the Virgin* and Chinese microdramas can be analysed through **Contra-Flows**. Media formats and production models move from Venezuela or China toward wider markets rather than only outward from the United States. This evidence shows how **Contra-Flows** operates in practice.
+Contra-flows are media movements from former peripheries, the Global South or non-US centres towards other peripheral and dominant markets.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How do contra-flows complicate media imperialism?**
+
+### How the Course Case Shows It
+
+***Jane the Virgin* and Chinese microdramas:** Media formats and production models move from Venezuela or China toward wider markets rather than only outward from the United States.
+
+### Argument You Can Make
+
+Venezuela's *Juana la virgen* travelled through adaptations in the US, Europe, Asia and Latin America. Chinese microdramas provide a contemporary example for testing contra-flow.
+
+### Do Not Overclaim
 
 Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
 
@@ -63,7 +73,7 @@ Define **contra-flows**, identify the relevant detail in ***Jane the Virgin* and
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

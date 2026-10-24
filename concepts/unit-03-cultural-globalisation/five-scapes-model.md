@@ -34,15 +34,25 @@ The five-scapes model describes globalisation as overlapping, interconnected and
 
 **Why it fits:** The model separates interacting global flows instead of treating globalisation as one uniform process.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** What are the five scapes?
+### What It Explains
 
-**Exam-ready application:** Cross-border movement of people, technology, finance, media and ideas can be analysed through **Five-Scapes Model**. The model separates interacting global flows instead of treating globalisation as one uniform process. This evidence shows how **Five-Scapes Model** operates in practice.
+The five-scapes model describes globalisation as overlapping, interconnected and deterritorialised movements whose meaning and effects depend on context.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **What are the five scapes?**
+
+### How the Course Case Shows It
+
+**Cross-border movement of people, technology, finance, media and ideas:** The model separates interacting global flows instead of treating globalisation as one uniform process.
+
+### Argument You Can Make
+
+**Mediascapes:** worldwide production, distribution and consumption of media information and content
+
+### Do Not Overclaim
 
 Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
 
@@ -63,7 +73,7 @@ Define **five-scapes model**, identify the relevant detail in **Cross-border mov
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

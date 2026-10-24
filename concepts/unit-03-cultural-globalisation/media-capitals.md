@@ -35,15 +35,25 @@ Media capitals are dynamic and historically contingent centres where resources, 
 
 **Why it fits:** Concentrated talent, finance and production networks allow cities to organise media flows beyond Hollywood.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** What makes a place a media capital?
+### What It Explains
 
-**Exam-ready application:** Seoul, Mumbai and other regional production centres can be analysed through **Media Capitals**. Concentrated talent, finance and production networks allow cities to organise media flows beyond Hollywood. This evidence shows how **Media Capitals** operates in practice.
+Media capitals are dynamic and historically contingent centres where resources, reputation and talent concentrate, enabling efficient and sustained media production.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **What makes a place a media capital?**
+
+### How the Course Case Shows It
+
+**Seoul, Mumbai and other regional production centres:** Concentrated talent, finance and production networks allow cities to organise media flows beyond Hollywood.
+
+### Argument You Can Make
+
+The concept explains why important global media centres can emerge beyond Hollywood and why media movement cannot be understood only as exchange between nations.
+
+### Do Not Overclaim
 
 Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
 
@@ -64,7 +74,7 @@ Define **media capitals**, identify the relevant detail in **Seoul, Mumbai and o
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

@@ -32,15 +32,25 @@ Asymmetrical interdependence describes relationships in which countries, industr
 
 **Why it fits:** Both sides need one another, but they do not possess equal control over finance, data, IP or distribution.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How does it provide a middle ground between the two paradigms?
+### What It Explains
 
-**Exam-ready application:** Global platforms working with local producers can be analysed through **Asymmetrical Interdependence**. Both sides need one another, but they do not possess equal control over finance, data, IP or distribution. This evidence shows how **Asymmetrical Interdependence** operates in practice.
+Asymmetrical interdependence describes relationships in which countries, industries or cultures depend on and influence one another, but not with equal resources, control or effects.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How does it provide a middle ground between the two paradigms?**
+
+### How the Course Case Shows It
+
+**Global platforms working with local producers:** Both sides need one another, but they do not possess equal control over finance, data, IP or distribution.
+
+### Argument You Can Make
+
+Local producers may supply culturally specific content to global platforms while depending on those platforms for investment and distribution.
+
+### Do Not Overclaim
 
 Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
 
@@ -61,7 +71,7 @@ Define **asymmetrical interdependence**, identify the relevant detail in **Globa
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

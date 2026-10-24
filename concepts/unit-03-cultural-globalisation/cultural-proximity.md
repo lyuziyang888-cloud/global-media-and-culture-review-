@@ -35,15 +35,25 @@ Cultural proximity is the tendency for audiences to prefer media that feels clos
 
 **Why it fits:** Familiar melodrama and shared values help attraction, but novelty and cultural difference also matter.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Does cultural proximity disprove media imperialism?
+### What It Explains
 
-**Exam-ready application:** Spanish audiences watching Turkish dramas can be analysed through **Cultural Proximity**. Familiar melodrama and shared values help attraction, but novelty and cultural difference also matter. This evidence shows how **Cultural Proximity** operates in practice.
+Cultural proximity is the tendency for audiences to prefer media that feels close to their language, humour, values, religion, ethnicity, lifestyle or everyday experience.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Does cultural proximity disprove media imperialism?**
+
+### How the Course Case Shows It
+
+**Spanish audiences watching Turkish dramas:** Familiar melodrama and shared values help attraction, but novelty and cultural difference also matter.
+
+### Argument You Can Make
+
+The concept challenges the assumption that globally powerful US content automatically dominates audience preferences.
+
+### Do Not Overclaim
 
 Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
 
@@ -64,7 +74,7 @@ Define **cultural proximity**, identify the relevant detail in **Spanish audienc
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

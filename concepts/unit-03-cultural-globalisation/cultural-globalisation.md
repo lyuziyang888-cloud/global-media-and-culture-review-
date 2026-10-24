@@ -36,15 +36,25 @@ Cultural globalisation is a paradigm containing theories and concepts that expla
 
 **Why it fits:** These examples show media moving from outside traditional Western centres and changing through adaptation and circulation.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Why is cultural globalisation important to global media studies?
+### What It Explains
 
-**Exam-ready application:** *Jane the Virgin* and Chinese microdramas can be analysed through **Cultural Globalisation**. These examples show media moving from outside traditional Western centres and changing through adaptation and circulation. This evidence shows how **Cultural Globalisation** operates in practice.
+Cultural globalisation is a paradigm containing theories and concepts that explain contextual, multidirectional and unequal interactions among media, people and cultures across borders.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Why is cultural globalisation important to global media studies?**
+
+### How the Course Case Shows It
+
+***Jane the Virgin* and Chinese microdramas:** These examples show media moving from outside traditional Western centres and changing through adaptation and circulation.
+
+### Argument You Can Make
+
+emphasises context and interpretation
+
+### Do Not Overclaim
 
 Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
 
@@ -65,7 +75,7 @@ Define **cultural globalisation**, identify the relevant detail in ***Jane the V
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
