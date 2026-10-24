@@ -3,11 +3,11 @@
 **Unit:** Unit 08 Nation Branding
 **Exam priority:** CORE - know the definition and one case
 
-## Memorise This
+## Definition
 
 Members of a nation imagine that they belong to one shared community even though they will never know most other members.
 
-## Definition
+## What This Concept Explains
 
 Members of a nation imagine that they belong to one shared community even though they will never know most other members.
 
@@ -15,66 +15,28 @@ Members of a nation imagine that they belong to one shared community even though
 
 nation, belonging, media, shared identity, representation
 
-## Key Points
+## Concrete Course Evidence
+
+- Qatar’s Couple and Friends videos centre international visitors discovering luxury, desert activities and nightlife.
+- The Family video includes dining, market and tourism-service scenes, but local people receive little narrative control.
+
+## How the Evidence Shows the Concept
 
 Media circulate stories and symbols that help people imagine national membership. Nation branding then selects part of this identity for foreign audiences.
 
-## PPT Case
 
-**Case:** Qatar nation-branding campaign
+## Exam Use
 
-**Why it fits:** The campaign selects national symbols and stories to present a coherent community to outsiders.
+**Possible long question:** How does media help construct a nation?
 
-## How to Use This Concept
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
 
-### What It Explains
-
-Members of a nation imagine that they belong to one shared community even though they will never know most other members.
-
-### When to Use It
-
-Use it when a question asks: **How does media help construct a nation?**
-
-### How the Course Case Shows It
-
-**Qatar nation-branding campaign:** The campaign selects national symbols and stories to present a coherent community to outsiders.
-
-### Argument You Can Make
-
-Media circulate stories and symbols that help people imagine national membership. Nation branding then selects part of this identity for foreign audiences.
-
-### Do Not Overclaim
-
-Nation branding can attract attention, but it may simplify national identity and reproduce foreign expectations. Qatar is outside Mino's original Latin American sample, so the framework is an interpretation rather than proof.
+**Do not overclaim:** Nation branding can attract attention, but it may simplify national identity and reproduce foreign expectations. Qatar is outside Mino's original Latin American sample, so the framework is an interpretation rather than proof.
 
 **Course basis:** Week 8 lecture and tutorial; Unit 8 evidence map
-
-## Possible Long-Answer Question
-
-> How does media help construct a nation?
-
-### Long-Answer Plan
-
-Define **imagined communities**, identify the relevant detail in **Qatar nation-branding campaign**, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **Imagined Communities** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is Imagined Communities? Give one course example.
 
 **Answer:** Members of a nation imagine that they belong to one shared community even though they will never know most other members. A course example is Qatar nation-branding campaign. The campaign selects national symbols and stories to present a coherent community to outsiders.
-
-
-## Other Possible Questions
-
-- How does media help construct a nation?
-- Why is national identity selective rather than natural?
