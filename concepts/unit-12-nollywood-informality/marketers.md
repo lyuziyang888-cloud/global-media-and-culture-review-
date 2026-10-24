@@ -25,15 +25,25 @@ Marketers hold power because producers need their networks to reach domestic aud
 
 **Why it fits:** Marketers finance productions and control access to domestic markets, giving them influence over producers and sales information.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Why are marketers powerful in Nollywood?
+### What It Explains
 
-**Exam-ready application:** Nollywood physical distribution networks can be analysed through **Marketers**. Marketers finance productions and control access to domestic markets, giving them influence over producers and sales information. This evidence shows how **Marketers** operates in practice.
+Traders who finance many Nollywood films, act as executive producers and control the physical distribution networks in open-air markets.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Why are marketers powerful in Nollywood?**
+
+### How the Course Case Shows It
+
+**Nollywood physical distribution networks:** Marketers finance productions and control access to domestic markets, giving them influence over producers and sales information.
+
+### Argument You Can Make
+
+Marketers hold power because producers need their networks to reach domestic audiences. They keep sales figures private and can exclude competitors from the physical market, which makes outside investment and profit sharing difficult.
+
+### Do Not Overclaim
 
 Informal distribution improves access under infrastructure constraints, but it can reduce transparency and weaken creators' control over payment, rights and later circulation.
 
@@ -54,7 +64,7 @@ Define **marketers**, identify the relevant detail in **Nollywood physical distr
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

@@ -25,15 +25,25 @@ Informality does not mean disorder. It helps Nollywood operate with limited infr
 
 **Why it fits:** Trust-based networks coordinate finance and distribution, but limited records reduce transparency.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How does informality support Nollywood?
+### What It Explains
 
-**Exam-ready application:** Nollywood marketers and open-air markets can be analysed through **Informality**. Trust-based networks coordinate finance and distribution, but limited records reduce transparency. This evidence shows how **Informality** operates in practice.
+An organised system of production and distribution based on personal relationships, trust and flexible arrangements rather than complete contracts and official records.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How does informality support Nollywood?**
+
+### How the Course Case Shows It
+
+**Nollywood marketers and open-air markets:** Trust-based networks coordinate finance and distribution, but limited records reduce transparency.
+
+### Argument You Can Make
+
+Informality does not mean disorder. It helps Nollywood operate with limited infrastructure and makes content affordable, but weak documentation can reduce transparency and leave producers with less control over later sales.
+
+### Do Not Overclaim
 
 Informal distribution improves access under infrastructure constraints, but it can reduce transparency and weaken creators' control over payment, rights and later circulation.
 
@@ -54,7 +64,7 @@ Define **informality**, identify the relevant detail in **Nollywood marketers an
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

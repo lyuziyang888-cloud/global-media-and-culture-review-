@@ -25,15 +25,25 @@ Digital distribution does not require continuous internet streaming. In Nigeria,
 
 **Why it fits:** Digital files reach audiences without depending entirely on continuous broadband streaming.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How does Nollywood challenge conventional ideas of digital distribution?
+### What It Explains
 
-**Exam-ready application:** iROKOtv kiosks, downloads and Bluetooth transfers can be analysed through **Alternative Digital Distribution**. Digital files reach audiences without depending entirely on continuous broadband streaming. This evidence shows how **Alternative Digital Distribution** operates in practice.
+The movement of digital media through methods adapted to local infrastructure, including downloads, Bluetooth, USB transfers and market kiosks as well as online streaming.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How does Nollywood challenge conventional ideas of digital distribution?**
+
+### How the Course Case Shows It
+
+**iROKOtv kiosks, downloads and Bluetooth transfers:** Digital files reach audiences without depending entirely on continuous broadband streaming.
+
+### Argument You Can Make
+
+Digital distribution does not require continuous internet streaming. In Nigeria, high data prices and unreliable electricity encourage file sharing and offline downloads. These methods widen access but may be unauthorised or difficult to measure.
+
+### Do Not Overclaim
 
 Informal distribution improves access under infrastructure constraints, but it can reduce transparency and weaken creators' control over payment, rights and later circulation.
 
@@ -54,7 +64,7 @@ Define **alternative digital distribution**, identify the relevant detail in **i
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
