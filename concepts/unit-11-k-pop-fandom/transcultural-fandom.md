@@ -1,42 +1,21 @@
 # Transcultural Fandom
 
-**Unit:** Unit 11 K Pop Fandom
-**Exam priority:** HIGH - memorise and practise applying it
+**Priority:** HIGH
 
-## Definition
+## Definition And Source
 
-A form of fandom in which connections are organised through shared interests, emotions and identities across national boundaries.
+Transcultural fandom describes fan connections formed through shared interests and affect across cultural boundaries. Jin (2024, pp. 120-121) uses affective affinity to explain attachment that cannot be reduced to a text's national origin.
 
-## What This Concept Explains
+## Course Evidence And Application
 
-A form of fandom in which connections are organised through shared interests, emotions and identities across national boundaries.
-
-## Key Terms
-
-shared interest; affective affinity; cross-border community; identity; fandom
-
-## Concrete Course Evidence
-
-- Jin describes fans of different genders, cultures and ethnicities forming connections around shared interests.
-- Affective affinity explains attachment that is not determined only by the national origin of the media text.
-
-## How the Evidence Shows the Concept
-
-Jin argues that nationality alone cannot explain K-pop fandom. Gender, ethnicity, sexuality, fan culture and emotional attachment can also shape connections. The framework is useful but does not fully explain why every fan likes K-pop.
-
+RISIN performs Korean pop choreography in Paris, while comments discuss adaptation, gender presentation and performance quality in English and Japanese. The interaction is organised around interest in the performance rather than one shared nationality.
 
 ## Exam Use
 
-**Possible long question:** Why is transculturalism useful for understanding K-pop fandom?
+**Short:** RISIN's Paris cover and multilingual responses provide a bounded example of transcultural fandom.
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**Long:** Show cross-border participation and affective affinity, then avoid claiming nationality no longer matters.
 
-**Do not overclaim:** Fan agency is real but not complete freedom: participation can create value for entertainment companies, advertisers and platforms, and one case cannot represent every fan.
+**Limit:** Jin (2024, p. 133) says transculturalism does not fully explain why fans like K-pop. Platforms, industry promotion and local identity also matter.
 
-**Course basis:** Week 11 tutorial; Yoon, p. 380; Jin, p. 133
-
-## Possible Short Answer
-
-> What is Transcultural Fandom? Give one course example.
-
-**Answer:** A form of fandom in which connections are organised through shared interests, emotions and identities across national boundaries. A course example is Melbourne Taemin banner and cover-dance communities. Shared attachment connects fans across borders while local symbols and identities remain present.
+**Source:** Jin (2024), pp. 120-121, 133.

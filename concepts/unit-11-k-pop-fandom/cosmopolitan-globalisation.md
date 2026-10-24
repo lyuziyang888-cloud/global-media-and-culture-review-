@@ -1,42 +1,21 @@
 # Cosmopolitan Globalisation
 
-**Unit:** Unit 11 K Pop Fandom
-**Exam priority:** HIGH - memorise and practise applying it
+**Priority:** HIGH
 
-## Definition
+## Definition And Source
 
-Fans imagine cultural flow as open to multiple places and identities instead of belonging only to Western centres or one nation.
+Yoon's cosmopolitan imagination treats cultural flow as open to multiple places and identities rather than owned by one nation or controlled only by Western centres (2018, pp. 379-381).
 
-## What This Concept Explains
+## Course Evidence And Application
 
-Fans imagine cultural flow as open to multiple places and identities instead of belonging only to Western centres or one nation.
-
-## Key Terms
-
-openness; cultural difference; multiple locations; reinterpretation; global imagination
-
-## Concrete Course Evidence
-
-- Yoon argues that cover dancers reinterpret K-pop from their own experiences and locations.
-- This means circulation does not preserve one fixed Korean meaning.
-
-## How the Evidence Shows the Concept
-
-Overseas fans interpret K-pop from their own experiences and locations. This can challenge Western-centred cultural flow and the idea that South Korean fans have exclusive ownership of K-pop.
-
+Under RISIN's Paris cover, @田中-w2c8f wrote in Japanese that male dancers give the performance a different appeal and asked whether other Japanese viewers were watching. The response connects Korean choreography, a Paris performance, male dancers and a Japanese-speaking audience.
 
 ## Exam Use
 
-**Possible long question:** How does K-pop support a cosmopolitan imagination of globalisation?
+**Short:** The Japanese comment on a Paris K-pop cover shows one text being interpreted across languages, places and gender presentations.
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**Long:** Identify the locations and explain how meaning changes without inferring identities beyond the available comment.
 
-**Do not overclaim:** Fan agency is real but not complete freedom: participation can create value for entertainment companies, advertisers and platforms, and one case cannot represent every fan.
+**Limit:** Multiple audiences do not remove platform or corporate power.
 
-**Course basis:** Week 11 tutorial; Yoon, p. 380; Jin, p. 133
-
-## Possible Short Answer
-
-> What is Cosmopolitan Globalisation? Give one course example.
-
-**Answer:** Fans imagine cultural flow as open to multiple places and identities instead of belonging only to Western centres or one nation. A course example is Multilingual K-pop fandom. Fans interpret Korean popular culture through different languages, places and identities beyond a single Western centre.
+**Source:** Yoon (2018), pp. 379-381.
