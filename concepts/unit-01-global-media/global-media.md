@@ -7,9 +7,9 @@
 
 Global media refers to media content, industries, platforms and audiences that operate across national and cultural boundaries.
 
-## What This Concept Explains
+## How To Identify Global Media
 
-Global media refers to media content, industries, platforms and audiences that operate across national and cultural boundaries.
+The Week 1 lecture treats “global” as a conclusion that must be demonstrated, not a label based only on international popularity. Examine where finance, ownership, creative labour, story, filming, distribution and audiences are located. A text becomes part of global media when these activities connect institutions or audiences across borders, even when its story and production remain strongly local.
 
 ## Key Terms
 
@@ -32,20 +32,22 @@ Global media refers to media content, industries, platforms and audiences that o
 - The Week 1 tutorial requires nationality to be assessed through source material, creators, cast, crew, funding, ownership, locations, story and distribution.
 - A production can therefore be locally rooted and globally circulated at the same time.
 
-## How the Evidence Shows the Concept
+## How The Cases Demonstrate It
 
-Global media is the central concept of the course. It helps explain why media cannot be understood only through one nation, one culture or one company.
+*Heated Rivalry* links Canadian source material, labour and cultural references to US circulation through HBO. It is global at the level of distribution without losing all Canadian production identity. *North of North* similarly connects Inuit representation and Canadian institutions to Netflix's international network. These examples demonstrate that a media text can contain local cultural authorship, national industrial support and transnational circulation at the same time.
+
+The cases also reveal unequal roles. Local creators supply the culturally specific story, while HBO or Netflix controls an important route to audiences outside Canada. “Global media” therefore describes both cross-border connection and the division of power within that connection.
 
 
 ## Exam Use
 
 **Possible long question:** How can media be both local and global?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**How to answer:** Separate the text's production, cultural identity and distribution. Name the countries and institutions involved, then judge which dimension is local, national or global.
 
 **Do not overclaim:** Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
 
-**Course basis:** Week 1 tutorial; Unit 1 evidence map
+**Course basis:** Week 1 lecture and tutorial; Stevis-Gridneff (2026), PDF pp. 1-2.
 
 ## Possible Short Answer
 
