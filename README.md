@@ -61,16 +61,14 @@ Reading files from beginning to end is not the goal. The goal is to answer witho
 | [`lectures/`](lectures/) | **Reference only:** teacher argument sequence and slide anchors |
 | [`assignments/`](assignments/) | Task requirements, assessment criteria and planning frameworks |
 
-## Exam Answer Pattern
+## Exam Answer Guidance
 
-```text
-Define the concept
--> answer the question directly
--> explain the relationship or mechanism
--> apply case-study evidence
--> add a limitation or counterargument
--> make a concluding judgement
-```
+Follow the wording of the question rather than forcing every answer into one template:
+
+- **Short answer:** answer the one requested point in a couple of sentences or phrases.
+- **Long answer:** separate the question into its sub-questions and answer each one directly.
+- Add definitions, examples, limitations or judgements only when the question asks for them or they are needed to support the answer.
+- If the question requests two examples, give two. Extra unrelated material does not earn marks.
 
 ## Maintenance Rules
 
