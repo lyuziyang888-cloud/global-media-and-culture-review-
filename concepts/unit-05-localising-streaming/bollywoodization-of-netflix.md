@@ -39,7 +39,7 @@ Netflix adapted Vikram Chandra's Indian novel through Indian production networks
 
 **Course basis:** Punathambekar and Mohan, “Bollywoodizing Netflix or globalizing Hotstar?”; Week 5 lecture, slides 14-17.
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > How did *Sacred Games* show the Bollywoodization of Netflix?
 

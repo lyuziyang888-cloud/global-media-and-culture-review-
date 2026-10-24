@@ -41,7 +41,15 @@ Netflix brought global scale but adapted through Bollywood labour and stories. H
 
 **Course basis:** Punathambekar and Mohan; Week 5 lecture, slides 6-21; Week 5 tutorial.
 
-## Possible Short Answer
+## Official PPT Exam Practice
+
+The Week 5 tutorial, slide 3, asks:
+
+> Apply industrial contact zones to *The Traitors*.
+
+Define industrial contact zones and format programs; identify stable format rules and local changes; then explain negotiation between standardisation and localisation. This tests transfer to a new case, not recall of Netflix India alone.
+
+## Derived Short-Answer Practice
 
 > Why is Indian streaming an industrial contact zone?
 

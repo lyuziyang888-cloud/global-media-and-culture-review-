@@ -43,7 +43,7 @@ The limitation is that adaptation does not erase platform power. Netflix can loc
 
 **Course basis:** Punathambekar and Mohan; Week 5 lecture and tutorial.
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > Why is translation alone insufficient for streaming localisation?
 

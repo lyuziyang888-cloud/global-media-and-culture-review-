@@ -42,7 +42,7 @@ Netflix initially used premium pricing and productions such as *Sacred Games*, c
 
 **Course basis:** Punathambekar and Mohan; Week 5 lecture, slides 12-17.
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > How did Netflix India and Hotstar localise differently?
 
