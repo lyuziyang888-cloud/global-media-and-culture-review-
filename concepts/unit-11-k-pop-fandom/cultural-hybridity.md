@@ -3,11 +3,11 @@
 **Unit:** Unit 11 K Pop Fandom
 **Exam priority:** HIGH - memorise and practise applying it
 
-## Memorise This
+## Definition
 
 The mixing of relatively distinct cultural forms, styles or identities. Yoon also stresses fragmentation: hybridity can unsettle the idea that cultures are fixed and separate.
 
-## Definition
+## What This Concept Explains
 
 The mixing of relatively distinct cultural forms, styles or identities. Yoon also stresses fragmentation: hybridity can unsettle the idea that cultures are fixed and separate.
 
@@ -15,66 +15,30 @@ The mixing of relatively distinct cultural forms, styles or identities. Yoon als
 
 fusion; fragmentation; mixture; adaptation; identity
 
-## Key Points
+## Concrete Course Evidence
+
+- HYBE and Geffen combined K-pop training with six members from the Philippines, United States, Switzerland and South Korea.
+- Korean, Japanese and Tagalog versions of Touch and distribution through YouTube, Weverse, Abema and Netflix combined production methods, languages and markets.
+- Yoon identifies reaction videos, parodies, fan forums and grassroots cover-dance groups as ways fans re-appropriate K-pop texts.
+- Cover dancers reproduce recognisable choreography while changing performers, locations and presentation.
+
+## How the Evidence Shows the Concept
 
 K-pop combines cultural elements and is reworked again by overseas fans. A hybrid form is not simply half Korean and half foreign; its meaning changes across production, circulation and fan use.
 
-## PPT Case
 
-**Case:** KATSEYE and K-pop cover dances
+## Exam Use
 
-**Why it fits:** K-pop training and performance forms are mixed and reworked through multinational production and fan adaptation.
+**Possible long question:** How does K-pop demonstrate cultural hybridity?
 
-## How to Use This Concept
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
 
-### What It Explains
-
-The mixing of relatively distinct cultural forms, styles or identities. Yoon also stresses fragmentation: hybridity can unsettle the idea that cultures are fixed and separate.
-
-### When to Use It
-
-Use it when a question asks: **How does K-pop demonstrate cultural hybridity?**
-
-### How the Course Case Shows It
-
-**KATSEYE and K-pop cover dances:** K-pop training and performance forms are mixed and reworked through multinational production and fan adaptation.
-
-### Argument You Can Make
-
-K-pop combines cultural elements and is reworked again by overseas fans. A hybrid form is not simply half Korean and half foreign; its meaning changes across production, circulation and fan use.
-
-### Do Not Overclaim
-
-Fan agency is real but not complete freedom: participation can create value for entertainment companies, advertisers and platforms, and one case cannot represent every fan.
+**Do not overclaim:** Fan agency is real but not complete freedom: participation can create value for entertainment companies, advertisers and platforms, and one case cannot represent every fan.
 
 **Course basis:** Week 11 tutorial; Yoon, p. 380; Jin, p. 133
-
-## Possible Long-Answer Question
-
-> How does K-pop demonstrate cultural hybridity?
-
-### Long-Answer Plan
-
-Define **cultural hybridity**, identify the relevant detail in **KATSEYE and K-pop cover dances**, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **Cultural Hybridity** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is Cultural Hybridity? Give one course example.
 
 **Answer:** The mixing of relatively distinct cultural forms, styles or identities. Yoon also stresses fragmentation: hybridity can unsettle the idea that cultures are fixed and separate. A course example is KATSEYE and K-pop cover dances. K-pop training and performance forms are mixed and reworked through multinational production and fan adaptation.
-
-
-## Other Possible Questions
-
-- How does K-pop demonstrate cultural hybridity?
-- Does hybridity remove unequal power in global media?
