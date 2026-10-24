@@ -11,11 +11,10 @@ Use this page for rapid recall. Open the linked unit review only when you cannot
 - 2 long-answer questions: 24 marks.
 - 1 long question based on an unseen news excerpt: 16 marks.
 - Total: approximately 22 questions and 100 marks.
-- A table, graph, or other dataset previously used in a lecture or tutorial may appear.
 
 ## Highest-Priority Knowledge
 
-These were explicitly emphasised in the exam-review session:
+Use the unit map below to organise course content. The exam-review video does not provide a list of guaranteed concepts or questions.
 
 - Characteristics of media/cultural imperialism and cultural globalisation from Mirrlees.
 - Cultural hybridity and Yoon's two forms of imagination.
@@ -55,25 +54,23 @@ These were explicitly emphasised in the exam-review session:
 ### Short answer
 
 ```text
-answer directly
--> define the requested concept
--> give the exact example or reason requested
+identify the one thing the question asks
+-> answer that point directly
+-> add only the explanation or example requested
 ```
 
-A few sentences are usually enough. If the question requests two examples, give two rather than adding unrelated material.
+The teacher says a short answer asks one thing and can be answered in a couple of sentences or phrases. A definition is needed only when the question asks for one or when it is necessary to make your answer clear. If the question requests two examples, give exactly two.
 
 ### Long answer
 
 ```text
-define
--> answer directly
--> explain the relationship
--> apply one strong example
--> add a limitation
--> give a judgement
+separate the question into its sub-questions
+-> answer each sub-question in order
+-> use the requested course concept or example
+-> stop when every requested part has been answered
 ```
 
-A long answer will usually fit in about half an A4 page.
+The teacher says a long answer asks two or more things, so it requires more writing than a short answer. It does not automatically require a definition, example, limitation and judgement. Include those elements only when the wording asks for them. Get straight to the point and avoid unnecessary information; there is no fixed word count or required page length.
 
 ### Unseen excerpt
 
@@ -83,30 +80,19 @@ identify the media development
 -> use specific evidence from the excerpt
 -> explain the connection
 -> answer every part of the question
--> give a judgement
 ```
 
-The excerpt is based on newspaper writing rather than a difficult academic text. A response will usually fit within about two-thirds to one A4 page.
-
-### Dataset or graph
-
-```text
-identify the main pattern
--> cite a visible comparison or figure
--> connect the pattern to a course concept
--> explain what it demonstrates
--> state one limitation if relevant
-```
-
-The visual will come from material previously used in a lecture or tutorial.
+The teacher describes this as an application long question: it has the same multi-part format as the other long questions, but you first read an excerpt and then answer one long question about it. Give a judgement only if the question asks you to evaluate or take a position.
 
 ## What Not to Memorise
 
 - Scholar, director, performer, agency and production-year details are not the priority.
 - Do not memorise every storyline or every example.
+- Examples from prescribed readings and lectures are important, but not every tutorial example will appear in the exam.
 - Do not prioritise Nollywood satellite-channel details.
 - Do not memorise the detailed operation of the Uganda video halls or Cuba's El Paquete.
 - Uganda and Cuba were practice cases for challenging assumptions about piracy and distribution; the examinable focus is the broader reasoning.
+- iROKOtv was covered in the reading and lecture, so the teacher identifies it as an example worth studying.
 - Minor spelling mistakes are acceptable when the intended concept remains clear.
 
 ## Final Readiness Test
@@ -115,7 +101,7 @@ The visual will come from material previously used in a lecture or tutorial.
 2. Can you define each priority concept in your own words?
 3. Can you explain why each chosen example demonstrates the concept?
 4. Can you apply industrial contact zone beyond Netflix India?
-5. Can you analyse a familiar graph and an unfamiliar news excerpt?
+5. Can you apply a course concept to an unfamiliar news excerpt?
 6. Can you answer only what the question asks instead of writing everything you remember?
 
 If any answer is no, open the linked unit review and practise a short response. Use lecture explanations first and prescribed readings to clarify definitions. Do not replace course definitions with outside sources.
