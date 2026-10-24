@@ -12,7 +12,9 @@ Media connect separate people to a common image of the nation. Nation branding e
 
 ## Exam Use
 
-**Short:** Nations are imagined through shared media symbols. Qatar's repeated tourism images create a recognisable national story for viewers who have never visited.
+**Possible short question:** How do Qatar's videos construct an imagined national community?
+
+**Answer:** Repeated images of hospitality, family travel, markets, desert adventure and luxury make Qatar appear coherent to people who may never visit. The campaign selects one version of the nation and leaves others outside the frame.
 
 **Long:** Explain how repetition creates reputation, then ask whose version of the nation is included and excluded.
 
