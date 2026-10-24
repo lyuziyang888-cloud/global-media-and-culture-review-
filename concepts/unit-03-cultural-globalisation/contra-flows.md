@@ -3,11 +3,11 @@
 **Unit:** Unit 3: Cultural Globalisation
 **Exam priority:** CORE - know the definition and one case
 
-## Memorise This
+## Definition
 
 Contra-flows are media movements from former peripheries, the Global South or non-US centres towards other peripheral and dominant markets.
 
-## Definition
+## What This Concept Explains
 
 Contra-flows are media movements from former peripheries, the Global South or non-US centres towards other peripheral and dominant markets.
 
@@ -20,71 +20,30 @@ Contra-flows are media movements from former peripheries, the Global South or no
 - non-US content
 - coexistence
 
-## Key Points
+## Concrete Course Evidence
 
-- challenge an exclusively US-to-rest model
-- can move North-South, South-South or South-North
-- coexist with unequal and one-way flows
-- do not automatically remove US or platform dominance
-- Venezuela's *Juana la virgen* travelled through adaptations in the US, Europe, Asia and Latin America. Chinese microdramas provide a contemporary example for testing contra-flow.
+- The Venezuelan telenovela Juana la Virgen became Jane the Virgin and was adapted in the United States, South Korea, India and other markets.
+- The format originated outside the traditional US core and changed as it entered different production cultures.
+- Chinese microdramas now circulate to overseas audiences through streaming and mobile platforms.
+- Their movement challenges a purely US-to-rest model, although platform ownership still shapes visibility and revenue.
 
-## PPT Case
-
-**Case:** *Jane the Virgin* and Chinese microdramas
-
-**Why it fits:** Media formats and production models move from Venezuela or China toward wider markets rather than only outward from the United States.
-
-## How to Use This Concept
-
-### What It Explains
-
-Contra-flows are media movements from former peripheries, the Global South or non-US centres towards other peripheral and dominant markets.
-
-### When to Use It
-
-Use it when a question asks: **How do contra-flows complicate media imperialism?**
-
-### How the Course Case Shows It
-
-***Jane the Virgin* and Chinese microdramas:** Media formats and production models move from Venezuela or China toward wider markets rather than only outward from the United States.
-
-### Argument You Can Make
+## How the Evidence Shows the Concept
 
 Venezuela's *Juana la virgen* travelled through adaptations in the US, Europe, Asia and Latin America. Chinese microdramas provide a contemporary example for testing contra-flow.
 
-### Do Not Overclaim
 
-Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
+## Exam Use
+
+**Possible long question:** How do contra-flows complicate media imperialism?
+
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+
+**Do not overclaim:** Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
 
 **Course basis:** Week 3 lecture, criticism slide 17; Week 3 tutorial
-
-## Possible Long-Answer Question
-
-> How do contra-flows complicate media imperialism?
-
-### Long-Answer Plan
-
-Define **contra-flows**, identify the relevant detail in ***Jane the Virgin* and Chinese microdramas**, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **Contra-Flows** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is Contra-Flows? Give one course example.
 
 **Answer:** Contra-flows are media movements from former peripheries, the Global South or non-US centres towards other peripheral and dominant markets. A course example is *Jane the Virgin* and Chinese microdramas. Media formats and production models move from Venezuela or China toward wider markets rather than only outward from the United States.
-
-
-## Other Possible Questions
-
-- What is a contra-flow?
-- How do contra-flows complicate media imperialism?
-- Can contra-flows coexist with US dominance?

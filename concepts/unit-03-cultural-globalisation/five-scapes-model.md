@@ -3,11 +3,11 @@
 **Unit:** Unit 3: Cultural Globalisation
 **Exam priority:** SUPPORTING - recognise it and use it when relevant
 
-## Memorise This
+## Definition
 
 The five-scapes model describes globalisation as overlapping, interconnected and deterritorialised movements whose meaning and effects depend on context.
 
-## Definition
+## What This Concept Explains
 
 The five-scapes model describes globalisation as overlapping, interconnected and deterritorialised movements whose meaning and effects depend on context.
 
@@ -20,71 +20,28 @@ The five-scapes model describes globalisation as overlapping, interconnected and
 - context
 - not generalisable
 
-## Key Points
+## Concrete Course Evidence
 
-- **Financescapes:** movement of capital across time and space
-- **Ethnoscapes:** physical or symbolic movement of people and communities
-- **Ideoscapes:** movement of ideas, ideals and narratives
-- **Technoscapes:** movement and connection enabled by technologies
-- **Mediascapes:** worldwide production, distribution and consumption of media information and content
+- George Lucas interprets US entertainment exports as Americanisation; Philippe Legrain interprets global circulation as exchange and cultural hybridity.
+- The disagreement shows that the same flow can be read as unequal power or active cultural exchange.
 
-## PPT Case
-
-**Case:** Cross-border movement of people, technology, finance, media and ideas
-
-**Why it fits:** The model separates interacting global flows instead of treating globalisation as one uniform process.
-
-## How to Use This Concept
-
-### What It Explains
-
-The five-scapes model describes globalisation as overlapping, interconnected and deterritorialised movements whose meaning and effects depend on context.
-
-### When to Use It
-
-Use it when a question asks: **What are the five scapes?**
-
-### How the Course Case Shows It
-
-**Cross-border movement of people, technology, finance, media and ideas:** The model separates interacting global flows instead of treating globalisation as one uniform process.
-
-### Argument You Can Make
+## How the Evidence Shows the Concept
 
 **Mediascapes:** worldwide production, distribution and consumption of media information and content
 
-### Do Not Overclaim
 
-Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
+## Exam Use
+
+**Possible long question:** What are the five scapes?
+
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+
+**Do not overclaim:** Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
 
 **Course basis:** Week 3 lecture, criticism slide 17; Week 3 tutorial
-
-## Possible Long-Answer Question
-
-> What are the five scapes?
-
-### Long-Answer Plan
-
-Define **five-scapes model**, identify the relevant detail in **Cross-border movement of people, technology, finance, media and ideas**, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **Five-Scapes Model** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is Five-Scapes Model? Give one course example.
 
 **Answer:** The five-scapes model describes globalisation as overlapping, interconnected and deterritorialised movements whose meaning and effects depend on context. A course example is Cross-border movement of people, technology, finance, media and ideas. The model separates interacting global flows instead of treating globalisation as one uniform process.
-
-
-## Other Possible Questions
-
-- What are the five scapes?
-- Why does Appadurai use the term "scape"?
-- How can mediascapes and technoscapes interact?

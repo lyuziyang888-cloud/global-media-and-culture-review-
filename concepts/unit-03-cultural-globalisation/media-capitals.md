@@ -3,11 +3,11 @@
 **Unit:** Unit 3: Cultural Globalisation
 **Exam priority:** SUPPORTING - recognise it and use it when relevant
 
-## Memorise This
+## Definition
 
 Media capitals are dynamic and historically contingent centres where resources, reputation and talent concentrate, enabling efficient and sustained media production.
 
-## Definition
+## What This Concept Explains
 
 Media capitals are dynamic and historically contingent centres where resources, reputation and talent concentrate, enabling efficient and sustained media production.
 
@@ -21,71 +21,30 @@ Media capitals are dynamic and historically contingent centres where resources, 
 - relational
 - historically contingent
 
-## Key Points
+## Concrete Course Evidence
 
-- are not simply equivalent to sovereign states
-- attract creative workers and investment
-- develop specialised infrastructure and professional networks
-- can rise, decline or change through historical relationships
-- The concept explains why important global media centres can emerge beyond Hollywood and why media movement cannot be understood only as exchange between nations.
+- The Venezuelan telenovela Juana la Virgen became Jane the Virgin and was adapted in the United States, South Korea, India and other markets.
+- The format originated outside the traditional US core and changed as it entered different production cultures.
+- Chinese microdramas now circulate to overseas audiences through streaming and mobile platforms.
+- Their movement challenges a purely US-to-rest model, although platform ownership still shapes visibility and revenue.
 
-## PPT Case
-
-**Case:** Seoul, Mumbai and other regional production centres
-
-**Why it fits:** Concentrated talent, finance and production networks allow cities to organise media flows beyond Hollywood.
-
-## How to Use This Concept
-
-### What It Explains
-
-Media capitals are dynamic and historically contingent centres where resources, reputation and talent concentrate, enabling efficient and sustained media production.
-
-### When to Use It
-
-Use it when a question asks: **What makes a place a media capital?**
-
-### How the Course Case Shows It
-
-**Seoul, Mumbai and other regional production centres:** Concentrated talent, finance and production networks allow cities to organise media flows beyond Hollywood.
-
-### Argument You Can Make
+## How the Evidence Shows the Concept
 
 The concept explains why important global media centres can emerge beyond Hollywood and why media movement cannot be understood only as exchange between nations.
 
-### Do Not Overclaim
 
-Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
+## Exam Use
+
+**Possible long question:** What makes a place a media capital?
+
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+
+**Do not overclaim:** Multidirectional circulation and active audiences do not remove unequal ownership, platform control or distribution power.
 
 **Course basis:** Week 3 lecture, criticism slide 17; Week 3 tutorial
-
-## Possible Long-Answer Question
-
-> What makes a place a media capital?
-
-### Long-Answer Plan
-
-Define **media capitals**, identify the relevant detail in **Seoul, Mumbai and other regional production centres**, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **Media Capitals** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is Media Capitals? Give one course example.
 
 **Answer:** Media capitals are dynamic and historically contingent centres where resources, reputation and talent concentrate, enabling efficient and sustained media production. A course example is Seoul, Mumbai and other regional production centres. Concentrated talent, finance and production networks allow cities to organise media flows beyond Hollywood.
-
-
-## Other Possible Questions
-
-- What makes a place a media capital?
-- How do media capitals challenge nation-centred media imperialism?
-- Does the rise of new media capitals produce equality?
