@@ -3,11 +3,11 @@
 **Unit:** Unit 5: Localising Streaming
 **Exam priority:** CORE - know the definition and one case
 
-## Memorise This
+## Definition
 
 The Bollywoodization of Netflix describes Netflix's increasing dependence on Bollywood stars, directors, production companies, genres and aesthetics when localising in India.
 
-## Definition
+## What This Concept Explains
 
 The Bollywoodization of Netflix describes Netflix's increasing dependence on Bollywood stars, directors, production companies, genres and aesthetics when localising in India.
 
@@ -19,69 +19,28 @@ The Bollywoodization of Netflix describes Netflix's increasing dependence on Bol
 - Sacred Games
 - production networks
 
-## Key Points
+## Concrete Course Evidence
 
-- Netflix worked with established Bollywood actors, directors and producer-owned companies
-- *Sacred Games* combined Netflix's global crime-drama logic with Bollywood production practices
-- the strategy shows that Netflix must negotiate with local industry power
-- localisation changes the platform as well as the content it distributes
+- Netflix relied on Indian story material, Bollywood talent and local production knowledge for Sacred Games.
+- It promoted the series as India’s Narcos, combining local content with a globally recognisable crime-drama frame.
 
-## PPT Case
-
-**Case:** *Sacred Games*
-
-**Why it fits:** Netflix relied on Bollywood talent, companies and production knowledge while packaging an Indian story for its global service.
-
-## How to Use This Concept
-
-### What It Explains
-
-The Bollywoodization of Netflix describes Netflix's increasing dependence on Bollywood stars, directors, production companies, genres and aesthetics when localising in India.
-
-### When to Use It
-
-Use it when a question asks: **Does Netflix dominate India on its own terms?**
-
-### How the Course Case Shows It
-
-***Sacred Games*:** Netflix relied on Bollywood talent, companies and production knowledge while packaging an Indian story for its global service.
-
-### Argument You Can Make
+## How the Evidence Shows the Concept
 
 localisation changes the platform as well as the content it distributes
 
-### Do Not Overclaim
 
-Local adaptation and competition constrain global platforms, but they do not remove their financial, technological and distribution advantages.
+## Exam Use
+
+**Possible long question:** Does Netflix dominate India on its own terms?
+
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+
+**Do not overclaim:** Local adaptation and competition constrain global platforms, but they do not remove their financial, technological and distribution advantages.
 
 **Course basis:** Week 5 lecture and tutorial; Unit 5 evidence map
-
-## Possible Long-Answer Question
-
-> Does Netflix dominate India on its own terms?
-
-### Long-Answer Plan
-
-Define **bollywoodization of netflix**, identify the relevant detail in ***Sacred Games***, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **Bollywoodization of Netflix** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is Bollywoodization of Netflix? Give one course example.
 
 **Answer:** The Bollywoodization of Netflix describes Netflix's increasing dependence on Bollywood stars, directors, production companies, genres and aesthetics when localising in India. A course example is *Sacred Games*. Netflix relied on Bollywood talent, companies and production knowledge while packaging an Indian story for its global service.
-
-
-## Other Possible Questions
-
-- What is the Bollywoodization of Netflix?
-- Does Netflix dominate India on its own terms?
