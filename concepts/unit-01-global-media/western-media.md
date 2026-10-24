@@ -5,8 +5,7 @@
 
 ## Definition
 
-Western media refers to media associated with countries, industries, values or cultural traditions commonly understood as part of "the West", although the category is contested and not always clear.
-
+Western media refers to media associated with countries, industries, values or cultural traditions commonly understood as part of "the West"
 ## Why The Category Is Contested
 
 The Week 1 lecture warns against treating the US, UK and Western Europe as the natural centre of global media. “Western” may refer to geography, political history, industry ownership or assumed cultural values, and these criteria do not always produce the same boundary. The label can therefore hide differences among countries classified together.
