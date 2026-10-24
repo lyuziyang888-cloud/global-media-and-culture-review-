@@ -33,15 +33,25 @@ The cosmopolitan local uses local stories and talent within genres designed for 
 
 **Why it fits:** Netflix used local stories in globally familiar forms, while Hotstar organised global streaming practices around Indian languages, Bollywood and cricket.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Compare cosmopolitan-local and indigenized-global strategies.
+### What It Explains
 
-**Exam-ready application:** Netflix India compared with Hotstar can be analysed through **Cosmopolitan Local and Indigenized Global**. Netflix used local stories in globally familiar forms, while Hotstar organised global streaming practices around Indian languages, Bollywood and cricket. This evidence shows how **Cosmopolitan Local and Indigenized Global** operates in practice.
+The cosmopolitan local uses local stories and talent within genres designed for globally oriented audiences.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Compare cosmopolitan-local and indigenized-global strategies.**
+
+### How the Course Case Shows It
+
+**Netflix India compared with Hotstar:** Netflix used local stories in globally familiar forms, while Hotstar organised global streaming practices around Indian languages, Bollywood and cricket.
+
+### Argument You Can Make
+
+comparing them shows how platforms negotiate different market conditions
+
+### Do Not Overclaim
 
 Local adaptation and competition constrain global platforms, but they do not remove their financial, technological and distribution advantages.
 
@@ -62,7 +72,7 @@ Define **cosmopolitan local and indigenized global**, identify the relevant deta
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

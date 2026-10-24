@@ -32,15 +32,25 @@ Industrial contact zones are spaces where global and local media industries meet
 
 **Why it fits:** Global streaming practices meet powerful local industries, languages, audiences and cricket culture, forcing different forms of adaptation.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Why is India an industrial contact zone for streaming platforms?
+### What It Explains
 
-**Exam-ready application:** Netflix India and Hotstar/JioHotstar can be analysed through **Industrial Contact Zones**. Global streaming practices meet powerful local industries, languages, audiences and cricket culture, forcing different forms of adaptation. This evidence shows how **Industrial Contact Zones** operates in practice.
+Industrial contact zones are spaces where global and local media industries meet, interact and change within power relations that may be unequal but are not fixed.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Why is India an industrial contact zone for streaming platforms?**
+
+### How the Course Case Shows It
+
+**Netflix India and Hotstar/JioHotstar:** Global streaming practices meet powerful local industries, languages, audiences and cricket culture, forcing different forms of adaptation.
+
+### Argument You Can Make
+
+the concept avoids assuming either equal cultural mixing or total Western domination
+
+### Do Not Overclaim
 
 Local adaptation and competition constrain global platforms, but they do not remove their financial, technological and distribution advantages.
 
@@ -61,7 +71,7 @@ Define **industrial contact zones**, identify the relevant detail in **Netflix I
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

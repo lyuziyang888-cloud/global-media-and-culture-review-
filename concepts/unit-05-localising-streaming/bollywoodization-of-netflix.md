@@ -32,15 +32,25 @@ The Bollywoodization of Netflix describes Netflix's increasing dependence on Bol
 
 **Why it fits:** Netflix relied on Bollywood talent, companies and production knowledge while packaging an Indian story for its global service.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Does Netflix dominate India on its own terms?
+### What It Explains
 
-**Exam-ready application:** *Sacred Games* can be analysed through **Bollywoodization of Netflix**. Netflix relied on Bollywood talent, companies and production knowledge while packaging an Indian story for its global service. This evidence shows how **Bollywoodization of Netflix** operates in practice.
+The Bollywoodization of Netflix describes Netflix's increasing dependence on Bollywood stars, directors, production companies, genres and aesthetics when localising in India.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Does Netflix dominate India on its own terms?**
+
+### How the Course Case Shows It
+
+***Sacred Games*:** Netflix relied on Bollywood talent, companies and production knowledge while packaging an Indian story for its global service.
+
+### Argument You Can Make
+
+localisation changes the platform as well as the content it distributes
+
+### Do Not Overclaim
 
 Local adaptation and competition constrain global platforms, but they do not remove their financial, technological and distribution advantages.
 
@@ -61,7 +71,7 @@ Define **bollywoodization of netflix**, identify the relevant detail in ***Sacre
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
