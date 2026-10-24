@@ -35,15 +35,25 @@ Streaming platforms are digital services that distribute media content online to
 
 **Why it fits:** These services expand access while influencing funding, availability and international visibility.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How do streaming platforms affect local media industries?
+### What It Explains
 
-**Exam-ready application:** Netflix, HBO and Crave can be analysed through **Streaming Platforms**. These services expand access while influencing funding, availability and international visibility. This evidence shows how **Streaming Platforms** operates in practice.
+Streaming platforms are digital services that distribute media content online to audiences, often across national borders.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How do streaming platforms affect local media industries?**
+
+### How the Course Case Shows It
+
+**Netflix, HBO and Crave:** These services expand access while influencing funding, availability and international visibility.
+
+### Argument You Can Make
+
+Streaming platforms matter because they connect local media industries to global audiences while also concentrating distribution power in large companies.
+
+### Do Not Overclaim
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
 
@@ -64,7 +74,7 @@ Define **streaming platforms**, identify the relevant detail in **Netflix, HBO a
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

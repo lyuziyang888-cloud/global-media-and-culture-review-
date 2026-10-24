@@ -35,15 +35,25 @@ Western media refers to media associated with countries, industries, values or c
 
 **Why it fits:** Both complicate simple classifications of what counts as Western or nationally owned media.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Who counts as "the West" and who does not?
+### What It Explains
 
-**Exam-ready application:** Canadian media and *KPop Demon Hunters* can be analysed through **Western Media**. Both complicate simple classifications of what counts as Western or nationally owned media. This evidence shows how **Western Media** operates in practice.
+Western media refers to media associated with countries, industries, values or cultural traditions commonly understood as part of "the West", although the category is contested and not always clear.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Who counts as "the West" and who does not?**
+
+### How the Course Case Shows It
+
+**Canadian media and *KPop Demon Hunters*:** Both complicate simple classifications of what counts as Western or nationally owned media.
+
+### Argument You Can Make
+
+Western media matters because global media studies often questions whether media is being understood from a Western-centric point of view.
+
+### Do Not Overclaim
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
 
@@ -64,7 +74,7 @@ Define **western media**, identify the relevant detail in **Canadian media and *
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

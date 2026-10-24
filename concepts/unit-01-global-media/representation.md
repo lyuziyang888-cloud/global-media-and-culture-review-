@@ -35,15 +35,25 @@ Representation refers to how people, places, cultures, identities and social gro
 
 **Why it fits:** Its creators and performers shape how an Indigenous Arctic community is represented.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** Why does representation matter in global media?
+### What It Explains
 
-**Exam-ready application:** *North of North* can be analysed through **Representation**. Its creators and performers shape how an Indigenous Arctic community is represented. This evidence shows how **Representation** operates in practice.
+Representation refers to how people, places, cultures, identities and social groups are portrayed in media.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **Why does representation matter in global media?**
+
+### How the Course Case Shows It
+
+***North of North*:** Its creators and performers shape how an Indigenous Arctic community is represented.
+
+### Argument You Can Make
+
+Representation matters because media does not simply show reality. It selects, frames and gives meaning to people, places and cultures.
+
+### Do Not Overclaim
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
 
@@ -64,7 +74,7 @@ Define **representation**, identify the relevant detail in ***North of North***,
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

@@ -35,15 +35,25 @@ Platform power refers to the ability of digital platforms to influence which con
 
 **Why it fits:** The examples combine local creators, stories or locations with cross-border platform distribution.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How does platform power affect local media?
+### What It Explains
 
-**Exam-ready application:** *North of North* and *Heated Rivalry* can be analysed through **Platform Power**. The examples combine local creators, stories or locations with cross-border platform distribution. This evidence shows how **Platform Power** operates in practice.
+Platform power refers to the ability of digital platforms to influence which content is funded, distributed, promoted and accessed by audiences.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How does platform power affect local media?**
+
+### How the Course Case Shows It
+
+***North of North* and *Heated Rivalry*:** The examples combine local creators, stories or locations with cross-border platform distribution.
+
+### Argument You Can Make
+
+Platform power matters because global media is not only about content travelling. It is also about who controls the routes through which content travels.
+
+### Do Not Overclaim
 
 Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
 
@@ -64,7 +74,7 @@ Define **platform power**, identify the relevant detail in ***North of North* an
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
