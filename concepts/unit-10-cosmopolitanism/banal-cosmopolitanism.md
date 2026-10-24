@@ -3,11 +3,11 @@
 **Unit:** Unit 10 Cosmopolitanism
 **Exam priority:** CORE - know the definition and one case
 
-## Memorise This
+## Definition
 
 The ordinary, often non-reflexive experience of global culture through everyday consumption.
 
-## Definition
+## What This Concept Explains
 
 The ordinary, often non-reflexive experience of global culture through everyday consumption.
 
@@ -15,66 +15,28 @@ The ordinary, often non-reflexive experience of global culture through everyday 
 
 Everyday media, ordinary consumption, foreign content, non-reflexive globality.
 
-## Key Points
+## Concrete Course Evidence
+
+- Amparo described learning Turkish customs and everyday life through routine television viewing.
+- She continued watching even when she disagreed with practices she considered sexist.
+
+## How the Evidence Shows the Concept
 
 Foreign content becomes a normal part of daily viewing. Audiences may learn about another country mainly from what appears on screen without actively researching it.
 
-## PPT Case
 
-**Case:** Routine viewing of Turkish dramas in Spain
+## Exam Use
 
-**Why it fits:** Foreign culture becomes part of ordinary entertainment without necessarily producing deliberate reflection.
+**Possible long question:** How can television create banal cosmopolitanism?
 
-## How to Use This Concept
+**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
 
-### What It Explains
-
-The ordinary, often non-reflexive experience of global culture through everyday consumption.
-
-### When to Use It
-
-Use it when a question asks: **How can television create banal cosmopolitanism?**
-
-### How the Course Case Shows It
-
-**Routine viewing of Turkish dramas in Spain:** Foreign culture becomes part of ordinary entertainment without necessarily producing deliberate reflection.
-
-### Argument You Can Make
-
-Foreign content becomes a normal part of daily viewing. Audiences may learn about another country mainly from what appears on screen without actively researching it.
-
-### Do Not Overclaim
-
-Watching foreign media does not automatically create cosmopolitan openness. Industrial access, audience background and the reproduction of stereotypes must also be considered.
+**Do not overclaim:** Watching foreign media does not automatically create cosmopolitan openness. Industrial access, audience background and the reproduction of stereotypes must also be considered.
 
 **Course basis:** Week 10 lecture and tutorial; Ferreira reading
-
-## Possible Long-Answer Question
-
-> How can television create banal cosmopolitanism?
-
-### Long-Answer Plan
-
-Define **banal cosmopolitanism**, identify the relevant detail in **Routine viewing of Turkish dramas in Spain**, explain why it demonstrates the concept, and finish with one limitation or judgement.
-
-### How to Answer the Long Question
-
-1. Define **Banal Cosmopolitanism** accurately.
-2. Give a direct answer or thesis responding to the wording of the question.
-3. Explain the relevant relationship, process or form of power.
-4. Apply the PPT case and use one concrete detail from it.
-5. Explain what that evidence proves; do not only name the example.
-6. Add the **Do Not Overclaim** point above.
-7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
 
 > What is Banal Cosmopolitanism? Give one course example.
 
 **Answer:** The ordinary, often non-reflexive experience of global culture through everyday consumption. A course example is Routine viewing of Turkish dramas in Spain. Foreign culture becomes part of ordinary entertainment without necessarily producing deliberate reflection.
-
-
-## Other Possible Questions
-
-- How can television create banal cosmopolitanism?
-- How does banal cosmopolitanism differ from pop cosmopolitanism?
