@@ -41,6 +41,6 @@ Visit Brisbane selects food, leisure and accessible precincts for tourists. Ausf
 
 ## Possible Short Answer
 
-> What is Place-Making? Give one course example.
+> How can Brisbane matter even when it represents another place?
 
-**Answer:** Place-making is the process through which institutions, industries and media give locations particular meanings and identities. A course example is Budapest and Brisbane. Media and industry give each city selective meanings for different audiences and production purposes.
+**Answer:** Crews, locations and policy construct Brisbane as a workable production centre, even if the city is visually disguised on screen. Place-making operates through industrial reputation as well as visible representation.

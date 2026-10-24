@@ -42,6 +42,6 @@ The 30% rebate, experienced crews and studio infrastructure make repeated foreig
 
 ## Possible Short Answer
 
-> What is Media-Service Industry? Give one course example.
+> What is the main tension in a media-service industry?
 
-**Answer:** A media-service industry provides locations, labour, facilities and production support for projects controlled or financed by outside companies. A course example is Foreign productions filmed in Budapest. Local crews and facilities service externally controlled projects, creating work alongside dependency.
+**Answer:** Foreign productions can create jobs, skills and investment, but ownership and creative control may remain overseas. Budapest gains production activity while often serving projects whose stories and profits are controlled elsewhere.

@@ -42,6 +42,6 @@ Hungary offers a 30% rebate, studios, experienced crews and locations able to re
 
 ## Possible Short Answer
 
-> What is Soft Power? Give one course example.
+> How does Budapest use location as soft power?
 
-**Answer:** Soft power is the ability to influence others through attraction rather than coercion or payment. A course example is Budapest as a flexible filming location. Budapest attracts foreign productions through locations, incentives, crews and intermediaries while often representing other cities on screen.
+**Answer:** Rebates, skilled crews, adaptable architecture and trusted intermediaries make foreign producers want to work there. The attraction changes industry relationships without direct coercion, even when Budapest plays another city on screen.

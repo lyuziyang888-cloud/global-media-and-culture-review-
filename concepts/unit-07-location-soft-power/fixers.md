@@ -41,6 +41,6 @@ The government can advertise Hungary as film-friendly, but a production still re
 
 ## Possible Short Answer
 
-> What is Fixers? Give one course example.
+> Why are fixers important to Budapest's production industry?
 
-**Answer:** Fixers are industry intermediaries who connect foreign producers with government agencies, local workers and other stakeholders. A course example is Budapest production fixers. They translate expectations, connect stakeholders and turn an attractive national image into workable production relationships.
+**Answer:** They connect foreign producers with crews, officials, permits and facilities and translate expectations between them. These relationships turn tax incentives and locations into production arrangements that outsiders can actually use.
