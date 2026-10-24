@@ -17,7 +17,9 @@ Qatar's Couple and Friends videos fit the first strategy because international v
 
 ## Exam Use
 
-**Possible short question:** Which of Mino's strategies is clearest in Qatar's Couple and Friends videos?
+## Derived Short-Answer Practice
+
+> Which of Mino's strategies is clearest in Qatar's Couple and Friends videos?
 
 **Answer:** The adventurous-foreigner strategy is clearest because international visitors drive the action and discover the destination. Qatar becomes the place they explore and consume.
 

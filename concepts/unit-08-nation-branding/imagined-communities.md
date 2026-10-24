@@ -12,7 +12,9 @@ Media connect separate people to a common image of the nation. Nation branding e
 
 ## Exam Use
 
-**Possible short question:** How do Qatar's videos construct an imagined national community?
+## Derived Short-Answer Practice
+
+> How do Qatar's videos construct an imagined national community?
 
 **Answer:** Repeated images of hospitality, family travel, markets, desert adventure and luxury make Qatar appear coherent to people who may never visit. The campaign selects one version of the nation and leaves others outside the frame.
 

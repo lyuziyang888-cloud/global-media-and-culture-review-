@@ -12,7 +12,9 @@ A campaign selects places, people and activities, links them to a slogan, and re
 
 ## Exam Use
 
-**Possible short question:** What does Qatar's *Surprise Yourself* campaign want foreign audiences to believe about the country?
+## Derived Short-Answer Practice
+
+> What does Qatar's *Surprise Yourself* campaign want foreign audiences to believe about the country?
 
 **Answer:** It presents Qatar as safe, varied and easy to enjoy through culture, desert adventure and luxury. This is a selected tourism image rather than a complete account of Qatari society.
 
