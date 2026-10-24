@@ -12,7 +12,9 @@ Spanish audiences already knew melodrama through Latin American telenovelas; Ros
 
 ## Exam Use
 
-**Short:** Familiar melodrama helped Turkish dramas enter Spain, but cultural novelty also sustained interest.
+**Possible short question:** Why did cultural proximity only partly explain Turkish dramas' appeal in Spain?
+
+**Answer:** Familiar melodrama and family themes made the programs accessible, but viewers were also attracted by unfamiliar Turkish places and customs. Familiarity and difference worked together.
 
 **Long:** Use proximity for initial accessibility and cosmopolitanism for interest in difference.
 

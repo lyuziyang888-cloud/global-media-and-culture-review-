@@ -12,7 +12,9 @@ Amparo learned about Turkish customs and daily life through regular television v
 
 ## Exam Use
 
-**Short:** Banal cosmopolitanism is everyday exposure to foreign culture. Amparo learned about Turkish life through routine drama viewing while questioning parts of it.
+**Possible short question:** Why is Amparo's viewing described as banal cosmopolitanism?
+
+**Answer:** Turkish customs became part of her ordinary television routine rather than a formal learning project. She encountered difference repeatedly and could question practices she disliked.
 
 **Long:** Compare routine exposure with pop cosmopolitanism, where viewers actively research, learn or participate.
 

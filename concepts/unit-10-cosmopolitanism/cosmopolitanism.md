@@ -16,7 +16,9 @@ The dramas placed unfamiliar practices inside everyday life. Evidence becomes st
 
 ## Exam Use
 
-**Short:** Spanish Turkish-drama fans showed cosmopolitanism when viewing led to language learning, reflection or travel.
+**Possible short question:** Does watching Turkish drama automatically make a Spanish viewer cosmopolitan?
+
+**Answer:** No. Viewing provides contact, but stronger evidence comes from reflection and action, such as Isabella learning Turkish or Lidia forming fan friendships and travelling to Istanbul.
 
 **Long:** Separate access, routine exposure and active reflection. Note that the small, mostly female sample does not represent every Spanish viewer (pp. 938-939, 945-946).
 
