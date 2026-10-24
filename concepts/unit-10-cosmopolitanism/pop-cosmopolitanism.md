@@ -25,15 +25,25 @@ Viewers go beyond watching. They may research the culture, learn a language, joi
 
 **Why it fits:** Fans move beyond consumption toward active learning and reflection.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** What makes a viewer a pop cosmopolitan?
+### What It Explains
 
-**Exam-ready application:** Spanish fans learning Turkish or travelling to Turkey can be analysed through **Pop Cosmopolitanism**. Fans move beyond consumption toward active learning and reflection. This evidence shows how **Pop Cosmopolitanism** operates in practice.
+Active engagement with popular culture from elsewhere that expands cultural knowledge and may prompt reflection on one's own culture.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **What makes a viewer a pop cosmopolitan?**
+
+### How the Course Case Shows It
+
+**Spanish fans learning Turkish or travelling to Turkey:** Fans move beyond consumption toward active learning and reflection.
+
+### Argument You Can Make
+
+Viewers go beyond watching. They may research the culture, learn a language, join fan communities, travel or question whether media representations match social reality.
+
+### Do Not Overclaim
 
 Watching foreign media does not automatically create cosmopolitan openness. Industrial access, audience background and the reproduction of stereotypes must also be considered.
 
@@ -54,7 +64,7 @@ Define **pop cosmopolitanism**, identify the relevant detail in **Spanish fans l
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

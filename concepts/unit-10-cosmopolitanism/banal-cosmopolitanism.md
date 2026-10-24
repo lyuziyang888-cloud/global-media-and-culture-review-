@@ -25,15 +25,25 @@ Foreign content becomes a normal part of daily viewing. Audiences may learn abou
 
 **Why it fits:** Foreign culture becomes part of ordinary entertainment without necessarily producing deliberate reflection.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How can television create banal cosmopolitanism?
+### What It Explains
 
-**Exam-ready application:** Routine viewing of Turkish dramas in Spain can be analysed through **Banal Cosmopolitanism**. Foreign culture becomes part of ordinary entertainment without necessarily producing deliberate reflection. This evidence shows how **Banal Cosmopolitanism** operates in practice.
+The ordinary, often non-reflexive experience of global culture through everyday consumption.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How can television create banal cosmopolitanism?**
+
+### How the Course Case Shows It
+
+**Routine viewing of Turkish dramas in Spain:** Foreign culture becomes part of ordinary entertainment without necessarily producing deliberate reflection.
+
+### Argument You Can Make
+
+Foreign content becomes a normal part of daily viewing. Audiences may learn about another country mainly from what appears on screen without actively researching it.
+
+### Do Not Overclaim
 
 Watching foreign media does not automatically create cosmopolitan openness. Industrial access, audience background and the reproduction of stereotypes must also be considered.
 
@@ -54,7 +64,7 @@ Define **banal cosmopolitanism**, identify the relevant detail in **Routine view
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer

@@ -25,15 +25,25 @@ Media can expose people to unfamiliar cultures without physical travel. Watching
 
 **Why it fits:** Viewers were attracted by familiar melodrama as well as cultural difference, and some developed more active knowledge and reflection.
 
-## How to Apply in an Answer
+## How to Use This Concept
 
-**Use it for:** How can foreign media encourage cosmopolitan attitudes?
+### What It Explains
 
-**Exam-ready application:** Spanish audiences watching Turkish dramas can be analysed through **Cosmopolitanism**. Viewers were attracted by familiar melodrama as well as cultural difference, and some developed more active knowledge and reflection. This evidence shows how **Cosmopolitanism** operates in practice.
+A sense of belonging to the wider world, together with awareness of cultural plurality and openness to cultural difference.
 
-**Then evaluate:** Add the course-based limitation below and finish with a judgement that directly answers the question.
+### When to Use It
 
-## Course-Based Limitation
+Use it when a question asks: **How can foreign media encourage cosmopolitan attitudes?**
+
+### How the Course Case Shows It
+
+**Spanish audiences watching Turkish dramas:** Viewers were attracted by familiar melodrama as well as cultural difference, and some developed more active knowledge and reflection.
+
+### Argument You Can Make
+
+Media can expose people to unfamiliar cultures without physical travel. Watching foreign media does not automatically make someone cosmopolitan; curiosity, openness and reflection also matter.
+
+### Do Not Overclaim
 
 Watching foreign media does not automatically create cosmopolitan openness. Industrial access, audience background and the reproduction of stereotypes must also be considered.
 
@@ -54,7 +64,7 @@ Define **cosmopolitanism**, identify the relevant detail in **Spanish audiences 
 3. Explain the relevant relationship, process or form of power.
 4. Apply the PPT case and use one concrete detail from it.
 5. Explain what that evidence proves; do not only name the example.
-6. Add the Course-Based Limitation above.
+6. Add the **Do Not Overclaim** point above.
 7. Finish with a clear judgement that answers the question.
 
 ## Possible Short Answer
