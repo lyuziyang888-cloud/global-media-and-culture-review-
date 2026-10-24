@@ -43,6 +43,6 @@ Domestic and regional media can compete with US imports because audiences recogn
 
 ## Possible Short Answer
 
-> What is Cultural Proximity? Give one course example.
+> Why might Spanish viewers choose Turkish dramas?
 
-**Answer:** Cultural proximity is the tendency for audiences to prefer media that feels close to their language, humour, values, religion, ethnicity, lifestyle or everyday experience. A course example is Spanish audiences watching Turkish dramas. Familiar melodrama and shared values help attraction, but novelty and cultural difference also matter.
+**Answer:** Familiar melodrama, family conflict and moral themes make the programs readable, while Turkish settings provide novelty. Cultural proximity explains familiarity but not the whole attraction.

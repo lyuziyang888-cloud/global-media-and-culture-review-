@@ -43,6 +43,6 @@ Neither side is inactive. Local industries shape the content and market strategy
 
 ## Possible Short Answer
 
-> What is Asymmetrical Interdependence? Give one course example.
+> Can global platforms and local producers depend on each other unequally?
 
-**Answer:** Asymmetrical interdependence describes relationships in which countries, industries or cultures depend on and influence one another, but not with equal resources, control or effects. A course example is Global platforms working with local producers. Both sides need one another, but they do not possess equal control over finance, data, IP or distribution.
+**Answer:** Yes. Platforms need local stories, talent and audiences, while producers need finance and distribution. They are interdependent, but platforms may retain greater control over data, intellectual property and market access.

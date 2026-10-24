@@ -44,6 +44,6 @@ Multiple media capitals complicate a single US-centred map, but their existence 
 
 ## Possible Short Answer
 
-> What is Media Capitals? Give one course example.
+> What makes Seoul or Mumbai a media capital rather than only a production location?
 
-**Answer:** Media capitals are dynamic and historically contingent centres where resources, reputation and talent concentrate, enabling efficient and sustained media production. A course example is Seoul, Mumbai and other regional production centres. Concentrated talent, finance and production networks allow cities to organise media flows beyond Hollywood.
+**Answer:** Talent, finance, reputation, firms and distribution networks are concentrated there over time. This concentration lets the city organise sustained regional and global media flows rather than host a single project.

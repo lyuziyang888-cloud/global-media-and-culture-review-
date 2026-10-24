@@ -46,6 +46,6 @@ Mirrlees (2013, Chapter 1) presents cultural globalisation as a challenge to acc
 
 ## Possible Short Answer
 
-> What is Cultural Globalisation? Give one course example.
+> What does cultural globalisation explain that media imperialism can miss?
 
-**Answer:** Cultural globalisation is a paradigm containing theories and concepts that explain contextual, multidirectional and unequal interactions among media, people and cultures across borders. A course example is *Jane the Virgin* and Chinese microdramas. These examples show media moving from outside traditional Western centres and changing through adaptation and circulation.
+**Answer:** It captures multidirectional movement, adaptation and active local production. Cases such as Chinese microdramas show that media can emerge outside traditional Western centres and change as it enters new markets.

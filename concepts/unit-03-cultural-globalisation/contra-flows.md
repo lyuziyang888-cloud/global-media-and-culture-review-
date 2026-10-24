@@ -44,6 +44,6 @@ The Venezuelan origin of *Juana la virgen* matters because later US, European an
 
 ## Possible Short Answer
 
-> What is Contra-Flows? Give one course example.
+> How do Chinese microdramas challenge one-way media flow?
 
-**Answer:** Contra-flows are media movements from former peripheries, the Global South or non-US centres towards other peripheral and dominant markets. A course example is *Jane the Virgin* and Chinese microdramas. Media formats and production models move from Venezuela or China toward wider markets rather than only outward from the United States.
+**Answer:** Their short-form production model and content move from China into wider markets, reversing the expected West-to-rest direction. Their circulation does not remove inequality, but it proves media flow is multidirectional.

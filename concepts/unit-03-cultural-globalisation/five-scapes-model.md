@@ -41,6 +41,6 @@ Mirrlees warns that strong cultural-globalisation theories can become abstract a
 
 ## Possible Short Answer
 
-> What is Five-Scapes Model? Give one course example.
+> Why does Appadurai use five separate 'scapes'?
 
-**Answer:** The five-scapes model describes globalisation as overlapping, interconnected and deterritorialised movements whose meaning and effects depend on context. A course example is Cross-border movement of people, technology, finance, media and ideas. The model separates interacting global flows instead of treating globalisation as one uniform process.
+**Answer:** People, technology, finance, media and ideas do not move at the same speed or in the same direction. Separating the flows shows why globalisation is uneven and why their interactions produce different outcomes in each place.
