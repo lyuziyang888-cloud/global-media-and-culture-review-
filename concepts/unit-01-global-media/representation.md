@@ -7,9 +7,9 @@
 
 Representation refers to how people, places, cultures, identities and social groups are portrayed in media.
 
-## What This Concept Explains
+## Mechanism
 
-Representation refers to how people, places, cultures, identities and social groups are portrayed in media.
+Representation is produced through selection: creators choose which characters speak, which locations are visible, what behaviour appears normal and whose viewpoint organises the story. Authorship matters because the power to make those choices affects whether a community speaks through the production or is defined mainly from outside.
 
 ## Key Terms
 
@@ -27,23 +27,23 @@ Representation refers to how people, places, cultures, identities and social gro
 - Indigenous Canadians have substantial roles in its creation, performance and production.
 - CBC and APTN connect it to Canadian and Indigenous media institutions; Netflix gives it international distribution.
 
-## How the Evidence Shows the Concept
+## How The Case Demonstrates It
 
-Representation matters because media does not simply show reality. It selects, frames and gives meaning to people, places and cultures.
+*North of North* does not only place Indigenous characters on screen. Its Inuit Arctic setting is combined with Indigenous Canadian participation in creation, performance and production. That connection between screen visibility and production voice gives community members greater influence over how people and place are framed. Netflix increases the scale of that representation but does not create its authenticity by distribution alone (Stevis-Gridneff, 2026, pp. 1-2).
 
 
-## Exam Use
+## Derived Short-Answer Practice
 
-**Possible long question:** Why does representation matter in global media?
+> Why does Indigenous authorship matter in *North of North*?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**Answer:** Creators and performers connected to the represented community can influence which experiences, humour and identities appear on screen. This shifts representational power away from outsiders speaking for the community.
 
-**Do not overclaim:** Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
+## Possible Long-Answer Practice
 
-**Course basis:** Week 1 tutorial; Unit 1 evidence map
+> (a) Define representation. (b) Explain how *North of North* represents an Inuit community. (c) Why must authorship be considered alongside on-screen visibility?
 
-## Possible Short Answer
+- **(a):** Define representation as the way media portrays people, places, cultures, identities and groups.
+- **(b):** Use the Inuit Arctic setting and Indigenous Canadian participation in creation, acting and production; identify CBC and APTN as relevant institutions.
+- **(c):** Merely showing a community does not reveal who selected its stories and viewpoints. Indigenous production participation gives members of the represented community influence over those choices; Netflix's distribution alone does not create that authorship.
 
-> What is Representation? Give one course example.
-
-**Answer:** Representation refers to how people, places, cultures, identities and social groups are portrayed in media. A course example is *North of North*. Its creators and performers shape how an Indigenous Arctic community is represented.
+**Course basis:** Stevis-Gridneff (2026), PDF pp. 1-2; Week 1 tutorial.

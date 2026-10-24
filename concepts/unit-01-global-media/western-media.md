@@ -7,9 +7,9 @@
 
 Western media refers to media associated with countries, industries, values or cultural traditions commonly understood as part of "the West", although the category is contested and not always clear.
 
-## What This Concept Explains
+## Why The Category Is Contested
 
-Western media refers to media associated with countries, industries, values or cultural traditions commonly understood as part of "the West", although the category is contested and not always clear.
+The Week 1 lecture warns against treating the US, UK and Western Europe as the natural centre of global media. “Western” may refer to geography, political history, industry ownership or assumed cultural values, and these criteria do not always produce the same boundary. The label can therefore hide differences among countries classified together.
 
 ## Key Terms
 
@@ -23,32 +23,26 @@ Western media refers to media associated with countries, industries, values or c
 
 ## Concrete Course Evidence
 
-- The project originated with Canadian platform Crave.
-- Its source author Rachel Reid is from Nova Scotia, and its ice-hockey subject matter carries Canadian cultural associations.
-- Canadian creators, cast, crew, locations and imagery make it locally identifiable, while HBO provides US circulation.
-- The series is set in an Inuit community in the Canadian Arctic.
-- Indigenous Canadians have substantial roles in its creation, performance and production.
-- CBC and APTN connect it to Canadian and Indigenous media institutions; Netflix gives it international distribution.
-- The Week 1 tutorial requires nationality to be assessed through source material, creators, cast, crew, funding, ownership, locations, story and distribution.
-- A production can therefore be locally rooted and globally circulated at the same time.
+- The tutorial asks whether Canadian *Heated Rivalry* should be called Western media.
+- The lecture uses *KPop Demon Hunters* to test whether ownership, story, genre, personnel and audience produce the same national or regional classification.
 
-## How the Evidence Shows the Concept
+## How The Cases Demonstrate It
 
-Western media matters because global media studies often questions whether media is being understood from a Western-centric point of view.
+Calling *Heated Rivalry* Western is possible because Canada is commonly included in that geopolitical category. The label is still analytically weak: it hides the program's specifically Canadian authorship, hockey references and production links. *KPop Demon Hunters* creates the reverse problem because Korean cultural material and an American industrial context point in different directions. Both cases show why “Western” should be justified through a stated criterion rather than used as a self-evident map label.
 
 
-## Exam Use
+## Derived Short-Answer Practice
 
-**Possible long question:** Who counts as "the West" and who does not?
+> Why is 'Western media' a contested category?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**Answer:** Geography, ownership and cultural content do not always align. Canadian media may be grouped with the West while still resisting US dominance, and a globally produced text may combine Korean themes with US corporate ownership.
 
-**Do not overclaim:** Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
+## Possible Long-Answer Practice
 
-**Course basis:** Week 1 tutorial; Unit 1 evidence map
+> (a) Give two possible criteria for defining Western media. (b) Apply them to *Heated Rivalry* and *KPop Demon Hunters*. (c) Evaluate whether "Western media" is a useful category for these texts.
 
-## Possible Short Answer
+- **(a):** Use two explicit criteria, such as geopolitical location and corporate ownership, or cultural content and production institutions.
+- **(b):** Canada is commonly placed within the geopolitical West, but *Heated Rivalry* has specifically Canadian features that the broad label conceals. *KPop Demon Hunters* combines Korean cultural material with an American industrial context, so different criteria produce different classifications.
+- **(c):** Judge the category as useful only when the criterion is stated. On its own it can hide national differences and cross-border production relationships.
 
-> What is Western Media? Give one course example.
-
-**Answer:** Western media refers to media associated with countries, industries, values or cultural traditions commonly understood as part of "the West", although the category is contested and not always clear. A course example is Canadian media and *KPop Demon Hunters*. Both complicate simple classifications of what counts as Western or nationally owned media.
+**Course basis:** Week 1 lecture and tutorial.

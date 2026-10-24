@@ -7,9 +7,9 @@
 
 Streaming platforms are digital services that distribute media content online to audiences, often across national borders.
 
-## What This Concept Explains
+## Industrial Role
 
-Streaming platforms are digital services that distribute media content online to audiences, often across national borders.
+Streaming services aggregate programs, manage subscriptions or advertising and organise access across territories. They can commission local production, purchase rights or distribute programs made by other organisations. These roles must be separated: carrying a Canadian program internationally does not mean the platform supplied its local authorship.
 
 ## Key Terms
 
@@ -32,23 +32,23 @@ Streaming platforms are digital services that distribute media content online to
 - The Week 1 tutorial requires nationality to be assessed through source material, creators, cast, crew, funding, ownership, locations, story and distribution.
 - A production can therefore be locally rooted and globally circulated at the same time.
 
-## How the Evidence Shows the Concept
+## Comparison Of Course Cases
 
-Streaming platforms matter because they connect local media industries to global audiences while also concentrating distribution power in large companies.
+Crave is tied to the Canadian origin of *Heated Rivalry*, while HBO extends its US circulation. Netflix distributes *North of North* internationally, whereas CBC and APTN connect the production to Canadian and Indigenous institutions. The cases show that “the platform” is not always one company performing every role: commissioning, national broadcasting and international distribution can be divided among different services (Stevis-Gridneff, 2026, pp. 1-2).
 
 
-## Exam Use
+## Derived Short-Answer Practice
 
-**Possible long question:** How do streaming platforms affect local media industries?
+> Do streaming platforms only distribute content?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**Answer:** No. Services such as Netflix can commission, finance, acquire, promote and rank content as well as distribute it. These decisions affect which local productions become visible internationally.
 
-**Do not overclaim:** Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
+## Possible Long-Answer Practice
 
-**Course basis:** Week 1 tutorial; Unit 1 evidence map
+> (a) Identify three different roles a streaming platform may perform. (b) Compare the roles of Crave, HBO, Netflix, CBC and APTN in the Unit 1 cases. (c) Why is it misleading to describe all of them simply as distributors?
 
-## Possible Short Answer
+- **(a):** Choose three relevant roles, such as commissioning or originating a project, financing or acquiring rights, and distributing or promoting it.
+- **(b):** Crave is tied to the Canadian origin of *Heated Rivalry*, while HBO extends its US circulation. Netflix carries *North of North* internationally, while CBC and APTN tie it to Canadian and Indigenous broadcasting institutions.
+- **(c):** The organisations occupy different stages and possess different forms of control. Collapsing them into one category hides where the program originates and who controls domestic versus international access.
 
-> What is Streaming Platforms? Give one course example.
-
-**Answer:** Streaming platforms are digital services that distribute media content online to audiences, often across national borders. A course example is Netflix, HBO and Crave. These services expand access while influencing funding, availability and international visibility.
+**Course basis:** Stevis-Gridneff (2026), PDF pp. 1-2; Week 1 tutorial.

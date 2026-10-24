@@ -39,18 +39,18 @@ The Week 1 lecture treats “global” as a conclusion that must be demonstrated
 The cases also reveal unequal roles. Local creators supply the culturally specific story, while HBO or Netflix controls an important route to audiences outside Canada. “Global media” therefore describes both cross-border connection and the division of power within that connection.
 
 
-## Exam Use
+## Derived Short-Answer Practice
 
-**Possible long question:** How can media be both local and global?
+> How can *Heated Rivalry* be both Canadian and global?
 
-**How to answer:** Separate the text's production, cultural identity and distribution. Name the countries and institutions involved, then judge which dimension is local, national or global.
+**Answer:** Its creators, locations and cultural markers connect it to Canada, while international platform distribution takes it beyond Canada. Production identity and circulation therefore operate at different scales.
 
-**Do not overclaim:** Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
+## Possible Long-Answer Practice
+
+> (a) What makes a media text global? (b) Explain how *Heated Rivalry* is simultaneously Canadian and global. (c) What does this case reveal about power in global media?
+
+- **(a):** Show cross-border links in finance, ownership, labour, story, distribution or audiences; international popularity by itself is not the whole test.
+- **(b):** Use its Canadian source author, hockey associations, creators, personnel, locations and Crave origin, then identify HBO as the route into the US market.
+- **(c):** Conclude that local producers can retain cultural and production identity while an international distributor controls an important route to foreign audiences. Global connection does not mean equal control.
 
 **Course basis:** Week 1 lecture and tutorial; Stevis-Gridneff (2026), PDF pp. 1-2.
-
-## Possible Short Answer
-
-> What is Global Media? Give one course example.
-
-**Answer:** Global media refers to media content, industries, platforms and audiences that operate across national and cultural boundaries. A course example is *Heated Rivalry*. Its creators and cultural markers are Canadian, while its circulation extends beyond Canada.

@@ -36,21 +36,21 @@ In *North of North*, Netflix provides an international route for a story grounde
 The two cases show the mechanism more precisely: **local creative resources produce cultural specificity; national institutions support production; global platforms extend circulation; control is divided across those stages.**
 
 
-## Exam Use
+## Derived Short-Answer Practice
 
-**Possible long question:** Explain the relationship between globalisation and local culture.
+> What relationship does *North of North* show between the local and global?
 
-**How to answer:** Identify the exact cross-border connection first. Then separate production, cultural identity and distribution instead of calling the whole text simply “global.” Finish by explaining who gains reach and who retains control.
+**Answer:** The series uses an Inuit setting and Indigenous Canadian production while Netflix distributes it internationally. Globalisation expands circulation, but the local creators and stories remain culturally specific.
 
-**Do not overclaim:** Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
+## Possible Long-Answer Practice
+
+> (a) Define media globalisation. (b) Compare how globalisation operates in *Heated Rivalry* and *North of North*. (c) Does globalisation erase local culture in these cases?
+
+- **(a):** Define it through cross-border organisation of production, ownership, distribution and audiences.
+- **(b):** For *Heated Rivalry*, connect Canadian creative inputs and Crave to HBO's US circulation. For *North of North*, connect Inuit and Indigenous production, CBC and APTN to Netflix's international distribution.
+- **(c):** Answer no on the available evidence: both texts retain specific local authorship and cultural markers. Add that international platforms still control important distribution routes, so greater visibility can coexist with industrial dependence.
 
 **Course basis:** Week 1 lecture and tutorial; Stevis-Gridneff (2026), PDF pp. 1-2.
-
-## Possible Short Answer
-
-> What is Globalisation? Give one course example.
-
-**Answer:** Globalisation organises media production, ownership, distribution or audiences across borders. *North of North* combines an Inuit setting and Indigenous Canadian production with international Netflix distribution. The local production and global distribution are connected, but they are not the same form of control.
 
 ## Sources Used
 

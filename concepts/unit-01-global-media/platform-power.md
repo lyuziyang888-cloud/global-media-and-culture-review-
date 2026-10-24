@@ -37,18 +37,18 @@ A platform gains power by controlling a route between producers and audiences. I
 Netflix allows *North of North* to reach viewers beyond Canada, while HBO gives *Heated Rivalry* access to the US market. The local producers supply the culturally specific programs, but the international services control important distribution channels. The CRTC levy debate makes that power measurable: Canadian regulators attempted to redirect part of streamer revenue into domestic and Indigenous production (Stevis-Gridneff, 2026, pp. 1-2).
 
 
-## Exam Use
-
-**Possible long question:** How does platform power affect local media?
-
-**How to answer:** State what the platform controls, what opportunity that provides and what dependency it creates.
-
-**Do not overclaim:** Global circulation does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
-
-**Course basis:** Stevis-Gridneff (2026), PDF pp. 1-2; Week 1 tutorial.
-
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > What power does Netflix have over local productions?
 
 **Answer:** Netflix can provide finance, international distribution and access to audiences, but it also influences availability and visibility. A local production may gain reach without gaining full control over how it circulates.
+
+## Possible Long-Answer Practice
+
+> (a) Define platform power. (b) Explain how Netflix and HBO exercise it in the Unit 1 cases. (c) Does international distribution give local producers equal power?
+
+- **(a):** Define it as a platform's ability to influence funding, availability, promotion, distribution and audience access.
+- **(b):** Netflix provides *North of North* with international circulation; HBO provides *Heated Rivalry* with US circulation. These services control important gateways beyond the programs' original Canadian context.
+- **(c):** Answer no: local producers contribute the culturally specific programs, while international services control part of the route to foreign audiences. The CRTC levy dispute further shows an effort to make streamers return revenue to domestic production.
+
+**Course basis:** Stevis-Gridneff (2026), PDF pp. 1-2; Week 1 tutorial.

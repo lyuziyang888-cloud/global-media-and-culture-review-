@@ -7,9 +7,9 @@
 
 Cultural homogenisation is the process through which differences among local cultures are reduced as dominant media, values, styles and standards spread across societies. It may occur when widely circulated media influences local tastes, lifestyles or production practices. However, global circulation does not automatically make audiences or cultures identical.
 
-## What This Concept Explains
+## Mechanism
 
-Cultural homogenisation occurs when local cultures become more similar because dominant media and cultural values spread across societies.
+Homogenisation is a possible result when industries repeatedly adopt dominant genres, production standards and cultural values because those forms receive greater finance and distribution. It is a claim about reduced difference over time, so the presence of US media in another country is not sufficient evidence by itself.
 
 ## Key Terms
 
@@ -20,28 +20,29 @@ Cultural homogenisation occurs when local cultures become more similar because d
 - Americanisation
 - local culture
 
-## Concrete Course Evidence
+## Course Evidence And Counter-Evidence
 
-- The Week 1 tutorial requires nationality to be assessed through source material, creators, cast, crew, funding, ownership, locations, story and distribution.
-- A production can therefore be locally rooted and globally circulated at the same time.
+- Week 2's imperialism paradigm supplies the concern: unequal US-centred ownership and outward media flows can privilege dominant styles and values.
+- Week 3 complicates the claim through local adaptation, contra-flows and active audience interpretation.
+- *North of North* provides counter-evidence to automatic homogenisation because international Netflix circulation carries an Inuit setting and Indigenous Canadian production rather than eliminating those distinctions.
 
-## How the Evidence Shows the Concept
+## How To Evaluate It
 
-It identifies the cultural consequence feared by media and cultural imperialism, while also creating a point for criticism: circulation does not prove identical reception.
+Evidence of homogenisation must show an actual reduction in cultural difference, such as local production being displaced or diverse forms converging on one dominant model. Global availability alone demonstrates circulation. *North of North* shows why the distinction matters: a US-based distributor participates in the program's global reach, but the text retains locally specific authorship and representation.
 
 
-## Exam Use
+## Derived Short-Answer Practice
 
-**Possible long question:** Does media imperialism necessarily cause cultural homogenisation?
+> Why can US media dominance lead to cultural homogenisation?
 
-**Answer order:** definition -> relevant evidence above -> explain the connection -> limitation -> judgement.
+**Answer:** US companies circulate genres, production standards and lifestyles at a scale many local industries cannot match. Repeated exposure can reduce the visibility of local practices, although audiences may still adapt or resist those influences.
 
-**Do not overclaim:** US media dominance does not automatically make audiences or local cultures identical. Audiences can interpret foreign media differently, while local producers can adapt, mix or resist American influences.
+## Possible Long-Answer Practice
+
+> (a) Define cultural homogenisation. (b) Explain why media imperialism scholars expect US media dominance to produce it. (c) Using *North of North*, assess whether global distribution always reduces cultural difference.
+
+- **(a):** Define it as the reduction of differences among local cultures as dominant values, styles and standards spread.
+- **(b):** Explain that US-centred companies possess greater production and distribution power, allowing their genres and values to circulate repeatedly and displace less visible local forms.
+- **(c):** Use the Inuit setting, Indigenous participation and Canadian institutions behind *North of North*. Netflix expands its circulation, but these culturally specific features remain visible. Conclude that homogenisation is a possible outcome, not an automatic result of global distribution.
 
 **Course basis:** Week 2 lecture limitations; Week 3 lecture and tutorial on active audiences, local adaptation and cultural-globalisation criticism.
-
-## Possible Short Answer
-
-> What is Cultural Homogenisation? Give one course example.
-
-**Answer:** Cultural homogenisation occurs when local cultures become more similar because dominant media and cultural values spread across societies. US-dominated global media is one example because widely circulated American genres, lifestyles and production standards may reduce the visibility of some local practices.
