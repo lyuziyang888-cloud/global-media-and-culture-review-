@@ -40,7 +40,7 @@ Hungary offers a 30% rebate, studios, experienced crews and locations able to re
 
 **Course basis:** Week 7 lecture and tutorial; Havens and Imre, pp. 25-41
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > How does Budapest use location as soft power?
 

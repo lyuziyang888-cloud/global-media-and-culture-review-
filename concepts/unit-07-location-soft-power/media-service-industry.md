@@ -40,7 +40,7 @@ The 30% rebate, experienced crews and studio infrastructure make repeated foreig
 
 **Course basis:** Week 7 lecture and tutorial; Havens and Imre, pp. 25-41
 
-## Possible Short Answer
+## Derived Short-Answer Practice
 
 > What is the main tension in a media-service industry?
 

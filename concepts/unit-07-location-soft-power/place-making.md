@@ -39,7 +39,15 @@ Visit Brisbane selects food, leisure and accessible precincts for tourists. Ausf
 
 **Course basis:** Week 7 lecture and tutorial; Havens and Imre, pp. 25-41
 
-## Possible Short Answer
+## Official PPT Exam Practice
+
+The Week 7 tutorial, slide 3, asks:
+
+> Discuss how place is understood similarly in media capitals and Hollywood spy thrillers filmed in Hungary.
+
+Both approaches treat place as constructed and changeable. Compare the approaches directly instead of writing two disconnected definitions.
+
+## Derived Short-Answer Practice
 
 > How can Brisbane matter even when it represents another place?
 
