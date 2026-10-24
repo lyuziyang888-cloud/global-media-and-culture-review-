@@ -12,7 +12,9 @@ Under RISIN's Paris cover, @田中-w2c8f wrote in Japanese that male dancers giv
 
 ## Exam Use
 
-**Short:** The Japanese comment on a Paris K-pop cover shows one text being interpreted across languages, places and gender presentations.
+**Possible short question:** What does the Japanese comment under a Paris K-pop cover demonstrate?
+
+**Answer:** It shows Korean choreography being interpreted through a Paris performance, male dancers and a Japanese-speaking audience. It is evidence of one cross-border response, not proof about every viewer.
 
 **Long:** Identify the locations and explain how meaning changes without inferring identities beyond the available comment.
 

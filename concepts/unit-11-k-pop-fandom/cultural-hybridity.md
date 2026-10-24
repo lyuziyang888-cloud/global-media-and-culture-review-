@@ -12,7 +12,9 @@ Yoon identifies reaction videos, parodies, forums and cover dances as fan re-app
 
 ## Exam Use
 
-**Short:** A K-pop cover is hybrid when it keeps the original identifiable while changing how and where it is performed.
+**Possible short question:** Is RISIN's cover simply a copy of BLACKPINK?
+
+**Answer:** Not completely. It keeps the choreography recognisable but changes the performers, gender presentation, Paris location and visual style. Hybridity appears in the combination of continuity and alteration.
 
 **Long:** Name what is retained, what changes and who controls the adaptation.
 

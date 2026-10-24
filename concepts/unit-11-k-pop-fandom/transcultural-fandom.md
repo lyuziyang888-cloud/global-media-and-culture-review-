@@ -12,7 +12,9 @@ RISIN performs Korean pop choreography in Paris, while comments discuss adaptati
 
 ## Exam Use
 
-**Short:** RISIN's Paris cover and multilingual responses provide a bounded example of transcultural fandom.
+**Possible short question:** Why can the RISIN cover be treated as transcultural fandom?
+
+**Answer:** Performers and viewers connect around a Korean pop text across locations and languages. Their shared attachment matters, although the evidence does not establish the identity or motivation of every viewer.
 
 **Long:** Show cross-border participation and affective affinity, then avoid claiming nationality no longer matters.
 
