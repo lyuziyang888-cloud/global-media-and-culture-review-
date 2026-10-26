@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Alternative digital distribution shares digital media without relying only on online streaming platforms.
+Alternative digital distribution circulates digital media through channels beyond conventional streaming platforms.
 
 ## Course Evidence And Application
 

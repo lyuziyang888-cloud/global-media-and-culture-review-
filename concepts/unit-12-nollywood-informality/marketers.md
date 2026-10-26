@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Nollywood marketers are people who help finance, distribute and sell films.
+Nollywood marketers are industry intermediaries who finance productions and control their distribution.
 
 ## Course Evidence And Application
 
