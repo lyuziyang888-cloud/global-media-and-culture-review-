@@ -5,7 +5,7 @@
 
 ## Definition
 
-Media capacity is a place's continuing ability to produce and distribute media.
+Media capacity is the sustained ability of a location to develop, produce and circulate media.
 
 ## How Capacity Is Built
 

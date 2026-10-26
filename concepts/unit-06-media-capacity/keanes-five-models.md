@@ -5,7 +5,7 @@
 
 ## Definition
 
-Keane's five models explain how once-peripheral media industries can enter global production.
+Keane's five models describe different pathways through which once-peripheral media industries enter global production.
 
 ## The Five Models
 

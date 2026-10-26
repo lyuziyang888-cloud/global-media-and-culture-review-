@@ -5,7 +5,7 @@
 
 ## Definition
 
-A Western-centric approach explains global media mainly from a Western perspective.
+A Western-centric approach treats Western experience as the primary framework for understanding global media.
 
 ## What Keane Criticises
 
