@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Banal cosmopolitanism is everyday contact with cultures from around the world.
+Banal cosmopolitanism is routine engagement with global cultures through everyday consumption.
 
 ## Course Evidence And Application
 

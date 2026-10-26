@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Cosmopolitanism is openness to other cultures and a sense of connection to the wider world.
+Cosmopolitanism is openness to cultural difference and awareness of connection to a wider world.
 
 ## Course Evidence
 

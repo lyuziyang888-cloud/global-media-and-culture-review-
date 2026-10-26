@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Pop cosmopolitanism is learning about other cultures through popular media.
+Pop cosmopolitanism is engagement with cultural difference through foreign popular media.
 
 ## Course Evidence And Application
 
