@@ -5,7 +5,7 @@
 
 ## Definition
 
-World-systems theory describes a global system divided into core, semi-periphery and periphery positions, where core countries benefit from unequal relationships with less powerful regions.
+World-systems theory explains how powerful countries benefit from less powerful countries.
 
 ## How It Works
 
