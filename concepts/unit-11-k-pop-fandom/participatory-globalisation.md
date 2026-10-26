@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Participatory globalisation means audiences help create and circulate global media.
+Participatory globalisation describes audiences actively creating, adapting and circulating global media.
 
 ## Course Evidence And Application
 

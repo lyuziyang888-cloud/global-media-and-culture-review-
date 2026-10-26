@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Transcultural fandom is fandom that connects people across cultural boundaries.
+Transcultural fandom refers to fan connections formed through shared interests across cultural boundaries.
 
 ## Course Evidence And Application
 

@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Cosmopolitan globalisation sees culture as moving among different places and identities.
+Cosmopolitan globalisation understands cultural flows as open to multiple places and identities.
 
 ## Course Evidence And Application
 

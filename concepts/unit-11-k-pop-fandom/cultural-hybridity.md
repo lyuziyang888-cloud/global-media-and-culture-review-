@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Cultural hybridity is the mixing of elements from different cultures.
+Cultural hybridity is the mixing and reworking of cultural forms previously treated as separate.
 
 ## Course Evidence And Application
 
