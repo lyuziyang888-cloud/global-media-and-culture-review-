@@ -5,7 +5,7 @@
 
 ## Definition
 
-Fixers help foreign media producers work with local people and institutions.
+Fixers are intermediaries who connect foreign media producers with local institutions and workers.
 
 ## What They Do
 

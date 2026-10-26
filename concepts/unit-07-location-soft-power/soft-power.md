@@ -5,7 +5,7 @@
 
 ## Definition
 
-Soft power is the ability to influence others through attraction.
+Soft power is the ability to influence others through attraction rather than coercion.
 
 ## How It Operates In Media Services
 

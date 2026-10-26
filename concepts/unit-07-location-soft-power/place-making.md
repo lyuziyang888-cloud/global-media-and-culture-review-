@@ -5,7 +5,7 @@
 
 ## Definition
 
-Place-making is the process of giving a place a particular meaning or identity.
+Place-making is the process through which a location acquires a particular meaning or identity.
 
 ## Mechanism
 

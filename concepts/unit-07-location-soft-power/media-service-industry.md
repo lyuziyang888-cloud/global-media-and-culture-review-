@@ -5,7 +5,7 @@
 
 ## Definition
 
-A media-service industry supports foreign companies that produce media in a local place.
+A media-service industry provides local production support for externally controlled media projects.
 
 ## Industrial Structure
 
