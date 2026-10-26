@@ -5,7 +5,7 @@
 
 ## Definition
 
-Scripted formats adapt dramas, while non-scripted formats adapt shows such as reality programs and competitions.
+Scripted formats adapt fictional narratives, while non-scripted formats adapt repeatable program structures.
 
 ## Why Their Trade Developed Differently
 

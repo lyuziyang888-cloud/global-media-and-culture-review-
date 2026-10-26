@@ -5,7 +5,7 @@
 
 ## Definition
 
-A canned program is a finished program sold to another country for rebroadcast.
+A canned program is a completed program exported to another market for rebroadcast.
 
 ## What Is Transferred
 
