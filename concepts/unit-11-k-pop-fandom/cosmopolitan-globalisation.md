@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Yoon's cosmopolitan imagination treats cultural flow as open to multiple places and identities rather than owned by one nation or controlled only by Western centres (2018, pp. 379-381).
+Cosmopolitan globalisation sees culture as moving among different places and identities.
 
 ## Course Evidence And Application
 

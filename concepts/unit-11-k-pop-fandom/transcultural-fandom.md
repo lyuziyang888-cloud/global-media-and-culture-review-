@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Transcultural fandom describes fan connections formed through shared interests and affect across cultural boundaries. Jin (2024, pp. 120-121) uses affective affinity to explain attachment that cannot be reduced to a text's national origin.
+Transcultural fandom is fandom that connects people across cultural boundaries.
 
 ## Course Evidence And Application
 

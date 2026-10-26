@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Cultural hybridity is the mixing and reworking of forms treated as separate. Yoon (2018, pp. 374-376) stresses fusion and fragmentation: hybridity combines forms while unsettling fixed ideas of Korean, Western or local culture.
+Cultural hybridity is the mixing of elements from different cultures.
 
 ## Course Evidence And Application
 

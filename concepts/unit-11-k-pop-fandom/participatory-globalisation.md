@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Participatory globalisation describes fans making, adapting and circulating global media rather than only consuming it. Yoon (2018, p. 380) connects it to cover dances, reaction videos, parodies and online fandom.
+Participatory globalisation means audiences help create and circulate global media.
 
 ## Course Evidence And Application
 
