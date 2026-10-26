@@ -5,7 +5,7 @@
 
 ## Definition
 
-One-way media flow describes an unequal pattern in which information and entertainment move mainly from powerful Western or US centres to the rest of the world.
+One-way media flow describes media moving mainly from dominant countries to the rest of the world.
 
 ## How It Works
 
