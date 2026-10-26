@@ -5,7 +5,7 @@
 
 ## Definition
 
-Contra-flows are media flows from less dominant regions to global audiences.
+Contra-flows are movements of media from traditionally less dominant regions into wider global markets.
 
 ## Mechanism
 

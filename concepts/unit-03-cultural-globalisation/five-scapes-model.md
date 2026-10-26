@@ -5,7 +5,7 @@
 
 ## Definition
 
-The five-scapes model explains globalisation through different flows that can move in different directions.
+The five-scapes model conceptualises globalisation as multiple cross-border flows that operate in different directions.
 
 ## The Five Scapes
 

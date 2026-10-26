@@ -5,7 +5,7 @@
 
 ## Definition
 
-Media capitals are places where media talent, resources and production are concentrated.
+Media capitals are centres in which media resources, talent and production are concentrated.
 
 ## Mechanism
 

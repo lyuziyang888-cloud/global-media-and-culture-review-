@@ -5,7 +5,7 @@
 
 ## Definition
 
-Cultural proximity means audiences often prefer media that feels culturally familiar.
+Cultural proximity is the tendency of audiences to prefer media that feels culturally familiar.
 
 ## Mechanism
 

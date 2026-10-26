@@ -5,7 +5,7 @@
 
 ## Definition
 
-Cultural globalisation is the interaction and exchange of cultures across national borders.
+Cultural globalisation is the cross-border circulation and interaction of cultural forms.
 
 ## Argument In Mirrlees
 

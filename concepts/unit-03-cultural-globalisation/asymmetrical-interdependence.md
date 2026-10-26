@@ -5,7 +5,7 @@
 
 ## Definition
 
-Asymmetrical interdependence means two sides depend on each other, but one side has more power.
+Asymmetrical interdependence is mutual dependence characterised by unequal power between the parties involved.
 
 ## Mechanism
 
