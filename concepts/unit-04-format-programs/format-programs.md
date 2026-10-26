@@ -5,7 +5,7 @@
 
 ## Definition
 
-A format program is a licensed package of program information and production know-how that enables a television concept to be adapted in another market.
+A format program is a television concept licensed for local adaptation in another market.
 
 ## What The Licence Transfers
 
