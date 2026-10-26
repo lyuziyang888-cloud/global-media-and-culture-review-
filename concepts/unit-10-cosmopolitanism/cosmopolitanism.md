@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Cosmopolitanism is openness to cultural difference and an awareness of connection to a wider world. Ferreira (2026, pp. 934-936) presents it as an ongoing process shaped by media, prior experience and reflection, not an automatic result of watching foreign television.
+Cosmopolitanism is openness to other cultures and a sense of connection to the wider world.
 
 ## Course Evidence
 

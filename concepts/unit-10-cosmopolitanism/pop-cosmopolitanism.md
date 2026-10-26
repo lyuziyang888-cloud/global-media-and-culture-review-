@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Pop cosmopolitanism occurs when engagement with foreign popular culture develops knowledge, skills, relationships or reflection across cultural boundaries.
+Pop cosmopolitanism is learning about other cultures through popular media.
 
 ## Course Evidence And Application
 
