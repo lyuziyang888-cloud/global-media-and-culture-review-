@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Informality is economic activity organised partly outside fully documented contracts, sales records, formal rights systems or standard corporate distribution. Miller (2021, pp. 259-265) presents it as an industry structure, not simply failure.
+Informality is economic activity that operates partly outside formal systems and rules.
 
 ## Course Evidence And Application
 

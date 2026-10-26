@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Nollywood marketers historically did more than sell films. They could finance productions, act as executive producers, decide which projects reached the market and control sales information (Miller, 2021, pp. 260-262).
+Nollywood marketers are people who help finance, distribute and sell films.
 
 ## Course Evidence And Application
 

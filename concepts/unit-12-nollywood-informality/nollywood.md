@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Nollywood is Nigeria's film industry, historically built through fast, low-budget production and informal physical distribution rather than a Hollywood-style studio and cinema system. Miller (2021, pp. 259-262) shows why it cannot be judged by streaming alone.
+Nollywood is Nigeria's film industry.
 
 ## Course Evidence And Application
 

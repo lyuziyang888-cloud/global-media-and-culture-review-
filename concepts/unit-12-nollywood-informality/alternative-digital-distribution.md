@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Alternative digital distribution moves digital files through methods suited to local infrastructure instead of continuous platform streaming. Miller (2021, pp. 264-268) includes Bluetooth, FlashShare, USB, kiosks, compressed downloads and subscription-based person-to-person transfer.
+Alternative digital distribution shares digital media without relying only on online streaming platforms.
 
 ## Course Evidence And Application
 
