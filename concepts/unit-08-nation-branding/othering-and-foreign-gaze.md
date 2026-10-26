@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Othering presents another group as different from “us,” while the foreign gaze views local culture from an outsider's perspective.
+Othering constructs a distinction between “us” and “them,” while the foreign gaze frames local culture from an outsider's perspective.
 
 ## Mino's Two Strategies
 

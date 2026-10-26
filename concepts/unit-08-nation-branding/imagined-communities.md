@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-An imagined community is a shared sense of national belonging among people who will never all meet.
+An imagined community is a sense of national belonging shared by people who will never all meet.
 
 ## Mechanism And Evidence
 

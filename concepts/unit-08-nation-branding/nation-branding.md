@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Nation branding means promoting a country as a brand.
+Nation branding is the strategic construction and promotion of a country's public image.
 
 ## Mechanism And Evidence
 
