@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-An imagined community is a nation understood as a shared community even though most members never meet. The Week 8 lecture uses the idea to show that national identity is built through repeated stories, symbols and representations.
+An imagined community is a shared sense of national belonging among people who will never all meet.
 
 ## Mechanism And Evidence
 

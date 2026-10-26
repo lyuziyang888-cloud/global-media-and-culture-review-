@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Othering separates an imagined “us” from “them.” Mino (2023, pp. 182-185) argues that nation branding can present local people through affluent foreigners' expectations. The foreign visitor's viewpoint then organises the story.
+Othering presents another group as different from “us,” while the foreign gaze views local culture from an outsider's perspective.
 
 ## Mino's Two Strategies
 

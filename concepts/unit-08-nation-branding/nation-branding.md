@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Nation branding applies branding techniques to a country so governments can shape its reputation and attract tourists, investment or demand for exports. Mino (2023, pp. 182-183) treats it critically: campaigns turn contested national cultures into marketable images for affluent, English-speaking foreign audiences.
+Nation branding means promoting a country as a brand.
 
 ## Mechanism And Evidence
 
