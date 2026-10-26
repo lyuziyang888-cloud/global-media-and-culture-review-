@@ -5,7 +5,7 @@
 
 ## Definition
 
-Asymmetrical interdependence describes relationships in which countries, industries or cultures depend on and influence one another, but not with equal resources, control or effects.
+Asymmetrical interdependence means two sides depend on each other, but one side has more power.
 
 ## Mechanism
 

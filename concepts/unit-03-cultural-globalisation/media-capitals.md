@@ -5,7 +5,7 @@
 
 ## Definition
 
-Media capitals are dynamic and historically contingent centres where resources, reputation and talent concentrate, enabling efficient and sustained media production.
+Media capitals are places where media talent, resources and production are concentrated.
 
 ## Mechanism
 

@@ -5,7 +5,15 @@
 
 ## Definition
 
-Appadurai's model describes globalisation through five partly independent flows: **ethnoscapes** (people), **technoscapes** (technology), **financescapes** (capital), **mediascapes** (images and information) and **ideoscapes** (political ideas and values). Mirrlees (2013, Chapter 1) presents it as a strong cultural-globalisation alternative to a single centre-periphery system.
+The five-scapes model explains globalisation through different flows that can move in different directions.
+
+## The Five Scapes
+
+- **Ethnoscapes:** people
+- **Technoscapes:** technology
+- **Financescapes:** money
+- **Mediascapes:** media and information
+- **Ideoscapes:** ideas and values
 
 ## How It Works
 
