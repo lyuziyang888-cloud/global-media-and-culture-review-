@@ -5,7 +5,7 @@
 
 ## Definition
 
-Transnational media corporations are firms that own, produce or distribute media across national borders and form part of a concentrated global media system.
+Transnational media corporations are media companies that operate in multiple countries.
 
 ## How They Exercise Power
 
