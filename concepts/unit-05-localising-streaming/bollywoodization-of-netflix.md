@@ -5,7 +5,7 @@
 
 ## Definition
 
-The Bollywoodization of Netflix describes Netflix's increasing dependence on Bollywood stars, directors, production companies, genres and aesthetics when localising in India.
+The Bollywoodization of Netflix means Netflix adapting its service through Bollywood.
 
 ## Mechanism In The Reading
 

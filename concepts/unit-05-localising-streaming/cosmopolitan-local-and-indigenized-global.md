@@ -5,7 +5,7 @@
 
 ## Definition
 
-The cosmopolitan local uses local stories and talent within genres designed for globally oriented audiences. The indigenized global adapts global industrial practices around the priorities of a specific local market and its audiences.
+The cosmopolitan local makes local content for global audiences, while the indigenized global adapts a global platform to a local market.
 
 ## Difference Between The Strategies
 

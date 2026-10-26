@@ -5,7 +5,7 @@
 
 ## Definition
 
-Streaming localisation refers to strategies used by platforms to adapt content, pricing, language, genres and business practices to particular markets and audiences.
+Streaming localisation means adapting a streaming service to a local market.
 
 ## Mechanism
 
