@@ -5,7 +5,9 @@
 
 ## Definition
 
-Keane (2006, pp. 836, 850-852) identifies five ways in which media industries in once-peripheral locations can enter global production:
+Keane's five models explain how once-peripheral media industries can enter global production.
+
+## The Five Models
 
 1. **De-territorialisation (world factory):** production moves to a lower-cost location.
 2. **Isomorphism (cloning culture):** producers imitate proven formats, genres or business models.

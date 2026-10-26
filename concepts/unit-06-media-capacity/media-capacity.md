@@ -5,7 +5,7 @@
 
 ## Definition
 
-Media capacity is a location's continuing ability to develop, produce and circulate media. In Keane's account, capacity depends on more than low production costs or one internationally successful title. It grows when expertise, skilled labour, infrastructure, business networks and intellectual-property revenue can support later productions (Keane, 2006, pp. 838-840, 850-852).
+Media capacity is a place's continuing ability to produce and distribute media.
 
 ## How Capacity Is Built
 
