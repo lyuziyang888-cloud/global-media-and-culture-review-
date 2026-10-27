@@ -12,7 +12,7 @@ Keane's five models describe different pathways through which once-peripheral me
 1. **De-territorialisation (world factory):** production moves to a lower-cost location.
 2. **Isomorphism (cloning culture):** producers imitate proven formats, genres or business models.
 3. **Cultural technology transfer:** knowledge enters through co-production, licensing and franchising.
-4. **Niche breakthrough markets:** culturally distinctive works reach markets beyond their original audience.
+4. **Niche breakthrough markets:** distinctive works reach markets beyond their original audience.
 5. **Cultural/industrial milieu:** firms, workers, finance, infrastructure and knowledge form a connected local cluster.
 
 ## How Each Category Works
