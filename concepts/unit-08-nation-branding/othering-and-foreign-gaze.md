@@ -9,7 +9,7 @@ Othering constructs a distinction between “us” and “them,” while the for
 ## Mino's Two Strategies
 
 1. **Adventurous foreigner:** a foreign main charcater explores an exotic but safe destination. Mino's Costa Rica example follows a woman surfing, doing yoga, eating local food and observing local life (pp. 184-185).
-2. **Proud local host:** local people explain, perform or provide what makes the nation special for the newcomer; culture and labour become part of the visitor's experience (pp. 186-188).
+2. **Proud local host:** local people explain what makes the nation special for the newcomer; culture and labour become part of the visitor's experience (pp. 186-188).
 
 ## Course Evidence
 
