@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Pop cosmopolitanism is engagement with cultural difference through foreign popular media.
+Pop cosmopolitanism is engagement with popular culture from other parts of the world.
 
 ## Course Evidence And Application
 
