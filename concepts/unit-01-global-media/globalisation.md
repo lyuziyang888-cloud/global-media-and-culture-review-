@@ -5,7 +5,7 @@
 
 ## Definition
 
-In this unit, **globalisation** means the processes through which media production, ownership, distribution and audiences become organised across national borders. This working definition comes from the Week 1 lecture and tutorial. The assigned Stevis-Gridneff (2026) reading supplies a case for applying the concept; it is not presented as the source of a general textbook definition.
+Globalisation is the growing connection and movement of cultures and values across national borders.
 
 ## How It Works
 
