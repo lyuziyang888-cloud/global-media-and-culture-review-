@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Cosmopolitan globalisation imagines global culture as inclusive and not controlled by one country.
+Cosmopolitan globalisation sees global culture as inclusive and not controlled by one country.
 
 ## Course Evidence And Application
 
