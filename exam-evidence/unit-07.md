@@ -10,7 +10,7 @@
 - A 30% rebate, studios, locations and skilled crews support its film-friendly reputation.
 - Budapest can represent itself or another European city.
 
-**What it proves:** Industrial flexibility can attract investment even when the city is not recognised on screen (pp. 27-29, 37-38).
+**What it proves:** A location can attract production without appearing as itself on screen (pp. 27-29, 37-38).
 
 ### Government and Fixers
 
@@ -18,7 +18,7 @@
 
 Official agencies promote Hungary, while fixers connect foreign producers with government and local workers.
 
-**What it proves:** Soft power can develop through production relationships, not only finished media texts (pp. 28-29, 39).
+**What it proves:** Production relationships can create soft power (pp. 28-29, 39).
 
 ### Brisbane Comparison
 
@@ -26,7 +26,7 @@ Official agencies promote Hungary, while fixers connect foreign producers with g
 
 Tourism promotion presents a leisure city, Ausfilm presents a production location, and *Boy Swallows Universe* presents a socially specific 1980s Brisbane.
 
-**What it proves:** Institutions construct the same place differently for different audiences.
+**What it proves:** The same place can be represented differently for different audiences.
 
 ## Exam-Ready Judgement
 

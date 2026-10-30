@@ -4,11 +4,11 @@
 
 | Use for concept | Example | What it proves |
 |---|---|---|
-| World factory | Indian animation outsourcing | creates employment and skills, but foreign firms may retain IP and high-value control |
-| Mimetic isomorphism | *Hari Puttar* and cloned television dramas | imitation may bring short-term success but creates originality and IP problems |
-| Cultural technology transfer | co-productions, remakes and franchises | licensed collaboration can transfer expertise and move producers higher in the value chain |
-| Niche breakthrough markets | *Hero* and *House of Flying Daggers* | multiple distribution channels can take culturally distinctive content to wider audiences |
-| Creative/industrial clusters | Seoul Digital Media City | co-located infrastructure, firms and talent can support repeated innovation |
+| World factory | Indian animation outsourcing | It builds skills, but foreign firms may keep the IP. |
+| Mimetic isomorphism | *Hari Puttar* and cloned television dramas | Imitation may bring success but weakens originality and IP ownership. |
+| Cultural technology transfer | co-productions, remakes and franchises | Collaboration can transfer knowledge and skills. |
+| Niche breakthrough markets | *Hero* and *House of Flying Daggers* | Distinctive local content can reach global audiences. |
+| Creative/industrial clusters | Seoul Digital Media City | Concentrated firms and talent support repeated production. |
 
 ### China Update
 
@@ -16,7 +16,7 @@ Chinese companies participated in Sino-US co-productions during the 2010s, used 
 
 **Use for concepts:** media capacity, Western-centric approaches, cultural technology transfer
 
-**What it proves:** China's changing activities show why countries should not remain permanently classified as passive peripheral producers.
+**What it proves:** A once-peripheral country can build greater media capacity.
 
 ## Exam-Ready Judgement
 

@@ -8,7 +8,7 @@
 
 Hotstar organised content around the IPL, Bollywood and Indian-language programming.
 
-**What it proves:** Hotstar shows how global ownership can operate through an indigenized strategy built around local cultural and industrial strengths.
+**What it proves:** A global service can succeed by using local cultural strengths.
 
 ### Sacred Games
 
@@ -16,7 +16,7 @@ Hotstar organised content around the IPL, Bollywood and Indian-language programm
 
 Netflix used an Indian story, Bollywood talent and crime-drama conventions familiar to global viewers; the series was promoted as India's *Narcos*.
 
-**What it proves:** *Sacred Games* demonstrates that Netflix localises Indian production through globally recognisable genre logic while depending on Bollywood expertise.
+**What it proves:** Netflix combines Indian talent with a globally familiar genre.
 
 ### Netflix versus Hotstar
 
@@ -24,7 +24,7 @@ Netflix used an Indian story, Bollywood talent and crime-drama conventions famil
 
 The reading reported approximately 25 million Hotstar subscribers in India, compared with 4.
 
-**What it proves:** This contrast complicates platform imperialism because a US platform's global scale does not guarantee dominance within every local market.
+**What it proves:** Global scale does not guarantee local dominance.
 
 ## Exam-Ready Judgement
 

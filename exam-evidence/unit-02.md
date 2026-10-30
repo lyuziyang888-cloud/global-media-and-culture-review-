@@ -8,7 +8,7 @@
 
 Users communicate voluntarily while Facebook converts their attention and data into targeted-advertising revenue.
 
-**What it proves:** Facebook shows how apparently free participation produces commercial value for the corporation that owns the platform.
+**What it proves:** User activity creates profit for the platform owner.
 
 ### Global Platform Dominance
 
@@ -16,7 +16,7 @@ Users communicate voluntarily while Facebook converts their attention and data i
 
 Facebook was the leading social network in 152 of 167 analysed countries in January 2018.
 
-**What it proves:** Facebook illustrates platform imperialism because users are globally dispersed while technological control and capital accumulation remain concentrated in a US corporation.
+**What it proves:** A US platform can control global users and profits.
 
 ### Hollywood and the Pentagon
 
@@ -24,7 +24,7 @@ Facebook was the leading social network in 152 of 167 analysed countries in Janu
 
 Cooperation between entertainment producers and the US military is described as militainment.
 
-**What it proves:** Militainment demonstrates that media power can reinforce geopolitical interests as well as generate commercial profit.
+**What it proves:** Media can support state power as well as make profit.
 
 ## Exam-Ready Judgement
 

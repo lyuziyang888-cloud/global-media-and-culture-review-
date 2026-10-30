@@ -8,7 +8,7 @@
 
 George Lucas interprets US entertainment exports as Americanisation; Philippe Legrain interprets global circulation as exchange, freedom and cultural hybridity.
 
-**What it proves:** Their disagreement shows that the same media flow can be interpreted either through unequal cultural power or through active cross-cultural exchange.
+**What it proves:** The same media flow can be seen as domination or cultural exchange.
 
 ### Jane the Virgin
 
@@ -16,7 +16,7 @@ George Lucas interprets US entertainment exports as Americanisation; Philippe Le
 
 The Venezuelan telenovela *Juana la Virgen* was adapted in the US, South Korea, India and several other markets.
 
-**What it proves:** The franchise challenges a simple US-to-rest model because media formats can originate outside the traditional core and travel in several directions.
+**What it proves:** Media can originate outside the US and move in several directions.
 
 ### Chinese Microdramas
 
@@ -24,7 +24,7 @@ The Venezuelan telenovela *Juana la Virgen* was adapted in the US, South Korea, 
 
 Chinese microdramas reach overseas audiences through streaming platforms.
 
-**What it proves:** Their popularity supports cultural globalisation by showing non-US circulation, but platform control means the flow is not necessarily economically equal.
+**What it proves:** Non-US content can circulate globally, but the flow may remain unequal.
 
 ## Exam-Ready Judgement
 

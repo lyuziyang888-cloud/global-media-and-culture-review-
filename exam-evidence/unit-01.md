@@ -8,7 +8,7 @@
 
 Canadian production and settings give the program a local identity, while HBO brings it to US audiences.
 
-**What it proves:** *Heated Rivalry* demonstrates that globally distributed content can retain a strong local identity because media nationality is constructed through production and representation, not distribution alone.
+**What it proves:** Global distribution does not remove local identity.
 
 ### North of North
 
@@ -16,7 +16,7 @@ Canadian production and settings give the program a local identity, while HBO br
 
 Indigenous Canadians created the program, while Netflix distributes it globally
 
-**What it proves:** *North of North* shows that platforms can expand Indigenous visibility, although distribution power remains partly controlled by a global company.
+**What it proves:** Global platforms can increase Indigenous visibility but still control distribution.
 
 ### Canadian Streaming Levy
 
@@ -24,7 +24,7 @@ Indigenous Canadians created the program, while Netflix distributes it globally
 
 The CRTC proposed a 15% levy on major streamers' Canadian revenue to support domestic and Indigenous production.
 
-**What it proves:** The proposed levy illustrates how governments try to make global platforms contribute to local cultural production.
+**What it proves:** Regulation can make global platforms support local production.
 
 ## Exam-Ready Judgement
 
