@@ -19,6 +19,7 @@ Canadian production and settings give the program a local identity, while HBO br
 **Use for concepts:** Indigenous representation, streaming platforms
 
 Indigenous Canadians created the program, while Netflix distributes it globally
+
 **What it proves:** *North of North* shows that platforms can expand Indigenous visibility, although distribution power remains partly controlled by a global company.
 
 ### Canadian Streaming Levy
