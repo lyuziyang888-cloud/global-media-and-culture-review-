@@ -10,7 +10,7 @@ Canada's screen industry shows that local cultural identity and global circulati
 
 **Use for concepts:** local content, national identity, global/local
 
-Canadian creators, crew, cast, locations and imagery make the program locally identifiable, while HBO gives it US reach.
+Canadian production and settings give the program a local identity, while HBO brings it to US audiences.
 
 **What it proves:** *Heated Rivalry* demonstrates that globally distributed content can retain a strong local identity because media nationality is constructed through production and representation, not distribution alone.
 
