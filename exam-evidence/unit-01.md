@@ -32,7 +32,11 @@ The CRTC proposed a 15% levy on major streamers' Canadian revenue to support dom
 
 ## Critical Limitation
 
-Global distribution does not automatically erase local identity, but visibility through a global platform does not give local producers full control over funding or circulation.
+Global distribution can preserve local identity, but local producers may not control funding or circulation.
+
+
+
+22:59
 
 ## Exam-Ready Judgement
 
