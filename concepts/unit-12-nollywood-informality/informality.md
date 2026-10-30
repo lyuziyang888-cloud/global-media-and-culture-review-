@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Informality is economic activity organised partly outside formal regulatory and corporate systems.
+Informality is a system without official contracts, where transactions depend on personal networks and trust.
 
 ## Course Evidence And Application
 
