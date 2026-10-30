@@ -1,76 +1,39 @@
 # Week 2 Tutorial: Media Imperialism
 
-## Tutorial Purpose
+## Main Focus
 
-The tutorial applies media and platform imperialism to contemporary cases and asks students to judge whether the paradigm remains relevant.
+Identify who controls media ownership, infrastructure, distribution, data and revenue.
 
-## Key Concepts and Clarifications
+## Discussion Questions and Short Answers
 
-- Media imperialism focuses on media power; cultural imperialism is broader.
-- Contemporary media imperialism is not always simply nation-based because TNCs and platforms operate across borders.
-- The paradigm emphasises broad structures rather than isolated content.
+### 1. Does the US exercise ideological influence through global media?
 
-### Cases Discussed
-
-- Marvel Cinematic Universe and the US Pentagon
-- *America's Army*
-- Facebook blocking Australian news in 2021
-- Netflix's most-watched shows
-- exclusion of Francophone Africa from YouTube monetisation
-
-These are tutorial prompts, not automatically proven examples. For each one, identify ownership, infrastructure, revenue, regulation, ideology and local consequences before applying the paradigm.
-
-## How Should You Study?
-
-For each case, identify who holds power, what resource they control, the resulting dependency and one limitation of the paradigm.
-
-## Discussion Questions and Suggested Answers
-
-### 1. Does the US exercise ideological influence in the global media industry?
-
-**Answer:** Yes, but not absolutely. US advantages in production and distribution spread American values; Hollywood-Pentagon cooperation and *America's Army* illustrate military influence. Local interpretation and strong non-US industries limit the effect.
+Yes. US production and distribution can spread American values, as shown by Hollywood-Pentagon cooperation. Local audiences and non-US industries can still interpret or resist those messages.
 
 ### 2. Can local industries counter US media power?
 
-**Answer:** Yes, through local languages, stories, funding, content rules and regional distribution. However, cultural success may still depend on US-controlled platforms for visibility, data and revenue.
+Yes, through local stories, languages, funding and regulation. However, they may still depend on US platforms for visibility and revenue.
 
-### 3. Has the world changed enough to make media imperialism irrelevant?
+### 3. Is media imperialism still relevant?
 
-**Answer:** No. One-way national models are less complete, but concentrated control of platforms, algorithms, advertising and data remains relevant. Platform imperialism updates the paradigm.
+Yes. National one-way flow is less complete today, but concentrated control of platforms, data and algorithms remains unequal.
 
-### 4. Is media imperialism limited to Western or US power?
+### 4. Is media imperialism limited to Western countries?
 
-**Answer:** No. Imperialism describes unequal control, not a permanent national identity. A non-Western firm could exercise it through infrastructure, capital and distribution, but its actual reach must be demonstrated.
+No. Any powerful state or corporation may exercise imperialism if it gains unequal control over another media system.
 
-### 5. Can non-US platforms challenge US dominance and can local platforms survive?
+### 5. Can local platforms survive?
 
-**Answer:** They can survive through language, cultural knowledge, specialised services and policy support. Network effects, capital and data still favour dominant platforms; Cyworld's decline after Facebook's expansion illustrates this disadvantage.
+They can compete through local knowledge, language and specialised services. Dominant platforms still benefit from greater capital, data and network effects.
 
-### 6. Can government regulation, policy and subsidies protect local industries?
+### 6. Can regulation protect local industries?
 
-**Answer:** Yes, through funding, local-content investment and competition rules. Enforcement matters because platforms can lobby, withdraw services or resist regulation, as Facebook's 2021 Australian news block showed.
+Yes. Funding, competition rules and local-content requirements can help. Their effect depends on enforcement and platform compliance.
 
-## Answer Structure
+## How Should You Study?
 
-```text
-state a judgement
--> identify the structure of power
--> explain the mechanism
--> apply the contemporary case
--> test a limitation
--> refine the judgement
-```
+For each case, identify who has power, what they control and how local media becomes dependent.
 
-## Assessment Signal
+## Source
 
-Workbook 1 requires comparison between media imperialism and cultural globalisation. The tutorial prioritises paradigm application, understanding the report's data and a persuasive judgement, not a descriptive report summary.
-
-## Tutorial Sources
-
-Week 2 tutorial slides.
-
-## Slide Anchors
-
-- clarification and contemporary update: slides 3-4
-- discussion questions: slides 5-6
-- Workbook 1: slide 7
+Week 2 tutorial slides, especially slides 3-7.

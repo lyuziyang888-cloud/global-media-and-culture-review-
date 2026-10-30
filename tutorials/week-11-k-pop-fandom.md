@@ -1,65 +1,43 @@
 # Week 11 Tutorial: K-pop Fandom
 
-## Tutorial Purpose
+## Main Focus
 
-Apply cultural hybridity to K-pop industries and use participatory, cosmopolitan and transcultural approaches to explain fan practices.
-
-## Key Concepts and Clarifications
-
-- Cultural hybridity includes both cultural fusion and the disruption of fixed cultural categories.
-- Participatory globalisation focuses on what fans create, adapt and circulate.
-- Cosmopolitan globalisation focuses on openness to cultural flows beyond one national or Western centre.
-- Transcultural fandom explains connections through shared interests and identities across borders.
-
-## How Should You Study?
-
-Learn the difference between the four concepts. Prepare one industry example, one cover-dance example and one limitation concerning corporate or platform power.
+Apply cultural hybridity, participatory globalisation and transcultural fandom to K-pop industries and fan practices.
 
 ## Official Exam Practice
 
-### Apply cultural hybridity to KATSEYE's industrial strategy. Give specific examples.
+### Apply cultural hybridity to KATSEYE's industrial strategy.
 
-**Suggested answer:** KATSEYE's industrial strategy demonstrates cultural hybridity by combining the K-pop production system with a multinational approach to global pop. HYBE and the US-based Geffen Records jointly created the group, whose six members come from the Philippines, the United States, Switzerland and South Korea. The members trained through HYBE's K-pop methodology, including intensive preparation, teamwork and synchronised choreography. The group also prepared Korean, Japanese and Tagalog versions of "Touch," with Filipino member Sophia helping to write the Tagalog version. Using Yoon's concept, this is cultural fusion because Korean and international industrial and cultural elements are combined. It also disrupts a fixed division between K-pop and Western pop. However, HYBE and Geffen commercially organise this mixture to reach broader markets, and the article describes the group's reception at that time as lukewarm. A global strategy therefore does not automatically prove global success.
-
-**Article evidence:** HYBE-Geffen co-production; multinational membership; HYBE training; synchronised choreography; Korean, Japanese and Tagalog versions of "Touch"; distribution through YouTube, Weverse, Abema and Netflix; initially lukewarm reception.
-
-**Article:** [K-pop's most diverse newcomers KATSEYE aim to push boundaries](https://www.koreajoongangdaily.com/entertainment/k-pops-most-diverse-newcomers-katseye-aim-to-push-boundaries-in-the-music-scene/12117156)
+KATSEYE combines K-pop training with multinational members and global pop styles. This challenges a simple division between Korean and Western pop, although major companies still organise the group.
 
 ## Workbook 4 Discussion
 
-### Who has the most power over cover-dance videos?
+### 1. Who has the most power over cover dances?
 
-I think entertainment agencies have the most power. They control the original song, choreography, performers and visual style that cover dancers usually follow. Cover dancers can change the location, gender presentation or movements, while audiences and YouTube affect which videos become visible. However, these activities still begin with cultural material produced and promoted by the entertainment agency. Therefore, power is shared, but agencies shape the starting point.
+Entertainment agencies set the original music and choreography. Dancers adapt it, audiences affect popularity, and YouTube controls visibility, so power is shared but unequal.
 
-### Are cover dances cultural hybridity or copying?
+### 2. Are cover dances hybridity or copying?
 
-K-pop cover dances can be both copying and cultural hybridity. They copy recognisable music and choreography from the original performance. However, dancers may change the performers, gender presentation, location, costumes and movement details. These changes adapt the performance to a new cultural setting. Therefore, a cover becomes culturally hybrid when dancers reinterpret the original instead of reproducing it exactly.
+They can be both. The choreography is reproduced, but performers, location, gender presentation and style may create a new version.
 
 ## Fan-Practice Activity
 
-### What kind of imagination applies to these examples?
+### 3. What kind of imagination applies to banner events?
 
-- **Banner events:** participatory globalisation because fans collectively design local support for an artist; the Melbourne Taemin banner also mixes Korean fan practice with Australian symbols.
-- **Fan chants:** participatory globalisation because audiences coordinate their voices as part of the performance.
-- **Birthday cafés:** participatory and cosmopolitan globalisation because fans recreate a Korean fan practice in different local settings.
+Participatory globalisation, because fans redesign and circulate support for an artist in a local setting.
 
-## Answer Structure
+### 4. What kind of imagination applies to fan chants?
 
-```text
-define the concept
--> identify the media or fan practice
--> describe one specific feature
--> explain how the feature fits the concept
--> add a power or evidence limitation
--> give a judgement
-```
+Participatory globalisation, because audiences actively join the performance.
 
-## Assessment Signal
+### 5. What kind of imagination applies to birthday cafes?
 
-The official exam-practice question is on slide 4. It requires application to KATSEYE's industrial strategy, not only a definition of hybridity.
+Participatory and cosmopolitan globalisation, because fans recreate a Korean fan practice in different locations.
 
-## Slide Anchors
+## How Should You Study?
 
-- official exam practice: slide 4
-- Workbook 4 discussion: slide 5
-- fan-practice activity: slide 6
+Define the concept, identify one specific fan action and explain how corporate or platform power limits it.
+
+## Source
+
+Week 11 tutorial slides, especially slides 4-6.

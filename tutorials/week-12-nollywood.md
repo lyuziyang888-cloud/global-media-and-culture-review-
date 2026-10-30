@@ -1,66 +1,41 @@
-# Week 12 Tutorial: Nollywood and Challenging Assumptions
+# Week 12 Tutorial: Nollywood
 
-## Tutorial Purpose
+## Main Focus
 
-Apply Nollywood to digital distribution and question whether Global North platforms provide the normal model for every media industry.
-
-## Key Concepts and Clarifications
-
-- Digital distribution includes file transfers and offline downloads, not only streaming.
-- Informality can be organised and commercially effective.
-- Piracy can widen access while also reducing creators' control and payment.
-- Global success means different things to platforms, creators and audiences.
-
-## How Should You Study?
-
-Learn one contrast between streaming and Nollywood distribution, explain marketers' power, then add one benefit and one problem of informality.
+Use Nollywood to challenge the assumption that digital distribution must mean formal streaming platforms.
 
 ## Official Exam Practice
 
-### How does Nollywood offer an alternative understanding of digital distribution compared with dominant Global North models? Include the role of marketers.
+### How does Nollywood offer an alternative understanding of digital distribution? Include marketers.
 
-**Suggested answer:** Global North models usually connect digital distribution with reliable internet, formal payment and streaming platforms. Nollywood shows that digital files can also move through Bluetooth, USB transfers, market stalls and offline downloads. These methods work around expensive data and unreliable electricity. Marketers remain important because they finance many films and control the physical networks that still reach most domestic viewers. Their private sales figures and market power make formal investment difficult, but their networks also keep local films widely available. Nollywood therefore shows that digital and physical distribution can operate together. It also shows that informality can support access while creating problems for transparency and producers' rights.
+Nollywood films circulate through Bluetooth, USB, market stalls and offline downloads. Marketers finance films and control physical distribution. This system expands access but creates problems for transparency and producers' rights.
 
-## Discussion Questions and Suggested Answers
+## Discussion Questions and Short Answers
 
-### What do Uganda's video halls and Cuba's *El Paquete Semanal* offer audiences?
+### 1. What do Uganda's video halls and Cuba's *El Paquete Semanal* offer audiences?
 
-They provide affordable access where cinemas, broadband or subscription platforms may not meet local needs. They show that audiences can build distribution systems around available infrastructure.
+They provide affordable access where cinemas, broadband or subscriptions do not meet local needs.
 
-### How do these systems challenge common ideas about piracy?
+### 2. How do these systems challenge ideas about piracy?
 
-Unauthorised circulation can support access and local media culture, so piracy is not only a story of criminal behaviour. However, creators may lose payment and control, and audiences may have limited information about who benefits.
+Unauthorised circulation can support access and local culture, but creators may lose payment and control.
 
-### Why are *The Black Book* and *Squid Game* described as global breakthroughs?
+### 3. Why are *The Black Book* and *Squid Game* called global breakthroughs?
 
-Netflix can make non-US productions visible to audiences across many markets. Calling them breakthroughs also centres platform recognition, even though their industries and audiences existed before Netflix promoted them globally.
+Netflix gave them visibility across many markets. The label also centres Netflix even though their industries existed before platform recognition.
 
-### Does global success mean the same thing to Netflix, creators and audiences?
+### 4. Does global success mean the same thing to everyone?
 
-No. Netflix may focus on subscriptions and international viewing. Creators may value funding, recognition and control, while audiences may value accessible stories that reflect their lives. These interests can overlap without being identical.
+No. Netflix values subscriptions, creators may value funding and control, and audiences may value accessible local stories.
 
-### How can global success influence the stories that get made?
+### 5. How can global success influence production?
 
-Producers may favour polished stories that travel easily or appeal to platform audiences. This can create opportunities, but it may give less attention to lower-budget films made for domestic viewers.
+Producers may favour polished stories that travel easily, while lower-budget domestic films receive less attention.
 
-## Answer Structure
+## How Should You Study?
 
-```text
-identify the Global North assumption
--> explain Nollywood's alternative practice
--> include marketers' role
--> give one reading example
--> discuss a benefit and a problem
--> state why the comparison matters
-```
+Identify the Global North assumption, explain Nollywood's alternative and give one benefit and one problem.
 
-## Assessment Signal
+## Sources
 
-The official exam-practice question is on slide 4. Marketers are required, but the answer must also explain why Nollywood changes how digital distribution is understood.
-
-## Slide Anchors
-
-- official exam practice: slide 4
-- alternative media systems: slide 5
-- meanings of global success: slide 6
-
+Week 12 tutorial slides and Miller's Nollywood reading.

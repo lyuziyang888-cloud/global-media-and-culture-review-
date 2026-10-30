@@ -1,84 +1,49 @@
 # Week 4 Tutorial: Format Programs
 
-## Tutorial Purpose
+## Main Focus
 
-The tutorial prepares students for Workbook 2 and the Keane reading, reviews the Workbook 1 paradigm debate, and applies format-program concepts to *The Traitors* and adaptation decisions.
+Explain how a licensed format keeps a stable core while adapting to local audiences.
 
-## Key Concepts and Clarifications
+## Workbook 1 Discussion
 
-- formats combine a stable licensed core with locally adaptable elements
-- adaptation does not remove ownership, licensing or commissioner power
-- multidirectional format trade does not make global media power equal
+### 1. Which paradigm did you choose?
 
-## How Should You Study?
-
-- access Keane's article through QUT Readings for Week 6
-- use the abstract for orientation, not as a substitute for the article
-- follow the argument's sequence: big-picture context, proposed model, China application and final significance
-- ask why each detail appears and how it supports Keane's overall framework
-
-## Discussion Questions and Suggested Answers
-
-### 1. Which position did you take: cultural/media imperialism or cultural globalisation?
-
-**Suggested answer:** State the chosen paradigm immediately and make the judgement case-specific. Cultural globalisation is stronger when the evidence centres on non-US production, adaptation and multidirectional circulation; media imperialism is stronger when ownership, distribution, revenue and platform control remain concentrated.
+State it directly. Choose cultural globalisation for multidirectional flows and adaptation, or media imperialism for unequal ownership and distribution.
 
 ### 2. What evidence supports your position?
 
-**Suggested answer:** Use precise report data, then connect each item to a named concept. Do not treat the existence of non-US content alone as proof of equal global power.
+Use exact report data and connect it to a named concept. Non-US content alone does not prove equal power.
 
-### 3. Can the group agree which paradigm better explains the industry today?
+### 3. Which paradigm better explains the industry?
 
-**Suggested answer:** A defensible conclusion may distinguish cultural change from structural continuity. Cultural globalisation can better explain diverse content flows while media imperialism may better explain enduring ownership and distribution inequalities.
+Choose one and justify it. Cultural globalisation may explain diverse content flows, while media imperialism may better explain ownership and platform control.
 
-### Format Program Discussion
+## Format-Program Questions
 
-### 4. Is each version of *The Traitors* unique content, or essentially the same program?
+### 4. Are versions of *The Traitors* unique or the same program?
 
-**Answer:** Each version is both locally distinct and structurally connected. Casting, language, performance and cultural references create unique content, while the licensed rules, premise and production knowledge preserve one recognisable format.
-
-**Judgement:** Treating the versions as entirely identical ignores localisation; treating them as unrelated ignores intellectual property and standardisation.
+Both. The rules and premise remain stable, while casting, language and cultural references change locally.
 
 ### 5. Does format trade challenge West-versus-Rest thinking?
 
-**Answer:** The Dutch origin and global adaptation of *The Traitors* challenges a model in which influential formats only move from the US or UK to passive peripheral markets. However, one Dutch format does not establish equality across ownership, licensing and distribution.
+Yes, because *The Traitors* moved from the Netherlands into other markets. However, unequal licensing and distribution can remain.
 
-**Judgement:** Format trade complicates West-versus-Rest thinking more clearly than it eliminates unequal media power.
+### 6. What cannot change in a format?
 
-### 6. What element of a format cannot change?
+The defining mechanism must remain recognisable, such as the hidden-traitor premise.
 
-**Answer:** The element should be central to audience recognition and format identity, such as *The Traitors*' hidden-traitor premise or *The Bridge*'s cross-border crime structure. Changing the defining mechanism too far would create a different program.
+### 7. What can change?
 
-### 7. What element could be significantly changed?
+Hosts, contestants, language, setting, humour and pacing can be adapted.
 
-**Answer:** Hosts, contestants, language, setting, humour, pacing and social references can be changed to fit audience expectations and commissioner priorities.
+### 8. How do commissioners shape adaptation?
 
-### 8. How do commissioner priorities shape adaptation?
+They decide how ratings, budget, regulation and target audiences affect local changes.
 
-**Answer:** A commissioner may prioritise ratings, budget, local-content rules, cultural sensitivity, demographics or brand consistency. These priorities determine which features remain standardised and where local creative freedom is used.
+## How Should You Study?
 
-## Answer Structure
+Remember: stable licensed core plus local adaptation.
 
-```text
-state a judgement
--> define the relevant format concept
--> identify the stable core
--> identify the local adaptation
--> explain the commercial or cultural reason
--> evaluate ownership or creative-power limits
-```
+## Source
 
-## Assessment Signal
-
-Workbook 2 requires Keane's framework rather than the format-program concepts alone. This tutorial's reading guidance is preparation for identifying the framework, applying categories to a media company and evaluating whether that company remains peripheral.
-
-## Tutorial Sources
-
-Week 4 tutorial slides.
-
-## Slide Anchors
-
-- Keane reading guidance: slides 4-5
-- Workbook 1 discussion: slide 6
-- *The Traitors* discussion: slide 7
-- adaptation commissioner activity: slide 8
+Week 4 tutorial slides, especially slides 4-8.

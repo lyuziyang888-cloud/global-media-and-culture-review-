@@ -1,61 +1,37 @@
 # Week 10 Tutorial: Cosmopolitanism
 
-## Tutorial Purpose
+## Main Focus
 
-Apply cosmopolitanism to Spanish audiences of Turkish dramas and test whether foreign-media consumption creates real engagement with cultural difference.
-
-## Key Concepts and Clarifications
-
-- Cultural proximity stresses familiarity; cosmopolitanism explains why difference can also attract audiences.
-- Banal cosmopolitanism involves routine exposure to foreign culture.
-- Pop cosmopolitanism requires more active learning or reflection.
-- Watching foreign media alone is not enough to prove cosmopolitanism.
-
-## How Should You Study?
-
-Learn the four short definitions, then practise one Spanish-audience example that shows active engagement with difference. Always include a limitation.
+Explain why audiences may be attracted to cultural difference as well as cultural familiarity.
 
 ## Official Exam Practice
 
-### Discuss how cosmopolitanism challenges cultural proximity using Spanish audiences watching Turkish dramas.
+### How does cosmopolitanism challenge cultural proximity through Spanish audiences of Turkish dramas?
 
-**Suggested answer:** Cultural proximity means that audiences tend to prefer media with familiar languages, values or genres. Cosmopolitanism means openness to cultural difference and a sense of connection to the wider world. Spanish viewers engaged with difference in several ways: Amparo watched to learn how people elsewhere lived, Isabella began studying Turkish, and Teresa questioned whether wealthy Istanbul settings represented the whole country. 
+Cultural proximity explains attraction to familiar values and genres. Cosmopolitanism explains viewers who used Turkish dramas to learn about difference, study Turkish or question how Turkey was represented.
 
-## Discussion Questions and Suggested Answers
+## Discussion Questions and Short Answers
 
-### Why do people consume foreign content?
+### 1. Why do people consume foreign content?
 
-People may enjoy a familiar genre or seek cultural difference. Rosa moved from Mexican telenovelas to Turkish dramas because the older programs had become repetitive. Turkish melodrama remained familiar, while Turkish settings and customs offered novelty.
+They may enjoy familiar genres while also seeking cultural difference and novelty.
 
-### Does consuming foreign media make people more interested in another culture?
+### 2. Does foreign-media consumption create cultural interest?
 
-Sometimes. Isabella began studying Turkish after discovering the dramas. Lidia created a fan account, formed friendships and travelled to Istanbul. Other viewers mainly learned from what appeared on screen, so watching alone does not prove deeper engagement.
+Sometimes. Some viewers studied Turkish, travelled or formed fan communities, while others only relied on what appeared on screen.
 
-### What is enough to count as cosmopolitan?
+### 3. What counts as cosmopolitan engagement?
 
-Exposure is a starting point. Teresa showed stronger cosmopolitan reflection when she distinguished wealthy Istanbul settings from Mardin and more rural regions. This shows awareness that one drama cannot represent an entire country.
+Active learning and reflection are stronger evidence than exposure alone. Viewers should recognise that one drama cannot represent an entire country.
 
-### Can the Thai boys' love tourism example show banal or pop cosmopolitanism?
+### 4. Can Thai boys' love tourism show banal or pop cosmopolitanism?
 
-Routine viewing can represent banal cosmopolitanism. Fans who seek more information, travel to Thailand or engage with Thai culture show a stronger form of pop cosmopolitanism.
+Routine viewing may be banal cosmopolitanism. Seeking information, travelling or engaging with Thai culture is closer to pop cosmopolitanism.
 
-## Answer Structure
+## How Should You Study?
 
-```text
-define both concepts
--> explain familiarity versus difference
--> apply one Spanish-audience example
--> explain what the example proves
--> add the limitation
--> give a judgement
-```
+Distinguish familiarity from difference, then use one Spanish-audience example and one limitation.
 
-## Assessment Signal
+## Source
 
-The official exam-practice question is on slide 4. It requires both definitions and an example showing how Spanish audiences engaged with cultural difference.
-
-## Slide Anchors
-
-- official exam practice: slide 4
-- Thai drama application: slide 5
-- foreign-content discussion: slides 6-7
+Week 10 tutorial slides, especially slides 4-7.

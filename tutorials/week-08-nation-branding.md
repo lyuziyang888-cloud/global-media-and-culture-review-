@@ -1,76 +1,53 @@
 # Week 8 Tutorial: Nation Branding
 
-## Tutorial Purpose
+## Main Focus
 
-Apply Mino's two Othering strategies to Workbook 3 campaigns, then examine who controls national images through the Brisbane 2032 Olympics activity.
+Use Othering to examine who controls a national image and how foreign visitors and local people are represented.
 
-## Key Concepts and Clarifications
+## Workbook 3 Discussion
 
-- Nation branding selects a marketable national image for a particular audience.
-- Othering analysis asks who acts, who gets observed and whose perspective controls the story.
-- A campaign may create attention while still simplifying national identity.
+### 1. What image does Visit Qatar's *Surprise Yourself* promote?
+
+It presents Qatar as safe, welcoming and luxurious, with culture and adventure for international tourists.
+
+### 2. What Othering strategies appear?
+
+The Couple and Friends videos centre adventurous foreign visitors. The Family video also shows local services supporting foreign visitors while local perspectives remain limited.
+
+### 3. Is nation branding or fiction more effective soft power?
+
+Nation branding gives Qatar more control over its message. Fiction may feel more credible, but foreign producers can make a place represent somewhere else.
+
+## Brisbane 2032 Activity
+
+### 4. Which ideas could represent Australia?
+
+A campaign could show multicultural society, Indigenous cultures, modern cities and environmental responsibility.
+
+### 5. What should the campaign avoid?
+
+It should avoid reducing Australia to beaches and wildlife or using Indigenous culture without Indigenous control.
+
+### 6. How could it differ from Sydney 2000?
+
+It could give greater attention to diversity, Indigenous authority and environmental concerns.
+
+### 7. Are campaign images real or based on foreign expectations?
+
+Both. Campaigns use real places but select images that organisers believe foreign audiences will value.
+
+### 8. Who decides what represents the nation?
+
+Governments, tourism bodies, agencies and sponsors hold the most formal power.
+
+### 9. Can a nation be represented without simplification?
+
+Not completely. The key issue is whether the campaign avoids stereotypes and gives represented communities influence.
 
 ## How Should You Study?
 
-For each campaign video, identify the visitor, the local people, the promoted image and what the video leaves out. Practise connecting one precise scene to one Othering strategy.
+Name the strategy, describe one scene and explain who acts, who is observed and who controls the image.
 
-## Workbook 3 Discussion Questions and Suggested Answers
+## Source
 
-### What campaign did you choose, and what image does it promote?
-
-I chose Visit Qatar's *Surprise Yourself*. It presents Qatar as safe and welcoming, with desert adventure, cultural experiences and modern luxury. The campaign targets families, couples and groups of friends.
-
-### What Othering strategies appear in the videos?
-
-The Couple and Friends videos use the adventurous foreigner strategy because visitors lead the experience and discover Qatar. The Family video comes closest to locals serving the foreigner because tourism workers, transport, market goods and hospitality support the family's visit. This second example is less direct because local perspectives receive little attention.
-
-### Is nation branding or fictional content more effective soft power?
-
-Nation branding is more effective when the goal is a clear national tourism image because the campaign controls what viewers see. Fiction may feel less promotional and reach large audiences, but foreign producers can make a location represent somewhere else. Qatar therefore communicates its intended image more clearly than Budapest does when it substitutes for other cities.
-
-## Brisbane 2032 Olympics Activity
-
-### Which three ideas could represent Australia today?
-
-1. A multicultural society shaped by migration and Indigenous cultures.
-2. Modern cities connected to distinctive environments.
-3. A country responding to climate pressure through more sustainable event planning.
-
-### What should the campaign avoid?
-
-It should avoid reducing Australia to beaches, wildlife and a relaxed lifestyle. It should also avoid using Indigenous culture as decoration without giving Indigenous communities real control over representation.
-
-### How would this differ from Sydney 2000?
-
-A Brisbane 2032 campaign could give more attention to cultural diversity, Indigenous authority and environmental responsibility. This would present a more complex Australia than a campaign built mainly around celebration and familiar national symbols.
-
-## Reflection Questions
-
-### Are campaign choices based on reality or foreign expectations?
-
-Both. A campaign begins with real places and cultures but selects the parts most likely to attract international audiences. The selection can reveal what organisers think outsiders expect.
-
-### Who decides what represents the nation?
-
-Governments, tourism organisations, creative agencies, sponsors and media producers hold the most formal power. Citizens can challenge the image, but they do not all have equal influence over the campaign.
-
-### Can a nation be represented without simplification?
-
-Some simplification is unavoidable in a short campaign. The main issue is whether the campaign acknowledges diversity and gives represented communities meaningful influence instead of relying on stereotypes.
-
-## Answer Structure
-
-```text
-define the concept -> identify who controls the image -> describe a scene -> explain Self and Other -> judge the benefit and limitation
-```
-
-## Assessment Signal
-
-The tutorial contains Workbook 3 discussion rather than a separate exam-practice question. The strongest answers apply one strategy to concrete visual evidence and then identify what the campaign excludes.
-
-## Slide Anchors
-
-- Workbook 3 discussion: slide 3
-- Sydney 2000 context: slide 4
-- Brisbane 2032 activity: slide 5
-- critical reflection: slide 6
+Week 8 tutorial slides, especially slides 3-6.
