@@ -1,9 +1,5 @@
 # Unit 10 Evidence-to-Concept Map
 
-## Core Claim
-
-Ferreira argues that Turkish dramas contribute to a continuing process of cosmopolitan identity formation among Spanish viewers. They do not create cosmopolitanism by themselves; viewers' prior experiences, curiosity and active engagement also shape the process (pp. 945-946).
-
 ## Quick Map
 
 | Concept | Evidence to use | What it proves | Pages |
@@ -21,15 +17,15 @@ Ferreira argues that Turkish dramas contribute to a continuing process of cosmop
 
 **Use for concepts:** cosmopolitanism, cultural proximity, cultural distance
 
-Amparo said that learning how people in another culture live was the main attraction. She continued watching even though she disagreed with practices she considered sexist (pp. 941, 943).
+Amparo said that learning how people in another culture live was the main attraction.
 
-**What it proves:** Familiarity is not the only source of appeal. Cultural difference can motivate viewing.
+**What it proves:** Familiarity is not the only source of appeal.
 
 ### Active Learning Beyond the Screen
 
 **Use for concepts:** pop cosmopolitanism, fandom, cultural learning
 
-Isabella began studying Turkish after a Turkish-German student introduced her to the dramas (p. 939). Lidia created a fan account for a Turkish actor, formed friendships with women around Spain and travelled with them to Istanbul (p. 944).
+Isabella studied Turkish, while Lidia formed friendships and travelled to Istanbul (pp. 939, 944).
 
 **What it proves:** Active engagement with popular culture can expand knowledge and social relationships.
 
@@ -37,7 +33,7 @@ Isabella began studying Turkish after a Turkish-German student introduced her to
 
 **Use for concepts:** pop cosmopolitanism, representation, reflexivity
 
-Teresa used *If I Were a Cloud*, set in Mardin, to distinguish rural regions from the wealthy, Westernised Istanbul commonly shown on screen. Dolores searched online to understand regional differences, while Lidia criticised the dramas for presenting Turkey more positively than reality (pp. 942-943).
+Teresa used *If I Were a Cloud*, set in Mardin, to distinguish rural regions from the wealthy, Westernised Istanbul commonly shown on screen.
 
 **What it proves:** Cosmopolitan engagement can include questioning the media image rather than accepting it as reality.
 
@@ -45,13 +41,9 @@ Teresa used *If I Were a Cloud*, set in Mardin, to distinguish rural regions fro
 
 **Use for concepts:** transnational media flow, distribution, audience access
 
-*What Is Fatmagül's Fault?* became the most-watched series in Nova's history after its 2018 premiere. *Woman* later moved Turkish drama into Antena 3's primetime schedule. The Spanish remake *Alba* moved from local streaming to television and then Netflix (pp. 933-934).
+*Fatmagül* became Nova's most-watched series, while *Woman* reached primetime and *Alba* remade the story (pp. 933-934).
 
 **What it proves:** Audience interest operates within industrial decisions about what becomes available.
-
-## Limitation to Add
-
-The study used 16 interviews, mostly with women and people who already engaged in fan practices. Ferreira states that the sample does not necessarily represent all Spanish viewers (pp. 938-939). The findings therefore explain how cosmopolitan engagement can occur, not how every viewer responds.
 
 ## Exam-Ready Judgement
 

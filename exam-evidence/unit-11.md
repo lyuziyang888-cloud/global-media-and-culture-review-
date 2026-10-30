@@ -1,9 +1,5 @@
 # Unit 11 Evidence-to-Concept Map
 
-## Core Claim
-
-K-pop fans do more than receive a Korean media product. They reinterpret, reproduce and organise around it across different locations, although this activity still operates within corporate and platform systems.
-
 ## Quick Map
 
 | Concept | Evidence to use | What it proves | Pages |
@@ -21,7 +17,7 @@ K-pop fans do more than receive a Korean media product. They reinterpret, reprod
 
 **Use for concepts:** participatory globalisation, cultural hybridity, fan agency
 
-Yoon lists grassroots cover-dance groups with reaction videos, parodies and fan forums as evidence that fans re-appropriate and interact with original K-pop texts (pp. 379-380).
+Yoon describes cover dances, reaction videos, parodies and fan forums as ways fans rework K-pop (pp. 379-380).
 
 **What it proves:** A cover dance can be analysed as active fan participation when the performers adapt or recirculate the original performance.
 
@@ -29,7 +25,7 @@ Yoon lists grassroots cover-dance groups with reaction videos, parodies and fan 
 
 **Use for concepts:** cosmopolitan globalisation, cultural flow, localisation
 
-Yoon argues that global cover dancers reinterpret K-pop from their own experiences and locations (pp. 380-382).
+Cover dancers reinterpret K-pop through their own experiences and locations (pp. 380-382).
 
 **What it proves:** K-pop does not retain one fixed meaning as it moves; fans can connect it to local identities and settings.
 
@@ -37,7 +33,7 @@ Yoon argues that global cover dancers reinterpret K-pop from their own experienc
 
 **Use for concepts:** transcultural fandom, affective affinity, identity
 
-Jin describes transcultural fandom as a space where people from different genders, cultures and ethnicities form connections around shared interests. Affective affinity explains attachment that is not determined by a media text's national origin (pp. 120-121).
+Jin describes transcultural fandom as a space where people from different genders, cultures and ethnicities form connections around shared interests.
 
 **What it proves:** Nationality is only one part of global K-pop fandom.
 
@@ -45,7 +41,7 @@ Jin describes transcultural fandom as a space where people from different gender
 
 **Use for concepts:** fan labour, platform power, corporate power
 
-Yoon notes that participatory culture may commodify audiences and produce value for advertisers and platform providers (p. 380). Jin also states that the transcultural approach does not fully explain why global fans like K-pop (p. 133).
+Fan participation can create value for advertisers and platform providers (Yoon, p. 380).
 
 **What it proves:** Fan agency is real but should not be treated as complete freedom or a complete explanation.
 
@@ -53,13 +49,9 @@ Yoon notes that participatory culture may commodify audiences and produce value 
 
 **Use for concepts:** cultural hybridity, globalisation, localisation, corporate power
 
-HYBE partnered with Geffen Records to create KATSEYE for a US debut. The six members came from the Philippines, the United States, Switzerland and South Korea, while HYBE supplied K-pop training and synchronised performance methods. The group prepared Korean, Japanese and Tagalog versions of "Touch," and its audition and training content circulated through YouTube, Weverse, Abema and Netflix.
+HYBE partnered with Geffen Records to create KATSEYE for a US debut.
 
-**What it proves:** The strategy combines Korean production methods with multinational casting, local languages and global distribution. It challenges a fixed division between K-pop and Western pop, but HYBE and Geffen still organise the mixture commercially. The article's description of initially lukewarm reception also shows that a global strategy does not guarantee global success.
-
-## Limitation to Add
-
-Yoon's evidence comes from qualitative research with fans in Canada, so it should not be treated as the experience of every K-pop audience. Jin presents transculturalism as a useful approach rather than the only explanation of global fandom.
+**What it proves:** The strategy combines Korean production methods with multinational casting, local languages and global distribution.
 
 ## Exam-Ready Judgement
 

@@ -1,9 +1,5 @@
 # Unit 7: Location and Soft Power Evidence
 
-## Main Claim
-
-Havens and Imre show that soft power can target foreign producers as well as general audiences. Governments, agencies and production workers use incentives, cultural diplomacy and professional relationships to make a location attractive (pp. 25-29).
-
 ## Best Evidence
 
 ### Budapest
@@ -22,7 +18,7 @@ Havens and Imre show that soft power can target foreign producers as well as gen
 
 Official agencies promote Hungary, while fixers connect foreign producers with government and local workers.
 
-**What it proves:** Soft power also develops through routine production relationships, not only finished media texts (pp. 28-29, 39).
+**What it proves:** Soft power can develop through production relationships, not only finished media texts (pp. 28-29, 39).
 
 ### Brisbane Comparison
 
@@ -31,10 +27,6 @@ Official agencies promote Hungary, while fixers connect foreign producers with g
 Tourism promotion presents a leisure city, Ausfilm presents a production location, and *Boy Swallows Universe* presents a socially specific 1980s Brisbane.
 
 **What it proves:** Institutions construct the same place differently for different audiences.
-
-## Critical Limitation
-
-Hungary gains investment, skills and a service reputation. However, foreign productions can relocate, Hungary creates relatively little internationally visible media of its own, and Budapest is often visually erased (pp. 25-26, 30-31, 36).
 
 ## Exam-Ready Judgement
 

@@ -1,9 +1,5 @@
 # Unit 8: Nation Branding and Othering Evidence
 
-## Main Claim
-
-Mino argues that nation-branding campaigns package culture and identity for foreign tourism, trade and investment. They often centre the foreign gaze and separate the active visitor from the local Other (pp. 182-183, 187-188).
-
 ## Best Evidence
 
 ### The "Adventurous" Foreigner
@@ -36,10 +32,6 @@ Local people display culture, labour, products or services for tourists and inve
 - **Family video:** dining, market and tourism scenes offer the closest example of service-based Othering, but local people have little narrative control.
 
 **What it proves:** A campaign can promote national attraction while organising the story around foreign visitors and selected marketable images.
-
-## Critical Limitation
-
-Qatar is outside Mino's Latin American sample. Apply the framework as an interpretation, not as proof. The foreigner-centred strategy is clear, while evidence for proud local service is weaker.
 
 ## Exam-Ready Judgement
 

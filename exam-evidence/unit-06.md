@@ -1,9 +1,5 @@
 # Unit 6: Media Capacity Evidence
 
-## Main Claim
-
-Keane argues that global integration should not be understood only through a West-versus-Rest model. Unequal power remains, but once-peripheral locations can develop agency and media capacity through several pathways.
-
 ## Best Evidence
 
 | Use for concept | Example | What it proves |
@@ -21,10 +17,6 @@ Chinese companies participated in Sino-US co-productions during the 2010s, used 
 **Use for concepts:** media capacity, Western-centric approaches, cultural technology transfer
 
 **What it proves:** China's changing activities show why countries should not remain permanently classified as passive peripheral producers.
-
-## Critical Limitation
-
-International success does not automatically prove capacity-building. Ask whether local producers own intellectual property, retain skilled workers, control infrastructure and can repeat production without depending entirely on foreign companies.
 
 ## Exam-Ready Judgement
 

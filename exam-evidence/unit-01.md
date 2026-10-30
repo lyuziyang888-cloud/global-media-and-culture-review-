@@ -1,9 +1,5 @@
 # Unit 1: Global Media Evidence
 
-## Main Claim
-
-Canada's screen industry shows that local cultural identity and global circulation can coexist, but local media depends on production, representation, funding and regulation.
-
 ## Best Evidence
 
 ### Heated Rivalry
@@ -29,14 +25,6 @@ Indigenous Canadians created the program, while Netflix distributes it globally
 The CRTC proposed a 15% levy on major streamers' Canadian revenue to support domestic and Indigenous production.
 
 **What it proves:** The proposed levy illustrates how governments try to make global platforms contribute to local cultural production.
-
-## Critical Limitation
-
-Global distribution can preserve local identity, but local producers may not control funding or circulation.
-
-
-
-22:59
 
 ## Exam-Ready Judgement
 
