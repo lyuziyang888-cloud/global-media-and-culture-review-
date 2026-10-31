@@ -5,7 +5,7 @@
 
 ## Definition
 
-Netflix adapting to India through Bollywood.
+Netflix adapt its global model to India market through Bollywood content.
 
 ## Mechanism In The Reading
 
