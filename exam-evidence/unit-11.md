@@ -1,27 +1,11 @@
 # Unit 11: K-pop Fandom Evidence
 
-## Official Question: Apply cultural hybridity to KATSEYE.
-
-**Concepts:** cultural hybridity; industrial hybridity
-
-**Evidence:** HYBE and Geffen combined K-pop training with multinational members and Korean, Japanese and Tagalog versions of “Touch.”
-
-**Direct answer:** KATSEYE mixes Korean production methods with different national identities and languages. It challenges a fixed division between K-pop and Western pop, although major companies organise the mixture.
-
-## Question: Are cover dances participation or copying?
-
-**Concepts:** participatory globalisation; cultural hybridity
-
-**Evidence:** Fans reproduce core choreography but can change performers, location, gender presentation and performance style.
-
-**Direct answer:** A cover may copy recognisable choreography and still become participatory when fans adapt and circulate it. The judgement must use specific changes from the chosen video.
-
-## Question: Are cover dances transcultural fandom?
-
-**Concepts:** transcultural fandom; affective affinity
-
-**Evidence:** Fans in different locations connect through shared interest in K-pop rather than nationality alone.
-
-**Direct answer:** Cover dances can be transcultural because fans perform and share K-pop across cultural boundaries. However, agencies and YouTube still influence the music, choreography and visibility.
+| Case | Use for | Key evidence | Proves |
+|---|---|---|---|
+| Cover dances | participatory globalisation; hybridity | Fans reproduce and adapt choreography | Fans actively remake and circulate K-pop. |
+| Local reinterpretation | cosmopolitan globalisation; localisation (U5) | Performers use their own locations and styles | K-pop gains new meanings in different places. |
+| Fan communities | transcultural fandom; cosmopolitanism (U10) | Shared interests connect fans across cultures | Fandom is not limited by nationality. |
+| Fan labour | platform power (U2); participation | Fan activity creates platform and advertising value | Participation and corporate power coexist. |
+| KATSEYE | cultural and industrial hybridity | K-pop training, multinational members and languages | K-pop production can mix global identities and markets. |
 
 **Sources:** Yoon (2018), pp. 373-389; Jin (2024), pp. 118-134.
