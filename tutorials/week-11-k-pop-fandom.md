@@ -8,25 +8,25 @@ Apply cultural hybridity, participatory globalisation and transcultural fandom t
 
 ### Read the article below and apply the concept of cultural hybridity to the industrial strategy of the K-pop group KATSEYE. Give specific examples to support your answer.
 
-KATSEYE combines K-pop training with multinational members and global pop styles. This challenges a simple division between Korean and Western pop, although major companies still organise the group.
+KATSEYE combines K-pop training with members from several countries. This makes the group culturally hybrid.
 
 ## Workbook 4 Discussion
 
 ### 1. Who do you think has the most power in influencing the cover dance videos: the cover dancers, audiences, entertainment agencies, or YouTube? Why do you think so?
 
-Entertainment agencies set the original music and choreography. Dancers adapt it, audiences affect popularity, and YouTube controls visibility, so power is shared but unequal.
+Entertainment agencies have the most power because they own the original music and choreography. YouTube also controls visibility.
 
 ### 2. Can K-pop cover dances be seen as a form of cultural hybridity or or is it a copy of the original performance?
 
-They can be both. The choreography is reproduced, but performers, location, gender presentation and style may create a new version.
+They can be both. Dancers copy the choreography but change the performers, location and style.
 
 ## Fan-Practice Activity
 
 ### 3. What kind of imagination applies to these examples?
 
-- **Banner events:** Participatory globalisation, because fans organise and circulate support in a local setting.
-- **Fan chants:** Participatory globalisation, because audiences actively join the performance.
-- **Birthday Café events:** Participatory and cosmopolitan globalisation, because fans recreate a Korean fan practice in different locations.
+- **Banner events:** Participatory globalisation because fans organise support.
+- **Fan chants:** Participatory globalisation because fans join the performance.
+- **Birthday Café events:** Participatory and cosmopolitan globalisation because fans recreate a Korean practice locally.
 
 ## How Should You Study?
 
