@@ -4,7 +4,7 @@
 
 ## Definition And Source
 
-Pokémon localisation adapted the Japanese franchise for American audiences.
+Pokémon localisation adapted Pokémon for American audiences.
 
 ## Mechanism And Evidence
 
