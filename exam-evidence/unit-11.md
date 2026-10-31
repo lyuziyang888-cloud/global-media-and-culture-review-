@@ -1,11 +1,43 @@
 # Unit 11: K-pop Fandom Evidence
 
-| Case | Use for | Key evidence | Proves |
-|---|---|---|---|
-| Cover dances | participatory globalisation; hybridity | Fans reproduce and adapt choreography | Fans actively remake and circulate K-pop. |
-| Local reinterpretation | cosmopolitan globalisation; localisation (U5) | Performers use their own locations and styles | K-pop gains new meanings in different places. |
-| Fan communities | transcultural fandom; cosmopolitanism (U10) | Shared interests connect fans across cultures | Fandom is not limited by nationality. |
-| Fan labour | platform power (U2); participation | Fan activity creates platform and advertising value | Participation and corporate power coexist. |
-| KATSEYE | cultural and industrial hybridity | K-pop training, multinational members and languages | K-pop production can mix global identities and markets. |
+## Cover Dances
+
+**Use for:** Participatory globalisation; hybridity
+
+**Evidence:** Fans reproduce the original choreography and add their own performance choices.
+
+**What it proves:** Fans actively adapt and circulate K-pop rather than only consuming it.
+
+## Local Reinterpretation
+
+**Use for:** Cosmopolitan globalisation; localisation (U5)
+
+**Evidence:** Cover dancers perform K-pop in their own locations and styles.
+
+**What it proves:** K-pop can gain new meanings when it is performed in another cultural setting.
+
+## Fan Communities
+
+**Use for:** Transcultural fandom; cosmopolitanism (U10)
+
+**Evidence:** A shared interest in K-pop connects fans from different cultural backgrounds.
+
+**What it proves:** Fandom can create relationships that cross national and cultural boundaries.
+
+## Fan Labour
+
+**Use for:** Platform power (U2); participation
+
+**Evidence:** Fan videos and comments create attention that produces value for digital platforms.
+
+**What it proves:** Fan participation can exist alongside corporate and platform power.
+
+## KATSEYE
+
+**Use for:** Cultural and industrial hybridity
+
+**Evidence:** The group combines K-pop training with multinational members and several languages.
+
+**What it proves:** K-pop production can mix cultural identities and target several markets.
 
 **Sources:** Yoon (2018), pp. 373-389; Jin (2024), pp. 118-134.
