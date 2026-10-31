@@ -14,8 +14,13 @@
 
 ### What are the two nation branding strategies of Othering in Latin America? What are their characteristics?
 
-- The adventurous foreigner explores an exotic destination while local people provide the setting or guidance.
-- Locals serving the foreigner present their culture, labour or products for tourists and investors.
+- The adventurous foreigner: A foreign main character explores an exotic destination.
+
+#### Characteristic: foreigner is active, local are passive and exotic
+
+- Proud local hosts: Locals people explain what make this destination special for newcomers.
+  
+#### Characteristic: foreigners are central, local as service provider
 
 ### What does nation branding tell us about globalisation?
 
