@@ -9,8 +9,10 @@
 
 ### What is the difference between cosmopolitan local and indigenous global strategies, and examples of each strategy?
 
-- Cosmopolitan local takes local content to wider audiences. Hotstar distributes Indian content beyond India.
-- Indigenised global adapts global practices to a local market. Netflix commissions Indian content and works with Indian creators.
+Cosmopolitan local: Local content is designed to reach wider or global audiences.
+Example: Hotstar distributes Indian content beyond India.
+Indigenised global: A global platform adapts its service and content to a local market.
+Example: Netflix commissions Indian productions and works with Indian creators.
 
 ### What is the 'Bollywoodization of Netflix' and what are examples of this?
 
