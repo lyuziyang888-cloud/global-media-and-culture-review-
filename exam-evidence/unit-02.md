@@ -1,33 +1,27 @@
 # Unit 2: Media Imperialism Evidence
 
-## Best Evidence
+## Question: How does Facebook demonstrate platform imperialism?
 
-### Facebook Data
+**Concepts:** platform imperialism; platform capitalism
 
-**Use for concepts:** platform capitalism (U2), data commodification (U2), platform imperialism (U2), media imperialism (U2)
+**Evidence:** Facebook converts users' data and attention into advertising revenue. It led social networking in 152 of 167 analysed countries in January 2018.
 
-Users communicate voluntarily while Facebook converts their attention and data into targeted-advertising revenue.
+**Direct answer:** Facebook operates globally, but ownership, technology and profit remain concentrated in a US company. This demonstrates unequal platform power across countries.
 
-**What it proves:** User activity creates profit for the platform owner.
+## Question: How can media support state power?
 
-### Global Platform Dominance
+**Concepts:** media imperialism; ideology
 
-**Use for concepts:** platform imperialism (U2), media imperialism (U2), network effects (U2), asymmetrical interdependence (U3)
+**Evidence:** The reading describes cooperation between Hollywood and the US military as “militainment.”
 
-Facebook was the leading social network in 152 of 167 analysed countries in January 2018.
+**Direct answer:** Entertainment can present US military power positively while also making commercial profit. Media influence can therefore support both corporate and state interests.
 
-**What it proves:** A US platform can control global users and profits.
+## Question: What is a limitation of media imperialism?
 
-### Hollywood and the Pentagon
+**Concepts:** media imperialism; audience or local agency
 
-**Use for concepts:** ideology (U2), state power (U2), media imperialism (U2), cultural homogenisation (U1)
+**Evidence:** Global corporate reach does not prove that every audience interprets content in the same way.
 
-Cooperation between entertainment producers and the US military is described as militainment.
-
-**What it proves:** Media can support state power as well as make profit.
-
-## Exam-Ready Judgement
-
-Media imperialism remains useful for explaining concentrated ownership, infrastructure and data power, but it is weaker at explaining local agency and multidirectional flows.
+**Direct answer:** Media imperialism explains unequal ownership and distribution well, but it gives less attention to local industries, audience interpretation and contra-flows.
 
 **Source:** Jin (2019), pp. 187-198; Week 2 lecture.

@@ -1,33 +1,27 @@
 # Unit 1: Global Media Evidence
 
-## Best Evidence
+## Question: Can media be both local and global?
 
-### Heated Rivalry
+**Concepts:** local content; globalisation
 
-**Use for concepts:** local content (U1), national identity (U1), globalisation (U1), cultural globalisation (U3), platform power (U2)
+**Evidence:** *Heated Rivalry* uses Canadian creators, performers, locations and imagery, while HBO gives it US circulation.
 
-Canadian production and settings give the program a local identity, while HBO brings it to US audiences.
+**Direct answer:** Yes. Its production and representation make it locally identifiable, while HBO gives it international reach. Global distribution does not remove local identity.
 
-**What it proves:** Global distribution does not remove local identity.
+## Question: How can global platforms support and limit local representation?
 
-### North of North
+**Concepts:** representation; streaming platforms
 
-**Use for concepts:** Indigenous representation (U1), representation (U1), local content (U1), streaming platforms (U1), platform power (U2), cultural globalisation (U3)
+**Evidence:** Indigenous Canadians created *North of North*, while Netflix distributes it internationally.
 
-Indigenous Canadians created the program, while Netflix distributes it globally
+**Direct answer:** Netflix increases the program's international visibility, but the platform still controls part of its circulation. Local representation and global platform power can therefore exist together.
 
-**What it proves:** Global platforms can increase Indigenous visibility but still control distribution.
+## Question: What is the relationship between regulation and local production?
 
-### Canadian Streaming Levy
+**Concepts:** media regulation; local content
 
-**Use for concepts:** media regulation (U1), local content (U1), platform power (U2), platform imperialism (U2)
+**Evidence:** The CRTC proposed a 15% levy on major streamers' Canadian revenue to support Canadian and Indigenous content.
 
-The CRTC proposed a 15% levy on major streamers' Canadian revenue to support domestic and Indigenous production.
-
-**What it proves:** Regulation can make global platforms support local production.
-
-## Exam-Ready Judgement
-
-Local and global media can coexist. The stronger question is which local elements remain visible and who controls production and distribution.
+**Direct answer:** Regulation can require global platforms to contribute to local production. It helps protect local content within a global media market.
 
 **Source:** Stevis-Gridneff (2026), PDF pp. 1-2.

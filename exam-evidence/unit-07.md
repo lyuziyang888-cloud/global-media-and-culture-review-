@@ -1,35 +1,27 @@
 # Unit 7: Location and Soft Power Evidence
 
-## Best Evidence
+## Official Question: How is place understood similarly in media capitals and Hungarian spy thrillers?
 
-### Budapest
+**Concepts:** media capitals (U3); place-making (U7)
 
-**Use for concepts:** place-making (U7), media-service industry (U7), soft power (U7), media capacity (U6), media capitals (U3), cultural/industrial milieu (U6)
+**Evidence:** Hungary offers a 30% rebate, studios, skilled crews and fixers. Budapest can appear as itself or represent another city.
 
-- Foreign production investment grew nearly 500% from 2018 to 2024 and reached almost US$1 billion per year.
-- A 30% rebate, studios, locations and skilled crews support its film-friendly reputation.
-- Budapest can represent itself or another European city.
+**Direct answer:** Both concepts treat place as produced rather than fixed. Media capitals gain importance through industry networks, while film production gives Budapest different meanings for different projects.
 
-**What it proves:** A location can attract production without appearing as itself on screen (pp. 27-29, 37-38).
+## Question: How can a media-service industry create soft power?
 
-### Government and Fixers
+**Concepts:** media-service industry; soft power
 
-**Use for concepts:** fixers (U7), film diplomacy (U7), soft power (U7), media-service industry (U7), place-making (U7)
+**Evidence:** Government agencies promote Hungary, while fixers connect foreign producers with officials and local workers.
 
-Official agencies promote Hungary, while fixers connect foreign producers with government and local workers.
+**Direct answer:** Hungary attracts producers through incentives, skills and professional relationships. This builds a film-friendly reputation, although reliance on foreign productions limits local control.
 
-**What it proves:** Production relationships can create soft power (pp. 28-29, 39).
+## Question: Why can the same city have different meanings?
 
-### Brisbane Comparison
+**Concepts:** place-making; representation
 
-**Use for concepts:** place-making (U7), representation (U1), soft power (U7), national identity (U1), media capitals (U3)
+**Evidence:** Tourism promotion presents Brisbane as leisure, Ausfilm presents a production location, and *Boy Swallows Universe* presents 1980s Brisbane.
 
-Tourism promotion presents a leisure city, Ausfilm presents a production location, and *Boy Swallows Universe* presents a socially specific 1980s Brisbane.
+**Direct answer:** Different media select different features for different audiences. Place is constructed through representation.
 
-**What it proves:** The same place can be represented differently for different audiences.
-
-## Exam-Ready Judgement
-
-Hungary gains soft power by influencing production decisions and building a film-friendly reputation. Its reliance on mobile foreign productions nevertheless limits local control.
-
-**Source:** Havens and Imre, "Location as Soft Power in the Media Services Industry," pp. 25-41; Week 7 lecture and tutorial.
+**Source:** Havens and Imre, pp. 25-41; Week 7 tutorial.

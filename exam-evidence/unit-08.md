@@ -1,40 +1,27 @@
-# Unit 8: Nation Branding and Othering Evidence
+# Unit 8: Nation Branding Evidence
 
-## Best Evidence
+## Question: Explain Mino's first Othering strategy.
 
-### The "Adventurous" Foreigner
+**Concepts:** Othering; adventurous foreigner
 
-A usually affluent foreign visitor becomes the protagonist exploring an unfamiliar destination (pp. 184-185).
+**Evidence:** In Costa Rica, a foreign woman explores surfing, wellness and nature. In Honduras, an Indigenous guide becomes part of a tourist's adventure.
 
-**Use for concepts:** Othering (U8), foreign gaze (U8), adventurous foreigner (U8), nation branding (U8), soft power (U7), representation (U1)
+**Direct answer:** The foreign visitor acts and discovers, while local culture becomes something to experience. The campaign separates the active visitor from the local Other.
 
-- **Costa Rica:** a foreign woman experiences surfing, wellness, food and nature.
-- **Honduras:** an Indigenous guide becomes part of a foreign tourist's adventure.
+## Question: Explain Mino's second Othering strategy.
 
-**What it proves:** Foreign visitors are active, while local culture becomes something to experience.
+**Concepts:** Othering; locals serving the foreigner
 
-### Locals Who "Proudly" Serve the Foreigner
+**Evidence:** Peru presents Indigenous farming and textiles to global consumers, while El Salvador presents workers and infrastructure to investors.
 
-Local people display culture, labour, products or services for tourists and investors (pp. 186-187).
+**Direct answer:** Local people, culture and labour are presented as resources for outsiders. National identity becomes something that can be marketed.
 
-**Use for concepts:** Othering (U8), commodification (U8), locals serving the foreigner (U8), nation branding (U8), soft power (U7), representation (U1)
+## Question: How does nation branding relate to soft power?
 
-- **Peru:** Indigenous farming and textiles are connected to global consumers.
-- **El Salvador:** workers and tourism infrastructure are presented to investors.
+**Concepts:** nation branding; soft power
 
-**What it proves:** Nation branding can sell local identity to outsiders.
+**Evidence:** Qatar's *Surprise Yourself* associates Qatar with luxury, culture and adventure through international visitors.
 
-### Qatar: *Surprise Yourself*
+**Direct answer:** Nation branding tries to influence foreign audiences through attraction. However, selected promotional images can simplify national identity and give visitors more narrative power than locals.
 
-**Use for concepts:** nation branding (U8), soft power (U7), Othering (U8), foreign gaze (U8), representation (U1), national identity (U1)
-
-- **Couple and Friends videos:** international visitors discover luxury, desert activities and nightlife, demonstrating the adventurous-foreigner strategy.
-- **Family video:** dining, market and tourism scenes offer the closest example of service-based Othering, but local people have little narrative control.
-
-**What it proves:** Nation branding can present a country through foreign visitors and selected images.
-
-## Exam-Ready Judgement
-
-The campaign makes Qatar distinctive through selected cultural images and familiar through luxury tourism. This may attract visitors, but it gives foreign visitors most of the narrative power and simplifies national identity.
-
-**Source:** Mino (2023), pp. 182-189. https://doi.org/10.1093/ccc/tcad004
+**Source:** Mino (2023), pp. 182-189.

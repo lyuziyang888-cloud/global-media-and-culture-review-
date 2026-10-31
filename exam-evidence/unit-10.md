@@ -1,52 +1,27 @@
-# Unit 10 Evidence-to-Concept Map
+# Unit 10: Cosmopolitanism Evidence
 
-## Quick Map
+## Official Question: How does cosmopolitanism challenge cultural proximity?
 
-| Concepts | Evidence to use | What it proves | Pages |
-|---|---|---|---|
-| cultural proximity (U3); cosmopolitanism (U10) | Turkish melodrama entered a market already familiar with Latin American telenovelas; Rosa moved from Mexican telenovelas to Turkish dramas | Familiar genres help foreign content enter a market. | 933-934, 941 |
-| cosmopolitanism (U10); cultural proximity (U3); audience agency (U3) | Amparo watched to learn how people elsewhere live, including practices she disliked | Viewers can engage with a culture without agreeing with it. | 941, 943 |
-| banal cosmopolitanism (U10); cultural globalisation (U3) | Amparo described learning about Turkish customs and everyday life through regular viewing | Television can make foreign culture part of everyday life. | 941 |
-| pop cosmopolitanism (U10); transcultural fandom (U11) | Isabella began studying Turkish; Lidia created a fan account, formed friendships and travelled to Istanbul | Viewing can lead to cultural learning and cross-border activity. | 939, 944 |
-| critical reflexivity (U10); representation (U1); audience agency (U3) | Teresa distinguished wealthy Istanbul from Mardin and rural regions; Dolores searched online to check regional differences | Viewers can question whether a drama represents the whole country | 942-943 |
-| transnational media flow (U10); cultural globalisation (U3); adaptation (U4) | *Fatmagül* became Nova's most-watched series; *Woman* later reached Antena 3 primetime, and *Alba* adapted *Fatmagül* for Spanish streaming and television | Distribution and remakes can make foreign content mainstream. | 933-934 |
+**Concepts to define:** cultural proximity (U3); cosmopolitanism (U10)
 
-## Evidence Details
+**Evidence:** Spanish viewers recognised familiar melodrama from telenovelas, but some also watched Turkish dramas to learn about unfamiliar customs and places.
 
-### Cultural Difference as an Attraction
+**Direct answer:** Cultural proximity explains attraction through familiarity. Cosmopolitanism shows that cultural difference can also attract audiences. The Spanish case suggests that familiarity and difference can work together.
 
-**Use for concepts:** cosmopolitanism (U10), cultural proximity (U3), cultural distance (U10), cultural globalisation (U3), audience agency (U3)
+## Question: What turns viewing into pop cosmopolitanism?
 
-Amparo said that learning how people in another culture live was the main attraction.
+**Concepts:** pop cosmopolitanism; active engagement
 
-**What it proves:** Familiarity is not the only source of appeal.
+**Evidence:** Isabella studied Turkish. Lidia created a fan account, formed friendships and travelled to Istanbul.
 
-### Active Learning Beyond the Screen
+**Direct answer:** Viewing becomes pop cosmopolitanism when audiences use foreign popular media for learning, relationships or cross-border activity.
 
-**Use for concepts:** pop cosmopolitanism (U10), banal cosmopolitanism (U10), fandom (U11), transcultural fandom (U11), cultural learning (U10)
+## Question: Does watching foreign media automatically create cosmopolitanism?
 
-Isabella studied Turkish, while Lidia formed friendships and travelled to Istanbul (pp. 939, 944).
+**Concepts:** banal cosmopolitanism; critical reflexivity
 
-**What it proves:** Popular media can support learning and new relationships.
+**Evidence:** Teresa compared rural Mardin with wealthy Istanbul, while Dolores checked regional differences online.
 
-### Critical Reflection on Representation
+**Direct answer:** No. Exposure may be banal cosmopolitanism, but stronger engagement involves curiosity, learning or questioning representation.
 
-**Use for concepts:** cosmopolitanism (U10), representation (U1), critical reflexivity (U10), audience agency (U3)
-
-Teresa used *If I Were a Cloud*, set in Mardin, to distinguish rural regions from the wealthy, Westernised Istanbul commonly shown on screen.
-
-**What it proves:** Cosmopolitan viewers can question media representations.
-
-### Industrial Conditions in Spain
-
-**Use for concepts:** transnational media flow (U10), cultural globalisation (U3), distribution power (U2), adaptation (U4), platform power (U2)
-
-*Fatmagül* became Nova's most-watched series, while *Woman* reached primetime and *Alba* remade the story (pp. 933-934).
-
-**What it proves:** Distribution decisions shape what audiences can watch.
-
-## Exam-Ready Judgement
-
-The Spanish case challenges a simple cultural-proximity explanation because viewers were attracted to both familiar melodrama and unfamiliar Turkish culture. Cosmopolitanism adds the role of curiosity and reflection, but neither framework alone explains popularity without industrial access and audience background.
-
-**Source:** Ferreira (2026), pp. 932-949. https://doi.org/10.1177/01634437261428615
+**Source:** Ferreira (2026), pp. 932-949.

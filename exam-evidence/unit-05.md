@@ -1,33 +1,27 @@
 # Unit 5: Localising Streaming Evidence
 
-## Best Evidence
+## Question: Apply industrial contact zones to *The Traitors*.
 
-### Hotstar's Cricketverse
+**Concepts:** industrial contact zones; format adaptation
 
-**Use for concepts:** indigenised global (U5), streaming localisation (U5), cultural proximity (U3), industrial contact zones (U5), media capacity (U6)
+**Evidence:** The central rules remain stable, while local producers change the cast, setting and performance.
 
-Hotstar organised content around the IPL, Bollywood and Indian-language programming.
+**Direct answer:** The format brings global rights owners and local producers into contact. Both influence the final program, although the format owner may retain greater ownership power.
 
-**What it proves:** A global service can succeed by using local cultural strengths.
+## Question: Compare Netflix and Hotstar in India.
 
-### Sacred Games
+**Concepts:** streaming localisation; indigenised global; cosmopolitan local
 
-**Use for concepts:** cosmopolitan local (U5), Bollywoodisation (U5), streaming localisation (U5), industrial contact zones (U5), cultural hybridity (U11)
+**Evidence:** Hotstar centred the IPL, Bollywood and Indian-language content. Netflix used an Indian story and Bollywood talent in *Sacred Games* but presented it through a globally familiar crime genre.
 
-Netflix used an Indian story, Bollywood talent and crime-drama conventions familiar to global viewers; the series was promoted as India's *Narcos*.
+**Direct answer:** Hotstar adapts global streaming practices around Indian culture. Netflix adapts Indian production for both local and global viewers. Both localise, but they begin from different industrial positions.
 
-**What it proves:** Netflix combines Indian talent with a globally familiar genre.
+## Question: Does Netflix dominate India?
 
-### Netflix versus Hotstar
+**Concepts:** platform imperialism; industrial contact zones
 
-**Use for concepts:** industrial contact zones (U5), platform imperialism (U2), streaming localisation (U5), cultural proximity (U3), asymmetrical interdependence (U3)
+**Evidence:** The reading reported about 25 million Hotstar subscribers in India and 4.6 million for Netflix.
 
-The reading reported approximately 25 million Hotstar subscribers in India, compared with 4.
+**Direct answer:** Netflix has global power but cannot simply control the Indian market. Strong local competitors, languages, cricket and Bollywood constrain its power.
 
-**What it proves:** Global scale does not guarantee local dominance.
-
-## Exam-Ready Judgement
-
-India is an industrial contact zone in which global platforms and local industries reshape one another, although their resources and bargaining power remain unequal.
-
-**Source:** Rai (2024), pp. 65-83, especially pp. 65-70.
+**Source:** Rai (2024), pp. 65-83.

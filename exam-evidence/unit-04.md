@@ -1,33 +1,23 @@
 # Unit 4: Format Programs Evidence
 
-## Best Evidence
+## Question: What remains the same and what changes in a format program?
 
-### Production Bible and Flying Producer
+**Concepts:** format program; local adaptation
 
-**Use for concepts:** format programs (U4), knowledge transfer (U4), localisation (U5), cultural technology transfer (U6)
+**Evidence:** *The Traitors* keeps traitors, faithful contestants, missions, banishment and elimination. Countries can change the cast, host, location, prize and performance style.
 
-A production bible supplies schedules, budgets, casting and marketing guidance, while a flying producer advises the local adaptation.
+**Direct answer:** A format remains recognisable because its core rules stay stable. Local producers adapt cultural and production details for their own audience.
 
-**What it proves:** Formats transfer production knowledge as well as program ideas.
+## Question: How do formats challenge one-way media flow?
 
-### The Masked Singer
+**Concepts:** format programs; contra-flow
 
-**Use for concepts:** format programs (U4), contra-flow (U3), cultural globalisation (U3), local adaptation (U4), cultural proximity (U3)
+**Evidence:** The South Korean format *The Masked Singer* had 37 international adaptations, with 13 more reported.
 
-The South Korean format had 37 international adaptations, with another 13 reported as forthcoming.
+**Direct answer:** The format moved from South Korea into many markets. This shows that global television models do not only originate in the West.
 
-**What it proves:** A South Korean format can become a global model.
+## Official Cross-Unit Link
 
-### Diversified Format Origins
+Apply **industrial contact zones (U5)** to *The Traitors*: global format owners and local producers interact, while ownership may remain unequal.
 
-**Use for concepts:** cultural globalisation (U3), contra-flow (U3), media imperialism (U2), Western-centric approach (U6)
-
-Formats originating in the "rest of the world" increased from 26% in 2004 to 48% in 2014.
-
-**What it proves:** Television formats now come from a wider range of countries.
-
-## Exam-Ready Judgement
-
-Formats demonstrate multidirectional exchange and local adaptation, but their industrial power must be evaluated through ownership, licensing and control over production knowledge.
-
-**Source:** Esser (2021), pp. 351-360.
+**Source:** Esser (2021), pp. 351-360; Week 4 tutorial.
