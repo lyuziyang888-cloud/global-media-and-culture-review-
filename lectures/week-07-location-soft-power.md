@@ -5,6 +5,7 @@
 ### What is soft power? How can a place be "made"?
 
  Soft power is the ability to influence others through attraction.
+ 
  place making is the process through which locations acquires a particular meaning and identity.
 
 ### How does Budapest's position as an unfixed place compared to other media services industries in Canada or Australia?
