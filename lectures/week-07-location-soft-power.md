@@ -20,4 +20,4 @@ Budapest often stands in for other cities, while Canada and Australia are more l
 ### Why are spy thrillers the best genre for generating soft power for Hungary? Also, how does this genre challenge existing understandings of soft power?
 
 - Spy thrillers need flexible locations, so Budapest can represent several cities.
-- Hungary gains influence through production relationships even when viewers do not recognise it. This shows that soft power can operate behind the screen.
+- Hungary can build influence through its relationships with foreign producers, even if audiences do not recognise Budapest on screen
