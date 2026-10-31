@@ -16,11 +16,11 @@ Explain how global platforms interact with local media industries and why their 
 
 Netflix is influential but not dominant. It must adapt its prices, content and partnerships to India's languages, regulation and strong local industry.
 
-### 2. What does India tell us about global media?
+### 2. What does India's streaming market tell us about global media?
 
 Global platform power depends on local conditions. Audiences, competitors and regulation can reshape a platform's strategy.
 
-### 3. Why compare Netflix across countries?
+### 3. What is the value of studying Netflix comparatively?
 
 Comparison shows that Netflix does not have the same power or strategy in every market.
 
