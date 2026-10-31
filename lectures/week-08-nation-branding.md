@@ -29,7 +29,7 @@ globalisation makes countries compete for tourists, investment and international
 ### How does nation branding benefit and/or disadvantage countries?
 
 - It can attract tourism and investment or improve a country's reputation.
-- It can also simplify national identity and present local culture mainly for foreign consumption.
+- It show local culture mainly for foreign consumption.
 
 ### How does nation branding relate to soft power (from Week 7)?
 
