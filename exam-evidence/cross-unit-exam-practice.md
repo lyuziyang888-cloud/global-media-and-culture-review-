@@ -1,97 +1,100 @@
 # Cross-Unit Exam Practice
 
-Use this page first. The exam can combine an earlier concept with a later case. Questions marked **Official Tutorial** appeared in tutorial exam practice; the others follow the same question style but are not guaranteed exam questions.
+Questions marked **Official Tutorial** appeared in tutorial practice. Others follow the same cross-unit style but are not guaranteed exam questions.
 
 ## 1. Media Capitals + Hungary — Official Tutorial
 
-**Question:** Discuss how place is understood similarly in media capitals (U3) and Hollywood spy thrillers filmed in Hungary (U7).
+**Question:** How is place understood similarly in media capitals (U3) and Hungarian spy thrillers (U7)?
 
-**Answer:** Both treat place as produced rather than fixed. A media capital gains importance through firms, workers and production networks. Similarly, Hungary's rebates, studios, crews and fixers make Budapest useful to Hollywood, while films can give the city different identities.
+**Answer:** Both concepts show that a place gains media importance through production activity. Hungary's studios, skilled crews and production services allow Budapest to represent many foreign locations in spy thrillers. This shows that a place can function as a media centre even when its own identity is not visible on screen.
 
 ## 2. Cultural Proximity + Cosmopolitanism — Official Tutorial
 
-**Question:** Discuss how cosmopolitanism (U10) challenges cultural proximity (U3) through Spanish audiences watching Turkish dramas.
+**Question:** How does cosmopolitanism (U10) challenge cultural proximity (U3)?
 
-**Answer:** Cultural proximity explains attraction to familiar melodrama. Cosmopolitanism explains interest in unfamiliar Turkish customs and places. The case shows that audiences may value familiarity and cultural difference at the same time.
+**Answer:** Cultural proximity suggests that audiences prefer stories that feel familiar, while cosmopolitanism explains their interest in cultural difference. Spanish viewers recognised familiar family and romantic themes in Turkish dramas, but they also enjoyed learning about Turkish culture. The case shows that familiarity and cultural curiosity can operate together.
 
 ## 3. Format Programs + Industrial Contact Zones — Official Tutorial
 
-**Question:** Apply industrial contact zones (U5) to *The Traitors* format (U4).
+**Question:** Apply industrial contact zones (U5) to *The Traitors* (U4).
 
-**Answer:** The global format owner supplies the core rules, while local producers change the cast, location and performance. The final program is shaped through global-local interaction, although ownership may remain unequal.
+**Answer:** An industrial contact zone is where global and local media practices meet and influence one another. In *The Traitors*, the central rules, castle setting and elimination structure remain recognisable, while each national version changes its cast, language and cultural style. The format is therefore produced through interaction between a global template and local adaptation.
 
 ## 4. Local Content + Cultural Globalisation
 
 **Question:** How does *Heated Rivalry* connect local content (U1) with cultural globalisation (U3)?
 
-**Answer:** Canadian creators, performers and locations give it a local identity, while HBO gives it wider circulation. Cultural globalisation can therefore spread local content without removing all local identity.
+**Answer:** *Heated Rivalry* is locally identifiable through its Canadian creators, performers and settings. Its circulation through HBO allows this Canadian production to reach audiences in the United States. The case shows that local content can travel globally without losing all of its local identity.
 
 ## 5. Representation + Platform Power
 
 **Question:** How does *North of North* connect representation (U1) with platform power (U2)?
 
-**Answer:** Indigenous Canadians control much of the storytelling, while Netflix expands international visibility and controls part of the distribution. Local representation and global platform power operate together.
+**Answer:** *North of North* gives Indigenous Canadian creators and performers an important role in representing their own community. Netflix helps distribute the program internationally and therefore influences how audiences can access it. The case shows that local control over representation can exist alongside the distribution power of a global platform.
 
 ## 6. Media Imperialism + Cultural Globalisation
 
 **Question:** Which paradigm better explains Chinese microdramas?
 
-**Answer:** Cultural globalisation explains the contra-flow of Chinese content into overseas markets. Media imperialism still explains unequal platform control over visibility and revenue. The stronger answer depends on whether the question emphasises circulation or ownership.
+**Answer:** Cultural globalisation explains how Chinese microdramas circulate beyond China and attract overseas audiences. Media imperialism draws attention to the platforms that control distribution, visibility and commercial access. Cultural globalisation is stronger for explaining cross-border circulation, while media imperialism is stronger for analysing unequal control.
 
 ## 7. Contra-Flow + Format Programs
 
-**Question:** How does *The Masked Singer* connect contra-flow (U3) with format programs (U4)?
+**Question:** How does *The Masked Singer* connect contra-flow (U3) with formats (U4)?
 
-**Answer:** The format originated in South Korea and was adapted internationally. It is a contra-flow because a non-Western production model moved into many other markets.
+**Answer:** Contra-flow describes media moving from a region that was not traditionally dominant into wider global markets. *The Masked Singer* began as a South Korean format and was later adapted in many countries. Its international success shows that television formats do not only flow from Western media centres.
 
 ## 8. Format Programs + Technology Transfer
 
-**Question:** How can format licensing (U4) create cultural technology transfer (U6)?
+**Question:** How can formats (U4) create technology transfer (U6)?
 
-**Answer:** Production bibles and flying producers transfer schedules, casting methods and production knowledge to local teams. Format trade therefore moves expertise as well as program ideas.
+**Answer:** Format programs can transfer production knowledge as well as entertainment ideas. Production bibles and visiting producers teach local teams how to reproduce the program's rules, visual style and production methods. This process can therefore operate as a form of cultural technology transfer.
 
-## 9. Media Capitals + Cultural/Industrial Milieu
+## 9. Media Capitals + Cultural Milieu
 
-**Question:** What is similar about media capitals (U3) and cultural/industrial milieu (U6)?
+**Question:** How are media capitals (U3) and cultural/industrial milieu (U6) similar?
 
-**Answer:** Both depend on firms, workers, knowledge and infrastructure being connected in one location. Seoul Digital Media City shows how a local cluster can support repeated production.
+**Answer:** Both concepts explain how media production becomes concentrated in a particular location. Seoul Digital Media City connects companies, workers, technology and infrastructure within the same area. This concentration supports repeated production and the exchange of knowledge between media workers.
 
 ## 10. Media Capacity + Media Services
 
-**Question:** Can Hungary's media-service industry (U7) build media capacity (U6)?
+**Question:** Can Hungary's media services (U7) build media capacity (U6)?
 
-**Answer:** Foreign productions can support local crews, studios and technical skills. However, capacity remains limited if foreign companies control the projects and can move production elsewhere.
+**Answer:** International productions can strengthen Hungary's media capacity by creating regular work for local crews and studios. This experience can improve local skills and production infrastructure. However, the capacity remains partly dependent on foreign projects when overseas companies retain creative and financial control.
 
 ## 11. Soft Power + Nation Branding
 
-**Question:** How are location soft power (U7) and nation branding (U8) similar?
+**Question:** How are soft power (U7) and nation branding (U8) related?
 
-**Answer:** Both influence outsiders through attraction. Hungary attracts producers through services and incentives, while Qatar attracts tourists through selected cultural images. Both manage how a place is understood.
+**Answer:** Soft power is influence created through attraction, while nation branding deliberately promotes an attractive national image. Hungary uses its locations and production services to attract international filmmakers, while Qatar's campaign presents the country as a desirable tourism destination. Both cases use media images to influence how outsiders understand a nation.
 
 ## 12. Cosmopolitanism + Transcultural Fandom
 
 **Question:** How does cosmopolitanism (U10) relate to transcultural fandom (U11)?
 
-**Answer:** Both involve engagement across cultural boundaries. Turkish-drama viewers may learn about another culture, while K-pop fans form relationships and practices around a shared interest that is not limited by nationality.
+**Answer:** Cosmopolitanism describes openness to cultural difference, while transcultural fandom describes fan connections that cross cultural boundaries. Spanish audiences use Turkish dramas to engage with another culture, while K-pop fans adapt and circulate Korean performances in their own locations. Both cases show audiences actively engaging with media beyond their national culture.
 
 ## 13. Platform Power + Fan Participation
 
 **Question:** Does participatory globalisation (U11) remove platform power (U2)?
 
-**Answer:** No. Fans actively make covers, reactions and discussions, but agencies own the original content and YouTube controls visibility. Participation and platform power can coexist.
+**Answer:** Participatory globalisation allows fans to create, adapt and circulate media across borders. However, entertainment agencies still control much of the original content, and YouTube influences which fan productions become visible. Fan participation therefore expands circulation without removing platform or corporate power.
 
 ## 14. Streaming Localisation + iROKOtv
 
-**Question:** How does iROKOtv (U12) demonstrate streaming localisation (U5)?
+**Question:** How does iROKOtv (U12) show streaming localisation (U5)?
 
-**Answer:** iROKOtv used kiosks, offline downloads, compressed files and local payment options. It adapted streaming to data costs, electricity and payment conditions instead of copying Netflix.
+**Answer:** Streaming localisation means adapting a service to the conditions of a particular market. iROKOtv used kiosks, compressed files and locally suitable payment methods to respond to data, infrastructure and payment constraints. This case shows that a streaming service cannot rely on the same model in every market.
 
-## 15. Platform Imperialism + Nollywood Distribution
+## 15. Platform Imperialism + Nollywood
 
 **Question:** How does Nollywood (U12) challenge platform imperialism (U2)?
 
-**Answer:** Nollywood still relies on marketers, physical markets and informal file transfers rather than one global platform. This shows that local distribution networks can limit platform dominance, although marketers may create their own unequal power.
+**Answer:** Platform imperialism focuses on the control exercised by powerful global digital platforms. Nollywood has also circulated through marketers, physical markets and informal file-sharing networks that do not depend entirely on one global platform. These systems show that local distribution networks can provide alternatives, although they may also involve piracy and weak regulation.
 
-## How to Answer
+## Answer Order
 
-Define the two named concepts, explain their relationship, give the specified case fact, and state what the case proves.
+1. Define both concepts briefly.
+2. Explain whether they support, challenge or extend each other.
+3. Give one specific fact from the case.
+4. State clearly what the case proves about the relationship.
