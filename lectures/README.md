@@ -11,6 +11,7 @@
 | 7 | Location as soft power | [Week 7: Location as Soft Power](week-07-location-soft-power.md) |
 | 8 | Nation branding | [Week 8: Nation Branding](week-08-nation-branding.md) |
 | 10 | Cosmopolitanism and Turkish dramas | [Week 10: Cosmopolitanism and Turkish Dramas](week-10-cosmopolitanism-and-dramas.md) |
+| 11 | K-pop and transcultural fandom | [Week 11: The Possibilities of K-pop](week-11-kpop-and-beyond.md) |
 | 12 | Nollywood and informality | [Week 12: Nollywood and Informality](week-12-nollywood-informality.md) |
 
 ## How the Exam Review Video Says to Use Lectures
