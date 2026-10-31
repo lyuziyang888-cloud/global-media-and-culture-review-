@@ -4,16 +4,16 @@
 
 ## Definition And Source
 
-The Pokémon supersystem connects the same characters and world across several media and products.
+The Pokémon supersystem connects one franchise across different media and products.
 
 ## Mechanism And Evidence
 
-Pokémon operates through games, television, films, cards, toys and other merchandise. Each form promotes continued engagement with the franchise.
+Games, television, films, cards and toys keep audiences connected to the same characters.
 
 ## Exam Use
 
 > What is the Pokémon supersystem?
 
-**Answer:** It connects Pokémon across games, television, films, cards and merchandise. This allows the franchise to expand and renew itself across several markets.
+**Answer:** It connects the same franchise across several media and products, helping Pokémon grow globally.
 
 **Source:** Week 9 lecture, slides 8-9 and 16.
