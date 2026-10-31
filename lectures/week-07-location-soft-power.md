@@ -10,8 +10,7 @@
 
 ### How does Budapest's position as an unfixed place compared to other media services industries in Canada or Australia?
 
-- Budapest often shows other cities
-- This flexibility attracts productions, but it gives Budapest less visible identity on screen.
+Budapest often stands in for other cities, while Canada and Australia are more likely to promote their locations as part of their own national screen industries.
 
 ### What actions does the Hungarian government take to promote the country to foreign producers? What do the local "fixers" do that is different?
 
