@@ -34,7 +34,10 @@ Facebook's 2021 Australian news block was not merely a disagreement about conten
 
 ## Limitation
 
-Corporate reach does not prove that audiences passively adopt foreign values. Mirrlees notes that national industries, state regulation, multidirectional flows and culturally specific audience preferences complicate a simple domination model. Media imperialism is strongest for analysing structural power, not predicting identical cultural effects.
+• Effects of media imperialism on audiences unclear
+• Audiences are not cultural dupes
+• Other factors influence media consumption: family, education,
+religion, language, etc.
 
 
 ## Exam Use
