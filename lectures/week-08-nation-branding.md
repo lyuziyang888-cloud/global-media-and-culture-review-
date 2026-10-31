@@ -33,5 +33,4 @@ globalisation makes countries compete for tourists, investment and international
 
 ### How does nation branding relate to soft power (from Week 7)?
 
-- Nation branding tries to create attraction through a positive national image.
-- It is therefore one way a country can develop soft power.
+- Nation branding builds soft power by making a country more attractive.
