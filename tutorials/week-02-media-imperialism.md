@@ -6,7 +6,7 @@ Identify who controls media ownership, infrastructure, distribution, data and re
 
 ## Discussion Questions and Short Answers
 
-### 1. Does the US exercise ideological influence through global media?
+### 1. Does the US exercise ideological influence in the global media industry?
 
 Yes. US production and distribution can spread American values, as shown by Hollywood-Pentagon cooperation. Local audiences and non-US industries can still interpret or resist those messages.
 
@@ -14,19 +14,19 @@ Yes. US production and distribution can spread American values, as shown by Holl
 
 Yes, through local stories, languages, funding and regulation. However, they may still depend on US platforms for visibility and revenue.
 
-### 3. Is media imperialism still relevant?
+### 3. Has the world changed enough to make media imperialism irrelevant?
 
 Yes. National one-way flow is less complete today, but concentrated control of platforms, data and algorithms remains unequal.
 
-### 4. Is media imperialism limited to Western countries?
+### 4. Is media imperialism limited to Western or US power?
 
 No. Any powerful state or corporation may exercise imperialism if it gains unequal control over another media system.
 
-### 5. Can local platforms survive?
+### 5. Can non-US platforms challenge US dominance and can local platforms survive?
 
 They can compete through local knowledge, language and specialised services. Dominant platforms still benefit from greater capital, data and network effects.
 
-### 6. Can regulation protect local industries?
+### 6. Can government regulation, policy and subsidies protect local industries?
 
 Yes. Funding, competition rules and local-content requirements can help. Their effect depends on enforcement and platform compliance.
 

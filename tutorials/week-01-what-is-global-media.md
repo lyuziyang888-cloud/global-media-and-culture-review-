@@ -22,11 +22,11 @@ Australian creators, stories, institutions and cultural concerns can make conten
 
 It can be called Western because it comes from Canada and North American media institutions. However, "Canadian-rooted and globally circulated" is more precise.
 
-### 5. Who is counted as the West?
+### 5. Who is counted as the West and who is excluded?
 
 The term usually centres North America and Western Europe. Its boundaries reflect history and power, so the category should be questioned rather than treated as neutral.
 
-### 6. Can geography alone explain global and local media?
+### 6. Can geographical territory alone explain global and local?
 
 No. A production can involve funding, workers, stories and platforms from several countries.
 

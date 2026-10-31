@@ -28,7 +28,7 @@ Their international popularity shows media moving from China into other markets.
 
 Their circulation may depend on powerful platforms, app stores and algorithms. Non-US content does not automatically create equal power.
 
-### 6. What role do streaming services play?
+### 6. What is the role of streaming services, and is there hope for local industries?
 
 They can fund and distribute local content, but they also control commissioning, data and visibility.
 
