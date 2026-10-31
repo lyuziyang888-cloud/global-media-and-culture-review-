@@ -1,6 +1,8 @@
 # Exam Evidence
 
-Choose the unit you are revising. Each page uses the same structure and labels every example with **Use for concepts** and **What it proves**.
+Start with [Cross-Unit Exam Practice](cross-unit-exam-practice.md). It follows the teacher's pattern of combining concepts from different units with a specified case.
+
+Use the unit pages only when you need more evidence:
 
 - [Unit 1: Global Media](unit-01.md)
 - [Unit 2: Media Imperialism](unit-02.md)
@@ -14,4 +16,4 @@ Choose the unit you are revising. Each page uses the same structure and labels e
 - [Unit 11: K-pop Fandom and Cultural Hybridity](unit-11.md)
 - [Unit 12: Nollywood and Informality](unit-12.md)
 
-Use one strong example per argument. Explain what it proves instead of listing several examples.
+In the exam, define the named concepts, explain their relationship, use one strong case fact and state what it proves.
