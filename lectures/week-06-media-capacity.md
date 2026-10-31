@@ -47,6 +47,12 @@ The lecture uses Keane's framework to challenge Western-centric accounts of glob
 - Define and apply each of Keane's five categories.
 - How has China's media capacity changed since 2006?
 
+## Exam Review Focus
+
+- Distinguish Keane's five models and know what each model can and cannot build.
+- Explain why a creative or industrial cluster provides stronger long-term capacity.
+- Apply one model to evidence about labour, knowledge, infrastructure, ownership or intellectual property.
+
 ## Slide Anchors
 
 - Western-centric approaches and NICL: slides 4-6

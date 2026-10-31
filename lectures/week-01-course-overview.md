@@ -44,6 +44,12 @@ The question "Is this film American?" should be analysed through cast, crew, plo
 - Course themes include globalisation, global/local relations, regional platforms, media firms, nation branding, soft power and non-Western industries.
 - Week 2 readings shown on slide 13 are Mirrlees Chapter 1, assigned pages 19-36, and Jin Chapter 13.
 
+## Exam Review Focus
+
+- Know why media nationality cannot be decided through one feature alone.
+- Use *KPop Demon Hunters* to identify the relevant production, ownership, cultural and distribution dimensions.
+- For an unseen case, explain why a simple national label may be incomplete.
+
 ## Slide Anchors
 
 - contested media nationality: slide 3

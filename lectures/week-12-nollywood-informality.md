@@ -1,63 +1,65 @@
 # Week 12 Lecture: Nollywood and Informality
 
-## Lecture Purpose
+## Central Purpose
 
-Use Nollywood to question Global North assumptions about how media industries should produce, distribute and measure content.
+The lecture uses Nollywood to challenge Global North assumptions that modern digital distribution must depend on formal contracts, reliable broadband and streaming platforms.
 
 ## Lecture Structure
 
-1. Characteristics of Nollywood
-2. Physical distribution and marketers
-3. Informality and low-budget production
-4. Digital workarounds and streaming services
-5. Why Nollywood matters to global media studies
+1. characteristics of Nollywood
+2. physical distribution and marketers
+3. low-budget, high-volume production
+4. informality
+5. digital distribution through local infrastructures
+6. Netflix, iROKOtv, Africa Magic and Canal+
+7. the significance of Nollywood for global media studies
 
-## Key Definitions
+## Key Concepts and Definitions
 
-- **Nollywood:** Nigeria's film industry, historically organised around straight-to-video releases.
-- **Informality:** organised exchange based on trust and personal networks rather than complete formal contracts.
-- **Marketers:** traders who finance films and control much of the physical distribution network.
-- **New Nollywood:** higher-budget production aimed at cinemas, festivals, pay television, streaming and wealthier audiences.
+- **Nollywood:** the Nigerian film industry. It is not tied to one Nigerian city or language.
+- **Marketers:** key distributors, investors and executive producers who control Nollywood's physical distribution networks.
+- **Informality:** production and distribution organised through personal networks, trust and unofficial arrangements rather than formal contracts.
+- **Alternative digital distribution:** digital circulation through downloads, Bluetooth, market stalls and kiosks rather than streaming alone.
+- **Global North assumption:** the expectation that digital media depends on affordable internet, electricity and formal platform services.
 
 ## Main Arguments
 
-### Physical Distribution Still Matters
+- Physical copies remain important to domestic audiences and are commonly sold through open markets.
+- Marketers control distribution and often withhold sales figures, which makes profits and popularity difficult to measure.
+- Informality does not mean that Nollywood lacks organisation or professional practices.
+- Digital distribution can operate through Bluetooth, offline downloads and kiosks where broadband or data plans are unreliable or expensive.
+- Netflix faces local-content, infrastructure and affordability challenges in Nigeria.
+- iROKOtv responds more directly to local conditions through different download and subscription options.
+- Nollywood shows that global media industries do not develop according to one Western model.
 
-Domestic audiences have traditionally accessed Nollywood through DVDs and VCDs sold in open markets. Physical circulation remains important even when films also reach streaming and satellite services.
+## Cases and Evidence
 
-### Marketers Hold Industrial Power
+- **Bluetooth and market stalls:** viewers obtain and share digital files without depending on continuous internet access.
+- **iROKOtv kiosks:** users download films and renew subscriptions through physical access points.
+- **New Nollywood:** higher-budget films use festivals, cinemas, pay television and streaming to reach wealthier and diasporic audiences.
+- **Netflix:** carries a comparatively small Nollywood library and has reduced direct investment while focusing more on licensing.
+- ***The Black Book*:** a successful Netflix Original about corruption and police brutality in Nigeria.
 
-Marketers distribute films, finance production and often act as executive producers. Their private sales information and control of market networks make it difficult for producers, investors and competitors to challenge them.
+## Teacher's Review Questions
 
-### Informality Is Organised
+The following questions are preserved from slide 21:
 
-Personal networks and trust can support fast, inexpensive production. Informality also limits reliable statistics and may weaken producers' control over rights and later circulation.
+1. What are the characteristics of Nollywood?
+2. What is the role of marketers in Nollywood? Why have marketers made it difficult for outsiders to break into Nollywood?
+3. What does digital distribution look like in Nigeria? How is it different to Global North experiences of digital distribution?
+4. Why is Netflix facing challenges in Nigeria, while iROKOtv is doing better?
+5. Why is studying Nollywood significant for global media studies?
 
-### Digital Distribution Is More Than Streaming
+## Exam Review Focus
 
-People may download films at work, exchange them by Bluetooth or USB, or obtain files from market stalls. iROKOtv also experimented with kiosks, compressed downloads and low-data sharing. These practices fit local limits on data, electricity and payment systems.
-
-### Global Platforms Must Adapt
-
-Netflix's conventional streaming model faces high data costs, infrastructure limits and strong demand for Nigerian content. iROKOtv adapted more directly through local content, mobile downloads and lower-data delivery.
-
-## Evidence and Examples
-
-- straight-to-video films sold through open-air markets
-- marketers' control of funding and physical distribution
-- Bluetooth and phone-to-phone file transfers
-- iROKOtv kiosks and compressed mobile downloads
-- Netflix, Africa Magic and Canal+ as formal challengers
-- *The Black Book* as the lecture's current Netflix example
-
-## Assessment Signals
-
-The lecture's final questions focus on Nollywood's characteristics, marketers' power, alternative digital distribution, Netflix's difficulties and the importance of studying non-Western media systems.
+- **Short answer:** define marketers or informality and give the specific role described in the lecture.
+- **Long answer:** answer every part of the selected review question and use one concrete Nollywood distribution practice.
+- **Unseen excerpt:** identify the assumption about digital distribution, then explain how the evidence supports or challenges it.
 
 ## Slide Anchors
 
 - Nollywood characteristics: slides 5-9
-- digital distribution and platforms: slides 11-16
+- digital distribution: slides 10-16
 - Global North assumptions and informality: slides 18-20
-- revision questions: slides 21-22
-
+- teacher's review questions: slide 21
+- significance for global media: slide 22

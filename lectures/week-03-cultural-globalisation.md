@@ -48,6 +48,12 @@ Be able to define each paradigm, identify its characteristics and limitations, a
 
 Workbook 1 requires two ideas from each paradigm and a judgement about which better explains the selected report.
 
+## Exam Review Focus
+
+- Know the characteristics and limitations of both cultural globalisation and media imperialism.
+- Distinguish cultural proximity, contra-flow and asymmetrical interdependence.
+- When a question compares paradigms, explain what each reveals before deciding which better explains the case.
+
 ## Slide Anchors
 
 - media-imperialism limitations: slide 3

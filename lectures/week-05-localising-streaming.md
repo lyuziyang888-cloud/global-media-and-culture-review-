@@ -42,6 +42,12 @@ The lecture compares Netflix and Hotstar in India to explain localisation and in
 - What is the Bollywoodization of Netflix?
 - How do Netflix and Hotstar challenge platform-imperialism theory?
 
+## Exam Review Focus
+
+- Know industrial contact zone, cosmopolitan-local, indigenized-global and Bollywoodization.
+- Explain how Netflix and Indian media industries influence one another under unequal power.
+- Be ready to apply industrial contact zone to a case beyond Netflix and India.
+
 ## Slide Anchors
 
 - localisation: slides 4-5

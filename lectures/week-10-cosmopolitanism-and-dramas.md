@@ -1,6 +1,6 @@
 # Week 10 Lecture: Cosmopolitanism and Turkish Dramas
 
-## Lecture Purpose
+## Central Purpose
 
 Explain the global expansion of Turkish television drama and use Spanish audiences to show why cultural difference can attract viewers.
 
@@ -14,7 +14,7 @@ Explain the global expansion of Turkish television drama and use Spanish audienc
 4. Spanish audience reception
 5. Implications for global media
 
-## Key Definitions
+## Key Concepts and Definitions
 
 - **Cosmopolitanism:** belonging to a wider world and remaining open to cultural difference.
 - **Banal cosmopolitanism:** foreign culture becomes an ordinary part of everyday consumption.
@@ -28,16 +28,22 @@ Explain the global expansion of Turkish television drama and use Spanish audienc
 - Banal and pop cosmopolitanism overlap and work better as a spectrum than as fixed audience categories.
 - Cosmopolitan viewing can encourage cultural openness, but it does not remove unequal power or prevent viewers from reproducing ideas of otherness.
 
-## Key Evidence
+## Cases and Evidence
 
 - Turkish dramas moved from specialist channels to Spanish primetime and local streaming services.
 - Spanish remakes such as *Alba* moved from local streaming to television and then Netflix.
 - Some viewers learned mainly from the dramas; others researched Turkey, studied Turkish, joined fan communities or travelled.
 - Viewers could enjoy cultural difference while criticising gender inequality and recognising that wealthy Istanbul settings did not represent all of Turkey.
 
-## Assessment Signals
+## Assessment and Exam Signals
 
 Be able to define cultural proximity, banal cosmopolitanism and pop cosmopolitanism. Explain industrial, cultural and audience reasons for the popularity of Turkish dramas in Spain, then add the limitation that media consumption does not automatically create cosmopolitanism.
+
+## Exam Review Focus
+
+- Distinguish banal cosmopolitanism from pop cosmopolitanism.
+- Explain how Spanish interest in Turkish dramas can involve both familiarity and cultural difference.
+- For a cross-unit question, explain how cosmopolitanism challenges but does not completely replace cultural proximity.
 
 ## Slide Anchors
 
@@ -46,4 +52,3 @@ Be able to define cultural proximity, banal cosmopolitanism and pop cosmopolitan
 - Spanish industry context: slides 15-16
 - cosmopolitanism definitions: slides 17-19
 - implications and exam checks: slides 21-23
-

@@ -58,6 +58,12 @@ These figures come from Havens and Imre, "Location as Soft Power in the Media Se
 - Why do spy thrillers work particularly well in Budapest?
 - What benefits and limitations can media-service industries create?
 
+## Exam Review Focus
+
+- Connect soft power, place-making and media-service industries.
+- Explain how Budapest can attract foreign production while remaining dependent on outside companies.
+- Be ready to compare place in this case with the media-capital concept from Week 3.
+
 ## Slide Anchors
 
 - soft power and place-making: slides 3-5

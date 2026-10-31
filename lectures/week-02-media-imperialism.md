@@ -44,6 +44,12 @@ A strong response must combine structural analysis with evaluation. Explain wher
 
 The lecture previews cultural globalisation as the next paradigm and signals that Workbook 1 will compare it with media imperialism.
 
+## Exam Review Focus
+
+- Know the characteristics of media imperialism and platform imperialism.
+- Explain how ownership, infrastructure or one-way flow creates unequal power.
+- Use Facebook or another platform as evidence, then state one limitation of the paradigm when the question asks for evaluation.
+
 ## Slide Anchors
 
 - definitions: slides 5 and 13

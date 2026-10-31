@@ -46,6 +46,12 @@ The lecture explains what format programs are, why television industries use the
 
 Be able to define formats, compare them with canned programs, explain their benefits, account for the earlier dominance of non-scripted formats and evaluate their transnational significance through both media imperialism and cultural globalisation.
 
+## Exam Review Focus
+
+- Distinguish a format program from a canned program.
+- Identify what remains stable and what changes in a national adaptation.
+- Use *1 vs 100*, *The Bridge* or another lecture case only when it directly supports the question.
+
 ## Slide Anchors
 
 - canned and format definitions: slide 5

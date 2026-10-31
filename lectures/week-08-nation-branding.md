@@ -47,6 +47,12 @@ The lecture explains how states use branding to manage national reputation and h
 - How does nation branding relate to globalisation and soft power?
 - Who controls the national image, and which voices are missing?
 
+## Exam Review Focus
+
+- Know nation branding, imagined community, Othering and self-Othering.
+- Identify which Othering strategy appears in specific visual evidence.
+- Evaluate both the attraction created by the campaign and the identities or voices it simplifies.
+
 ## Slide Anchors
 
 - nation and branding: slides 3-7
