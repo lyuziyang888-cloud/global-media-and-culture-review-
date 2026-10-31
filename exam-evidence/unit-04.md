@@ -4,7 +4,7 @@
 
 ### Production Bible and Flying Producer
 
-**Use for concepts:** format program, knowledge transfer, risk reduction
+**Use for concepts:** format programs (U4), knowledge transfer (U4), localisation (U5), cultural technology transfer (U6)
 
 A production bible supplies schedules, budgets, casting and marketing guidance, while a flying producer advises the local adaptation.
 
@@ -12,7 +12,7 @@ A production bible supplies schedules, budgets, casting and marketing guidance, 
 
 ### The Masked Singer
 
-**Use for concepts:** contra-flow, multidirectional circulation
+**Use for concepts:** format programs (U4), contra-flow (U3), cultural globalisation (U3), local adaptation (U4), cultural proximity (U3)
 
 The South Korean format had 37 international adaptations, with another 13 reported as forthcoming.
 
@@ -20,7 +20,7 @@ The South Korean format had 37 international adaptations, with another 13 report
 
 ### Diversified Format Origins
 
-**Use for concepts:** cultural globalisation, West/rest
+**Use for concepts:** cultural globalisation (U3), contra-flow (U3), media imperialism (U2), Western-centric approach (U6)
 
 Formats originating in the "rest of the world" increased from 26% in 2004 to 48% in 2014.
 
@@ -31,9 +31,3 @@ Formats originating in the "rest of the world" increased from 26% in 2004 to 48%
 Formats demonstrate multidirectional exchange and local adaptation, but their industrial power must be evaluated through ownership, licensing and control over production knowledge.
 
 **Source:** Esser (2021), pp. 351-360.
-
-## Cross-Unit Uses
-
-- **Unit 3:** non-Western formats challenge one-way media flow.
-- **Unit 5:** *The Traitors* is an industrial contact zone between global owners and local producers.
-- **Unit 6:** production bibles and flying producers can transfer production knowledge.

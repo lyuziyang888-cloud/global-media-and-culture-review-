@@ -4,7 +4,7 @@
 
 ### Heated Rivalry
 
-**Use for concepts:** local content, national identity, global/local
+**Use for concepts:** local content (U1), national identity (U1), globalisation (U1), cultural globalisation (U3), platform power (U2)
 
 Canadian production and settings give the program a local identity, while HBO brings it to US audiences.
 
@@ -12,7 +12,7 @@ Canadian production and settings give the program a local identity, while HBO br
 
 ### North of North
 
-**Use for concepts:** Indigenous representation, streaming platforms
+**Use for concepts:** Indigenous representation (U1), representation (U1), local content (U1), streaming platforms (U1), platform power (U2), cultural globalisation (U3)
 
 Indigenous Canadians created the program, while Netflix distributes it globally
 
@@ -20,7 +20,7 @@ Indigenous Canadians created the program, while Netflix distributes it globally
 
 ### Canadian Streaming Levy
 
-**Use for concepts:** media regulation, platform power
+**Use for concepts:** media regulation (U1), local content (U1), platform power (U2), platform imperialism (U2)
 
 The CRTC proposed a 15% levy on major streamers' Canadian revenue to support domestic and Indigenous production.
 
@@ -31,9 +31,3 @@ The CRTC proposed a 15% levy on major streamers' Canadian revenue to support dom
 Local and global media can coexist. The stronger question is which local elements remain visible and who controls production and distribution.
 
 **Source:** Stevis-Gridneff (2026), PDF pp. 1-2.
-
-## Cross-Unit Uses
-
-- **Unit 2:** platform power and regulation - Netflix/HBO expand reach but retain distribution power.
-- **Unit 3:** cultural globalisation - Canadian content circulates without losing all local identity.
-- **Unit 8:** representation - *North of North* shows who gets to represent Indigenous identity.

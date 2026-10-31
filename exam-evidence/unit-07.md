@@ -4,7 +4,7 @@
 
 ### Budapest
 
-**Use for concepts:** place-making, media-service industry, soft power
+**Use for concepts:** place-making (U7), media-service industry (U7), soft power (U7), media capacity (U6), media capitals (U3), cultural/industrial milieu (U6)
 
 - Foreign production investment grew nearly 500% from 2018 to 2024 and reached almost US$1 billion per year.
 - A 30% rebate, studios, locations and skilled crews support its film-friendly reputation.
@@ -14,7 +14,7 @@
 
 ### Government and Fixers
 
-**Use for concepts:** fixers, film diplomacy, soft power
+**Use for concepts:** fixers (U7), film diplomacy (U7), soft power (U7), media-service industry (U7), place-making (U7)
 
 Official agencies promote Hungary, while fixers connect foreign producers with government and local workers.
 
@@ -22,7 +22,7 @@ Official agencies promote Hungary, while fixers connect foreign producers with g
 
 ### Brisbane Comparison
 
-**Use for concepts:** place-making, representation, audience
+**Use for concepts:** place-making (U7), representation (U1), soft power (U7), national identity (U1), media capitals (U3)
 
 Tourism promotion presents a leisure city, Ausfilm presents a production location, and *Boy Swallows Universe* presents a socially specific 1980s Brisbane.
 
@@ -33,9 +33,3 @@ Tourism promotion presents a leisure city, Ausfilm presents a production locatio
 Hungary gains soft power by influencing production decisions and building a film-friendly reputation. Its reliance on mobile foreign productions nevertheless limits local control.
 
 **Source:** Havens and Imre, "Location as Soft Power in the Media Services Industry," pp. 25-41; Week 7 lecture and tutorial.
-
-## Cross-Unit Uses
-
-- **Unit 3:** media capitals and Hungary both understand place through production networks.
-- **Unit 6:** studios, crews and infrastructure are forms of media capacity.
-- **Unit 8:** location promotion and nation branding both use attraction as soft power.

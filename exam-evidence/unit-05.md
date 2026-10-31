@@ -4,7 +4,7 @@
 
 ### Hotstar's Cricketverse
 
-**Use for concepts:** indigenized global, cultural proximity, local agency
+**Use for concepts:** indigenised global (U5), streaming localisation (U5), cultural proximity (U3), industrial contact zones (U5), media capacity (U6)
 
 Hotstar organised content around the IPL, Bollywood and Indian-language programming.
 
@@ -12,7 +12,7 @@ Hotstar organised content around the IPL, Bollywood and Indian-language programm
 
 ### Sacred Games
 
-**Use for concepts:** cosmopolitan local, Bollywoodization
+**Use for concepts:** cosmopolitan local (U5), Bollywoodisation (U5), streaming localisation (U5), industrial contact zones (U5), cultural hybridity (U11)
 
 Netflix used an Indian story, Bollywood talent and crime-drama conventions familiar to global viewers; the series was promoted as India's *Narcos*.
 
@@ -20,7 +20,7 @@ Netflix used an Indian story, Bollywood talent and crime-drama conventions famil
 
 ### Netflix versus Hotstar
 
-**Use for concepts:** industrial contact zones, platform imperialism
+**Use for concepts:** industrial contact zones (U5), platform imperialism (U2), streaming localisation (U5), cultural proximity (U3), asymmetrical interdependence (U3)
 
 The reading reported approximately 25 million Hotstar subscribers in India, compared with 4.
 
@@ -31,10 +31,3 @@ The reading reported approximately 25 million Hotstar subscribers in India, comp
 India is an industrial contact zone in which global platforms and local industries reshape one another, although their resources and bargaining power remain unequal.
 
 **Source:** Rai (2024), pp. 65-83, especially pp. 65-70.
-
-## Cross-Unit Uses
-
-- **Unit 2:** India's strong local industry limits simple platform-imperialism claims.
-- **Unit 3:** cultural proximity explains the value of cricket, Bollywood and local languages.
-- **Unit 4:** industrial contact zones also apply to locally adapted television formats.
-- **Unit 6:** local skills and industries affect whether streaming builds media capacity.

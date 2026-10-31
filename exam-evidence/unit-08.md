@@ -6,7 +6,7 @@
 
 A usually affluent foreign visitor becomes the protagonist exploring an unfamiliar destination (pp. 184-185).
 
-**Use for concepts:** Othering, foreign gaze, adventurous foreigner
+**Use for concepts:** Othering (U8), foreign gaze (U8), adventurous foreigner (U8), nation branding (U8), soft power (U7), representation (U1)
 
 - **Costa Rica:** a foreign woman experiences surfing, wellness, food and nature.
 - **Honduras:** an Indigenous guide becomes part of a foreign tourist's adventure.
@@ -17,7 +17,7 @@ A usually affluent foreign visitor becomes the protagonist exploring an unfamili
 
 Local people display culture, labour, products or services for tourists and investors (pp. 186-187).
 
-**Use for concepts:** Othering, commodification, locals serving the foreigner
+**Use for concepts:** Othering (U8), commodification (U8), locals serving the foreigner (U8), nation branding (U8), soft power (U7), representation (U1)
 
 - **Peru:** Indigenous farming and textiles are connected to global consumers.
 - **El Salvador:** workers and tourism infrastructure are presented to investors.
@@ -26,7 +26,7 @@ Local people display culture, labour, products or services for tourists and inve
 
 ### Qatar: *Surprise Yourself*
 
-**Use for concepts:** nation branding, soft power, foreign gaze, Othering
+**Use for concepts:** nation branding (U8), soft power (U7), Othering (U8), foreign gaze (U8), representation (U1), national identity (U1)
 
 - **Couple and Friends videos:** international visitors discover luxury, desert activities and nightlife, demonstrating the adventurous-foreigner strategy.
 - **Family video:** dining, market and tourism scenes offer the closest example of service-based Othering, but local people have little narrative control.
@@ -38,9 +38,3 @@ Local people display culture, labour, products or services for tourists and inve
 The campaign makes Qatar distinctive through selected cultural images and familiar through luxury tourism. This may attract visitors, but it gives foreign visitors most of the narrative power and simplifies national identity.
 
 **Source:** Mino (2023), pp. 182-189. https://doi.org/10.1093/ccc/tcad004
-
-## Cross-Unit Uses
-
-- **Unit 1:** national identity is selected and represented through media.
-- **Unit 7:** nation branding and media services both create soft power through attraction.
-- **Unit 10:** a cosmopolitan audience may engage with difference, while branding may simplify it.
