@@ -24,7 +24,7 @@
 
 ### What does nation branding tell us about globalisation?
 
-- Countries compete for attention by presenting national identity to international audiences.
+- Globalisation makes countries compete for global attention.
 - These campaigns show global connection but may still reflect unequal foreign expectations.
 
 ### How does nation branding benefit and/or disadvantage countries?
