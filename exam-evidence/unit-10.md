@@ -1,10 +1,35 @@
 # Unit 10: Cosmopolitanism Evidence
 
-| Case | Use for | Key evidence | Proves |
-|---|---|---|---|
-| Familiar melodrama | cultural proximity (U3) | Spanish viewers already knew telenovela styles | Familiar genres help foreign content enter a market. |
-| Amparo | cosmopolitanism | Watched to learn about unfamiliar customs | Difference can attract audiences. |
-| Isabella and Lidia | pop cosmopolitanism; transcultural fandom (U11) | Studied Turkish, formed friendships and travelled | Viewing can become active cultural engagement. |
-| Teresa and Dolores | critical reflexivity; representation (U1) | Compared regions and checked portrayals online | Viewers can question media representations. |
+## Familiar Melodrama
+
+**Use for:** Cultural proximity (U3)
+
+**Evidence:** Spanish viewers already understood the melodramatic style of telenovelas.
+
+**What it proves:** A familiar genre can help audiences connect with foreign content.
+
+## Amparo
+
+**Use for:** Cosmopolitanism
+
+**Evidence:** Amparo watched Turkish dramas to learn about unfamiliar customs.
+
+**What it proves:** Cultural difference can attract viewers rather than discourage them.
+
+## Isabella and Lidia
+
+**Use for:** Pop cosmopolitanism; transcultural fandom (U11)
+
+**Evidence:** They studied Turkish, formed friendships and travelled because of their media interest.
+
+**What it proves:** Watching foreign media can develop into active engagement with another culture.
+
+## Teresa and Dolores
+
+**Use for:** Critical reflexivity; representation (U1)
+
+**Evidence:** They compared Turkish regions and checked media portrayals through online research.
+
+**What it proves:** Viewers can question a program's representation instead of accepting it as fact.
 
 **Source:** Ferreira (2026), pp. 932-949.
