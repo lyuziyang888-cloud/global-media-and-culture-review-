@@ -33,3 +33,9 @@ Tourism promotion presents a leisure city, Ausfilm presents a production locatio
 Hungary gains soft power by influencing production decisions and building a film-friendly reputation. Its reliance on mobile foreign productions nevertheless limits local control.
 
 **Source:** Havens and Imre, "Location as Soft Power in the Media Services Industry," pp. 25-41; Week 7 lecture and tutorial.
+
+## Cross-Unit Uses
+
+- **Unit 3:** media capitals and Hungary both understand place through production networks.
+- **Unit 6:** studios, crews and infrastructure are forms of media capacity.
+- **Unit 8:** location promotion and nation branding both use attraction as soft power.

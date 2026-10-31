@@ -31,3 +31,9 @@ Formats originating in the "rest of the world" increased from 26% in 2004 to 48%
 Formats demonstrate multidirectional exchange and local adaptation, but their industrial power must be evaluated through ownership, licensing and control over production knowledge.
 
 **Source:** Esser (2021), pp. 351-360.
+
+## Cross-Unit Uses
+
+- **Unit 3:** non-Western formats challenge one-way media flow.
+- **Unit 5:** *The Traitors* is an industrial contact zone between global owners and local producers.
+- **Unit 6:** production bibles and flying producers can transfer production knowledge.

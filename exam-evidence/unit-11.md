@@ -58,3 +58,9 @@ HYBE partnered with Geffen Records to create KATSEYE for a US debut.
 K-pop fandom is participatory and transcultural when fans actively adapt media and form connections across borders. The judgement should remain tied to the chosen evidence because not every act of viewing or imitation proves hybridity.
 
 **Sources:** Yoon (2018), pp. 373-389; Jin (2024), pp. 118-134; [Korea JoongAng Daily (2024), "K-pop's most diverse newcomers KATSEYE aim to push boundaries"](https://www.koreajoongangdaily.com/entertainment/k-pops-most-diverse-newcomers-katseye-aim-to-push-boundaries-in-the-music-scene/12117156).
+
+## Cross-Unit Uses
+
+- **Unit 2:** platforms and agencies benefit from fan labour.
+- **Unit 3:** K-pop demonstrates multidirectional cultural flows and hybridity.
+- **Unit 10:** cosmopolitan engagement and transcultural fandom both cross cultural boundaries.

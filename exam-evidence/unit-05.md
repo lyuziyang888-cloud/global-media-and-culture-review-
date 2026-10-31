@@ -31,3 +31,10 @@ The reading reported approximately 25 million Hotstar subscribers in India, comp
 India is an industrial contact zone in which global platforms and local industries reshape one another, although their resources and bargaining power remain unequal.
 
 **Source:** Rai (2024), pp. 65-83, especially pp. 65-70.
+
+## Cross-Unit Uses
+
+- **Unit 2:** India's strong local industry limits simple platform-imperialism claims.
+- **Unit 3:** cultural proximity explains the value of cricket, Bollywood and local languages.
+- **Unit 4:** industrial contact zones also apply to locally adapted television formats.
+- **Unit 6:** local skills and industries affect whether streaming builds media capacity.

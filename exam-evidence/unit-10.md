@@ -50,3 +50,9 @@ Teresa used *If I Were a Cloud*, set in Mardin, to distinguish rural regions fro
 The Spanish case challenges a simple cultural-proximity explanation because viewers were attracted to both familiar melodrama and unfamiliar Turkish culture. Cosmopolitanism adds the role of curiosity and reflection, but neither framework alone explains popularity without industrial access and audience background.
 
 **Source:** Ferreira (2026), pp. 932-949. https://doi.org/10.1177/01634437261428615
+
+## Cross-Unit Uses
+
+- **Unit 3:** directly compare cultural proximity with cosmopolitanism.
+- **Unit 4:** the Spanish remake *Alba* shows format adaptation and transnational flow.
+- **Unit 11:** active learning and fan relationships connect cosmopolitanism with transcultural fandom.

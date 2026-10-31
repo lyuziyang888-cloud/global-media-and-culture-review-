@@ -38,3 +38,9 @@ Local people display culture, labour, products or services for tourists and inve
 The campaign makes Qatar distinctive through selected cultural images and familiar through luxury tourism. This may attract visitors, but it gives foreign visitors most of the narrative power and simplifies national identity.
 
 **Source:** Mino (2023), pp. 182-189. https://doi.org/10.1093/ccc/tcad004
+
+## Cross-Unit Uses
+
+- **Unit 1:** national identity is selected and represented through media.
+- **Unit 7:** nation branding and media services both create soft power through attraction.
+- **Unit 10:** a cosmopolitan audience may engage with difference, while branding may simplify it.

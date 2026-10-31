@@ -22,7 +22,7 @@ Indigenous Canadians created the program, while Netflix distributes it globally
 
 **Use for concepts:** media regulation, platform power
 
-The CRTC proposed a 15% streaming levy to support Canadian and Indigenous content.
+The CRTC proposed a 15% levy on major streamers' Canadian revenue to support domestic and Indigenous production.
 
 **What it proves:** Regulation can make global platforms support local production.
 
@@ -31,3 +31,9 @@ The CRTC proposed a 15% streaming levy to support Canadian and Indigenous conten
 Local and global media can coexist. The stronger question is which local elements remain visible and who controls production and distribution.
 
 **Source:** Stevis-Gridneff (2026), PDF pp. 1-2.
+
+## Cross-Unit Uses
+
+- **Unit 2:** platform power and regulation - Netflix/HBO expand reach but retain distribution power.
+- **Unit 3:** cultural globalisation - Canadian content circulates without losing all local identity.
+- **Unit 8:** representation - *North of North* shows who gets to represent Indigenous identity.

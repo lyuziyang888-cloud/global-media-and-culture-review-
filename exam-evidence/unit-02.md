@@ -31,3 +31,10 @@ Cooperation between entertainment producers and the US military is described as 
 Media imperialism remains useful for explaining concentrated ownership, infrastructure and data power, but it is weaker at explaining local agency and multidirectional flows.
 
 **Source:** Jin (2019), pp. 187-198; Week 2 lecture.
+
+## Cross-Unit Uses
+
+- **Unit 3:** compare media imperialism with cultural globalisation.
+- **Unit 5:** test whether Netflix's power is limited by strong local industries.
+- **Unit 11:** fan participation creates value for platforms.
+- **Unit 12:** compare global platform models with local and informal distribution.

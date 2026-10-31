@@ -59,3 +59,10 @@ Africa Magic and Canal+ created new routes for Nollywood across Africa.
 Nollywood challenges the assumption that digital modernisation must lead to platform streaming. Its hybrid system combines physical sales, informal file transfers and formal services. This improves local access, but power remains concentrated among marketers and increasingly contested by regional and global corporations.
 
 **Source:** Miller, J. L. (2021). VOD: Formal challengers for Nollywood's informal domestic market. In P. McDonald, C. B. Donoghue, and T. Havens (Eds.), *Digital media distribution: Portals, platforms, pipelines* (pp. 259-276). New York University Press. https://www.jstor.org/stable/j.ctv2tr52dj.17
+
+## Cross-Unit Uses
+
+- **Unit 2:** local distribution challenges the idea that global platforms control every market.
+- **Unit 5:** iROKOtv shows streaming localisation around local infrastructure.
+- **Unit 6:** local distribution networks are part of media capacity.
+- **Unit 7:** media services depend on local workers, infrastructure and industry knowledge.

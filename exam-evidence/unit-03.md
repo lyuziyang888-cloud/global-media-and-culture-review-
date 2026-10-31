@@ -31,3 +31,10 @@ Chinese microdramas reach overseas audiences through streaming platforms.
 Cultural globalisation best explains movement, adaptation and audience agency, while media imperialism remains necessary for analysing unequal industrial power.
 
 **Source:** Mirrlees (2013), Chapter 1; Week 3 lecture and tutorial.
+
+## Cross-Unit Uses
+
+- **Unit 4:** formats show contra-flow and local adaptation.
+- **Unit 7:** media capitals and Hungary both treat place as produced through industry.
+- **Unit 10:** cultural proximity is challenged by cosmopolitan interest in difference.
+- **Unit 11:** cultural globalisation helps explain K-pop's multidirectional circulation.
