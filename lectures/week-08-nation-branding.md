@@ -1,61 +1,33 @@
 # Week 8 Lecture: Nation Branding
 
-## Central Purpose
+## Review Questions and Answers
 
-The lecture explains how states use branding to manage national reputation and how these campaigns can reproduce Othering when they present national identity for foreign consumption.
+### Can you explain in your own words, what nation branding, Othering, and cultural hybridity (look at Week 11) are?
 
-## Lecture Structure
+- Nation branding promotes a selected image of a country to foreign audiences.
+- Othering constructs a distinction between "us" and "them." Cultural hybridity mixes and reworks cultural forms.
 
-1. Anderson describes nations as imagined communities whose members imagine that they belong to a shared group.
-2. Media help circulate common stories and symbols, supporting a shared national identity.
-3. Commercial branding builds loyalty and distinguishes one product from competitors. It increasingly sells lifestyles and images.
-4. Nation branding applies these techniques to national reputation, often to change overseas perceptions and attract tourists, businesses or political support.
-5. Nation branding promotes a selected version of national identity and may divide an imagined "us" from "them."
-6. Mino identifies two recurring Othering strategies: the adventurous foreigner and locals serving the foreigner.
-7. Nation branding can help emerging countries gain attention and reposition themselves, but it can also simplify culture and reproduce Western expectations.
+### How is a nation imagined? What role does media have in this?
 
-## Key Concepts and Definitions
+- People imagine that they belong to a national community even though they will never meet most other members.
+- Media circulates shared stories and symbols that support this sense of belonging.
 
-- **Imagined community:** a nation whose members imagine a shared connection despite never knowing most other members.
-- **Nation branding:** using adapted commercial branding practices to manage a country's reputation for overseas audiences.
-- **Othering:** defining people as different from an imagined "us," often through unequal representation.
-- **Self-Othering:** presenting one's own culture as exotic or different to meet outside expectations.
-- **Foreign gaze:** organising national images around what foreign audiences expect or want to see.
+### What are the two nation branding strategies of Othering in Latin America? What are their characteristics?
 
-## Main Arguments
+- The adventurous foreigner explores an exotic destination while local people provide the setting or guidance.
+- Locals serving the foreigner present their culture, labour or products for tourists and investors.
 
-- Nation branding does not represent the whole nation. It selects useful images for a target audience.
-- The adventurous foreigner remains active, while local culture becomes the experience to discover.
-- In the second strategy, locals display national products, labour or culture for tourists and investors.
-- Campaigns can create opportunities for tourism and investment while reinforcing a West-Rest hierarchy.
-- Public campaigns can also give citizens and minority groups material that they can question or challenge.
+### What does nation branding tell us about globalisation?
 
-## Reading Evidence
+- Countries compete for attention by presenting national identity to international audiences.
+- These campaigns show global connection but may still reflect unequal foreign expectations.
 
-- Mino studied 72 official videos from 18 Latin American countries and selected 10 for close analysis (p. 184).
-- The adventurous foreigner explores an unfamiliar or exotic destination, while locals appear as guides, performers or background authenticity (pp. 184-185).
-- Locals serving the foreigner present products, culture and labour for tourism or investment (pp. 186-187).
-- Mino concludes that many campaigns centre foreign audiences and separate the active foreigner from the local Other (pp. 187-188).
+### How does nation branding benefit and/or disadvantage countries?
 
-[More reading evidence](../exam-evidence/unit-08.md)
+- It can attract tourism and investment or improve a country's reputation.
+- It can also simplify national identity and present local culture mainly for foreign consumption.
 
-## Assessment and Exam Signals
+### How does nation branding relate to soft power (from Week 7)?
 
-- How does media help construct an imagined nation?
-- What are Mino's two Othering strategies?
-- How can nation branding benefit and disadvantage a country?
-- How does nation branding relate to globalisation and soft power?
-- Who controls the national image, and which voices are missing?
-
-## Exam Review Focus
-
-- Know nation branding, imagined community, Othering and self-Othering.
-- Identify which Othering strategy appears in specific visual evidence.
-- Evaluate both the attraction created by the campaign and the identities or voices it simplifies.
-
-## Slide Anchors
-
-- nation and branding: slides 3-7
-- nation branding and Othering: slides 8-17
-- benefits, limitations and globalisation: slides 18-20
-- review questions: slide 21
+- Nation branding tries to create attraction through a positive national image.
+- It is therefore one way a country can develop soft power.

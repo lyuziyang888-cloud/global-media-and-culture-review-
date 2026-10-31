@@ -1,54 +1,23 @@
 # Week 10 Lecture: Cosmopolitanism and Turkish Dramas
 
-## Central Purpose
+## Review Questions and Answers
 
-Explain the global expansion of Turkish television drama and use Spanish audiences to show why cultural difference can attract viewers.
+### What are the characteristics of Turkish television drama?
 
-> The lecture deck title says "Week 9," while the supplied filename and tutorial identify this material as Week 10. This repository follows the user's Week 10 classification.
+- Turkish dramas commonly use long episodes, continuing emotional stories and high production values.
+- They are sold internationally at affordable prices and can also be remade locally.
 
-## Lecture Structure
+### How does cultural proximity differ from banal and pop cosmopolitanism? Can you define each concept?
 
-1. Turkish drama as a global industry
-2. Cultural proximity and its limits
-3. Banal and pop cosmopolitanism
-4. Spanish audience reception
-5. Implications for global media
+- Cultural proximity explains preference for culturally familiar media.
+- Banal cosmopolitanism is routine contact with foreign culture. Pop cosmopolitanism is more active engagement with cultural difference through popular media.
 
-## Key Concepts and Definitions
+### What are the reasons Turkish dramas were popular in Spain? Think about industrial/cultural and audience-related reasons.
 
-- **Cosmopolitanism:** belonging to a wider world and remaining open to cultural difference.
-- **Banal cosmopolitanism:** foreign culture becomes an ordinary part of everyday consumption.
-- **Pop cosmopolitanism:** active engagement with foreign popular culture that develops knowledge and reflection.
-- **Cultural proximity:** audiences prefer content that feels culturally familiar.
+- They were affordable for broadcasters and offered strong continuing stories.
+- Spanish viewers found some themes familiar while also enjoying Turkish places and cultural differences.
 
-## Main Arguments
+### How does the globalisation of Turkish dramas compare to the globalisation strategy of other media industries (e.g. Japanese anime, Hungarian spy thrillers)?
 
-- Turkish dramas reached Spain for industrial reasons, including low acquisition cost, strong repeat value and opportunities for remakes and cross-platform circulation.
-- Availability alone does not explain popularity. Spanish viewers also valued unfamiliar places, customs and social differences.
-- Banal and pop cosmopolitanism overlap and work better as a spectrum than as fixed audience categories.
-- Cosmopolitan viewing can encourage cultural openness, but it does not remove unequal power or prevent viewers from reproducing ideas of otherness.
-
-## Cases and Evidence
-
-- Turkish dramas moved from specialist channels to Spanish primetime and local streaming services.
-- Spanish remakes such as *Alba* moved from local streaming to television and then Netflix.
-- Some viewers learned mainly from the dramas; others researched Turkey, studied Turkish, joined fan communities or travelled.
-- Viewers could enjoy cultural difference while criticising gender inequality and recognising that wealthy Istanbul settings did not represent all of Turkey.
-
-## Assessment and Exam Signals
-
-Be able to define cultural proximity, banal cosmopolitanism and pop cosmopolitanism. Explain industrial, cultural and audience reasons for the popularity of Turkish dramas in Spain, then add the limitation that media consumption does not automatically create cosmopolitanism.
-
-## Exam Review Focus
-
-- Distinguish banal cosmopolitanism from pop cosmopolitanism.
-- Explain how Spanish interest in Turkish dramas can involve both familiarity and cultural difference.
-- For a cross-unit question, explain how cosmopolitanism challenges but does not completely replace cultural proximity.
-
-## Slide Anchors
-
-- Turkish television industry: slides 6-10
-- cultural proximity and difference: slides 11-13
-- Spanish industry context: slides 15-16
-- cosmopolitanism definitions: slides 17-19
-- implications and exam checks: slides 21-23
+- Turkish dramas circulate mainly as finished programs and remakes.
+- Anime builds recognisable cultural products, while Hungary attracts foreign productions by providing locations and services.

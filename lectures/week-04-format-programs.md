@@ -1,62 +1,28 @@
 # Week 4 Lecture: Format Programs
 
-## Central Purpose
+## Review Questions and Answers
 
-The lecture explains what format programs are, why television industries use them, how adaptation works, why non-scripted formats developed earlier than scripted formats and how format trade reshapes the relationship between local and global media.
+### Define, explain, and give example of what formats are, and their benefits compared to canned programs
 
-## Lecture Structure
+- A format is a licensed television concept produced as a local version. A canned program is exported as a completed program.
+- *1 vs 100* keeps its quiz rules while using local hosts and participants. Formats are easier to localise and involve less financial risk.
 
-1. distinguish canned programs from format programs
-2. explain the commercial and production benefits of formats
-3. examine the licensor-licensee adaptation process
-4. apply the model to *1 vs 100*
-5. compare scripted and non-scripted format trade
-6. use *The Bridge* as a scripted-format example
-7. evaluate formats through globalisation theories
+### Why has the format trade been focused more on non-scripted than scripted programs?
 
-## Key Concepts and Definitions
+- Non-scripted formats have clear rules that are easier and cheaper to reproduce.
+- Scripted programs require more changes to language, humour and cultural context.
 
-- **Canned program:** a finished program produced in one territory and distributed elsewhere for rebroadcast.
-- **Format program:** a package of program information and know-how that increases adaptability in another location.
-- **Production bible:** detailed guidance concerning production, schedules, budgets, audiences, ratings and marketing.
-- **Flying producer:** a consultant sent by the licensor to assist the local adaptation.
-- **Open adaptation:** a version loosely based on the original format with substantial local flexibility.
-- **Closed adaptation:** a tightly standardised version in which the licensor requires closer reproduction.
-- **Non-scripted format:** an adaptable quiz, reality or competition structure.
-- **Scripted format:** a drama or fictional series adapted for another market.
+### In which ways has the format trade made television more transnational?
 
-## Main Arguments
+- The same television concept can be produced in many countries.
+- Its structure travels across borders while each version uses local production and cultural details.
 
-- Formats reduce the risk and cost of developing an entirely original program.
-- Locally produced adaptations may qualify for government local-content quotas.
-- Successful adaptation is interactive: licensors understand the format while licensees understand the home culture.
-- The format's core remains recognisable while selected cultural details change.
-- Non-scripted formats spread earlier because structures and rules are easier to reproduce.
-- Scripted formats are more culturally sensitive and tied to authorship, creative freedom and finished-program markets.
-- Format trade deepens transnational interdependence and makes national-market boundaries harder to demarcate.
-- Formats require analysis of multiple kinds of local and global practice, not a simple binary.
+### What are the implications that studying format program have on understanding global media?
 
-## Cases and Evidence
+- Format programs show that global media involves both international trade and local production.
+- A program can be globally connected without every national version being identical.
 
-- **Project Runway:** different hosts and national versions demonstrate local casting within a stable competition concept.
-- **1 vs 100:** the Dutch quiz format travelled to about 40 countries while preserving key rules and visual identity.
-- **The Bridge:** the Sweden-Denmark drama was adapted for several paired national settings.
+### How would format programs fit into the media imperialism and cultural globalisation paradigms?
 
-## Assessment and Exam Signals
-
-Be able to define formats, compare them with canned programs, explain their benefits, account for the earlier dominance of non-scripted formats and evaluate their transnational significance through both media imperialism and cultural globalisation.
-
-## Exam Review Focus
-
-- Distinguish a format program from a canned program.
-- Identify what remains stable and what changes in a national adaptation.
-- Use *1 vs 100*, *The Bridge* or another lecture case only when it directly supports the question.
-
-## Slide Anchors
-
-- canned and format definitions: slide 5
-- benefits and production support: slides 6-7
-- adaptation and licensor-licensee roles: slide 13
-- *1 vs 100*: slides 14-19
-- scripted formats and *The Bridge*: slides 20-23
-- formats and globalisation: slides 24-27
+- Media imperialism draws attention to the companies that own and profit from formats.
+- Cultural globalisation explains how local producers adapt them for different audiences.
