@@ -4,7 +4,7 @@
 
 ### Can you explain in your own words, what nation branding, Othering, and cultural hybridity (look at Week 11) are?
 
-- Nation branding promotes a selected image of a country to foreign audiences.
+- Nation branding is the strategic construction and promotion of a country's public image.
 - Othering constructs a distinction between "us" and "them." Cultural hybridity mixes and reworks cultural forms.
 
 ### How is a nation imagined? What role does media have in this?
