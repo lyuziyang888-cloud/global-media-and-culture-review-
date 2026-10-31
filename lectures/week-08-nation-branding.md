@@ -10,7 +10,7 @@
 ### How is a nation imagined? What role does media have in this?
 
 - a sense of national belonging shared by people who will never all meet.
-- Media circulates shared stories and symbols that support this sense of belonging.
+- Constructor, Media constructs national identity.
 
 ### What are the two nation branding strategies of Othering in Latin America? What are their characteristics?
 
