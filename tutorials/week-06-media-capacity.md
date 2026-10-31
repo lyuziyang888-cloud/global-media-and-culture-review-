@@ -18,33 +18,33 @@ Use Keane's framework to judge whether media success creates lasting local produ
 
 ### 1. Which one category from Keane's framework was most used in your group? In that category, what similarities/differences did you notice across the case studies?
 
-My YRF case used niche breakthrough and cultural/industrial milieu. The second is stronger because YRF has studios and production facilities within Mumbai's film cluster.
+Our cases often used niche breakthrough. They reached overseas audiences, but they had different levels of local control.
 
 ### 2. As a group, can you come an agreement about what one strategy seems the most effective way to be global and why?
 
-Cultural/industrial milieu is strongest for long-term capacity because it supports repeated production and local knowledge.
+Cultural/industrial milieu is the strongest because local firms and workers can support repeated production.
 
 ### 3. Choose one media company that best illustrates global media capacity based on Keane's framework. Be ready to explain why this example stood out and how it compared to the other companies.
 
-YRF does because it owns productions, operates facilities and distributes Indian films internationally. It still depends on foreign platforms and market access for some audiences.
+YRF demonstrates media capacity because it owns content, studios and distribution. It still uses foreign platforms to reach some audiences.
 
 ## Streaming-Service Discussion
 
 ### 4. How would you define a “successful” streaming service? What should it do? What is an example of a successful service that demonstrates your definition?
 
-Success can mean serving local audiences and building regional influence, not only matching Netflix's global scale.
+A successful service meets its audience's needs and remains sustainable. Viu succeeds by serving regional audiences.
 
 ### 5. How did you define “success” in your initial reflection? Did any common themes emerge in your group?
 
-Success may mean global scale, but the group may also value local audiences, regional influence or sustainable production.
+Common answers focused on audience size and global reach. Regional influence can also show success.
 
 ### 6. How does Keane's quote challenge the way we typically think about global streaming services? Does it change how we might evaluate regional streaming services like Viu?
 
-Keane challenges the idea that global success must follow a Western model. Viu can be successful through strong regional audiences and locally relevant content without matching Netflix's global scale.
+Keane challenges the idea that success must mean Western-style global scale. Viu can succeed through strong regional audiences.
 
 ### 7. Can you think of other streaming services that are successful by a different standard? How might those examples help us rethink what “success” in media means?
 
-Hotstar shows that success can come from serving local audiences through cricket, Bollywood and Indian-language content. This broadens success beyond global subscriber numbers.
+Hotstar succeeds through cricket and Indian content. This shows that local audience strength can also measure success.
 
 ## How Should You Study?
 

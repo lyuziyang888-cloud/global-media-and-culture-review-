@@ -8,21 +8,21 @@ Explain how global platforms interact with local media industries and why their 
 
 ### Apply industrial contact zones to *The Traitors*.
 
-*The Traitors* brings global format owners and local producers into contact. The central rules remain stable, while casting, setting and performance are adapted locally. The relationship is interactive but may still involve unequal ownership.
+Global format owners and local producers work together. The rules stay the same, while the cast and setting change locally.
 
 ## Discussion Questions and Short Answers
 
 ### 1. What position does Netflix hold in India?
 
-Netflix is influential but not dominant. It must adapt its prices, content and partnerships to India's languages, regulation and strong local industry.
+Netflix is influential but not dominant in India. It must adapt to local languages, prices and competitors.
 
 ### 2. What does India's streaming market tell us about global media?
 
-Global platform power depends on local conditions. Audiences, competitors and regulation can reshape a platform's strategy.
+Global platforms cannot use the same strategy everywhere. Local audiences and competitors shape their decisions.
 
 ### 3. What is the value of studying Netflix comparatively?
 
-Comparison shows that Netflix does not have the same power or strategy in every market.
+It shows that Netflix has different levels of power in different countries.
 
 ## How Should You Study?
 
