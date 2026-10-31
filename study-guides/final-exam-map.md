@@ -2,6 +2,8 @@
 
 Use this page for rapid recall. Open the linked unit review only when you cannot define the concept, explain the relationship, or apply the example without notes.
 
+**First practice page:** [Cross-Unit Exam Practice](../exam-evidence/cross-unit-exam-practice.md)
+
 ## Exam Format
 
 - Closed-book exam: 2 hours plus 10 minutes perusal time.
