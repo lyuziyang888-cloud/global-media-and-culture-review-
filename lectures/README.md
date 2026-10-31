@@ -10,6 +10,7 @@ Each file contains the lecture's final review questions and short answers for ex
 - [Week 6: Media Capacity](week-06-media-capacity.md)
 - [Week 7: Location as Soft Power](week-07-location-soft-power.md)
 - [Week 8: Nation Branding](week-08-nation-branding.md)
+- [Week 9: Anime and Pokémon](week-09-anime-and-pokemon.md)
 - [Week 10: Cosmopolitanism and Turkish Dramas](week-10-cosmopolitanism-and-dramas.md)
 - [Week 11: The Possibilities of K-pop](week-11-kpop-and-beyond.md)
 - [Week 12: Nollywood and Informality](week-12-nollywood-informality.md)
