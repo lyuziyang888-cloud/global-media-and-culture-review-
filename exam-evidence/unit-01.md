@@ -4,7 +4,7 @@
 
 **Use for:** Local content (U1); cultural globalisation (U3)
 
-**Evidence:** Canadian creators, performers and locations give the program a local identity, while HBO distributes it in the US.
+**Evidence:** Canadian setting and production give the program a local identity, while HBO distributes it in the US.
 
 **What it proves:** Local content can reach foreign audiences without losing its local identity.
 
