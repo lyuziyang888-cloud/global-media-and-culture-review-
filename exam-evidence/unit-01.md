@@ -1,9 +1,27 @@
 # Unit 1: Global Media Evidence
 
-| Case | Use for | Key evidence | Proves |
-|---|---|---|---|
-| *Heated Rivalry* | local content (U1); cultural globalisation (U3) | Canadian creators, performers and locations; HBO circulation | Global distribution does not remove local identity. |
-| *North of North* | representation (U1); platform power (U2) | Indigenous Canadians created it; Netflix distributes it | Local representation and platform power can coexist. |
-| Canadian streaming levy | regulation (U1); platform power (U2) | Proposed 15% levy for Canadian and Indigenous content | Regulation can make platforms support local production. |
+## *Heated Rivalry*
+
+**Use for:** Local content (U1); cultural globalisation (U3)
+
+**Evidence:** Canadian creators, performers and locations give the program a local identity, while HBO distributes it in the US.
+
+**What it proves:** Local content can reach foreign audiences without losing its local identity.
+
+## *North of North*
+
+**Use for:** Representation (U1); platform power (U2)
+
+**Evidence:** Indigenous Canadians created the program, while Netflix distributes it internationally.
+
+**What it proves:** Local communities can control representation even when a global platform controls distribution.
+
+## Canadian Streaming Levy
+
+**Use for:** Regulation (U1); platform power (U2)
+
+**Evidence:** The CRTC proposed a 15% levy to support Canadian and Indigenous production.
+
+**What it proves:** Government regulation can require global platforms to support local media.
 
 **Source:** Stevis-Gridneff (2026), pp. 1-2.
