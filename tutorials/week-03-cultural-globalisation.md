@@ -8,33 +8,33 @@ Use cultural globalisation to explain multidirectional media flows, active audie
 
 ### 1. What is cultural globalisation?
 
-Cultural globalisation is the cross-border circulation and interaction of cultural forms. It allows multidirectional flows but does not mean power is equal.
+Cultural globalisation is the cross-border movement and interaction of culture. These flows can move in several directions.
 
 ### 2. Why is cultural globalisation important?
 
-It explains cultural proximity, contra-flow, hybridity and active audiences. Its limitation is that it may understate unequal ownership and distribution.
+It explains multidirectional media flows and active audiences. It may overlook unequal ownership and distribution.
 
 ### 3. Give an example of cultural globalisation.
 
-*Jane the Virgin* adapted Venezuela's *Juana la virgen* for another market. It shows both contra-flow and local adaptation.
+*Jane the Virgin* adapted Venezuela's *Juana la virgen* for the US. It shows contra-flow and local adaptation.
 
 ## Discussion Questions and Short Answers
 
 ### 4. How do Chinese microdramas complicate media imperialism?
 
-Their international popularity shows media moving from China into other markets. This challenges a simple US-to-periphery model.
+Chinese microdramas move from China to overseas audiences. This challenges a simple US-to-rest model.
 
 ### 5. How can microdramas still support media-imperialism analysis?
 
-Their circulation may depend on powerful platforms, app stores and algorithms. Non-US content does not automatically create equal power.
+Powerful platforms and app stores still control their visibility. Non-US content does not create equal power.
 
 ### 6. What is the role of streaming services, and is there hope for local industries?
 
-They can fund and distribute local content, but they also control commissioning, data and visibility.
+Streaming services help local content travel, but they still control funding, data and visibility.
 
 ### 7. How should a country Top 10 list be analysed?
 
-Check the content's origin, language and platform. One chart is only a snapshot, not proof of lasting audience behaviour.
+Check each title's origin, language and platform. A Top 10 list is only a short-term snapshot.
 
 ## How Should You Study?
 

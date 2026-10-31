@@ -8,27 +8,27 @@ Identify who controls media ownership, infrastructure, distribution, data and re
 
 ### 1. Does the US exercise ideological influence in the global media industry?
 
-Yes. US production and distribution can spread American values, as shown by Hollywood-Pentagon cooperation. Local audiences and non-US industries can still interpret or resist those messages.
+Yes. Hollywood and Pentagon cooperation can spread US values, although audiences may interpret them differently.
 
 ### 2. Can local industries counter US media power?
 
-Yes, through local stories, languages, funding and regulation. However, they may still depend on US platforms for visibility and revenue.
+Yes, through local content and regulation. However, they may still depend on US platforms for distribution.
 
 ### 3. Has the world changed enough to make media imperialism irrelevant?
 
-Yes. National one-way flow is less complete today, but concentrated control of platforms, data and algorithms remains unequal.
+No. Global flows are more diverse today, but platform ownership and data control remain unequal.
 
 ### 4. Is media imperialism limited to Western or US power?
 
-No. Any powerful state or corporation may exercise imperialism if it gains unequal control over another media system.
+No. Any powerful country or corporation can dominate another media system.
 
 ### 5. Can non-US platforms challenge US dominance and can local platforms survive?
 
-They can compete through local knowledge, language and specialised services. Dominant platforms still benefit from greater capital, data and network effects.
+Yes, by serving local languages and needs. However, large US platforms still have more capital and data.
 
 ### 6. Can government regulation, policy and subsidies protect local industries?
 
-Yes. Funding, competition rules and local-content requirements can help. Their effect depends on enforcement and platform compliance.
+Yes. Funding and local-content rules can help, but governments must enforce them.
 
 ## How Should You Study?
 
