@@ -40,6 +40,26 @@ Use the unit map below to organise course content. The exam-review video does no
 | [11: K-pop Fandom](unit-11-review.md) | cultural hybridity; transcultural fandom | participatory and cosmopolitan imaginations help explain how fans interpret and adapt K-pop across borders | K-pop cover dance and its audience comments | How do the two imaginations demonstrate hybridity, and is the cover a transcultural practice? |
 | [12: Nollywood](unit-12-review.md) | informality; alternative digital distribution | informal circulation and physical access points challenge Global North assumptions that digital distribution is always online and formal | iROKOtv kiosks | How does Nollywood challenge Global North ideas of piracy and digital distribution? |
 
+## Cross-Unit Relationships
+
+| Earlier concept | Later concept or case | Relationship to explain |
+|---|---|---|
+| Unit 1 local identity | Unit 2 platform power | Global platforms increase reach but may control distribution. |
+| Unit 2 media imperialism | Unit 3 cultural globalisation | One explains unequal power; the other explains multidirectional flows and adaptation. |
+| Unit 3 contra-flow | Unit 4 formats | Non-Western formats can travel globally and be locally adapted. |
+| Unit 4 format programs | Unit 5 industrial contact zones | Global format owners and local producers preserve core rules while adapting details. |
+| Unit 2 platform imperialism | Unit 5 streaming localisation | Global power is constrained by local culture, competition and infrastructure. |
+| Unit 3 media capitals | Unit 6 creative/industrial clusters | Both rely on concentrated firms, workers, knowledge and infrastructure. |
+| Unit 3 media capitals | Unit 7 Hungary | Both understand place through production networks rather than geography alone. |
+| Unit 6 media capacity | Unit 7 media services | Crews, studios and infrastructure can build capacity, but foreign control may remain. |
+| Unit 7 soft power | Unit 8 nation branding | Both influence outsiders through attraction and a managed image of place. |
+| Unit 3 cultural proximity | Unit 10 cosmopolitanism | Audiences may value both cultural familiarity and cultural difference. |
+| Unit 3 cultural globalisation | Unit 11 K-pop hybridity | Cross-border circulation allows fans to adapt and remix cultural forms. |
+| Unit 10 cosmopolitanism | Unit 11 transcultural fandom | Foreign media can support learning and relationships across cultural boundaries. |
+| Unit 2 platform power | Unit 11 fan participation | Fans have agency, but their activity also benefits agencies and platforms. |
+| Unit 5 localisation | Unit 12 iROKOtv | Services adapt technology and payment to local infrastructure. |
+| Unit 6 media capacity | Unit 12 Nollywood | Distribution networks build capacity, but ownership and transparency remain important. |
+
 ## Workbook-to-Exam Map
 
 | Workbook | Knowledge to retain | What you must be able to do |
