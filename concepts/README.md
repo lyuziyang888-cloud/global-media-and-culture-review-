@@ -12,6 +12,7 @@ Choose a unit first, then open the concept you want to revise.
 | [Unit 6: Media Capacity](unit-06-media-capacity/) | Western-centric approaches, media capacity and Keane's five models | 3 |
 | [Unit 7: Location as Soft Power](unit-07-location-soft-power/) | soft power, place-making, media services and fixers | 4 |
 | [Unit 8: Nation Branding](unit-08-nation-branding/) | nation branding, imagined communities, Othering and the foreign gaze | 3 |
+| [Unit 9: Anime and Pokémon](unit-09-anime-pokemon/) | cultural odorlessness, transmedia and Pokémon localisation | 3 |
 | [Unit 10: Cosmopolitanism](unit-10-cosmopolitanism/) | cosmopolitanism, cultural proximity and Turkish drama audiences | 4 |
 | [Unit 11: K-pop Fandom](unit-11-k-pop-fandom/) | cultural hybridity, global imagination and transcultural fandom | 4 |
 | [Unit 12: Nollywood and Informality](unit-12-nollywood-informality/) | informal industries, marketers and alternative digital distribution | 4 |
