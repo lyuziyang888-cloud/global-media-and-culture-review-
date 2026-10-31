@@ -9,7 +9,7 @@
 
 ### How is a nation imagined? What role does media have in this?
 
-- People imagine that they belong to a national community even though they will never meet most other members.
+- a sense of national belonging shared by people who will never all meet.
 - Media circulates shared stories and symbols that support this sense of belonging.
 
 ### What are the two nation branding strategies of Othering in Latin America? What are their characteristics?
