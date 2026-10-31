@@ -35,9 +35,10 @@ Facebook's 2021 Australian news block was not merely a disagreement about conten
 ## Limitation
 
 • Effects of media imperialism on audiences unclear
+
 • Audiences are not cultural dupes
-• Other factors influence media consumption: family, education,
-religion, language, etc.
+
+• Other factors influence media consumption: family, education, religion, language, etc.
 
 
 ## Exam Use
