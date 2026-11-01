@@ -12,7 +12,7 @@ Pokémon was created by Japanese companies and reflects Japan’s media-producti
 
 ### What is the Pokémon supersystem? What is the role of American distribution networks in Pokémon's globalisation strategy?
 
-The Pokémon supersystem connects games, television programs, films, cards, toys and other products. American companies adapted Pokémon for US audiences and helped distribute it internationally.
+The Pokémon supersystem connects one franchise across different media and products. American companies adapted Pokémon for US audiences and helped distribute it internationally.
 
 ### How does Iwabuchi (author) propose to move beyond the binary understanding of Asia/West and cute/cool?
 
