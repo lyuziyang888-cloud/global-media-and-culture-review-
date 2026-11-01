@@ -4,8 +4,7 @@
 
 ### What is being culturally odorless and how has Japanese utilized this strategy in the audiovisual industry?
 
-- Cultural odorlessness reduces obvious links between a media product and its country of origin.
-- Japanese audiovisual products such as anime use visually ambiguous characters and settings that can travel without audiences immediately thinking of Japan.
+Cultural odorlessness means that a media product does not strongly show its country of origin. Japanese anime often uses characters and settings without obvious Japanese features, making it easier for international audiences to enjoy.
 
 ### What is Japanese about Pokémon (and anime in general)?
 
